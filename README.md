@@ -24,6 +24,7 @@ Stay tuned for updates.
 * 12.09.18: Initial commit even though the project was already running (due to troubleshooting some logic issues and sanitizing for security risks)
 
 ## Known/Working Issues
+* [ ] 12.09.18: Implementing simplified view built on top of Google Maps; alternate option to the current statistical inference service
 * [ ] 12.09.18: Upload dataset to this repository following major sanitation
 * [ ] 12.09.18: Troubleshooting a pesky logic issue that doesn't return parameters upon post
 
