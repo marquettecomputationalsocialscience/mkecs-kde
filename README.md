@@ -21,11 +21,11 @@ Stay tuned for updates.
 * Looking for future implementation of [NoSQL](https://en.wikipedia.org/wiki/NoSQL) data management once the best service can be determined
 
 ## Updates
-* 12.09.18: Initial commit even though the project was already running (due to troubleshooting some logic issues and scrape for security risks)
+* 12.09.18: Initial commit even though the project was already running (due to troubleshooting some logic issues and sanitizing for security risks)
 
 ## Known/Working Issues
 * [ ] 12.09.18: Upload dataset to this repository following major sanitation
-* [ ] 12.09.18: Troubleshooting a pesky logic issue that doesn't return parameters upon posting data
+* [ ] 12.09.18: Troubleshooting a pesky logic issue that doesn't return parameters upon post
 
 ## License
 * © 2018 Chris Supinger (see LICENSE)
