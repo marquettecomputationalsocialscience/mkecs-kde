@@ -1,4 +1,4 @@
-# An Interactive Study of Milwaukee Crime Statistics & Kernel Density Estimation
+# mkecrimestats-kde: An Interactive Study of Milwaukee Crime Statistics & Kernel Density Estimation
 
 ## Purpose
 This project attempts to present a more innovative method of mapping crime using kernel density estimation.  It was produced on behalf of Marquette University's Computational Social Science Lab.
