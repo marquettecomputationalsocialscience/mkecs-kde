@@ -29,4 +29,4 @@ Stay tuned for updates.
 * [ ] 12.09.18: Troubleshooting a pesky logic issue that doesn't return parameters upon post
 
 ## License
-* © 2018 Chris Supinger (see LICENSE).  This project is powered by open-source software.
+* © 2018-2019 Chris Supinger (see LICENSE).  This project is powered by open-source software.
