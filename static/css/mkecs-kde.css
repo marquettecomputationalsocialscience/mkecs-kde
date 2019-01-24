@@ -1,0 +1,604 @@
+body, html {
+  background-color: white;
+}
+
+.kde_canvas {
+  /*border-style: solid;*/
+  /*border-width: 3px;*/
+  /*display: inline-block;*/
+  margin: 0 auto;
+  margin-top: 25px;
+  width: 1104px;
+}
+
+.kde_form {
+  /* border-style: solid;
+  border-width: 3px; */
+  display: inline;
+  float: left;
+  margin: 0 auto;
+  margin-bottom: 25px;
+  width: 480px;
+}
+
+.kde_display {
+  /* border-style: solid;
+  border-width: 3px; */
+  display: inline;
+  float: right;
+  margin: 0 auto;
+}
+
+.kde_form_header {
+  display: block;
+}
+
+.kde_form_data_container,
+.kde_form_kde_container {
+  /*border-style: solid;*/
+  /*border-width: 3px;*/
+  display: block;
+  margin: 0 auto;
+}
+
+.kde_form_kde_container {
+  padding-top: 24px;
+}
+
+.kde_form_header {
+  /*background-color: #efefef;*/
+  /*border-bottom: solid 2px #dcdcdc;*/
+  /*border-bottom: solid 2px #0b5394;*/
+  /*border-bottom: solid 2px black;*/
+  /*color: #0b5394;*/
+  color: #41444B;;
+  font-family: 'Oswald', sans-serif;
+  font-size: 26px;
+  margin-bottom: 8px;
+  padding: 5px 0 15px 0;
+  text-align: center;
+  text-transform: uppercase;
+  width: 95%;
+}
+
+.kde_form_subheader_year,
+.kde_form_subheader_month,
+.kde_form_subheader_violation,
+.kde_form_subheader_kernel,
+.kde_form_subheader_bandwidth,
+.kde_form_subheader_metric {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  /*margin: 10px 0 10px 0;*/
+  margin: 12px 0 10px 0;
+  /*padding-left: 10px;*/
+  width: 95%;
+}
+
+/*Tooltip specific style data*/
+
+.fa-info-circle {
+  /*color: rgb(85,85,85);*/
+  /*color: #efefef;*/
+  color: #41444B;;
+  display: inline-block;
+  float: right;
+  position: relative;
+  /*border-bottom: 1px dotted black;*/
+}
+
+.year_tt_text,
+.month_tt_text,
+.violation_tt_text,
+.kernel_tt_text,
+.bandwidth_tt_text,
+.metric_tt_text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+
+.kde_form_subheader_year img {
+  background-color: #ffffff;
+  float: left;
+  margin-right: 10px;
+  width: 100px;
+}
+
+.kde_form_subheader_month img {
+  background-color: #ffffff;
+  float: left;
+  margin-right: 10px;
+  width: 100px;
+}
+
+.kde_form_subheader_violation img {
+  background-color: #ffffff;
+  float: left;
+  margin-right: 10px;
+  width: 100px;
+}
+
+.kde_form_subheader_kernel img {
+  background-color: #ffffff;
+  margin-bottom: 10px;
+  width: 225px;
+}
+
+.kde_form_subheader_bandwidth img {
+  background-color: #ffffff;
+  margin-bottom: 10px;
+  width: 225px;
+}
+
+.kde_form_subheader_metric img {
+  background-color: #ffffff;
+  margin-bottom: 10px;
+  width: 190px;
+}
+
+/*.tt_text img {*/
+/*  background-color: #ffffff;*/
+/*  float: left;*/
+/*  margin-right: 10px;*/
+/*  width: 175px;*/
+/*}*/
+
+.year_tt_text a:link,
+.month_tt_text a:link,
+.violation_tt_text a:link,
+.kernel_tt_text a:link,
+.bandwidth_tt_text a:link,
+.metric_tt_text a:link {
+  color: white;
+}
+
+.year_tt_text a:visited,
+.month_tt_text a:visited,
+.violation_tt_text a:visited,
+.kernel_tt_text a:visited,
+.bandwidth_tt_text a:visited,
+.metric_tt_text a:visited {
+  color: white;
+}
+
+.fa-info-circle .year_tt_text {
+  /*background-color: #555;*/
+  background-color: rgba(85,85,85, 0.85);
+  /*border-radius: 3px;*/
+  /*bottom: 125%;*/
+  color: #fff;
+  left: 100px;
+  margin-left: -84px;
+  opacity: 0;
+  padding: 10px;
+  position: absolute;
+  text-align: left;
+  top: -96px;
+  transition: opacity 0.3s;
+  visibility: hidden;
+  min-width: 340px;
+  z-index: 1;
+}
+
+.fa-info-circle .month_tt_text {
+  /*background-color: #555;*/
+  background-color: rgba(85,85,85, 0.85);
+  /*border-radius: 3px;*/
+  /*bottom: 125%;*/
+  color: #fff;
+  left: 100px;
+  margin-left: -84px;
+  opacity: 0;
+  padding: 10px;
+  position: absolute;
+  text-align: left;
+  top: -96px;
+  transition: opacity 0.3s;
+  visibility: hidden;
+  min-width: 340px;
+  z-index: 1;
+}
+
+.fa-info-circle .violation_tt_text {
+  /*background-color: #555;*/
+  background-color: rgba(85,85,85, 0.85);
+  /*border-radius: 3px;*/
+  /*bottom: 125%;*/
+  color: #fff;
+  left: 100px;
+  margin-left: -84px;
+  opacity: 0;
+  padding: 10px;
+  position: absolute;
+  text-align: left;
+  top: -99px;
+  transition: opacity 0.3s;
+  visibility: hidden;
+  min-width: 340px;
+  z-index: 1;
+}
+
+.fa-info-circle .kernel_tt_text {
+  /*background-color: #555;*/
+  background-color: rgba(85,85,85, 0.85);
+  /*border-radius: 3px;*/
+  /*bottom: 125%;*/
+  color: #fff;
+  left: 100px;
+  margin-left: -84px;
+  opacity: 0;
+  padding: 10px;
+  position: absolute;
+  text-align: left;
+  top: -268px;
+  transition: opacity 0.3s;
+  visibility: hidden;
+  min-width: 223px;
+  z-index: 1;
+}
+
+.fa-info-circle .bandwidth_tt_text {
+  /*background-color: #555;*/
+  background-color: rgba(85,85,85, 0.85);
+  /*border-radius: 3px;*/
+  /*bottom: 125%;*/
+  color: #fff;
+  left: 100px;
+  margin-left: -84px;
+  opacity: 0;
+  padding: 10px;
+  position: absolute;
+  text-align: left;
+  top: -222px;
+  transition: opacity 0.3s;
+  visibility: hidden;
+  min-width: 224px;
+  z-index: 1;
+}
+
+.fa-info-circle .metric_tt_text {
+  /*background-color: #555;*/
+  background-color: rgba(85,85,85, 0.85);
+  /*border-radius: 3px;*/
+  /*bottom: 125%;*/
+  color: #fff;
+  left: 100px;
+  margin-left: -84px;
+  opacity: 0;
+  padding: 10px;
+  position: absolute;
+  text-align: left;
+  top: -294px;
+  transition: opacity 0.3s;
+  visibility: hidden;
+  min-width: 190px;
+  z-index: 1;
+}
+
+/*.fa-info-circle .tt_text::after {*/
+/*  border-color: #555 transparent transparent transparent;*/
+/*  border-style: solid;*/
+/*  border-width: 5px;*/
+/*  content: "";*/
+/*  margin-top: -5px;*/
+/*  position: absolute;*/
+/*  right: 100%;*/
+/*  top: 50%;*/
+/*}*/
+
+.fa-info-circle:hover .year_tt_text {
+  opacity: 1;
+  visibility: visible;
+}
+
+.fa-info-circle:hover .month_tt_text {
+  opacity: 1;
+  visibility: visible;
+}
+
+.fa-info-circle:hover .violation_tt_text {
+  opacity: 1;
+  visibility: visible;
+}
+
+.fa-info-circle:hover .kernel_tt_text {
+  opacity: 1;
+  visibility: visible;
+}
+
+.fa-info-circle:hover .bandwidth_tt_text {
+  opacity: 1;
+  visibility: visible;
+}
+
+.fa-info-circle:hover .metric_tt_text {
+  opacity: 1;
+  visibility: visible;
+}
+
+/*Tooltip specific style data*/
+
+.kde_form_data_container_header,
+.kde_form_kde_container_header,
+.session_status {
+  /*background-color: #efefef;*/
+  /*color: #0b5394;*/
+  font-family: 'Roboto', sans-serif;
+  /*font-family: 'Montserrat', sans-serif;*/
+  font-size: 15px;
+  text-align: left;
+  width: 95%;
+  /*text-transform: uppercase;*/
+}
+
+.kde_form_data_container_header, .kde_form_kde_container_header {
+  /*border-bottom: solid 2px #efefef;*/
+  color: #0b5394;
+  background-color: #efefef;
+  border-radius: 3px
+  height: 33px;
+  line-height: 35px;
+  text-align: center;
+  /*padding-bottom: 12px;*/
+}
+
+.session_status {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  text-align: left;
+}
+
+.kde_form_data_year,
+.kde_form_data_month,
+.kde_form_data_code,
+.kde_form_data_kernel,
+.kde_form_data_bandwidth,
+.kde_form_data_metric {
+  border-bottom: solid 2px #efefef;
+  text-align: center;
+  width: 95%;
+}
+
+.kde_form_data_year_select,
+.kde_form_data_month_select,
+.kde_form_data_code_select,
+.kde_form_data_kernel_select,
+.kde_form_data_bandwidth_select,
+.kde_form_data_metric_select {
+  background: none;
+  border-style: none;
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  height: 32px;
+  /*text-align: center;*/
+  /*transition: 0.25s;*/
+  width: 100%;
+  -moz-background: none;
+  -ms-background: none;
+  -o-background: none;
+  -webkit-background: none;
+  -moz-border-style: none;
+  -ms-border-style: none;
+  -o-border-style: none;
+  -webkit-border-style: none;
+}
+
+.kde_form_data_year_select:focus,
+.kde_form_data_month_select:focus,
+.kde_form_data_code_select:focus,
+.kde_form_data_kernel_select:focus,
+.kde_form_data_bandwidth_select:focus,
+.kde_form_data_metric_select:focus {
+  outline-color: #0b5394;
+  outline-width: medium;
+}
+
+/*.kde_form_data_year_select:after,*/
+/*.kde_form_data_month_select:after,*/
+/*.kde_form_data_code_select:after,*/
+/*.kde_form_data_kernel_select:after,*/
+/*.kde_form_data_bandwidth_select:after,*/
+/*.kde_form_data_metric_select:after {*/
+/*  content: '\f078';*/
+/*}*/
+
+.kde_form_data_year_select select,
+.kde_form_data_month_select select,
+.kde_form_data_code_select select,
+.kde_form_data_kernel_select select,
+.kde_form_data_bandwidth_select select,
+.kde_form_data_metric_select select {
+  background-color: white;
+}
+
+.kde_form_control {
+  /*border-style: solid;*/
+  /*border-width: 1px;*/
+  display: block;
+  margin-top: 24px;
+  width: 95%;
+}
+.kde_form_buttons, .session_status {
+  display: inline;
+}
+
+.kde_form_buttons {
+    float: right;
+}
+
+.kde_form_buttons button {
+  /*border-style: solid;*/
+  /*border-width: 1px;*/
+  border-radius: 3px;
+  color: #0b5394;
+  cursor: pointer;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  height: 32px;
+  margin-left: 8px;
+  outline: none;
+  /*margin-right: 8px;*/
+}
+
+.kde_form_exe, .kde_form_res {
+  background-color: white;
+  border: solid 2px #efefef;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.kde_form_res a, .kde_form_res a:visited {
+  color: #0b5394;
+  text-decoration: none;
+}
+
+.session_start, .session_loading {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px
+}
+
+.session_loading {
+  display: none;
+}
+
+.data_canvas {
+  /*border-style: solid;*/
+  /*border-width: 1px;*/
+  /*border-top: solid 2px #efefef;*/
+  display: block;
+  clear: both;
+  margin: 0 auto;
+  /*padding-top: 15px;*/
+  width: 1104px;
+}
+
+.dataset_parameters {
+  float: left;
+  margin-bottom: 40px;
+  /*margin-top: 15px;*/
+  height: 300px;
+  width: 300px;
+}
+
+.dataset_parameters_viocnt {
+
+}
+
+.dataset_parameters_viocnt_subheader {
+  background-color: #efefef;
+  border: solid 2px #efefef;
+  border-radius: 3px 3px 0px 0px;
+  color: #0b5394;
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  height: 55px;
+  line-height: 55px;
+  /*margin: 0 auto;*/
+  text-align: center;
+  width: 300px;
+}
+
+.dataset_parameters_viocnt_numerics {
+  display: block;
+  border: solid 2px #efefef;
+  border-radius: 0px 0px 3px 3px;
+  color: #41444B;
+  font-family: 'Roboto', sans-serif;
+  font-size: 75px;
+  height: 255px;
+  line-height: 255px;
+  /*margin: 0 auto;*/
+  text-align: center;
+  width: 300px;
+}
+
+.dataset_control {
+  float: right;
+  /*margin-top: 15px;*/
+  overflow: hidden;
+  /*border: 1px solid #ccc;*/
+  /*background-color: #f1f1f1;*/
+  width: 750px;
+}
+
+.dataset_control button {
+  background-color: inherit;
+  border: none;
+  border-radius: 3px 3px 0px 0px;
+  color: #0b5394;
+  cursor: pointer;
+  float: left;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  outline: none;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+.dataset_control button:hover {
+  background-color: #dcdcdc;
+}
+
+.dataset_control button.active {
+  background-color: #efefef;
+}
+
+.dataset_display {
+  display: none;
+  /*padding: 6px 12px;*/
+  /*border: solid 2px #efefef;*/
+  /*border-top: none;*/
+  float: right;
+  margin-bottom: 25px;
+  width: 750px;
+}
+
+.footer {
+  border-top: solid 2px #efefef;
+  clear: both;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 25px;
+  /*padding-top: 5px;*/
+  width: 1104px;
+}
+
+.footer_copyright {
+  /*border: 1px solid;*/
+  float: left;
+  padding-top: 5px;
+}
+
+.footer_links {
+  /*border: 1px solid;*/
+  float: right;
+  /*padding-top: 5px;*/
+}
+
+.footer_copyright, .footer_source_code_link, .footer_dataset_link, .footer_pp_link, .footer_contact_link {
+  display: inline;
+  font-family: 'Lato', sans-serif;
+  font-size: 10px;
+}
+
+.footer_source_code_link, .footer_dataset_link, .footer_pp_link, .footer_contact_link {
+  cursor: pointer;
+}
+
+.footer_source_code_link a, .footer_dataset_link a, .footer_pp_link a, .footer_contact_link a,
+.footer_source_code_link a:link, .footer_dataset_link a:link, .footer_pp_link a:link, .footer_contact_link a:link,
+.footer_source_code_link a:visited, .footer_dataset_link a:visited, .footer_pp_link a:visited, .footer_contact_link a:visited {
+  color: black;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+
+.footer_source_code_link a:hover, .footer_dataset_link a:hover, .footer_pp_link a:hover, .footer_contact_link a:hover {
+  text-decoration: underline;
+}
+
+.footer_dataset_link, .footer_pp_link, .footer_contact_link  {
+  margin-left: 35px;
+}

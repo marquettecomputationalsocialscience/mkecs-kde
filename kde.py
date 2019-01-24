@@ -1,3 +1,4 @@
+import _paths as path
 import os.path
 import matplotlib.pyplot as plt, numpy as np
 
@@ -10,7 +11,7 @@ from sklearn.neighbors import KernelDensity
 def get_shp():
 
     # Declare paths
-    project_path, mke_nbhd_path = 'project_path', 'shp_path' # Declare project path and .shp path
+    project_path, mke_nbhd_path = path.project_path(), path.mke_nhbd_path()
     mke_nbhd = os.path.normpath(project_path + mke_nbhd_path)
     return mke_nbhd
 
@@ -85,7 +86,9 @@ def exe_kde(x_lon, y_lat, year, month, violation_code, kernel, bandwidth, metric
                 edgecolors = None,
                 zorder = 15)
 
-    s_yr, s_mo, s_vc, s_ke, s_bw, s_me = str(year), month.lower()[:3], str(violation_code), kernel.lower()[:3], str(kde_bw).replace('.', ''), metric.lower()[:3]
-    plt.savefig('plot_path' % (s_yr, s_mo, s_vc, s_ke, s_bw, s_me), # Declare plot path and plot name
+    s_yr, s_mo, s_vc = str(year), month.lower()[:3], str(violation_code)
+    s_ke, s_bw, s_me = kernel.lower()[:3], str(kde_bw).replace('.', ''), metric.lower()[:3]
+    plot_path_long = path.plot_path_long()
+    plt.savefig(plot_path_long + '%s%s%s%s%s%s.png' % (s_yr, s_mo, s_vc, s_ke, s_bw, s_me),
                 bbox_inches = 'tight',
                 dpi = 1000)

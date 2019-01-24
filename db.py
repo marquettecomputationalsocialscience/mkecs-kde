@@ -1,9 +1,10 @@
+import _paths as path
 import os.path
 
 from sqlalchemy import create_engine, Column, DateTime, Float, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 
-project_path, db_path = 'project_path', 'db_path' # Declare project path and database path
+project_path, db_path = path.project_path(), path.db_path()
 db_dir = os.path.join(project_path + db_path)
 db = create_engine('sqlite:///' + db_dir + 'mke_wibrs_db.db', echo = False)
 Base = declarative_base()

@@ -1,0 +1,120 @@
+{% extends "mkecs-kde.html" %}
+{% block kde_form_data_year %}
+
+  <select id = "kde_form_data_year_select" class = "kde_form_data_year_select" name = "kde_form_data_year_select">
+    <option value = "" disabled selected hidden></option>
+    {% for year in years %}
+    <option value = "{{ year }}"{% if year == form_input[0] %} selected{% endif %}>{{ year }}</option>
+    {% endfor %}
+  </select>
+
+{% endblock %}
+
+{% block kde_form_data_month %}
+
+  <select id = "kde_form_data_month_select" class = "kde_form_data_month_select" name = "kde_form_data_month_select">
+    <option value = "" disabled selected hidden></option>
+    {% for month in months %}
+    <option value = "{{ month }}"{% if month == form_input[1] %} selected{% endif %}>{{ month }}</option>
+    {% endfor %}
+  </select>
+
+{% endblock %}
+
+{% block kde_form_data_code %}
+
+  <select id = "kde_form_data_code_select" class = "kde_form_data_code_select" name = "kde_form_data_code_select">
+    <option value = "" disabled selected hidden></option>
+    {% for code in codes %}
+    <option value = "{{ code }}"{% if code == form_input[2] %} selected{% endif %}>{{ code }}</option>
+    {% endfor %}
+  </select>
+
+{% endblock %}
+
+{% block kde_form_data_kernel %}
+
+  <select id = "kde_form_data_kernel_select" class = "kde_form_data_kernel_select" name = "kde_form_data_kernel_select">
+    <option value = "" disabled selected hidden></option>
+    {% for kernel in kernels %}
+    <option value = "{{ kernel }}"{% if kernel == form_input[3] %} selected{% endif %}>{{ kernel }}</option>
+    {% endfor %}
+  </select>
+
+{% endblock %}
+
+{% block kde_form_data_bandwidth %}
+
+  <select id = "kde_form_data_bandwidth_select" class = "kde_form_data_bandwidth_select" name = "kde_form_data_bandwidth_select">
+    <option value = "" disabled selected hidden></option>
+    {% for bandwidth in bandwidths %}
+    <option value = "{{ bandwidth }}"{% if bandwidth == form_input[4] %} selected{% endif %}>{{ bandwidth }}</option>
+    {% endfor %}
+  </select>
+
+{% endblock %}
+
+{% block kde_form_data_metric %}
+
+  <select id = "kde_form_data_metric_select"  class = "kde_form_data_metric_select" name = "kde_form_data_metric_select">
+    <option value = "" disabled selected hidden></option>
+    {% for metric in metrics %}
+    <option value = "{{ metric }}"{% if metric == form_input[5] %} selected{% endif %}>{{ metric }}</option>
+    {% endfor %}
+  </select>
+
+{% endblock %}
+
+{% block kde_form_control %}
+
+    <div class = "kde_form_control">
+      <div class = "session_status">Status: <span id = "session_start" class = "session_start">{{ session_status }}</span><span id = "session_loading" class = "session_loading">Loading <i class = "fas fa-spinner fa-spin"></i></span></div>
+      <div class = "kde_form_buttons">
+        <button id = "kde_form_exe" class = "kde_form_exe" type = "submit" value = "Submit" onclick = "$('#session_start').hide(); $('#session_loading').show()">Submit</button>
+        <button class = "kde_form_res" onclick = "$('#session_start').hide(); $('#session_loading').show()"><a href = "{{ url_for('kde_startup') }}">Clear</a></button>
+      </div>
+    </div>
+
+{% endblock %}
+
+{% block kde_display %}
+
+  <div class = "kde_display">
+    {{kde_script | safe}}
+    {{kde_div | safe}}
+  </div>
+
+{% endblock %}
+
+{% block data_canvas %}
+
+  <div class = "data_canvas">
+    <div class = "dataset_parameters">
+      <div class = "dataset_parameters_viocnt">
+        <div class = "dataset_parameters_viocnt_subheader">Event Count</div>
+        <div class = "dataset_parameters_viocnt_numerics">{{ vio_cnt }}</div>
+      </div>
+      <!--<div class = "dataset_parameters_viocnt_ald">-->
+      <!--  <div class = "dataset_parameters_viocnt_ald_subheader">Aldermanic District</div>-->
+      <!--  <div class = "dataset_parameters_viocnt_ald_numerics">PH</div>-->
+      <!--</div>-->
+      <!--<div class = "dataset_parameters_viocnt_mpd">-->
+      <!--  <div class = "dataset_parameters_viocnt_mpd_subheader">MPD District</div>-->
+      <!--  <div class = "dataset_parameters_viocnt_mpd_numerics">PH</div>-->
+      <!--</div>-->
+    </div>
+    <div class = "dataset_control">
+      <button class = "dataset_control_tab" onclick = "show_dataset(event, 'ald_dataset_display')" id = "dataset_control_tab_init">Aldermanic Districts</button>
+      <button class = "dataset_control_tab" onclick = "show_dataset(event, 'mpd_dataset_display')">MPD Districts</button>
+    </div>
+    <div id = "ald_dataset_display" class = "dataset_display">
+      {{ald_script | safe}}
+      {{ald_div | safe}}
+    </div>
+    <div id = "mpd_dataset_display" class = "dataset_display">
+      {{ mpd_script | safe }}
+      {{ mpd_div | safe }}
+    </div>
+  </div>
+
+{% endblock %}
