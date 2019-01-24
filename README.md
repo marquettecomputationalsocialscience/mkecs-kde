@@ -1,4 +1,4 @@
-# mkecrimestats-kde: An Interactive Study of Milwaukee Crime Statistics & Kernel Density Estimation
+# mkecs-kde: An Interactive Study of Milwaukee Crime Statistics & Kernel Density Estimation
 
 ## Purpose
 This project attempts to present a more innovative method of mapping crime using kernel density estimation.  It was produced on behalf of Marquette University's Computational Social Science Lab.
@@ -33,4 +33,4 @@ Stay tuned for updates.
 * [ ] 12/09/18: Troubleshooting a pesky logic issue that doesn't return parameters upon post
 
 ## License
-* © 2018 Chris Supinger (see LICENSE).  This project is powered by open-source software.
+* © 2018-9 Chris Supinger (see LICENSE).  This project is powered by open-source software.
