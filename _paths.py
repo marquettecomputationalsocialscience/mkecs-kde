@@ -2,6 +2,10 @@ def project_path():
     path = 'set_path'
     return str(path)
 
+def sessions_path():
+    path = 'set_path'
+    return str(path)
+
 def db_path():
     path = 'set_path'
     return str(path)

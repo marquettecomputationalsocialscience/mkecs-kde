@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang = "en" dir = "ltr">
+  <head>
+    <meta charset = "utf-8">
+    <meta name = "viewport" content = "width = device-width, initial-scale = 1">
+    <link rel = "shortcut icon" href = "{{ url_for('static', filename = 'favicon/mkecs-kde_favicon.ico') }}">
+    <link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = 'css/mkecs-kde_tos.css') }}">
+    <link rel = "stylesheet" href = "https://fonts.googleapis.com/css?family=Lato|Oswald|Roboto">
+    <link rel = "stylesheet" href = "https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity = "sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin = "anonymous">
+    <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type = "text/javascript" src = "{{ url_for('static', filename = 'js/mkecs-kde_tos.js') }}"></script>
+    <title>mkecs-kde | An Interactive Study of Milwaukee Crime Statistics & Kernel Density Estimation | Terms of Service</title>
+  </head>
+  <body>
+
+    <div class = "tos_canvas">
+
+      <form action = "{{ url_for('mkecs_kde_session') }}" method = "POST" id = "tos_form" class = "tos_form">
+        <div class = "tos_form_header">mkecs-kde: Terms of Service</div>
+        <div class = "tos_form_subheader">1. Why a ToS?</div>
+        <div class = "tos_form_text">
+          Transparency. Period. It's important to be honest about what this service
+          is meant to do and what's to be expected during its operation.
+        </div>
+        <div class = "tos_form_subheader">2. What does it do?</div>
+        <div class = "tos_form_text">
+          This service presents an innovative application and data science centric
+          method of mapping and predicting crime using kernel density estimation
+          (KDE). It enables access to over five years of aggregated crime data and
+          visualization through the lenses of a variety of parameterized factors.
+          Besides individual use, this project is made available to study groups
+          to examine opinion variances of patrol distributions.
+        </div>
+        <div class = "tos_form_subheader">3. What data is considered?</div>
+        <div class = "tos_form_text">
+          The dataset consists of millions of observations derived from the Wisconsin
+          Incident-Based Reporting System (WIBRS) spanning 2005 to present day.
+          Although the majority of that data range is currently unavailable, data
+          points are regularly added to the dataset in order to make them available
+          to this service.
+        </div>
+        <div class = "tos_form_subheader">4. How does it work?</div>
+        <div class = "tos_form_text">
+          As a user, you're presented with the ability to filter and visualize the
+          dataset through two sets of parameters which also consist of supplemental
+          classifications. A selection for each classification is required to
+          execute a KDE on the dataset. Since KDEs are resource intensive, it can
+          take an extended amount of time to generate a query. You will be guided
+          on the progress of the operation by this visual cue:<br><br>
+
+          <div class = "status_tt">
+            <div class = "status_tt_1">Status: Loading <i class = "fas fa-spinner fa-spin"></i></div>
+          </div><br>
+
+          Although it may seem as if your browser is stuck loading, rest assured
+          that the process is still performing its operation as noted by the visual
+          cue shown above.<br><br>
+
+          Interactive tooltips have also been made available in order to guide and
+          clarify your experience. Hovering over these tooltips will provide a brief
+          explanation of the item, as well as provide a hyperlink to a resource
+          that can further expound on a topic. Tooltips look like this:<br><br>
+
+          <div class = "tooltips_tt">
+            <div class = "tooltips_tt_1">Tooltip #1: <i class = "far fa-question-circle"></i></div>
+            <div class = "tooltips_tt_2">Tooltip #2: <i class="far fa-map"></i></div>
+          </div><br>
+        </div>
+        <div class = "tos_form_subheader">5. What about privacy?</div>
+        <div class = "tos_form_text">
+          User privacy is of utmost importance. When a user confirms that they've
+          read this ToS, a randomized session ID is generated and assigned to the
+          user and their HTTP cookie. No personal information, usernames, passwords
+          or user inputed data is needed or recorded. A session ID is solely used
+          to generate a unique key to store a user's session. This data is reset
+          upon a user's conscious action to exit the session, when the browser is
+          closed or when a user's internet history is deleted.
+        </div>
+        <div class = "tos_form_subheader">6. Is there anything else?</div>
+        <div class = "tos_form_text">
+          Yes! When all else fails, you run into something you don't expect or you're
+          just not sure about something, please feel free to <a href = "mailto:christopher.supinger@marquette.edu?Subject=Contact%20-%20mkecs-kde" target = "_top">contact me</a>.
+          The more information you can provide, about a service anomaly, the better.
+        </div>
+        <div class = "tos_form_submit_concur">
+          <span class = "tos_form_submit_concur_text">I've read the ToS</span><input id = "tos_form_submit_concur_cb" class = "tos_form_submit_concur_cb" name = "tos_form_submit_concur_cb" type = "checkbox" value = "concur" onclick = "concur()">
+        </div>
+        <div class = "tos_form_submit_btn">
+          <button id = "tos_form_submit_concur_exe" class = "tos_form_submit_concur_exe" type = "submit" style = "display:none">Submit</button>
+        </div>
+      </form>
+
+    <div class = "footer">
+      <div class = "footer_copyright"><i class="far fa-copyright"></i> 2018-9</div>
+      <div class = "footer_links">
+        <div class = "footer_source_code_link"><a href = "https://github.com/supcl/mkecs-kde" target = "_blank">Source Code</a></div>
+        <div class = "footer_dataset_link"><a href = "https://github.com/supcl/mkecs-data" target = "_blank">Dataset</a></div>
+        <div class = "footer_contact_link"><a href = "mailto:christopher.supinger@marquette.edu?Subject=Contact%20-%20mkecs-kde" target = "_top">Contact</a></div>
+      </div>
+
+    </div>
+
+  </body>
+</html>

@@ -31,6 +31,8 @@ def set_annotate_interact(year, month, violation_code):
                          mke_wibrs_db.zip_code != None,
                          mke_wibrs_db.ald_dist != None,
                          mke_wibrs_db.mpd_dist != None,
+                         mke_wibrs_db.ald_dist != 0,
+                         mke_wibrs_db.mpd_dist != 0,
                          mke_wibrs_db.voting_ward != None,
                          mke_wibrs_db.x_lon != None,
                          mke_wibrs_db.y_lat != None).all()
@@ -76,9 +78,5 @@ def set_annotate_interact(year, month, violation_code):
 
     # Dataset metrics
     vio_cnt = sum(ald_dist_cnt)
-    # vio_cnt_ald, vio_cnt_mpd = zip(ald_dist_cnt, ald_dist), zip(mpd_dist_cnt, mpd_dist)
-    # vio_cnt_ald, vio_cnt_mpd = set(vio_cnt_ald), set(vio_cnt_mpd)
-    # max_vio_cnt_ald, min_vio_cnt_ald = max(vio_cnt_ald), min(vio_cnt_ald)
-    # max_vio_cnt_mpd, min_vio_cnt_mpd = max(vio_cnt_mpd), min(vio_cnt_mpd)
 
-    return ald_p, mpd_p, vio_cnt #, max_vio_cnt_ald, min_vio_cnt_ald, max_vio_cnt_mpd, min_vio_cnt_mpd
+    return ald_p, mpd_p, vio_cnt

@@ -23,7 +23,7 @@ def set_kde_startup():
     plot_title_label = Label(x = -87.93, y = 43.177,
                              text = 'Milwaukee, WI',
                              text_font = 'helvetica', text_font_size = '18px',
-                             text_font_style = 'bold')
+                             text_color = '#41444B', text_font_style = 'bold')
 
     p.add_layout(plot_title_label)
     p.xgrid.grid_line_color, p.ygrid.grid_line_color, p.toolbar.logo = None, None, None
@@ -100,7 +100,7 @@ def set_kde_interact(year, month, violation_code, kernel, bandwidth, metric):
     plot_title_label = Label(x = -87.93, y = 43.177,
                              text = 'Milwaukee, WI',
                              text_font = 'helvetica', text_font_size = '18px',
-                             text_font_style = 'bold')
+                             text_color = '#41444B', text_font_style = 'bold')
 
     label_src = ColumnDataSource(data = dict(x = [-88.07, -88.07, -88.07, -88.07, -88.07],
                                              y = [42.959, 42.952, 42.945, 42.938, 42.931],
@@ -112,7 +112,7 @@ def set_kde_interact(year, month, violation_code, kernel, bandwidth, metric):
 
     plot_labels = LabelSet(x = 'x', y = 'y',
                            text = 'txt', text_font = 'helvetica', text_font_size = '12px',
-                           source = label_src)
+                           text_color = '#41444B', source = label_src)
 
     p.add_layout(plot_title_label), p.add_layout(plot_labels)
     p.xgrid.grid_line_color, p.ygrid.grid_line_color, p.toolbar.logo, = None, None, None
