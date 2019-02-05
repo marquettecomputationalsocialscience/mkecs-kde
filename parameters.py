@@ -36,7 +36,7 @@ def get_parameters():
     bandwidths = [0.0025, 0.005, 0.0075, 0.01]
 
     metrics = {'Euclidean':'euclidean', 'Manhattan':'manhattan',
-               'Chebyshev':'chebyshev', 'Haversine':'haversine'}
+               'Chebyshev':'chebyshev'}#, 'Haversine':'haversine'}
 
     return years, months, codes, kernels, bandwidths, metrics
 

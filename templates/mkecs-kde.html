@@ -3,33 +3,38 @@
   <head>
     <meta charset = "utf-8">
     <meta name = "viewport" content = "width = device-width, initial-scale = 1">
-    <link rel = "shortcut icon" href = "{{ url_for('static', filename = 'favicon/favicon.ico') }}">
+    <link rel = "shortcut icon" href = "{{ url_for('static', filename = 'favicon/mkecs-kde_favicon.ico') }}">
     <link rel = "stylesheet" type = "text/css" href = "{{ url_for('static', filename = 'css/mkecs-kde.css') }}">
     <link rel = "stylesheet" href = "https://fonts.googleapis.com/css?family=Lato|Oswald|Roboto">
-    <link rel = "stylesheet" href = "https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity = "sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin = "anonymous">
+    <link rel = "stylesheet" href = "https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity = "sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin = "anonymous">
     <link rel = "stylesheet" type = "text/css" href = "https://cdn.pydata.org/bokeh/release/bokeh-0.13.0.min.css">
     <script src = "https://cdn.pydata.org/bokeh/release/bokeh-0.13.0.min.js"></script>
     <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script type = "text/javascript" src = "{{ url_for('static', filename = 'js/mkecs-kde.js') }}"></script>
-    <title>An Interactive Study of Milwaukee Crime Statistics & Kernel Density Estimation</title>
+    <title>mkecs-kde | An Interactive Study of Milwaukee Crime Statistics & Kernel Density Estimation</title>
   </head>
   <body>
 
     <div class = "kde_canvas">
 
-      <form action = "{{ url_for('kde_interact') }}" method = "POST" class = "kde_form">
+      <div class = "session_info">
+        <div class = "session_id">Session ID: {{ session_id }}</div>
+        <div class = "session_end"><a href = "{{ url_for('mkecs_kde_session_end') }}">End Session</a></div>
+      </div>
+
+      <form action = "{{ url_for('kde_interact') }}" method = "POST" id = "kde_form" class = "kde_form">
         <div class = "kde_form_header">An Interactive Study of Milwaukee Crime Statistics & Kernel Density Estimation</div>
         <div class = "kde_form_data_container">
 
           <div class = "kde_form_data_container_header">Data Parameters</div>
 
-          <div class = "kde_form_subheader_year">Year <i class = "fas fa-info-circle">
+          <div class = "kde_form_subheader_year">Year <i class = "far fa-question-circle">
               <span class = "year_tt_text"><img src = "{{ url_for('static', filename = 'tt_img/years.png') }}">
-              The Wisconsin Incident-Based Reporting System
-              (WIBRS) has collatted data from 2005 to present day. Although much
-              of that date range is not available, it is slowly being added as data
-              is aggregated to work appropriately with this service.<br><br>
-              <a target = "_blank" href = "https://data.milwaukee.gov/">Learn more about Milwaukee OpenData</a> <i class = "fas fa-link"></i></span></i>
+              The Wisconsin Incident-Based Reporting System (WIBRS) has collated
+              <a target = "_blank" href = "https://data.milwaukee.gov">data</a>
+              from 2005 to present day. Although much of that date range is unavailable
+              with this service, it is slowly being added as data is aggregated
+              and shaped to work appropriately.</span></i>
           </div>
 
           <div class = "kde_form_data_year">
@@ -47,13 +52,12 @@
 
           </div>
 
-          <div class = "kde_form_subheader_month">Month <i class = "fas fa-info-circle">
+          <div class = "kde_form_subheader_month">Month <i class = "far fa-question-circle">
               <span class = "month_tt_text"><img src = "{{ url_for('static', filename = 'tt_img/months.png') }}">
-              Once a year is chosen, data is further segregated
-              by month. This assists the service in creating a tolerable sampling,
-              for data projection, to the user. Months shown are based on availability
-              made within the date range of the dataset.<br><br>
-              <a target = "_blank" href = "https://data.milwaukee.gov/">Learn more about Milwaukee OpenData</a> <i class = "fas fa-link"></i></span></i>
+              Once a year is chosen, <a target = "_blank" href = "https://data.milwaukee.gov">data</a>
+              is further segregated by month. This assists the service in creating
+              a tolerable sampling for data projection to the user. Months shown
+              are based on availability made within the date range of the dataset.</span></i>
           </div>
 
           <div class = "kde_form_data_month">
@@ -71,13 +75,12 @@
 
           </div>
 
-          <div class = "kde_form_subheader_violation">Violation <i class = "fas fa-info-circle">
+          <div class = "kde_form_subheader_violation">Event <i class = "far fa-question-circle">
               <span class = "violation_tt_text"><img src = "{{ url_for('static', filename = 'tt_img/nibrs.png') }}">
-              The selections shown here are populated by
-              data made public from the Wisconsin Incident-Based Reporting System
-              (WIBRS). The WIBRS is based on the Federal Bureau of Investigation's
-              National Incident-Based Reporting System (NIBRS).<br><br>
-              <a target = "_blank" href = "https://en.wikipedia.org/wiki/National_Incident-Based_Reporting_System">Learn more about the NIBRS</a> <i class = "fas fa-link"></i></span></i>
+              The selections shown here are populated by data made public from the
+              Wisconsin Incident-Based Reporting System (WIBRS). The WIBRS is based
+              on the Federal Bureau of Investigation's <a target = "_blank" href = "https://en.wikipedia.org/wiki/National_Incident-Based_Reporting_System">National Incident-Based Reporting System</a>
+              (NIBRS).</span></i>
           </div>
 
           <div class= "kde_form_data_code">
@@ -100,13 +103,12 @@
 
           <div class = "kde_form_kde_container_header">KDE Parameters</div>
 
-          <div class = "kde_form_subheader_kernel">Kernel/Interpolation <i class = "fas fa-info-circle">
+          <div class = "kde_form_subheader_kernel">Kernel/Interpolation <i class = "far fa-question-circle">
               <span class = "kernel_tt_text"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kernels.svg/1200px-Kernels.svg.png" alt = "Kernels - By Brian Amberg, Wikipedia">
-              Kernel selection (also known as interpolation) determines how data
-              will be shaped (smoothed) for display. The effects of this parameter
-              can be seen most when focusing on a density shown on the interactive
-              map.<br><br>
-              <a target = "_blank" href = "https://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use">Learn more about interpolation</a> <i class = "fas fa-link"></i></span></i>
+              <a target = "_blank" href = "https://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use">Kernel</a>
+              selection (also known as interpolation) determines how data will be shaped (smoothed)
+              for display. The effects of this parameter can be seen most when focusing
+              on a density shown on the interactive map.</span></i>
           </div>
 
           <div class = "kde_form_data_kernel">
@@ -124,13 +126,12 @@
 
           </div>
 
-          <div class = "kde_form_subheader_bandwidth">Bandwidth <i class = "fas fa-info-circle">
+          <div class = "kde_form_subheader_bandwidth">Bandwidth <i class = "far fa-question-circle">
               <span class = "bandwidth_tt_text"><img src = "{{ url_for('static', filename = 'tt_img/bandwidth.png') }}" alt = "Bandwidth - By Timothy Hart & Paul Zandbergen, Kernel density estimation and hotspot mapping: Examining the influence of interpolation method, grid cell size, and bandwidth on crime forecasting">
-              The bandwidth is also a shaping (smoothing)
-              parameter and focuses more on affecting the search radius (extent)
-              of the kernel density estimate. A greater value expands the density
-              shown, while a lesser value contracts it.<br><br>
-              <a target = "_blank" href = "https://en.wikipedia.org/wiki/Kernel_density_estimation#Bandwidth_selection">Learn more about bandwidth</a> <i class = "fas fa-link"></i></span></i>
+              The <a target = "_blank" href = "https://en.wikipedia.org/wiki/Kernel_density_estimation#Bandwidth_selection">bandwidth</a>
+              is also a shaping (smoothing) parameter and focuses more on affecting
+              the search radius (extent) of the kernel density estimate. A greater
+              value expands the density shown, while a lesser value contracts it.</span></i>
           </div>
 
           <div class = "kde_form_data_bandwidth">
@@ -148,12 +149,12 @@
 
           </div>
 
-          <div class = "kde_form_subheader_metric">Metric <i class = "fas fa-info-circle">
+          <div class = "kde_form_subheader_metric">Metric <i class = "far fa-question-circle">
               <span class = "metric_tt_text"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Manhattan_distance.svg/1200px-Manhattan_distance.svg.png" alt = "Metrics - By Psychonaut, Wikipedia">
-              Metric is the last shaping (smoothing) parameter and deals with how
-              we see distance. This is important because of earth curvature and
-              man-made features, such as streets and buildings.<br><br>
-              <a target = "_blank" href = "https://en.wikipedia.org/wiki/Metric_(mathematics)">Learn more about distance</a> <i class = "fas fa-link"></i></span></i>
+              <a target = "_blank" href = "https://en.wikipedia.org/wiki/Metric_(mathematics)">Metric</a>
+              is the last shaping (smoothing) parameter and deals with how we see
+              distance. This is important because of earth curvature and man-made
+              features such as streets and buildings.</span></i>
           </div>
 
           <div class = "kde_form_data_metric">
@@ -174,10 +175,11 @@
         {% block kde_form_control %}
 
         <div class = "kde_form_control">
-          <div class = "session_status">Status: <span id = "session_start" class = "session_start">{{ session_status }}</span><span id = "session_loading" class = "session_loading">Loading <i class = "fas fa-spinner fa-spin"></i></span></div>
+          <div class = "session_status">Status: <span id = "session_start" class = "session_start">{{ session_status }}</span></div>
           <div class = "kde_form_buttons">
-            <button id = "kde_form_exe" class = "kde_form_exe" type = "submit" value = "Submit" onclick = "$('#session_start').hide(); $('#session_loading').show()">Submit</button>
-            <button class = "kde_form_res" onclick = "$('#session_start').hide(); $('#session_loading').show()"><a href = "{{ url_for('kde_startup') }}">Clear</a></button>
+            <button id = "kde_form_exe" class = "kde_form_exe" name = "kde_form_exe" type = "submit">Submit</button>
+            <button disabled id = "kde_form_exe_disabled" class = "kde_form_exe_disabled" name = "kde_form_exe_disabled" style = "display: none">Submit</button>
+            <button id = "kde_form_res" class = "kde_form_res" name = "kde_form_res"><a href = "{{ url_for('kde_startup') }}">Clear</a></button>
           </div>
         </div>
 
@@ -204,12 +206,9 @@
       <div class = "footer_links">
         <div class = "footer_source_code_link"><a href = "https://github.com/supcl/mkecs-kde" target = "_blank">Source Code</a></div>
         <div class = "footer_dataset_link"><a href = "https://github.com/supcl/mkecs-data" target = "_blank">Dataset</a></div>
-        <div class = "footer_pp_link"><a href = "#" target = "">PP</a></div>
         <div class = "footer_contact_link"><a href = "mailto:christopher.supinger@marquette.edu?Subject=Contact%20-%20mkecs-kde" target = "_top">Contact</a></div>
       </div>
     </div>
-
-    <script>document.getElementById("dataset_control_tab_init").click();</script>
 
   </body>
 </html>

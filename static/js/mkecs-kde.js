@@ -11,3 +11,22 @@ function show_dataset(evt, series) {
   document.getElementById(series).style.display = "block";
   evt.currentTarget.className += " active";
 }
+
+$(document).ready(function() {
+  $("#kde_form_exe").click(function() {
+    $("#session_start").html('Loading <i class = "fas fa-spinner fa-spin"></i>')
+  });
+});
+
+$(document).ready(function() {
+  $("#kde_form_res").click(function() {
+    $("#session_start").html('Loading <i class = "fas fa-spinner fa-spin"></i>')
+  });
+});
+
+$(document).ready(function() {
+  $("#kde_form_exe").click(function() {
+    $("#kde_form_exe").hide();
+    $("#kde_form_exe_disabled").show();
+  });
+});

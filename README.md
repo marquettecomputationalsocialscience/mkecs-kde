@@ -22,15 +22,17 @@ Stay tuned for updates.
 * Looking for future implementation of [NoSQL](https://en.wikipedia.org/wiki/NoSQL) data management once the best service can be determined
 
 ## Updates
+* 02/05/19: More major app updates pushed; introduction of ToS and sessions
 * 01/24/19: Major app updates; some logic, efficiency and functionality modifications and additions
 * 12/09/18: Initial commit even though the project was already running (due to troubleshooting some logic issues and sanitizing for security risks)
 
 ## Known/Working Issues
-* [ ] 01/24/19: Create and publish privacy policy
-* [ ] 01/24/19: Visual optimization for other web browsers (e.g. Firefox, Safari, IE, etc.)
+* [ ] 02/05/19: Expand ToS/PP
+* [x] 01/24/19: Create and publish ~~privacy policy~~ ToS/PP
+* [x] 01/24/19: Visual optimization for other web browsers (e.g. Firefox, Safari, IE, etc.)
 * [ ] 12/09/18: Implementing simplified view built on top of Google Maps; alternate option to the current statistical inference service
-* [ ] 12/09/18: Upload dataset to this repository following major sanitation
-* [ ] 12/09/18: Troubleshooting a pesky logic issue that doesn't return parameters upon post
+* [x] 12/09/18: Upload dataset to this repository following major sanitation
+* [x] 12/09/18: Troubleshooting a pesky logic issue that doesn't return parameters upon post
 
 ## License
 * © 2018-9 Chris Supinger (see LICENSE).  This project is powered by open-source software.

@@ -68,10 +68,11 @@
 {% block kde_form_control %}
 
     <div class = "kde_form_control">
-      <div class = "session_status">Status: <span id = "session_start" class = "session_start">{{ session_status }}</span><span id = "session_loading" class = "session_loading">Loading <i class = "fas fa-spinner fa-spin"></i></span></div>
+      <div class = "session_status">Status: <span id = "session_start" class = "session_start">{{ session_status }}</span></div>
       <div class = "kde_form_buttons">
-        <button id = "kde_form_exe" class = "kde_form_exe" type = "submit" value = "Submit" onclick = "$('#session_start').hide(); $('#session_loading').show()">Submit</button>
-        <button class = "kde_form_res" onclick = "$('#session_start').hide(); $('#session_loading').show()"><a href = "{{ url_for('kde_startup') }}">Clear</a></button>
+        <button id = "kde_form_exe" class = "kde_form_exe" name = "kde_form_exe" type = "submit">Submit</button>
+        <button disabled id = "kde_form_exe_disabled" class = "kde_form_exe_disabled" name = "kde_form_exe_disabled" style = "display: none">Submit</button>
+        <button id = "kde_form_res" class = "kde_form_res" name = "kde_form_res"><a href = "{{ url_for('kde_startup') }}">Clear</a></button>
       </div>
     </div>
 
@@ -92,20 +93,34 @@
     <div class = "dataset_parameters">
       <div class = "dataset_parameters_viocnt">
         <div class = "dataset_parameters_viocnt_subheader">Event Count</div>
-        <div class = "dataset_parameters_viocnt_numerics">{{ vio_cnt }}</div>
+        <div class = "dataset_parameters_viocnt_numerics">
+          <div class = "dataset_parameters_viocnt_numerics_cnt">{{ vio_cnt }}</div>
+          <div class = "dataset_tt_text">
+            <div class = "dataset_tt_text_subheader">Occurring In</div>
+            <div class = "dataset_tt_text_ald">15 Aldermanic Districts <i class = "far fa-map"></i>
+              <span class = "ald_tt_text"><img src = "{{ url_for('static', filename = 'tt_img/mke_ald.png') }}">
+              <a target = "_blank" href = "https://city.milwaukee.gov/CommonCouncil">Aldermanic Districts</a>,
+              wholly known as the Common Council, represent the policy-making and
+              legislative boundaries in the City of Milwaukee. There are a total
+              of 15 districts.
+              </span>
+            </div>
+            <div class = "dataset_tt_text_mpd">7 MPD Districts <i class = "far fa-map"></i>
+              <span class = "mpd_tt_text"><img src = "{{ url_for('static', filename = 'tt_img/mke_mpd.png') }}">
+              The <a target = "_blank" href = "https://city.milwaukee.gov/Directory/police/Police-Districts.htm">Milwaukee Police Department Districts</a>
+              serve as administrative boundaries and a patrol distribution control
+              measure across a contiguous area of responsibility in the City of
+              Milwaukee. There are a total of 7 districts.
+              </span>
+            </div>
+          </div>
+        </div>
       </div>
-      <!--<div class = "dataset_parameters_viocnt_ald">-->
-      <!--  <div class = "dataset_parameters_viocnt_ald_subheader">Aldermanic District</div>-->
-      <!--  <div class = "dataset_parameters_viocnt_ald_numerics">PH</div>-->
-      <!--</div>-->
-      <!--<div class = "dataset_parameters_viocnt_mpd">-->
-      <!--  <div class = "dataset_parameters_viocnt_mpd_subheader">MPD District</div>-->
-      <!--  <div class = "dataset_parameters_viocnt_mpd_numerics">PH</div>-->
-      <!--</div>-->
     </div>
     <div class = "dataset_control">
       <button class = "dataset_control_tab" onclick = "show_dataset(event, 'ald_dataset_display')" id = "dataset_control_tab_init">Aldermanic Districts</button>
       <button class = "dataset_control_tab" onclick = "show_dataset(event, 'mpd_dataset_display')">MPD Districts</button>
+
     </div>
     <div id = "ald_dataset_display" class = "dataset_display">
       {{ald_script | safe}}
@@ -116,5 +131,7 @@
       {{ mpd_div | safe }}
     </div>
   </div>
+
+  <script>document.getElementById("dataset_control_tab_init").click();</script>
 
 {% endblock %}
