@@ -69,8 +69,47 @@ body, html {
 }
 
 .kde_form_header {
-  display: block;
+  display: inline-block;
+  margin-bottom: 5px;
+  padding: 0px 0 15px 0;
+  width: 95%;
 }
+
+.kde_form_header_img {
+  float: left;
+  height: 82px;
+  width: 130px;
+}
+
+.kde_form_header_img img {
+  height: 78px;
+}
+
+.kde_form_header_txt {
+  display: flex;
+  float: right;
+  height: 82px;
+  width: 326px;
+}
+
+.kde_form_header_txt p {
+  color: #003366;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  margin: auto;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+/*.kde_form_header_img {*/
+/*  background-color: white;*/
+/*  height: 78px;*/
+/*  margin: 0 auto;*/
+/*}*/
+
+/*.kde_form_header_img img {*/
+/*  height: 78px;*/
+/*}*/
 
 .kde_form_data_container, .kde_form_kde_container {
   display: block;
@@ -79,17 +118,6 @@ body, html {
 
 .kde_form_kde_container {
   padding-top: 24px;
-}
-
-.kde_form_header {
-  color: #41444B;
-  font-family: 'Oswald', sans-serif;
-  font-size: 26px;
-  margin-bottom: 5px;
-  padding: 0px 0 15px 0;
-  text-align: center;
-  text-transform: uppercase;
-  width: 95%;
 }
 
 .kde_form_subheader_year,
@@ -426,7 +454,7 @@ body, html {
 .kde_form_data_container_header, .kde_form_kde_container_header {
   background-color: #efefef;
   border-radius: 3px;
-  color: #0b5394;
+  color: #003366;
   height: 35px;
   line-height: 35px;
   text-align: center;
@@ -479,7 +507,7 @@ body, html {
 .kde_form_data_kernel select:focus,
 .kde_form_data_bandwidth select:focus,
 .kde_form_data_metric select:focus {
-  outline-color: #0b5394;
+  outline-color: #003366;
   outline-width: medium;
 }
 
@@ -500,7 +528,7 @@ body, html {
 
 .kde_form_buttons button {
   border-radius: 3px;
-  color: #0b5394;
+  color: #003366;
   cursor: pointer;
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
@@ -519,7 +547,7 @@ body, html {
 }
 
 .kde_form_res a, .kde_form_res a:link, .kde_form_res a:visited {
-  color: #0b5394;
+  color: #003366;
   text-decoration: none;
 }
 
@@ -553,7 +581,7 @@ body, html {
   background-color: #efefef;
   border: solid 2px #efefef;
   border-radius: 3px 3px 0px 0px;
-  color: #0b5394;
+  color: #003366;
   display: block;
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
@@ -629,7 +657,7 @@ body, html {
   background-color: inherit;
   border: none;
   border-radius: 3px 3px 0px 0px;
-  color: #0b5394;
+  color: #003366;
   cursor: pointer;
   float: left;
   font-family: 'Roboto', sans-serif;

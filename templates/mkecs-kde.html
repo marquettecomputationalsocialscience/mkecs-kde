@@ -23,7 +23,11 @@
       </div>
 
       <form action = "{{ url_for('kde_interact') }}" method = "POST" id = "kde_form" class = "kde_form">
-        <div class = "kde_form_header">An Interactive Study of Milwaukee Crime Statistics & Kernel Density Estimation</div>
+        <div class = "kde_form_header">
+          <div class = "kde_form_header_img"><img src = "{{ url_for('static', filename = 'mu/mu.png') }}"></div>
+          <div class = "kde_form_header_txt"><p>An Interactive Study of Milwaukee Crime Statistics & Kernel Density Estimation</p></div>
+        </div>
+
         <div class = "kde_form_data_container">
 
           <div class = "kde_form_data_container_header">Data Parameters</div>
@@ -76,7 +80,7 @@
           </div>
 
           <div class = "kde_form_subheader_violation">Event <i class = "far fa-question-circle">
-              <span class = "violation_tt_text"><img src = "{{ url_for('static', filename = 'tt_img/nibrs.png') }}">
+              <span class = "violation_tt_text"><img src = "{{ url_for('static', filename = 'tt_img/nibrs.png') }}" alt = "Seal of the Federal Bureau of Investigation, Wikipedia">
               The selections shown here are populated by data made public from the
               Wisconsin Incident-Based Reporting System (WIBRS). The WIBRS is based
               on the Federal Bureau of Investigation's <a target = "_blank" href = "https://en.wikipedia.org/wiki/National_Incident-Based_Reporting_System">National Incident-Based Reporting System</a>
@@ -104,7 +108,7 @@
           <div class = "kde_form_kde_container_header">KDE Parameters</div>
 
           <div class = "kde_form_subheader_kernel">Kernel/Interpolation <i class = "far fa-question-circle">
-              <span class = "kernel_tt_text"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kernels.svg/1200px-Kernels.svg.png" alt = "Kernels - By Brian Amberg, Wikipedia">
+              <span class = "kernel_tt_text"><img src = "{{ url_for('static', filename = 'tt_img/kernel.png') }}" alt = "By Brian Amberg, Wikipedia">
               <a target = "_blank" href = "https://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use">Kernel</a>
               selection (also known as interpolation) determines how data will be shaped (smoothed)
               for display. The effects of this parameter can be seen most when focusing
@@ -118,7 +122,7 @@
               <select id = "kde_form_data_kernel_select" class = "kde_form_data_kernel_select" name = "kde_form_data_kernel_select">
                 <option value = "" disabled selected hidden></option>
                 {% for kernel in kernels %}
-                <option value = "{{ kernel }}">{{ kernel }}</option>
+                <option value = "{{ kernel }}"{% if "Gaussian" in kernel %} selected{% endif %}>{{ kernel }}</option>
                 {% endfor %}
               </select>
 
@@ -141,7 +145,7 @@
               <select id = "kde_form_data_bandwidth_select" class = "kde_form_data_bandwidth_select" name = "kde_form_data_bandwidth_select">
                 <option value = "" disabled selected hidden></option>
                 {% for bandwidth in bandwidths %}
-                <option value = "{{ bandwidth }}">{{ bandwidth }}</option>
+                <option value = "{{ bandwidth }}"{% if 0.005 in [bandwidth] %} selected{% endif %}>{{ bandwidth }}</option>
                 {% endfor %}
               </select>
 
@@ -150,7 +154,7 @@
           </div>
 
           <div class = "kde_form_subheader_metric">Metric <i class = "far fa-question-circle">
-              <span class = "metric_tt_text"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Manhattan_distance.svg/1200px-Manhattan_distance.svg.png" alt = "Metrics - By Psychonaut, Wikipedia">
+              <span class = "metric_tt_text"><img src = "{{ url_for('static', filename = 'tt_img/metric.png') }}" alt = "By Psychonaut, Wikipedia">
               <a target = "_blank" href = "https://en.wikipedia.org/wiki/Metric_(mathematics)">Metric</a>
               is the last shaping (smoothing) parameter and deals with how we see
               distance. This is important because of earth curvature and man-made
@@ -163,7 +167,7 @@
               <select id = "kde_form_data_metric_select"  class = "kde_form_data_metric_select" name = "kde_form_data_metric_select">
                 <option value = "" disabled selected hidden></option>
                 {% for metric in metrics %}
-                <option value = "{{ metric }}">{{ metric }}</option>
+                <option value = "{{ metric }}"{% if "Euclidean" in metric %} selected{% endif %}>{{ metric }}</option>
                 {% endfor %}
               </select>
 
@@ -202,7 +206,7 @@
     {% endblock %}
 
     <div class = "footer">
-      <div class = "footer_copyright"><i class="far fa-copyright"></i> 2018-9</div>
+      <div class = "footer_copyright"><i class="far fa-copyright"></i> 2018-9 Marquette University Computational Social Science Lab</div>
       <div class = "footer_links">
         <div class = "footer_source_code_link"><a href = "https://github.com/supcl/mkecs-kde" target = "_blank">Source Code</a></div>
         <div class = "footer_dataset_link"><a href = "https://github.com/supcl/mkecs-data" target = "_blank">Dataset</a></div>

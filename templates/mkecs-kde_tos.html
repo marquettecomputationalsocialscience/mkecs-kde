@@ -16,7 +16,10 @@
     <div class = "tos_canvas">
 
       <form action = "{{ url_for('mkecs_kde_session') }}" method = "POST" id = "tos_form" class = "tos_form">
-        <div class = "tos_form_header">mkecs-kde: Terms of Service</div>
+        <div class = "tos_form_header">
+          <div class = "tos_form_header_img"><img src = "{{ url_for('static', filename = 'mu/mu.png') }}"></div>
+          <div class = "tos_form_header_txt">mkecs-kde: Terms of Service</div>
+        </div>
         <div class = "tos_form_subheader">1. Why a ToS?</div>
         <div class = "tos_form_text">
           Transparency. Period. It's important to be honest about what this service
@@ -43,10 +46,13 @@
         <div class = "tos_form_text">
           As a user, you're presented with the ability to filter and visualize the
           dataset through two sets of parameters which also consist of supplemental
-          classifications. A selection for each classification is required to
-          execute a KDE on the dataset. Since KDEs are resource intensive, it can
-          take an extended amount of time to generate a query. You will be guided
-          on the progress of the operation by this visual cue:<br><br>
+          classifications. On startup, you will notice that a default value is selected
+          for three of the parameters: Kernel, Bandwidth and Metric.
+          Although a value is preselected, feel to make changes to these as you
+          see fit. A selection for each classification is required to execute a
+          KDE on the dataset. Since KDEs are resource intensive, it can take an
+          extended amount of time to generate a query. You will be guided on the
+          progress of the operation by this visual cue:<br><br>
 
           <div class = "status_tt">
             <div class = "status_tt_1">Status: Loading <i class = "fas fa-spinner fa-spin"></i></div>
@@ -54,7 +60,10 @@
 
           Although it may seem as if your browser is stuck loading, rest assured
           that the process is still performing its operation as noted by the visual
-          cue shown above.<br><br>
+          cue shown above. It can take up to and in excess of two minutes to return
+          a requested data visualization for queries that have been submitted
+          for the first time. It generally takes less than two seconds to return
+          queries that have been previously submitted .<br><br>
 
           Interactive tooltips have also been made available in order to guide and
           clarify your experience. Hovering over these tooltips will provide a brief
@@ -91,7 +100,7 @@
       </form>
 
     <div class = "footer">
-      <div class = "footer_copyright"><i class="far fa-copyright"></i> 2018-9</div>
+      <div class = "footer_copyright"><i class="far fa-copyright"></i> 2018-9 Marquette University Computational Social Science Lab</div>
       <div class = "footer_links">
         <div class = "footer_source_code_link"><a href = "https://github.com/supcl/mkecs-kde" target = "_blank">Source Code</a></div>
         <div class = "footer_dataset_link"><a href = "https://github.com/supcl/mkecs-data" target = "_blank">Dataset</a></div>
