@@ -22,12 +22,14 @@ Stay tuned for updates.
 * Looking for future implementation of [NoSQL](https://en.wikipedia.org/wiki/NoSQL) data management once the best service can be determined
 
 ## Updates
+* 04/04/19: Hotspot functionality published; had been deployed in March
 * 02/21/19: More minor updates; mostly in the name of HCI
 * 02/05/19: More major app updates pushed; introduction of ToS and sessions
 * 01/24/19: Major app updates; some logic, efficiency and functionality modifications and additions
 * 12/09/18: Initial commit even though the project was already running (due to troubleshooting some logic issues and sanitizing for security risks)
 
 ## Known/Working Issues
+* [ ] 04/04/19: Refactoring functions in progress
 * [ ] 02/05/19: Expand ToS/PP
 * [x] 01/24/19: Create and publish ~~privacy policy~~ ToS/PP
 * [x] 01/24/19: Visual optimization for other web browsers (e.g. Firefox, Safari, IE, etc.)
