@@ -65,18 +65,25 @@ def exe_kde(x_lon, y_lat, year, month, violation_code, kernel, bandwidth, metric
     Z = np.reshape(np.exp(kde.score_samples(positions.T)), X.shape)
 
     # Build save
-    cmap = colors.ListedColormap(['#ffffff', '#ffebeb',
-                                  '#ffd8d8', '#ffc4c4',
-                                  '#ffb1b1', '#ff9d9d',
-                                  '#ff8a8a', '#ff7676',
-                                  '#ff6262', '#ff4f4f',
-                                  '#ff3b3b', '#ff2828',
+    cmap = colors.ListedColormap(['#ffffff',
+                                  '#ffebeb',
+                                  '#ffd8d8',
+                                  '#ffc4c4',
+                                  '#ffb1b1',
+                                  '#ff9d9d',
+                                  '#ff8a8a',
+                                  '#ff7676',
+                                  '#ff6262',
+                                  '#ff4f4f',
+                                  '#ff3b3b',
+                                  '#ff2828',
                                   '#ff1414'])
     plt.imshow(np.rot90(Z),
                cmap = cmap,
                extent = [xmin, xmax, ymin, ymax],
                alpha = 0.5,
                zorder = 10)
+               
     plt.scatter(x_lon,
                 y_lat,
                 c = '#0000ff',

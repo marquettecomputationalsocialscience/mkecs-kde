@@ -46,11 +46,13 @@ def kde_startup():
       sessions_dir = os.path.join(project_path + sessions_path)
 
       id = []
+
       with open(sessions_dir, 'rt') as sessions_r:
         active = csv.reader(sessions_r, delimiter = ',')
         for _id in active:
           if session['username'] in _id[0]:
             id.append(session['username'])
+
       if session['username'] in id:
 
         params = par_fn.get_parameters()
@@ -65,10 +67,17 @@ def kde_startup():
 
         session_status = 'App ready.'
 
-        return render_template('mkecs-kde.html', kde_script = kde_script, kde_div = kde_div,
-                               months = months, years = years, codes = codes,
-                               kernels = kernels,   bandwidths = bandwidths, metrics = metrics,
-                               session_status = session_status, session_id = session['username'])
+        return render_template('mkecs-kde.html',
+                               kde_script = kde_script,
+                               kde_div = kde_div,
+                               months = months,
+                               years = years,
+                               codes = codes,
+                               kernels = kernels,
+                               bandwidths = bandwidths,
+                               metrics = metrics,
+                               session_status = session_status,
+                               session_id = session['username'])
     except:
 
       return redirect(url_for('mkecs_kde_session'))
@@ -82,16 +91,24 @@ def kde_interact():
       sessions_dir = os.path.join(project_path + sessions_path)
 
       id = []
+
       with open(sessions_dir, 'rt') as sessions_r:
         active = csv.reader(sessions_r, delimiter = ',')
         for _id in active:
           if session['username'] in _id[0]:
             id.append(session['username'])
+
       if session['username'] in id:
 
         params = par_fn.get_parameters()
-        years, months, codes, kernels, bandwidths, metrics = params[0], params[1], params[2],\
-                                                             params[3], params[4], params[5]
+
+        years, months, codes, kernels, bandwidths, metrics = params[0],\
+                                                             params[1],\
+                                                             params[2],\
+                                                             params[3],\
+                                                             params[4],\
+                                                             params[5]\
+
         months, codes, metrics = [month for month in months.keys()],\
                                  [code for code in codes.keys()],\
                                  [metric for metric in metrics.keys()]
@@ -111,14 +128,23 @@ def kde_interact():
                 post_bandwidth = str(request.form['kde_form_data_bandwidth_select'])
                 post_metric = str(request.form['kde_form_data_metric_select'])
 
-                form_input = [post_year, post_month, post_violation,
-                              post_kernel, float(post_bandwidth), post_metric]
+                form_input = [post_year,
+                              post_month,
+                              post_violation,
+                              post_kernel,
+                              float(post_bandwidth),
+                              post_metric]
 
                 codes_post = params[2]
+
                 post_violation = codes_post[post_violation]
 
-                kde = fn.set_kde_interact(post_year, post_month, post_violation,
-                                          post_kernel, post_bandwidth, post_metric)
+                kde = fn.set_kde_interact(post_year,
+                                          post_month,
+                                          post_violation,
+                                          post_kernel,
+                                          post_bandwidth,
+                                          post_metric)
 
                 datasets = ds_fn.set_annotate_interact(post_year, post_month, post_violation)
 
@@ -129,13 +155,23 @@ def kde_interact():
                 mpd_script, mpd_div = components(mpd_dist)
                 vio_cnt = datasets[2]
 
-                return render_template('mkecs-kde_result.html', kde_script = kde_script, kde_div = kde_div,
-                                       ald_script = ald_script, ald_div = ald_div,
-                                       mpd_script = mpd_script, mpd_div = mpd_div,
-                                       months = months, years = years, codes = codes,
-                                       kernels = kernels, bandwidths = bandwidths, metrics = metrics,
-                                       form_input = form_input, session_status = session_status,
-                                       session_id = session['username'], vio_cnt = vio_cnt)
+                return render_template('mkecs-kde_result.html',
+                                       kde_script = kde_script,
+                                       kde_div = kde_div,
+                                       ald_script = ald_script,
+                                       ald_div = ald_div,
+                                       mpd_script = mpd_script,
+                                       mpd_div = mpd_div,
+                                       months = months,
+                                       years = years,
+                                       codes = codes,
+                                       kernels = kernels,
+                                       bandwidths = bandwidths,
+                                       metrics = metrics,
+                                       form_input = form_input,
+                                       session_status = session_status,
+                                       session_id = session['username'],
+                                       vio_cnt = vio_cnt)
         except:
 
             session_status = 'All fields must be selected.'
@@ -143,17 +179,31 @@ def kde_interact():
             kde = fn.set_kde_startup()
             kde_script, kde_div = components(kde)
 
-            return render_template('mkecs-kde.html', kde_script = kde_script, kde_div = kde_div,
-                                   months = months, years = years, codes = codes,
-                                   kernels = kernels, bandwidths = bandwidths, metrics = metrics,
-                                   session_status = session_status, session_id = session['username'])
+            return render_template('mkecs-kde.html',
+                                   kde_script = kde_script,
+                                   kde_div = kde_div,
+                                   months = months,
+                                   years = years,
+                                   codes = codes,
+                                   kernels = kernels,
+                                   bandwidths = bandwidths,
+                                   metrics = metrics,
+                                   session_status = session_status,
+                                   session_id = session['username'])
 
         session_status = 'All fields must be selected.'
 
-        return render_template('mkecs-kde.html', kde_script = kde_script, kde_div = kde_div,
-                               months = months, years = years, codes = codes,
-                               kernels = kernels, bandwidths = bandwidths, metrics = metrics,
-                               session_status = session_status, session_id = session['username'])
+        return render_template('mkecs-kde.html',
+                               kde_script = kde_script,
+                               kde_div = kde_div,
+                               months = months,
+                               years = years,
+                               codes = codes,
+                               kernels = kernels,
+                               bandwidths = bandwidths,
+                               metrics = metrics,
+                               session_status = session_status,
+                               session_id = session['username'])
     except:
 
       return redirect(url_for('mkecs_kde_session'))
