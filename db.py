@@ -36,10 +36,29 @@ class mke_wibrs_db(Base):
     code_240 = Column(Integer)
     update_time = Column(DateTime, primary_key = True)
 
-    def __init__(self, incident_number, date, addr, zip_code, x_lon, y_lat, formatted_addr,
-                 ald_dist, mpd_dist, voting_ward, wpn_force, code_200, code_13,
-                 code_220, code_290, code_09, code_23f, code_120, code_11_36, code_23,
-                 code_240, update_time):
+    def __init__(self,
+                 incident_number,
+                 date,
+                 addr,
+                 zip_code,
+                 x_lon,
+                 y_lat,
+                 formatted_addr,
+                 ald_dist,
+                 mpd_dist,
+                 voting_ward,
+                 wpn_force,
+                 code_200,
+                 code_13,
+                 code_220,
+                 code_290,
+                 code_09,
+                 code_23f,
+                 code_120,
+                 code_11_36,
+                 code_23,
+                 code_240,
+                 update_time):
 
         self.incident_number = incident_number
         self.date = date

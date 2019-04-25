@@ -65,13 +65,31 @@ def set_annotate_interact(year, month, violation_code):
     ald_tool_tips = [('District', '@ald_dist'), ('Count','@ald_dist_cnt')]
     mpd_tool_tips = [('District', '@mpd_dist'), ('Count','@mpd_dist_cnt')]
 
-    ald_p = figure(x_range = ald_dist, plot_height = 275, plot_width = 750,
-                   toolbar_location = 'right', tools = 'hover', tooltips = ald_tool_tips)
-    mpd_p = figure(x_range = mpd_dist, plot_height = 275, plot_width = 750,
-                   toolbar_location = 'right', tools = 'hover', tooltips = mpd_tool_tips)
+    ald_p = figure(x_range = ald_dist,
+                   plot_height = 275,
+                   plot_width = 750,
+                   toolbar_location = 'right',
+                   tools = 'hover',
+                   tooltips = ald_tool_tips)
 
-    ald_p.vbar(x = 'ald_dist', top = 'ald_dist_cnt', color = '#0b5394', width = 0.8, source = ald_source)
-    mpd_p.vbar(x = 'mpd_dist', top = 'mpd_dist_cnt', color = '#0b5394', width = 0.8, source = mpd_source)
+    mpd_p = figure(x_range = mpd_dist,
+                   plot_height = 275,
+                   plot_width = 750,
+                   toolbar_location = 'right',
+                   tools = 'hover',
+                   tooltips = mpd_tool_tips)
+
+    ald_p.vbar(x = 'ald_dist',
+               top = 'ald_dist_cnt',
+               color = '#0b5394',
+               width = 0.8,
+               source = ald_source)
+
+    mpd_p.vbar(x = 'mpd_dist',
+               top = 'mpd_dist_cnt',
+               color = '#0b5394',
+               width = 0.8,
+               source = mpd_source)
 
     ald_p.xgrid.grid_line_color, mpd_p.xgrid.grid_line_color, ald_p.toolbar.logo, mpd_p.toolbar.logo = None, None, None, None
     ald_p.y_range.start, mpd_p.y_range.start = 0, 0

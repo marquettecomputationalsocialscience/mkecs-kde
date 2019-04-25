@@ -56,8 +56,14 @@ def kde_startup():
       if session['username'] in id:
 
         params = par_fn.get_parameters()
-        years, months, codes, kernels, bandwidths, metrics = params[0], params[1], params[2],\
-                                                             params[3], params[4], params[5]
+
+        years, months, codes, kernels, bandwidths, metrics = params[0],\
+                                                             params[1],\
+                                                             params[2],\
+                                                             params[3],\
+                                                             params[4],\
+                                                             params[5]
+
         months, codes, metrics = [month for month in months.keys()],\
                                  [code for code in codes.keys()],\
                                  [metric for metric in metrics.keys()]
