@@ -6,6 +6,10 @@ This project attempts to present a more innovative method of mapping crime using
 ## Function
 Stay tuned for updates.
 
+## Access
+* URL: [marqcss.io/mkecs-kde](https://www.marqcss.io/mkecs-kde) to navigate
+* Contact: [Marquette University Computational Social Science Lab](mailto:shion.guha@marquette.edu) for permissions
+
 ## Dependencies
 * Python:
   * [Bokeh](https://bokeh.pydata.org)
