@@ -40,7 +40,7 @@ new_part_id,participant_id,group_num,background,kernel1,bandwidth1,metric1,min_h
 39,48,2,tech,gaussian,0.005,euclidean,15,19,8,13,gaussian,0.005,euclidean,10,13,7,9,gaussian,0.005,euclidean,16,20,6,9
 40,50,3,professional,gaussian,0.005,euclidean,10,15,18,25,gaussian,0.005,euclidean,6,10,6,12,gaussian,0.005,euclidean,5,7,8,12
 41,51,1,none,gaussian,0.005,euclidean,36,56,15,25,gaussian,0.005,euclidean,25,40,12,20,gaussian,0.005,euclidean,35,50,30,45
-42,51-b/52,1,none,,,,11,23,13,16,,,,6,10,6,9,,,,7,11,6,10
+42,52,1,none,,,,11,23,13,16,,,,6,10,6,9,,,,7,11,6,10
 43,53,3,professional,gaussian,0.005,euclidean,8,22,18,23,gaussian,0.005,euclidean,10,23,11,25,gaussian,0.005,euclidean,20,40,18,32
 44,54,1,none,gaussian,0.005,euclidean,10,30,10,30,gaussian,0.005,euclidean,4,9,4,9,gaussian,0.005,euclidean,3,15,3,15
 45,55,1,none,gaussian,0.005,euclidean,6,12,3,5,gaussian,0.005,euclidean,,,2,6,gaussian,0.005,euclidean,,,2,6
