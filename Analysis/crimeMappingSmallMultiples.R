@@ -9,7 +9,7 @@ library(ggplot2)
 
 rm(list=ls())
 
-map_data <- read.csv('/Users/Joey/Desktop/Experiments/map-data.csv')
+map_data <- read.csv('/Users/Joey/mkecs-kde/Analysis/data/map-data.csv')
 
 group1 <- subset(map_data, group_num==1)
 group2 <- subset(map_data, group_num==2)
@@ -287,26 +287,26 @@ g3p3 <- data.frame(Kernel=group3_counts[3, 1:2], Bandwidth=group3_counts[3, 3:4]
 
 par(mar=c(5,7,5,2), mfrow=c(3,3))
 
-barplot(as.matrix(g1p1), main="g1 vs p1", col=terrain.colors(2), beside=TRUE, 
+barplot(as.matrix(g1p1), main="No background vs picture 1", col=terrain.colors(2), beside=TRUE, 
         names.arg=c('kernel', '', 'bandwidth', '', 'distance metric', ''), cex.names=.7125, las=1)
-barplot(as.matrix(g2p1), main="g2 vs p1", col=terrain.colors(2), beside=TRUE, 
+barplot(as.matrix(g2p1), main="Technical background vs picture 1", col=terrain.colors(2), beside=TRUE, 
         names.arg=c('kernel', '', 'bandwidth', '', 'distance metric', ''), cex.names=.7125)
-barplot(as.matrix(g3p1), main="g3 vs p1", col=terrain.colors(2), beside=TRUE, 
+barplot(as.matrix(g3p1), main="Professional background vs picture 1", col=terrain.colors(2), beside=TRUE, 
         names.arg=c('kernel', '', 'bandwidth', '', 'distance metric', ''), cex.names=.7125)
-barplot(as.matrix(g1p2), main="g1 vs p2", col=terrain.colors(2), beside=TRUE, 
+barplot(as.matrix(g1p2), main="No background vs picture 2", col=terrain.colors(2), beside=TRUE, 
         names.arg=c('kernel', '', 'bandwidth', '', 'distance metric', ''), cex.names=.7125)
-barplot(as.matrix(g2p2), main="g2 vs p2", col=terrain.colors(2), beside=TRUE, 
+barplot(as.matrix(g2p2), main="Technical background vs picture 2", col=terrain.colors(2), beside=TRUE, 
         names.arg=c('kernel', '', 'bandwidth', '', 'distance metric', ''), cex.names=.7125)
-barplot(as.matrix(g3p2), main="g3 vs p2", col=terrain.colors(2), beside=TRUE, 
+barplot(as.matrix(g3p2), main="Professional background vs picture 2", col=terrain.colors(2), beside=TRUE, 
         names.arg=c('kernel', '', 'bandwidth', '', 'distance metric', ''), cex.names=.7125)
-barplot(as.matrix(g1p3), main="g1 vs p3", col=terrain.colors(2), beside=TRUE, 
+barplot(as.matrix(g1p3), main="No background vs picture 3", col=terrain.colors(2), beside=TRUE, 
         names.arg=c('kernel', '', 'bandwidth', '', 'distance metric', ''), cex.names=.7125)
-barplot(as.matrix(g2p3), main="g2 vs p3", col=terrain.colors(2), beside=TRUE, 
+barplot(as.matrix(g2p3), main="Technical background vs picture 3", col=terrain.colors(2), beside=TRUE, 
         names.arg=c('kernel', '', 'bandwidth', '', 'distance metric', ''), cex.names=.7125)
-barplot(as.matrix(g3p3), main="g3 vs p3", col=terrain.colors(2), beside=TRUE, 
+barplot(as.matrix(g3p3), main="Professional background vs picture 3", col=terrain.colors(2), beside=TRUE, 
         names.arg=c('kernel', '', 'bandwidth', '', 'distance metric', ''), cex.names=.7125)
 
-mtext("Green = those who kept default\nWhite = those who changed default\ng1=none; g2=tech; g3=professional", 
+mtext("Green = those who kept default\nWhite = those who changed default", 
       side=2, outer=TRUE, line=-4.5, cex=0.75)
 #legend(-85,-5,c("kept default", "changed default"), cex=0.75, fill=terrain.colors(2))
 
