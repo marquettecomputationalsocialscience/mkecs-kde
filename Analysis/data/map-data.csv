@@ -43,7 +43,7 @@ new_part_id,participant_id,group_num,background,kernel1,bandwidth1,metric1,min_h
 42,52,1,none,gaussian,0.005,euclidean,11,23,13,16,gaussian,0.005,euclidean,6,10,6,9,gaussian,0.005,euclidean,7,11,6,10
 43,53,3,professional,gaussian,0.005,euclidean,8,22,18,23,gaussian,0.005,euclidean,10,23,11,25,gaussian,0.005,euclidean,20,40,18,32
 44,54,1,none,gaussian,0.005,euclidean,10,30,10,30,gaussian,0.005,euclidean,4,9,4,9,gaussian,0.005,euclidean,3,15,3,15
-45,55,1,none,gaussian,0.005,euclidean,6,12,3,5,gaussian,0.005,euclidean,,,2,6,gaussian,0.005,euclidean,,,2,6
+45,55,1,none,gaussian,0.005,euclidean,6,12,3,5,gaussian,0.005,euclidean,0,0,2,6,gaussian,0.005,euclidean,0,0,2,6
 46,56,1,none,gaussian,0.005,euclidean,25,30,25,30,gaussian,0.005,euclidean,15,20,15,20,gaussian,0.005,euclidean,27,30,27,30
 47,57,1,none,gaussian,0.005,euclidean,12,12,3,5,gaussian,0.005,euclidean,5,6,3,4,gaussian,0.005,euclidean,3,5,3,4
 48,58,1,none,gaussian,0.005,euclidean,20,50,50,100,gaussian,0.005,euclidean,20,55,20,30,gaussian,0.005,euclidean,20,45,20,35
