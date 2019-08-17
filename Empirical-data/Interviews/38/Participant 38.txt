@@ -1,0 +1,362 @@
+Unknown Speaker  00:00
+Just kind of like Starting things off. Have you ever seen anything like that, like a predictive policing algorithm? Like this? Never kind of used like not even just like predictive policing just algorithms in general? No, no, never. So it's completely new to you. Yeah.
+
+Unknown Speaker  00:19
+No idea.
+
+Unknown Speaker  00:22
+That's okay. Yeah, we're trying to figure out just how people from different backgrounds kind of interact with stuff like that. So that's more than acceptable that you've never seen it before. Okay. So moving to the first question is, before today, before actually coming into this session, here today? How have you ever felt that crime analyses have directly impacted you, if at all?
+
+Unknown Speaker  00:49
+What do you mean by crime analysis?
+
+Unknown Speaker  00:52
+Like something just like the squares? Okay. Well, I think
+
+Unknown Speaker  00:57
+depending on what area I would be in, that would have a huge impact. Like, being on a college campus. I'm sure that that makes it a lot safer. And like, the crime analysis would be stronger, like they would do more to protect that area. But like, in other areas, like I volunteered, like, Northwest last semester, and it was like an area where you could tell there was like, absolutely, no, like, they didn't pay attention to it at all. I'm sure. So I think like, the area that I'm in would make a difference.
+
+Unknown Speaker  01:34
+You said you volunteered Northwest northwest of Milwaukee? Yeah,
+
+Unknown Speaker  01:37
+I think it was Northwest. It was I don't know if you would know it but McCann and browns homeless sanctuary. It was I can like find out where it was, if you want me to,
+
+Unknown Speaker  01:51
+but it's still like Milwaukee area. Yeah, yeah,
+
+Unknown Speaker  01:53
+it's pretty much Yeah,
+
+Unknown Speaker  01:54
+like ricardas minutes hoping it was like a homeless? Yeah,
+
+Unknown Speaker  01:58
+so it was
+
+Unknown Speaker  02:01
+kind of like, it's called a doorway ministry. And what they do is this woman McKennon Brown, she turned an empty warehouse into like, a place for people that are in need to get like clothes, fresh produce, blankets, sleeping bags, hats, gloves, bikes, furniture, and she's like working on expanding the whole thing. So I worked out, or I work to like giving out clothes and like organizing all the clothes. And then the person that I volunteered with did like the whole Produce Section. So people like donate all this stuff, and she gives it away for free. Okay,
+
+Unknown Speaker  02:38
+so I personally haven't done like something like this. It kind of sounds like a from using the right term, like a shelter kind of thing.
+
+Unknown Speaker  02:45
+It's not a shelter. It's more like a one stop shop where you get what you need. And then you go back to your home. Okay. Yeah,
+
+Unknown Speaker  02:52
+just for profit, nonprofit, nonprofit, nonprofit. Okay. How would you say like the area there was?
+
+Unknown Speaker  03:02
+The area was, I would definitely call it like a food desert. Honestly, that was like the first thing that came to my mind. I did it for like, while I was taking a social welfare and justice class. And we were learning about food deserts around the time that I started it. So like, the first thing that I noticed was total food desert, like, you're not going to find anything that would be nutritious at all, like they get their food from like convenience stores on the corner. And just like total poverty, like houses are in terrible condition. And it just total.
+
+Unknown Speaker  03:37
+Yes, exactly. And you're also saying that just because of that area, you haven't really noticed like the police?
+
+Unknown Speaker  03:44
+Not not Aereo never
+
+Unknown Speaker  03:47
+scary to hear Yeah. Now, experience to
+
+Unknown Speaker  03:50
+I was there for two hours every week and like I never once but see a police car. Yeah,
+
+Unknown Speaker  03:56
+you still feel safe at all. Or
+
+Unknown Speaker  03:58
+I did just because like, the warehouse that we were in was like such a well known it like her little like organization was so well known in that area that like, everybody seemed to, like really respect her and like, really love her. So I just felt safe, like being in that. Yeah,
+
+Unknown Speaker  04:19
+good, perfect. And kind of shifting a little bit back to crime analyses and maybe have some places that are more noticed for crime analyses and even the unnoticed with regards to the crime analysis algorithms, how important is it to you to understand like how a crime analysis algorithm or software actually works?
+
+Unknown Speaker  04:42
+I think it's pretty important now knowing what it is. I mean, I had never really heard of that before. But knowing what it is, it kind of shows me like, what areas seemed to be more in need and what areas like will probably get more help.
+
+Unknown Speaker  05:00
+You say areas more than me. What do you mean by the? Like,
+
+Unknown Speaker  05:03
+like with this, like more in need of like, having more police people around? Like? Like,
+
+Unknown Speaker  05:11
+the more resources in there. Yeah, like, yeah, police traffic. Yeah.
+
+Unknown Speaker  05:14
+And then like, protected? Yeah, yeah,
+
+Unknown Speaker  05:16
+definitely, definitely. Is there any kind of like important information you want to know about the crime analysis algorithms or software? And
+
+Unknown Speaker  05:28
+I don't really like fully understand it, if you can just think explain it a little bit more like, what it's used for. And like,
+
+Unknown Speaker  05:36
+it's you. In this case, we're taking previous data. So the data we're taking from this is all available on the walkie Police Department websites, and they're all crime events that made it to court. So they made it to court, and they're in the Milwaukee Police Department database, we can take that, put them into a statistical models, and predict where crime is more likely to happen. Okay. All right.
+
+Unknown Speaker  06:06
+From this whole process, though, would you want to know, like,
+
+Unknown Speaker  06:10
+how it works, or like the data? Is there, I want to know, I
+
+Unknown Speaker  06:15
+feel like knowing the data would be helpful to like, people like me that have no idea about any of this. Okay, yeah,
+
+Unknown Speaker  06:23
+that's fine.
+
+Unknown Speaker  06:25
+It sounds kind of like
+
+Unknown Speaker  06:27
+you came into here, not really knowing like, what's going on, but after seeing it, yeah, yeah,
+
+Unknown Speaker  06:33
+exactly. And
+
+Unknown Speaker  06:36
+I just moved into my apartment a few weeks ago, and I literally watched an arrest happen outside my window two nights ago. So the window? Yeah, like, so. right outside my window? Yeah. So that was a little nervous. A little shaky. Yeah, definitely. And, like, I've never seen anything like that. Also,
+
+Unknown Speaker  06:57
+was this job like, you live like on campus? Yeah.
+
+Unknown Speaker  07:00
+So I live on wells, right in between 17th and 18th. Okay, so, yeah,
+
+Unknown Speaker  07:07
+it's kind of like the frontier there.
+
+Unknown Speaker  07:09
+Exactly. Exactly what
+
+Unknown Speaker  07:11
+you're saying. I'm like, right in that area. Yeah.
+
+Unknown Speaker  07:12
+So Monte Cristo apartments.
+
+Unknown Speaker  07:16
+You said like, this was scary. It was kind of like the first time you saw this. Yeah. Yeah. And it was, like,
+
+Unknown Speaker  07:20
+I heard a bunch of yelling, and then the sirens outside my window. So I checked what was going on. And I just saw, like, a cop trying to tackle a guy to a crowd to the ground and three more Shut up. And
+
+Unknown Speaker  07:34
+it was just very overwhelming. I mean, it's overwhelming, but points like you can want to watch. But
+
+Unknown Speaker  07:40
+regardless, regardless,
+
+Unknown Speaker  07:43
+you said you haven't experienced anything like this before? Like, I'm assuming you're coming from like a small town. Yes.
+
+Unknown Speaker  07:49
+Small suburb of Chicago. Lamont. Yeah,
+
+Unknown Speaker  07:52
+like 20 minutes away from
+
+Unknown Speaker  07:55
+really wait for the park. Oh, my best friends.
+
+Unknown Speaker  07:58
+Okay. But back there is like the law enforcement. It's more, everyone kind of knows each other. And so yeah, like, say for
+
+Unknown Speaker  08:06
+the police, the most action they have is like some kids speeding. Yeah. And that's about it. Definitely.
+
+Unknown Speaker  08:13
+So I assume that specific process for crime analysis was implemented in your area, either where you live, where you work here, where you go to school or anywhere, such that it's used to directly impact you? How important would it be that you think to have some kind of understanding of how it works? I think it's very important, very important.
+
+Unknown Speaker  08:34
+Definitely. I mean, I would love to understand it more and have a better knowledge of it.
+
+Unknown Speaker  08:41
+Is there like others specific information you would want to know about it?
+
+Unknown Speaker  08:46
+I think just like understanding, I don't know, like, being able to, like access it. Like how I could access that for myself, like I wouldn't even know where to start to find that kind of information. And like understanding how to actually, like use that tool. Just like very basic stuff.
+
+Unknown Speaker  09:09
+You say access, like I was was,
+
+Unknown Speaker  09:12
+I wouldn't have even thought to like, go to the Milwaukee Police Department and find all that data.
+
+Unknown Speaker  09:17
+Okay. So like having the resources to discover Yeah,
+
+Unknown Speaker  09:20
+like knowing exactly what steps to take to get there. Definitely, definitely.
+
+Unknown Speaker  09:27
+So assume someone with more expertise than you vouched for, like the advocacy, the efficiency and the fairness of a given crime analysis algorithm or software? How important would it then be for you to have some kind of understanding of how it works?
+
+Unknown Speaker  09:45
+I think it would be very important,
+
+Unknown Speaker  09:46
+still important. Definitely.
+
+Unknown Speaker  09:50
+With this guy saying that it's very fair, it works very well. With him saying this. Is there still other information you'd want to know about that whole situation?
+
+Unknown Speaker  10:03
+I mean, no, other than what I said earlier, probably not
+
+Unknown Speaker  10:05
+still have an access to it. Yeah. Figuring out
+
+Unknown Speaker  10:08
+maybe like, how he determined that it was very fair and ethical, like what his sources are,
+
+Unknown Speaker  10:17
+what his sources like, where he got the information? Yeah, like,
+
+Unknown Speaker  10:19
+what he's basing it off to say that it is fair and correct information?
+
+Unknown Speaker  10:26
+No, definitely. Definitely.
+
+Unknown Speaker  10:30
+So do you believe that whether data was source like ethically, legally or fairly, if that actually impacts the quality of the data?
+
+Unknown Speaker  10:40
+Yes, I think credibility is super important. Because I mean, if it's not credible, then it's not true.
+
+Unknown Speaker  10:48
+That's not true. So how would you feel if hack data was used by professionals? Like what kind of context? Would you condone this
+
+Unknown Speaker  10:57
+very concerning? I think concern? Yeah, if professionals were using hacked data? I mean, I don't know how I will feel like that's ethical
+
+Unknown Speaker  11:08
+to say just don't use it at all. Yeah, yeah. What if playing like a hypothetical kind of situation? what it feels like a law enforcement agency who hacked this data? Would you condone the usage of it? Or is it still very unethical? You shouldn't touch it,
+
+Unknown Speaker  11:25
+I guess that would be circumstantial, like what kind of data are they?
+
+Unknown Speaker  11:32
+Taking? It depends on like, what they have.
+
+Unknown Speaker  11:35
+If it's like, for like, life threatening, very important. circumstances, then? Yes. But I don't know if they're like, hacking for like, little piddly things that aren't super important
+
+Unknown Speaker  11:51
+than I guess now. What do you think is like a little? Like?
+
+Unknown Speaker  11:57
+Okay, for example, just because this is like the first thing that came to my head, like, cookies on your phone? How, like, they can use your search history and like, give you ads on Instagram or Facebook, based on what you said, searching? I think that's kind of unethical.
+
+Unknown Speaker  12:16
+Where they're kind of like, saving your search
+
+Unknown Speaker  12:18
+yesterday. Yeah. I mean, they're like,
+
+Unknown Speaker  12:22
+watching what you're doing on your phone and what you're searching. And that freaks me out.
+
+Unknown Speaker  12:27
+And that fine. incognito mode? But I mean, I'm not, I can't tell you what to do. choices.
+
+Unknown Speaker  12:36
+So if you were asked to voluntarily give personal information, such as like your location more specific on like, where you live, or where you work, and more specific demographic information to the law enforcement only for the purpose of better training their data and their algorithms. Would you voluntarily go in and do this? Or what would your response be for those? Yeah, yeah.
+
+Unknown Speaker  13:01
+If it's towards better training, and yeah,
+
+Unknown Speaker  13:04
+I would only if it's better, for better training, you would go in and just give away your information.
+
+Unknown Speaker  13:10
+I mean, I supposed to trust our law enforcement, right.
+
+Unknown Speaker  13:16
+Think so it's for the better of the community, as I
+
+Unknown Speaker  13:19
+seen it, if it's for bettering the community, I would definitely.
+
+Unknown Speaker  13:24
+Is there any kind of information that you would kind of withhold or want to not give up? I probably
+
+Unknown Speaker  13:29
+wouldn't want to give some credit card numbers and social security number. Yeah.
+
+Unknown Speaker  13:35
+I don't know. I mean, I would give like the location of where I work or live? Sure.
+
+Unknown Speaker  13:42
+Sure. I can't really think of anything that I would withhold.
+
+Unknown Speaker  13:45
+Definitely, yeah. What if it was more of a situation that was mandatory, where the police came to you? And they were saying that they want your location services, they want to kind of track your phone, see where you are, but still, for the better of the community, just to kind of track the crimes? What would your response be?
+
+Unknown Speaker  14:04
+I feel like because it's mandatory, I would feel a little like, it would feel invasive a little bit. But if I knew the exact reasons, like it was for bettering the community, and I knew exactly what they were doing with it, I would probably be okay with it. I mean, much to hide, but I feel like the fact that it's mandatory would feel invasive.
+
+Unknown Speaker  14:29
+So if it was, what if it was like voluntary? Yeah,
+
+Unknown Speaker  14:32
+if I'm volunteering to do it, then like I've said, this is okay. Yes, I'll do it. And I would feel better about that, because it's my decision. But if someone's coming in and saying, you have to give us your location, how not be too comfortable
+
+Unknown Speaker  14:45
+with that. Yeah. If you see the reasons Yeah. Yeah.
+
+Unknown Speaker  14:49
+If I had it all laid out, then I would feel a lot better.
+
+Unknown Speaker  14:52
+If it was voluntary. Would you still give up? Like the location services haven't tracked you?
+
+Unknown Speaker  14:57
+If I were able to see like what they were doing with it? Yeah,
+
+Unknown Speaker  15:00
+definitely. So kind of both goes back to see their motives.
+
+Unknown Speaker  15:05
+And definitely, definitely.
+
+Unknown Speaker  15:08
+So then, how would you feel if data from traffic tickets was used to systematically kind of place police along the highway?
+
+Unknown Speaker  15:19
+Not Be good.
+
+Unknown Speaker  15:20
+No, I wouldn't really like that. Why not?
+
+Unknown Speaker  15:24
+Because I think a lot of people tend to speed in the same area, and sometimes I speed so I would probably get pulled over.
+
+Unknown Speaker  15:35
+So it's just a matter of, yeah,
+
+Unknown Speaker  15:37
+that's kind of a selfish I don't want to be pulled over into the
+
+Unknown Speaker  15:42
+fold over a few times. And it sucks.
+
+Unknown Speaker  15:46
+It just from like speeding. Yeah, yeah. Yeah,
+
+Unknown Speaker  15:48
+exactly. I mean, what else would they use? Like, what else would that benefit having the
+
+Unknown Speaker  15:56
+maybe stopping people from running red lights? Yeah, stop signs. Yeah. Reckless Driving or something like this? Like, yeah, just a matter of finding a way to kind of like, allocate those resources on the highway. But yeah. And then also, you're saying that you would kind of volunteer, I'm kind of jumping back and forth. But you're saying that you would kind of voluntarily give up your information. If it was good for the community? Is that what you're saying? Yeah, yeah. Why do you think some people may want to like, withhold their information or just keep everything private?
+
+Unknown Speaker  16:31
+And I think some people just live private lives and don't want other people knowing what they're doing where they are any of their business. So and they also some people don't trust other people don't trust law enforcement. And those are two big reasons.
+
+Unknown Speaker  16:54
+They don't be all the questions I have to ask. Yeah. Well, good. Yeah. Again, yeah. Thank you for coming into it.
+
+
+Transcribed by https://otter.ai

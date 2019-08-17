@@ -1,0 +1,260 @@
+Unknown Speaker  00:00
+Right. And then before coming in today, I think you brought up when you were actually playing or using the lead application that you have seen stuff like this before, Have you have you worked like with an application like this?
+
+Unknown Speaker  00:13
+Right? Part of my job was strategic deployment of police resources. And we used probably the data sets that you have from wipers, as well as the City of Milwaukee used to have a compass map. And we use that compass map for strategic planning.
+
+Unknown Speaker  00:30
+Okay, Um, Do you remember like, what do you remember? Do you know it all, like what kind of algorithm it was, by chance,
+
+Unknown Speaker  00:37
+I never knew the algorithm that was used. That that was never shared. There were a couple of occasions where we, Me Myself, and my team would be given a packet of information about a specific crime that was occurring in our area of responsibility. And sometimes the predictive information that was given to us wasn't consistent with what we knew, as law enforcement officers just being in the neighborhood. So we would work with our intelligence fusion center, and let them know that something was off. And then I think they were fine. Their algorithm.
+
+Unknown Speaker  01:22
+Great fun. It's always good to kind of have an algorithm tell you one thing. But the computer says one thing, and it's better to be in a situation be like, no, you're kind of right. But I see this, and this is how it should be. Right? Definitely. Definitely. And you worked with it a lot like the entire time
+
+Unknown Speaker  01:41
+while you're at law enforcement done,
+
+Unknown Speaker  01:43
+I did when we split, Whenever we started using, it was probably
+
+Unknown Speaker  01:51
+right before it blend took over. And I can't remember what year that was. But for sure, throughout his
+
+Unknown Speaker  02:00
+his tenure, we use strategic mapping with
+
+Unknown Speaker  02:07
+Why Where's and we also had data, neighbors, the National, So we use both libraries and diverse data.
+
+Unknown Speaker  02:14
+Okay. And would you say made like a positive or negative kind of benefits? How would you rate it?
+
+Unknown Speaker  02:19
+I think that information coupled with with just the knowledge of the officer who's familiar with the area, and the people helped us to be effective in our deployment?
+
+Unknown Speaker  02:31
+Awesome. Perfect. That's, I'm sure the whole goals make everything more efficient.
+
+Unknown Speaker  02:36
+Yes, perfect.
+
+Unknown Speaker  02:38
+So then moving to the questions that is before today, before coming to this session today. Have you ever felt that crime analyses have directly impacted you If at all,
+
+Unknown Speaker  02:50
+I felt crime analysis was a very effective tool and my ability to detect deter crime To prevent crime from happening by having an officer in the right place at the right time. I feel so strongly about its value that I am working with team here at Marquette and with my officers and with MTD to develop a data analysis program for immune PDS Police Department
+
+Unknown Speaker  03:21
+right now, is it just because you see it
+
+Unknown Speaker  03:25
+as the future kind of thing?
+
+Unknown Speaker  03:26
+Or has it like impacted June you need
+
+Unknown Speaker  03:31
+a need for this?
+
+Unknown Speaker  03:31
+Or what's your reasoning behind needing those are working with
+
+Unknown Speaker  03:35
+outsiders or a new team for this?
+
+Unknown Speaker  03:37
+it? It is, if you were to forecast where law enforcement is going in the next five to 10 years, We will rely heavily upon crime analysis and statistical analysis of not just crime that data set, but other data data sets that we have available to us. I know that it's helpful. And it's useful because I've used it in the past. And I've been successful in reducing crime based upon the information that was given through the data analysis. So I know it works
+
+Unknown Speaker  04:11
+perfect. You also bring up the point about other data sets, what other data sets would be able to be used besides just the crime data sets?
+
+Unknown Speaker  04:19
+Here, at Marquette, we have our access control system. So that's the system that houses alarm data or doors around campus. When doors are opening when they're closing, which doors attract people who don't have access with their card, or denied
+
+Unknown Speaker  04:42
+access the doors like just front doors, any doors are just an exit door, you
+
+Unknown Speaker  04:46
+need door with a proximity reader where you need to use your card is is a door that we we have in the access control system. And sure there are other sensors that are indoors that don't necessarily have proximity readers. But we have that that data set. Sure. We also have 1100 cameras on campus. And there has to be a way to mine information from those cameras. Not even not just facial Rec and data, which at some point in time, the majority of our cameras will have that capability. But information I don't know. So we're looking for a particular color car or someone with certain color color. Yes, we can. Hopefully I know we can do this, Use the cameras to identify people with that color clothing or even if it's something as detailed as a particular type of sweatshirt that we would be able to somehow through the cameras to figure out where that person frequency
+
+Unknown Speaker  05:58
+definitely There's a lot going on to I'm over here in the every inch on campuses kind of covered and you guys see everything anyway. Just about just about that. That helps me though it helps me feel a lot safer, though being here. Again, thank you for that too. Welcome. So assume a specific process for crime analysis was implemented in your area, either where you live or where you work such a it directly impacts you, without the law Without you like having the law enforcement aspect of just directly impacts you. How important would it be to have some level of understanding of power works
+
+Unknown Speaker  06:37
+Even if it wasn't directly related to my job personally, I would want to understand ever ring doorbell And There are a variety of different things that you could do with
+
+Unknown Speaker  06:48
+With that doorbell And the different
+
+Unknown Speaker  06:54
+type of information which is all video but you could still mind that, that that that that system holds. And knowing more about it personally, I think is something that's interesting. Sure.
+
+Unknown Speaker  07:06
+And the ring doorbell is slow doorbell you kind of like press and gives you live feed doorstep, okay.
+
+Unknown Speaker  07:11
+Yeah Yeahs motion detection. So as soon as someone comes within a parameter that you set, then the video starts. So Okay,
+
+Unknown Speaker  07:19
+going back to the whole crime analyses, then if it does directly impact you, you would still kind of be interested in wanting to know about that, then absolutely. What information you think is important to know about it.
+
+Unknown Speaker  07:35
+It's important to know how to interpret, You know, the information that you receive from the analysis, you know, simply giving numbers or I've experienced this previously, names of people with no, no context, no interpretation, Is that helpful. So, you know, going beyond just simply mining the data and giving run numbers, but some interpretation that goes along with that is helpful.
+
+Unknown Speaker  08:06
+You bring up the names is just because you've seen the names before you recognizing a pattern, or what do you mean by the names are big.
+
+Unknown Speaker  08:14
+So it One algorithm that Milwaukee had is it can mine our report writing system to say there was a particular hotspot area, and it could mine information from our field interview system, where if there was someone that was stopped in that hotspot area, Like say five is a number that, you know, we think is unusual five times or more, they would spit out names, it would give you names of who those individuals are. And those individuals because of their contact with police are probably likely to be engaging in some type of activity that is unlawful. Okay. Okay, that makes sense.
+
+Unknown Speaker  09:00
+So, assume someone with more expertise vouch for the efficacy or the efficiency and the fairness of a given process of crime analysis? How important would it be to you then to still have some understanding if at all of how the crime analysis process works?
+
+Unknown Speaker  09:19
+I think it's important for me and for folks in law enforcement to understand how the system works, because we want to be transparent. We want to be able to address concerns from our constituency, especially as it relates to technology and the use of technology. And you know, this huge controversy about big data and you know, what's happening with big data? So The more information you have, the more you know, the more educated you are, I think the better response you can give to community members and others that are concerned about our use of data,
+
+Unknown Speaker  09:57
+Like how to use and what the outcome is
+
+Unknown Speaker  09:58
+Exactly. Exactly. What other
+
+Unknown Speaker  10:02
+kind of information do you think is important to know about that process, then? Even if someone's still vouching, like they have all the degrees, all the qualifications, what information is important to know?
+
+Unknown Speaker  10:16
+I don't know exactly how you would do this, but
+
+Unknown Speaker  10:20
+some sort of assurance that the information has been ethically compiled.
+
+Unknown Speaker  10:28
+And that there is a transparent process.
+
+Unknown Speaker  10:33
+If there are any questions you have about how the data was compiled, or where the data sets come from, you know that that's another concern. People are very particular about their privacy of their personal data. So transparency about where that information comes from, I think is really important to know. And to be able to explain to others, the frontline,
+
+Unknown Speaker  10:57
+definitely.
+
+Unknown Speaker  11:00
+So kind of speaking on that process, The idea about where data is coming from, And the whole situation. Do you believe that weather data was sourced legally and fairly impacts the quality of the data?
+
+Unknown Speaker  11:17
+I think, as it relates to using it in a court proceeding, And for law enforcement use of it, it has has to be to be gained from legal sources, like
+
+Unknown Speaker  11:33
+I'm trying to think of places where,
+
+Unknown Speaker  11:36
+like data from hospitals, you know, about patient information that violates the HIPAA law, I wouldn't want us him up to use any data from that data source, because it is prohibited by law to do that.
+
+Unknown Speaker  11:53
+Even if its own maybe like true data, very trustworthy. It just goes against the law. So it's affects the quality.
+
+Unknown Speaker  12:03
+Yes, there there is a law governing the use of that that particular data set, I would not want any algorithm to to pull that from my officers to use the phone.
+
+Unknown Speaker  12:15
+Phone. No. What about if it was sourced on ethically? Does that affect the quality of the data?
+
+Unknown Speaker  12:22
+I think so. I think so if it was sourced then ethically, then the results going to be unethical. Okay. and law enforcement shouldn't be using that data, even though it may be extremely helpful.
+
+Unknown Speaker  12:36
+We just we shouldn't do it.
+
+Unknown Speaker  12:38
+For the Kairos. To what against like morals or
+
+Unknown Speaker  12:42
+it? Well, yeah, definitely. It goes against morals, however, we are, you know, sworn to uphold the law. Yeah. And if you're violating it, in order to, you know, your end goal is to arrest the bad guy, but you're using bad data in order to do it, or unethically gained data. It doesn't make the end The end result. Right. Okay. Definitely.
+
+Unknown Speaker  13:07
+So How would you feel if hack data was used by professionals? Like what kind of context would you condone the usage of this data? If at all,
+
+Unknown Speaker  13:16
+hacked, hacked data is is unethical, and I couldn't condone it in any way, shape or form? Okay, Definitely.
+
+Unknown Speaker  13:26
+So, if you were asked to voluntarily give personal information, maybe more specific location details or more specific demographic details, to the local law enforcement solely for the only purpose of better training their data, and algorithms for crime analysis, What would your response be for this,
+
+Unknown Speaker  13:45
+As long as we can legally provide that information? I'd be fine with it. Law enforcement, we share information, we have a shared goal, to keep the community, our community, our specific constituencies and community safe. So we do share information. And again, as long as it was ethically derived, than I wouldn't have a problem sharing it.
+
+Unknown Speaker  14:09
+So For now, What if this was playing the hypothetical? What if this was like a mandatory kind of situation where law enforcement like Milwaukee Police Departments come into everyone's doors and saying, we'll need your location services on the whole time will be kind of tracking following you, but only will have this information, just to make sure everyone's staying safe and no one's doing any crimes? What is your response be for them always following your location?
+
+Unknown Speaker  14:38
+I don't think that that's a reasonable or ethical thing to do. I don't think that our constituency here in the city of Milwaukee would be agreeable to that.
+
+Unknown Speaker  14:47
+Okay. Just playing the hypothetical here. Just tell us definitely, definitely. And then how would you feel if data from traffic tickets was used and collected by the police in order to systematically place police along the highways?
+
+Unknown Speaker  15:02
+I do believe that, that happens. Yeah, I'm not sure if it actually comes from the citations, It probably comes from the computer dispatch systems, which officers, when they go out with the traffic stop, they tell the dispatcher where they are. And if they issue a citation, there's a code for that. So I think the information wouldn't come from the ticketing system, it would come from the computer, Computer dispatch system
+
+Unknown Speaker  15:33
+knows the computer telling people or the officers where to go, or someone dispatching them to that location
+
+Unknown Speaker  15:39
+is someone Well, either They can be dispatched, say a citizen calls and reports that there is reckless driving and the certain areas Officer responds, Find someone engaging in that activity issues, the citation, or you can have an officer who see something and it's self initiated activity, and then he or she decides to stop the person and issue them a citation. Okay.
+
+Unknown Speaker  16:02
+For Now, from the whole computer dispatch system, does that actually make a difference? Or what actually tracking the data and pushing them out? I'm still trying to grasp the idea, would that make more of a better difference? That makes sense?
+
+Unknown Speaker  16:20
+It? If It is, it is helpful, I think it's more helpful coming from the computer dispatch system than coming from a system that simply log citations, because citations can be issued at a variety of different places, and doesn't necessarily tell you that where the citation was issued is the place where the problem occurred, You, I think, have a better chance of understanding the problem associated with the place from the dispatch system.
+
+Unknown Speaker  16:50
+Okay. And again, the dispatch system, Not computer generated
+
+Unknown Speaker  16:56
+it? Well, it doesn't automate, it doesn't automatically have its own dispatch officers, you have a human being taken a look at the screen, different calls for service. And that human makes the decision of whether or not they feel officer should respond to whatever is going on.
+
+Unknown Speaker  17:14
+Ok. So again, I'm just trying to get an idea. Computer is generating these responses. And you have another officer sitting there and the officers then telling the
+
+Unknown Speaker  17:25
+artist dispatching the other officer,
+
+Unknown Speaker  17:28
+is that correct? Yes. So The way it works is you'll have a call come in through either the emergency or non emergency system. A tele communicator will talk to that person trying to figure out what's wrong, there will be some sort of code for whatever the issue is, say, you know, it's drag racing. And then there's a code for drag racing, then another human being a dispatcher will take a look at the code or the computer message from the first person that took the call, and then decide based on the information, which officers best suited to go and take care of that and who's available. And then they'll call you officer in the radio and say, Hey, we have this assignment. And please go and take care of this officer will respond.
+
+Unknown Speaker  18:13
+Okay, I think we touched on this before that, instead of the computer telling, which all sort of go directly, it'd be better to have kind of like a middleman or someone reading the output and interpreting it than telling the officer where to go.
+
+Unknown Speaker  18:29
+Now the computer system, at least years ago, I think no walkie has a new system now. But the system would suggest which squads They think would be best suited. But The dispatcher the human, the human, the person will know who the officers are, and they will know truly of the numbers, who is the best person
+
+Unknown Speaker  18:50
+to wish and again, or the background knowledge. Okay,
+
+Unknown Speaker  18:53
+right. Definitely. Right.
+
+Unknown Speaker  18:55
+And was that the computer where we suggested the which squad to go? Was that accurate at all? Or would that have always have to be changed it?
+
+Unknown Speaker  19:07
+It, it would be accurate, in that the officer that is suggested is either in close proximity, or it is their area? Okay. So it's accurate in in that respect, but in determining the best person to go and take care of that, that I don't think the computer can determine.
+
+Unknown Speaker  19:28
+Definitely. So it's just a matter of responsiveness though the computer was
+
+Unknown Speaker  19:31
+Yes, sure.
+
+Unknown Speaker  19:34
+Definitely.
+
+Unknown Speaker  19:35
+Well, that's all the questions I think I have to ask and again, thank you for coming in.
+
+Unknown Speaker  19:40
+Oh, you're a lot. You're Welcome.
+
+
+Transcribed by https://otter.ai

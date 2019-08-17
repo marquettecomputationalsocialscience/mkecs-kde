@@ -1,0 +1,218 @@
+Unknown Speaker  00:00
+So I am here interviewing participant number 29. And before I actually started the interview, just have a quick question like, have you ever seen anything like this before? Like a predictive policing?
+
+Unknown Speaker  00:13
+Um, I took an introduction to criminology class. And Professor I had it with taught a class that goes more in depth on this. So, other than her, like talking about that Not really.
+
+Unknown Speaker  00:29
+Okay. Okay.
+
+Unknown Speaker  00:33
+So then, like what kind of background you have in like, crime analysis, you'd say just like some technical Yeah, background. Okay. Okay. Moving to the interview, then, is before today, before actually coming into this session? How if ever have you felt that crime analyses have directly impacted you?
+
+Unknown Speaker  00:56
+Um, I think it's a lot of behind the scenes stuff, like, all of this has to be studied and taught to the people that are like, not only police but like dispatching police and emergency responders. And so me personally not so much more of like, the environment around me, okay.
+
+Unknown Speaker  01:19
+When you say this has to be taught to everyone, what do you mean by this? Like, what exactly is this,
+
+Unknown Speaker  01:24
+um, I think this data has to be recorded, analyzed, look for trends in here is a hotspot. So that means having more policing in that area, to affect the safety of that area.
+
+Unknown Speaker  01:40
+Okay. So then you also touched on, like, first responders, was it? Do you mean, like paramedics? Or what do you mean by first responders
+
+Unknown Speaker  01:50
+kind of I think they go hand in hand. Like, if you are having crimes in a certain area that like, kind of, like physical crimes, having that awareness from the emergency responders to being like, we might need to be closer to this area, keep this area like, in mind?
+
+Unknown Speaker  02:17
+How important is it to you to understand how crime analysis algorithms or the software actually works?
+
+Unknown Speaker  02:26
+I think it's always fine to have an understanding of it. does it impact me personally? Like, do I have to have a good grasp some of this? Probably not, but it's comforting to know that people do. Okay. So not personally in that. I need to study this, but personally as in, I'm glad someone does
+
+Unknown Speaker  02:47
+open. Okay. Do you think there's there's any, like specific important information to know about this? I just
+
+Unknown Speaker  02:54
+think it's fascinating. I think I'm being able to like, be somewhere physically, and then be able to look at it on a map and say, like, this is a hot spot, or it's not like this is the kind of trends in this area is super just interesting to know.
+
+Unknown Speaker  03:13
+Okay. Okay. I don't know if I
+
+Unknown Speaker  03:16
+answered the question. Oh, you did?
+
+Unknown Speaker  03:19
+Assume that like a specific process for crime analysis was implemented in your area, either, like where you live? Or where you work, such that it's use? Does, like directly impact you? Yeah. How important would it be to have some kind of understanding about this process, like how it works?
+
+Unknown Speaker  03:37
+I think that's important. I think that if something like this was implemented in like a self reporting thing, so like, if that's like an app on your phone that like, hey, this happened to me here. Like, I think that would be incredibly useful. I just had the idea of like, like ways, like you can report like, there was an accident I had or like, there's Cava had like, that makes you feel more secure, like while you're driving. So I would assume that this would be the same way?
+
+Unknown Speaker  04:11
+What if it wasn't like a crowdsourcing kind of thing? What if the police were implementing this? Okay, it's still directly impacts you like they got the data. And all
+
+Unknown Speaker  04:20
+right. I don't see any downside to that at all. Downside still? Yeah,
+
+Unknown Speaker  04:23
+definitely. Yeah.
+
+Unknown Speaker  04:26
+Either way, like in the situation that this process does directly impact you have and what specific or important information would you like to know about it? Um,
+
+Unknown Speaker  04:37
+I think I'd like to know how the data was collected. Um, I think there's some importance to like, Yes, they're tracking crimes here, but making it somewhat anonymous. So that, like, if they were falsely accused crimes, like, it's not like hurting someone, or so yeah, finding out about like data collection, I think would be my biggest question. So,
+
+Unknown Speaker  05:11
+you kind of touched on this a little bit before, I assume that someone with more expertise vouch for the advocacy or the efficiency and the fairness of a given process of crime analysis? Yeah. How important would it be to you to have some kind of understanding of that process? So like,
+
+Unknown Speaker  05:32
+if Can you restate the question? Yeah, sorry. Yeah.
+
+Unknown Speaker  05:36
+So say, say Person A went to school, he may or may not have degrees are worked on this project. Yeah, the crime analysis algorithm, but he vouches for the efficacy and the fairness of it. Would you still want to have some kind of understanding of
+
+Unknown Speaker  05:54
+I process Think so? Yeah. I'll come. Why. Because sometimes, I don't know. People can be all talk. Like, they can be like, I have a degree in this. So I advise this program, but having your own information before you just pick up something because someone else told you to is always important.
+
+Unknown Speaker  06:12
+What if he did have the degree? Would you still want to have the afternoon? Yeah, I think so. Even if you did have the degree, and he was very qualified to say, why would you still want to have an understanding?
+
+Unknown Speaker  06:22
+Um, because I think there's always some benefit to being able to see something with their own hands and like having that knowledge yourself to be like, here's a qualified person that endorses this, but also, like, I have my own thoughts. I make my own decisions. Like,
+
+Unknown Speaker  06:38
+definitely, definitely. So whether he does have the degrees or not, but he's still vouches for the advocacy. So any specific important information you want to know about this algorithm then?
+
+Unknown Speaker  06:58
+Good question.
+
+Unknown Speaker  07:02
+Feel free to kind of like ramble on. Yeah.
+
+Unknown Speaker  07:04
+I guess like why, like, what about this specific program? Like stands out to you that you feel so strongly about it? Like, do you think this works better than different programs? Like? Yeah, I guess what about it makes it like useful?
+
+Unknown Speaker  07:23
+Definitely, definitely. So do you believe that whether data was sourced ethically, legally or fairly set actually impacts the quality of the data itself?
+
+Unknown Speaker  07:37
+Yes, I think ultimately,
+
+Unknown Speaker  07:45
+it's more fair. However, if it's ethically sourced, I feel like things might slip through the cracks somehow. And I know that like, obviously, that's how it should be. But there's crimes all the time that go unsolved, and can never be proven. And that doesn't mean they didn't happen, but you just couldn't legally say they happened. So is it right? Yes. Does it capture everything? I don't think so. Okay.
+
+Unknown Speaker  08:20
+Then
+
+Unknown Speaker  08:24
+what cases? Would you condone the use of maybe it was like unethically source data done?
+
+Unknown Speaker  08:33
+Never like, I mean, like, I want to say yes, but can you? Absolutely not? Yeah.
+
+Unknown Speaker  08:40
+Okay. So kind of touched on the subject. How would you feel if, like,
+
+Unknown Speaker  08:45
+hack data was used by professionals? Right. Yeah,
+
+Unknown Speaker  08:50
+I think that would completely turn me off from a company or whoever was doing that. Yeah.
+
+Unknown Speaker  09:01
+Other So are there any kind of contexts that you would condone the usage of hack data? Or? Like,
+
+Unknown Speaker  09:14
+I want to say no, but like, I don't know, if someone's like, threatening to bomb the United States. And like, they have that information on their computer. And the US government wants to hack in and find that, like, extremes like that, like, Yeah, but like, legally, no, like, you can't
+
+Unknown Speaker  09:34
+get definitely Um, so? Yeah, yeah,
+
+Unknown Speaker  09:37
+definitely. Definitely.
+
+Unknown Speaker  09:41
+So if you were asked to voluntarily give personal information, maybe it was more specific locations, like a specific address of where you live or where you work? Yeah. Or more specific demographics. Yeah, to the police, for the only purpose of better training their data and their crime analysis and algorithms. Would you be willing to give away your information like that?
+
+Unknown Speaker  10:05
+I totally would, you would. I think like a good example of this is that, like, whether it be like your phone, or like Alexa, or like, whatever. A lot of people are, like super skeptics, like they're stealing your information. And my thought is like, I don't have any dirt. Like, I'm 21 years old. I'm a college student, like, if that's going to improve, like, the ads that I see when I'm scrolling through Facebook, and it's more in tune to what I want to see then. I'm glad it is like if this is helping, I'm glad it is. Yeah, definitely.
+
+Unknown Speaker  10:38
+Then imagine it was a planet hypothetical, but it was not a voluntary situation. Okay, police are requiring this information for you still for the purpose of better train radio and their algorithms. What would your response be for the I
+
+Unknown Speaker  10:50
+think that's a completely different story if I did not give consent to it, absolutely. Okay.
+
+Unknown Speaker  10:55
+Why would you not Why? Why do you think differently for those? Um,
+
+Unknown Speaker  11:03
+maybe, I don't
+
+Unknown Speaker  11:05
+know. That's okay. Yeah.
+
+Unknown Speaker  11:08
+If it's if the police are using it in no way that's not against my harm. I guess that's no different than the example I just gave about my phone stealing my information. So maybe I am okay. Yeah, that's fine. As long as it's like simple stuff like that. Like, like demographics and stuff like that. Yeah,
+
+Unknown Speaker  11:29
+only for the purpose of making say like the area better right. Work. Yeah.
+
+Unknown Speaker  11:33
+Then Yeah.
+
+Unknown Speaker  11:36
+So then I'm
+
+Unknown Speaker  11:39
+assuming like this information could be used to improve like the efficiency of law enforcement, man, why would you think that some people may want to withhold this information or keep it private?
+
+Unknown Speaker  11:53
+Because like they're either ashamed they're hiding something they just don't think it right that it's right there anti police like some things like that, probably. Yeah, definitely. That's fun. Then
+
+Unknown Speaker  12:08
+how would you feel if data from traffic tickets was used to kind of systematically place police along the highway?
+
+Unknown Speaker  12:15
+Okay. I would personally be very upset. Like as someone got, like, speeding tickets before like, I just want to get away with it. Like, but like, if it was like stopping people driving at dangerous speeds, then like, I get over that little personal like, Yeah. How come?
+
+Unknown Speaker  12:36
+Again, you said you will you be upset if they were kind of place in the place along the highways? Why would you be upset at
+
+Unknown Speaker  12:43
+I guess my like, connotation was that of that was like, like, you know, like when cops like sit and like sneaky, like blind spots, just like looking to write tickets. I guess that's the way I processed it as not as like a here's an actual, like, efficient use of their time was like my initial reaction. So yeah.
+
+Unknown Speaker  13:03
+What do you think could be like a better use of the time that instead of Oh, and the traffic tickets?
+
+Unknown Speaker  13:10
+I think it is that was just my thought out reaction versus my initial reaction. Okay.
+
+Unknown Speaker  13:19
+Then. Yeah,
+
+Unknown Speaker  13:21
+that's pretty much all the questions did. Did you say that you were criminology major?
+
+Unknown Speaker  13:26
+I was not. Oh, I came in freshman year. I was planning on it. And yeah.
+
+Unknown Speaker  13:32
+What's your What's your major now?
+
+Unknown Speaker  13:35
+I am majoring in digital media and I have a minor in psychology. So okay. Yeah.
+
+Unknown Speaker  13:39
+But you you have taken like, the one week course. Yes. vaguely. No. Yes. crime. Yeah. Yeah. Just wanted to get that straight from right now. Yeah.
+
+Unknown Speaker  13:49
+Thank you. Yeah,
+
+Unknown Speaker  13:51
+I think that's all the questions that we have to ask again, first, thank you for coming. Absolutely.
+
+
+Transcribed by https://otter.ai

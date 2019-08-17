@@ -1,0 +1,266 @@
+Unknown Speaker  00:00
+Yeah, so the point of this interview is just to get some merchants of contacts. So we can sort of better understand, like your thought processes and your motivation and just really, you know, put put the data in context. So it's not just numbers, right? So don't worry about rambling. Don't worry about talking too much, just and feel free to just, you know, talk through your your thought process, your motivations, everything.
+
+Unknown Speaker  00:31
+So we have you as participant number 50.
+
+Unknown Speaker  00:35
+And we understand that you do have you have a law enforcement background. So what what extent Have you worked with our been in law enforcement?
+
+Unknown Speaker  00:46
+I did the police academy in 2009. And I've been working in law enforcement or security in various forms since then. So okay, about 10 years of experience. Okay.
+
+Unknown Speaker  00:56
+So you would say you have like an extensive background on the law enforcement side? Yeah. crime. Yeah. side. Okay.
+
+Unknown Speaker  01:04
+Let's say that, would you?
+
+Unknown Speaker  01:09
+How would you rate your sort of like, technical background with, you know, data analysis? Because I know the you mentioned that you were working with Python earlier today.
+
+Unknown Speaker  01:22
+Yeah, I'm actually at MEP, I was doing some other data analytics before we changed dispatching programs. Okay. But like I was, I was physically taking the call data and the and the numbers and putting it all into Excel by fucking hand, because the program wouldn't export itself. And then like extrapolating, and graphing all that to show, actually, the time trends for when our calls were and stuff like that, okay, monster or time of day, that sort of thing, where we're different calls were more
+
+Unknown Speaker  01:54
+likely to happen. So you sort of
+
+Unknown Speaker  01:57
+on the technical side, as an amateur developed, like, a familiarity with data analytics, yes. You say you have a pretty strong background with like, both?
+
+Unknown Speaker  02:08
+Both sides of the
+
+Unknown Speaker  02:10
+gym? Probably. Okay.
+
+Unknown Speaker  02:12
+That's very interesting. Have you ever used any, anything? Like the software that we know today?
+
+Unknown Speaker  02:19
+No. Okay.
+
+Unknown Speaker  02:20
+Nothing like that. Okay. Nothing that was like, geospatial like this or
+
+Unknown Speaker  02:25
+no, because all the data that I had was strictly related to our patrol zone and our gas area. So it was the area is so small that it's almost like it's, it's too small to Yeah, mapping.
+
+Unknown Speaker  02:40
+So location isn't as important to you guys. Since it's all a couple of blocks,
+
+Unknown Speaker  02:46
+right? For what I was doing. It was all it was more, what time of day? Do we need more officers? Okay. Okay.
+
+Unknown Speaker  02:51
+So you are, you are a lot more temporal. Cool. So
+
+Unknown Speaker  02:58
+our first question is,
+
+Unknown Speaker  03:02
+kinda already covered this, but
+
+Unknown Speaker  03:05
+how have you felt that crime analyses have directly impacted you,
+
+Unknown Speaker  03:10
+that's why I'm doing grad program I'm doing.
+
+Unknown Speaker  03:13
+Because working on that project made me see that I actually really like looking at that sort of thing. So I'm trying to get into that analytics. So okay.
+
+Unknown Speaker  03:21
+And I'm
+
+Unknown Speaker  03:29
+just gonna just focus on asking the question, because it's a lot to do both. But, um, so you've been, you've been directly impacted, and that it's affected your career choice. But how have you felt that it's impacted like your personal life in any way? Like, if you were to, if you were to ignore the part of your life where you know, you worked, where you worked, and you're going to school for it, but like, as you're living your life,
+
+Unknown Speaker  04:01
+I mean, doing the data analytics and knowing those things, it, it kind of gives you an idea of when some things are more likely to occur, but you also take into effect like, Oh, we have more robberies happen in the evening, because that's when all the students are wandering around, and they're not in class. So it doesn't matter as much in that aspect. Like, the I know, crimes are going to happen when more people are around. Yeah. So it doesn't affect my life so much. Except that if I'm, if I'm in a really crowded area, when somebody might get robbed over here, maybe or something like that. Yeah.
+
+Unknown Speaker  04:37
+The statistics say the statistics
+
+Unknown Speaker  04:39
+say there's more people, so somebody's probably going to get their pocket picked or something. Okay, or their phone snatched. And then they're going to hold but
+
+Unknown Speaker  04:48
+interesting. Okay, so
+
+Unknown Speaker  04:51
+how important is it to you to understand how crime analysis algorithms or software work? What information do you think is important to know about them?
+
+Unknown Speaker  05:01
+Well, I think it's important to know how it all works together, just because it is really tricky. I mean, you don't you want to get into things like how much of this is racially motivated? Or how are these calls coming in at? A big part of it for me is how was the call actually generated? Did somebody call in and go, hey, there's this dude over here who's suspicious. And then when you ask them, why they're suspicious, they can't give you a reason, which usually means walking while black, which for me, PD means you still have to send officers, we have to send somebody no matter what, but then it makes the makes the department look racist, because we're going to check it out black dudes, because people are calling in and telling us they're suspicious. So that's a big thing. Like I would say, going into algorithm, stuff like that. And, like, how much of it is officer generated versus coming in from somewhere else? Okay,
+
+Unknown Speaker  05:54
+and a
+
+Unknown Speaker  05:58
+officer generated would be like, an officer sees something and says, Hey, this is shady. I'm going to go check it out. Okay,
+
+Unknown Speaker  06:03
+so officers see someone doing something radios in? Yeah. And dispatch logs in. Right versus student or civilian type. see something calls it in, you log it and send an officer. Yeah. Okay. Just want to make sure we have that clear. Yeah,
+
+Unknown Speaker  06:23
+sorry. No worries.
+
+Unknown Speaker  06:24
+Um, it's, it's a really like interesting, like, point of view, thumb, just as, unlike hear about, like how these things work from like a dispatch side.
+
+Unknown Speaker  06:39
+So we, because we don't want to send people to calls like that. We know when somebody calls like, no, you're just racist, and you don't like the color of that person, or you don't like how they're dressed or you don't like that. You think they're a male, and they look like a female or whatever. We have people who call it and they just look like they don't fit. Okay, what does that mean? What are they doing that suspicious.
+
+Unknown Speaker  07:00
+And so when someone calls these and you're obligated to the policy,
+
+Unknown Speaker  07:05
+I mean, I'm not a dispatcher anymore. But the policy when I was there was send them out. If somebody calls it in, we at least send an officer around a check. And the officer can make the call whether to go talk to that person or not. Okay, usually they do just to do a meet and greet sort of thing. And then they move on, but okay, like dispatchers and allowed to make that decision for the most part.
+
+Unknown Speaker  07:26
+Cool. So so you see a lot of issues with like the data, like the origin of if we were to count these dispatch calls as like, the data source?
+
+Unknown Speaker  07:36
+Yeah, like, I would definitely look at it and see if, because it's different if an officer like I said, sees it, or if one of the dispatchers at me PD is looking around on the camera and goes, Hey, I've been watching this guy for five minutes, he looks super shady, go check them out. Okay, versus somebody just calling and they can't articulate why. That's not to say that colors are terrible. And they never know when something is bad, like. So they certainly call in things that matter. Yeah, sometimes, but they also call in things that it's just it's it's nothing different levels of
+
+Unknown Speaker  08:09
+reliability. Yeah, the data and the application you're using today. That was all that data was from court cases. Right. So it was things that were called in or spotted, led to and harassed, right, led to a court case, whether it's dismissed or found guilty or anything. So if you could infer for our purpose of an application based off of like, court data, would you have the same sort of like, concerns about the the data origin?
+
+Unknown Speaker  08:45
+I would say yes, if you're just getting it from court data, because that's, I mean, you still don't know what initially generated them to be arrested or given a ticket or whatever, to get into the court system. Okay. And once they're there, then it, you know, it's rolling in the bureaucracy. Okay, so my question is usually, how did it get to that point? To start with? Cool. So,
+
+Unknown Speaker  09:10
+um,
+
+Unknown Speaker  09:12
+besides data? Like, how reliable is that data? Would there be anything else that you think is important to know about the algorithms or the process or the software?
+
+Unknown Speaker  09:25
+Um,
+
+Unknown Speaker  09:27
+that's probably the most important thing I can think of right now. But, like, if, if I looked at it more, if I knew more about the algorithms, I could probably point two questions on it, like, okay, to say, you know, this might weigh more heavily than something else, but I'm not familiar enough. So you would,
+
+Unknown Speaker  09:42
+you would assume there's a, you know, but you would, would you want to know, like, what the algorithm was? Sorry, words hard. Would you want to know how the algorithm works so that you could more informed? Like, ask those questions?
+
+Unknown Speaker  10:04
+Yeah. Yeah. Like, if I knew more about it, if I could actually analyze the algorithm and go, okay, you know, why is x being weighed more heavily than
+
+Unknown Speaker  10:14
+or whatever? So, so you would like to see, would you like to see the code behind it? And like the math behind it?
+
+Unknown Speaker  10:25
+Or that might that sort of thing might help or, or even just? I don't know, because a lot of the factors, I think, happened before you even get that data into the court system? Like I said, Yeah, I think that stuff is happening. And that has an effect before it even gets as far as getting into the court system. Okay.
+
+Unknown Speaker  10:46
+So our next question is,
+
+Unknown Speaker  10:50
+assume that a specific process for crime analysis was implemented in an area that you live or work, such that it would directly affect you in your, you know, daily life. And I guess for you the assumption, because we know, you've worked with this before, the assumption would be more of if it was in the neighborhood where you lived, you knew about a crime process, a crime analysis process. Being in that area, what would you want to know about that process? And, like, how important would it be for you to understand how it works?
+
+Unknown Speaker  11:33
+If it were, like, where I live or something like that, I think the biggest factor for me would actually be What crime specifically are they looking at? Like? Are they looking at a specific subset of crimes? Are they looking at crime overall? And why are they looking at my area? Like is, is my area a higher percentage for those sorts of crimes? Or is my area a lower percentage? Like, what what are they trying to see there? Exactly. Okay, more from a like, I, I have a six month old at home, like it's, for me, it's more of a safety issue, like, Is there something I need to be concerned about that they're specifically looking at my area for crime statistics? Okay.
+
+Unknown Speaker  12:10
+So you would you would want to know, like,
+
+Unknown Speaker  12:14
+from your point of view, hey, it's cool that you're, you're doing this, but like, what does it mean for my well being? Yeah, you so you care about the safety? Yeah. Okay. And would you want to know, like, how the process works, or more just the findings from it?
+
+Unknown Speaker  12:34
+I would probably be I mean, I'd like to know how they work, how it works, just out of curiosity, but I think the findings would matter to me more. Okay. As long as you know, their methods are not pay, I'm just going to go hunt these people down. Like as long as they're using reputable methods? Or it's, you know, they're taking it from traffic traffic data in the area. That makes sense. To me. That's
+
+Unknown Speaker  13:00
+one of our later questions, actually. I mean, we can actually skip to it since you brought it up. But like, how would you feel if data from traffic tickets was used to allocate police strategically along highways and highways and roads?
+
+Unknown Speaker  13:15
+I'm pretty sure that's already done. And it makes sense to me, you put the officers where, you know, there's more problems. I mean, you don't want to then ignore the areas where there's fewer problems, because then your problems just shift along. Like they they stopped where there's a ton of cops, and then they move on, like, highway 100 used to be a huge cruising spot. And then they started patrolling it like mad. And now it's not a cruising spot. But I lived at 120, fourth and Oklahoma for a while. And that was a big drag racing spot, because nobody was looking over there. So okay, it says same sort of thing. Like, I'm fine if they want, if they look at traffic patterns and stuff like that, that makes sense. Okay, that's easy data to collect. Cool.
+
+Unknown Speaker  13:59
+Going, going back,
+
+Unknown Speaker  14:03
+assume that someone with more expertise in you, presumably on like the data analysis side, were vouched for the efficacy and fairness of a given process for crime analysis. In that case, what would you want to know? And how important would it be for you to understand how the process works?
+
+Unknown Speaker  14:31
+So this is somebody who's who's known to be more like an expert in the field sort of thing.
+
+Unknown Speaker  14:37
+Yeah, a known expert with proof with, you know, credibility. I,
+
+Unknown Speaker  14:42
+I'd still like them to probably explain what makes it credible, and what makes it good data versus bad data, or the collection practices or whatever. Just to make sure because anybody can be people can be swayed or can take another person looking even if you're an expert, it can take another set of eyes looking at something going, No, this isn't good. Or, or backing you up sort of thing. It always helps to progress. That is I think, okay,
+
+Unknown Speaker  15:08
+so you would you would still want explanation?
+
+Unknown Speaker  15:13
+Would you want to know, like, the inner workings of the algorithm Really? Or just would you want someone who's moralizing auditing this expert? Um,
+
+Unknown Speaker  15:26
+well, I'm thinking more along the lines, like a, like a standard scientific review of somebody go through and analyze their methods and their results, like analyze the whole thing. Okay.
+
+Unknown Speaker  15:36
+Cool. Um, do you believe that weather data was sourced ethically, legally and fairly impacts the quality of the data itself? and How so?
+
+Unknown Speaker  15:48
+Oh, yeah, it definitely does. I mean, if you're, if you're not collecting your data ethically, in in a fair manner, everything's going to be skewed. Okay, you're not you're not getting true results, you're getting the results that you want, rather than, okay, what's there
+
+Unknown Speaker  16:04
+necessarily, so people that you wouldn't trust the collectors
+
+Unknown Speaker  16:09
+know, to? Okay, I'm not if that was a known thing.
+
+Unknown Speaker  16:14
+And when you say skewed, what would you? Could you elaborate on what you mean, mean by that?
+
+Unknown Speaker  16:20
+Well, you're going to be trying to find the data that fits the results, rather than
+
+Unknown Speaker  16:26
+fitting the results to your data. Okay,
+
+Unknown Speaker  16:28
+so pushing an agenda? Yeah. Okay. Would there ever be like a situation where you would condone using illegally or unfairly source data? Like if there was, you know, data that was hacked? Would you condone using data? Would you think there's some situations where it's okay,
+
+Unknown Speaker  16:51
+hacked data gets goofy? Because it depends on where it's from. And if you can fair like, okay, you have this hack data, but can you prove where it's actually from? Can you prove that this data is actually accurate? Or reflecting what it really is? Like, there was just I think I saw something yesterday that like, Alex Jones was supposedly sending child porn to people, but the FBI is even saying, No, he got hacked, that's not him. Like he's a horrible excuse for a human being. But you still need to be able to back up your claims. Yeah, something is coming from. So.
+
+Unknown Speaker  17:32
+So you wouldn't think that it's reliable enough?
+
+Unknown Speaker  17:36
+Yeah, probably not. Okay.
+
+Unknown Speaker  17:37
+Um,
+
+Unknown Speaker  17:41
+if asked to voluntarily give personal information, such as, like your location where you live, some demographics, to law enforcement for the exclusive purpose of better training data for crime analysis algorithms, what would be your response? And what would be your reasoning for that?
+
+Unknown Speaker  18:04
+Well, I don't care, I'd give them that information. But I'm also a straight white female. So I statistically have very little to be concerned about. But I don't really care if the police have my information. They already have it. I have a driver's license. So the DMV already has my information. So it's not like me expressly saying yes, you can have this is any different from them having it already,
+
+Unknown Speaker  18:28
+but you would you would be comfortable checking a box that lets them centralize all of it. Yeah, I'd have with that. Here's a file on participant number 50. Right. Okay. What if, instead of just your background, stuff that's already public record on driver's license or whatever? What if it said they wanted access to your phones, location tracking, and order to be able to create, like some big heat map of where the most population is? Because as he said earlier? Well, as I said earlier, higher population more likely to have crime there.
+
+Unknown Speaker  19:13
+Yeah. But I wouldn't be I don't want somebody tracking me all the time. I mean, I try and turn that sort of stuff off as much as possible. I know that most of the informations already out there. I just try and keep myself as private as I can be. If information is already out there, that it's out there, and if somebody really wants your data, they're going to get it anyway. Okay,
+
+Unknown Speaker  19:36
+well, you're not going to facilitate
+
+Unknown Speaker  19:39
+probably not with like somebody giving somebody my location.
+
+Unknown Speaker  19:42
+No, okay. Um,
+
+Unknown Speaker  19:46
+we already did the traffic data. We already we already did that question. You totally thrown me off my rhythm. Um, no, it's fine. Is there Charles or anything? I'm forgetting after the traffic data one. Because I believe that is our last question. But I'm everything off. Yeah. I'm well thank you for coming in. We're gonna pause this
+
+
+Transcribed by https://otter.ai

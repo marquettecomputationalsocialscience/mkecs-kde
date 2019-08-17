@@ -1,0 +1,161 @@
+Unknown Speaker  00:00
+So we're here with participant 37. And the first thing we're going to ask you is, do you have any background with like, crime, law enforcement and criminal analysis?
+
+Unknown Speaker  00:14
+No, I do not. Okay.
+
+Unknown Speaker  00:16
+And do you have any background with like, data analytics, or programming or these kind of things. Um, I took a course my first semester, junior year, I learned a little bit of programming, but basic minimum, so, okay.
+
+Unknown Speaker  00:31
+So you've never really interacted with anything, like the application that we had here? Okay. So you would say that you don't, you don't really have like a super strong background in this. Awesome. That's just good to have, you know, cleared up, because we're trying to understand people how people of different backgrounds see this. So it's good to just know where everyone stands. So despite not having a huge background with this, how have you felt that a crime analysis has directly impacted you? If at all?
+
+Unknown Speaker  01:07
+I don't think it has directly impacted me, but I do see the benefit of it if like, we can use the analytics to, you know, have more policemen out, you know, on campus or whatever. And that could be beneficial, but I haven't seen the direct benefits of it. Okay. So you,
+
+Unknown Speaker  01:21
+you kind of know, it's a thing, but maybe not. It personally interacted with it. Right? Yeah. Okay.
+
+Unknown Speaker  01:30
+So my next question is, how important is it to you to understand how crime analysis algorithms or software works? What information would you think is important to know about it?
+
+Unknown Speaker  01:42
+I wouldn't say it's, like, super important to me, but I guess I would, it would be how reliable it is, and, um, how effective it is to reducing crime rates, that's pretty important
+
+Unknown Speaker  01:51
+to know. Okay.
+
+Unknown Speaker  01:54
+So now assume that you knew a specific type of crime analysis software or algorithm was being implemented in a place where you either live or work or go to school, such that it would, you know, directly impact you. In this case? How important would it be for you to understand how it worked? And what information would you want to know about it? Okay.
+
+Unknown Speaker  02:21
+And I would be more importantly, if I knew that was directly affecting me, I guess the same thing like how effective it was and how reliable it was? And if it was like, if the goal of it was to reduce crime, right, like what the goal of the crime analysis would be? Okay. important to know. Yeah, would you?
+
+Unknown Speaker  02:39
+What would possible goals? Could you think of that wouldn't be to reduce crime rates? Um,
+
+Unknown Speaker  02:48
+maybe you see the like, demographics for each other criminals and see if there?
+
+Unknown Speaker  02:56
+Is that kind of sense at demographics? And yeah,
+
+Unknown Speaker  03:00
+I think that's okay.
+
+Unknown Speaker  03:03
+I'm assume that someone with more expertise than you vouch for the efficacy and fairness of a given process for crime analysis. With that information, what would you want to know about it? And how much would you care about understanding how it works?
+
+Unknown Speaker  03:26
+repeat the last part of that. Sorry. Oh,
+
+Unknown Speaker  03:28
+sorry. Um, how important would it be to you know, to have some level of understanding about how that process works? And what information would you think is important to know?
+
+Unknown Speaker  03:42
+I hate to repeat myself, but it's totally okay. I think all the same thing. Yeah. Just like it. Yeah, how reliable it is. And if it's actually effectively reducing crime rates. Okay.
+
+Unknown Speaker  03:56
+So you would want to know, pretty much the same things in each given scenario?
+
+Unknown Speaker  04:02
+Yes. Okay.
+
+Unknown Speaker  04:04
+Um, do you believe that whether data was sourced ethically legally unfairly impacts the quality of the data itself? and How so? Yeah,
+
+Unknown Speaker  04:15
+I think it does affect it. Because if it's not obtained fairly, legally or ethically, then I wouldn't trust the results.
+
+Unknown Speaker  04:23
+Why wouldn't you trust the results?
+
+Unknown Speaker  04:25
+Can I feel like it would be skewed and skewed in some way to? What's the way manipulate me I guess, to believe in it? Okay.
+
+Unknown Speaker  04:32
+So it would have some sort of bias? Yeah. Okay. And why would you? Why would you think that this sort of, would impact, like, the way that it's being used? or? Yeah,
+
+Unknown Speaker  04:50
+if it wasn't obtained, like, you know, in a proper ways that I wouldn't, would be able to trust it? And I think that would affect my, like,
+
+Unknown Speaker  04:58
+opinion of it. Okay.
+
+Unknown Speaker  04:59
+Um, if asked to voluntarily give personal information, such as, like, your location demographics, like pass criminal records, to law enforcement, for the exclusive purpose of better training data for their crime analysis algorithms, would you do it? And why? Why or why not?
+
+Unknown Speaker  05:27
+Um, I would be willing to, because I would find no, like Harmon releasing that information if it was used to, for this, like, for the benefit, I wouldn't see any harm in it. So I would, okay, what if it was
+
+Unknown Speaker  05:41
+a little less of like, background information, and they wanted to know, like, your, your location habits, they wanted to have, like, you know, we can expect to find you here during these hours. Um,
+
+Unknown Speaker  05:57
+I guess I'd be a little less inclined for location, but the same time I have nothing to hide, so I wouldn't really be. I mean, I wouldn't think it's that much of an invasion of privacy, because I'm just like, I'm just on campus. But so the problem, like if it's use my safety, then I could see, I don't see a harm in it. Okay.
+
+Unknown Speaker  06:12
+Even if it would went so far as to giving them access to your phones like location. Okay. Um,
+
+Unknown Speaker  06:23
+but it would only be used for like the same. Like, would anyone else be given access to just be the
+
+Unknown Speaker  06:29
+local law enforcement personnel?
+
+Unknown Speaker  06:31
+Um, yeah, I still I don't Yeah, I see no harm in that because I have nothing to hide. I don't I don't think it's that much. Baby. My privacy. So okay.
+
+Unknown Speaker  06:38
+So you trust that it would help improve like your personal safety? I think so. Yeah. Okay. And that seems to be like a running theme. Like you'll, you're okay with a lot of the scenarios, as long as they're for the purpose of your safety? Yes. Right. If they were less focused on improving people's safety and more with the motive of catching criminals, maybe those two are generally related. But yeah, for like a, the mental hypothesis hypothetical, decouple those if one if it wasn't strictly for helping your safety, but if it was more indirectly, helping your safety if it was for catching criminals, what would be your thoughts on these situations?
+
+Unknown Speaker  07:27
+Um, well, actually, we did a research study on this in my class and like I was for it because I think in the long run, it's going to help reduce crime rates. I I don't have any problem with releasing my location, that kind of stuff, cuz I feel like my phone or a tracks that already so. Yeah, I feel awesome.
+
+Unknown Speaker  07:45
+What class Did you
+
+Unknown Speaker  07:46
+lose on information systems? Okay,
+
+Unknown Speaker  07:49
+are you like an it?
+
+Unknown Speaker  07:52
+No, no, I, it's my minor. So okay, we have to do discussion posts every week. And we had a post about one city recently, like, had a bunch of like, cameras upload, like, distribute around the city. And people concern that like it was invading their personal privacy and like, people's phones are being tracked, but it was all in the hope to like reduce crime rate. So we actually have a discussion post on that. Oh,
+
+Unknown Speaker  08:13
+relevant
+
+Unknown Speaker  08:14
+is that this semester,
+
+Unknown Speaker  08:17
+it was a ratio system. It's offered both semesters, okay. Yeah.
+
+Unknown Speaker  08:19
+The first semester. Okay. I'm like, I'm currently in class. Yeah. with him. Yeah.
+
+Unknown Speaker  08:25
+I had Gary carrying
+
+Unknown Speaker  08:27
+a no, I have it. I have it with shorts. Okay. Yeah.
+
+Unknown Speaker  08:30
+So I think only Garen does the discussion post like that. Yeah,
+
+Unknown Speaker  08:33
+our discussion posts are a little different. They're just sort of like, here's a topic that came up in your reading, write about it. He finds
+
+Unknown Speaker  08:40
+like articles that are relevant, and then we just have to write a
+
+Unknown Speaker  08:43
+post about it. Okay.
+
+Unknown Speaker  08:44
+That's cool. That's, yeah, it was just like, Oh, you've talked about the sort of ethics of it. Yeah, for exactly. Yeah, that's not as Super like, common thing that people learn. So just, yeah, interesting to understand that. Um, so we have one last like, actual question. I know I got a little distracted there. How would you feel if data from traffic tickets was used to allocate police along highways and roads
+
+
+Transcribed by https://otter.ai

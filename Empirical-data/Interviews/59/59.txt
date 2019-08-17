@@ -1,0 +1,320 @@
+Unknown Speaker  00:00
+artist, get some context about just your background, how you fell and talk about some of the topics that are tangential to what we've covered.
+
+Unknown Speaker  00:14
+So I'm here with participant 59. Yeah, it's recorded. But Don't worry, your name is not going to be connected, it cant be traced back to you really. And anyway. So What?
+
+Unknown Speaker  00:29
+That's like, Wow.
+
+Unknown Speaker  00:31
+Yeah. So I understand that you do have some technical background with regards to like, data analysis, and like, programming software. What Ha, What's your what's your background with like? That?
+
+Unknown Speaker  00:52
+The greatest question, I finished a bachelors degree in computer science, and I work security.
+
+Unknown Speaker  00:59
+Okay. Um, so have you seen, like, the the crime maps that we use today? Have you seen things like this, but for
+
+Unknown Speaker  01:10
+nothing I've worked with too intently with it. But I've seen I've seen maps like that, but I've had I haven't had to do a ton of data analysis with it.
+
+Unknown Speaker  01:23
+And your security job is tangential to like law enforcement.
+
+Unknown Speaker  01:32
+Yeah, they work alongside them, but not
+
+Unknown Speaker  01:35
+for them.
+
+Unknown Speaker  01:37
+So It's a sort of structurally a different department. Yeah. Okay. But we you Do you still report to like, what any of the law enforcement people because, like, just in the in the past, I've heard you mentioned that, like you, you get like your staff meetings with them? Or sounds like, Oh,
+
+Unknown Speaker  02:04
+I don't know how to change it. But we have our boss is our main boss is law enforcement. And she works. And her bosses are also unfortunate, but we don't interact with them a ton outside of that, Aside from like, company parties and stuff. Okay, that makes sense.
+
+Unknown Speaker  02:23
+So
+
+Unknown Speaker  02:24
+It's, it's a weird,
+
+Unknown Speaker  02:26
+It is a sort of a weird setup.
+
+Unknown Speaker  02:30
+But you would you consider yourself, You wouldn't consider yourself law enforcement there. And
+
+Unknown Speaker  02:38
+No, I wouldn't say I'm bond for smell. I just work with them and know what they talked about at times.
+
+Unknown Speaker  02:47
+And you would say you have friends with bond, personal
+
+Unknown Speaker  02:51
+connections to them outside of work.
+
+Unknown Speaker  02:53
+So you, you have like some sort of background, some understanding
+
+Unknown Speaker  02:57
+of it back on understanding law enforcement, networking. Okay. Yeah.
+
+Unknown Speaker  03:03
+So the first real question that I have here is, how have you felt that crime analyses have directly impacted you, If at all?
+
+Unknown Speaker  03:18
+Exactly, like, day to day or, like,
+
+Unknown Speaker  03:23
+in your day to day home, or work life, it really helps
+
+Unknown Speaker  03:30
+officers and stuff in the districts and walkie as it is. So I mean, just knowing there could be more, more or less cops on the street in my where I Live, It affects me that way. And
+
+Unknown Speaker  03:47
+I know I'm trying to say it.
+
+Unknown Speaker  03:50
+So you feel kind of like, you know that. But it doesn't
+
+Unknown Speaker  03:53
+Yeah, I know, it's there. But it's not something that I could possibly see every day because it's already taken care of.
+
+Unknown Speaker  04:01
+So it's just sort of like a in the back of your mind. Right, then you. You probably do you think you would notice if something if something with the crime analyses changed, and that impacted the amount of Yes, officers where you live or where you work? Would you that you've noticed that?
+
+Unknown Speaker  04:20
+Yeah, that was something that the more notice, it's kind of like you don't notice something until it breaks. Okay. So I know it's there. But I don't think about it all the time, because it has a problem.
+
+Unknown Speaker  04:28
+Okay. So you, you would say you've probably been impacted. You just don't think about it right? Often. Okay.
+
+Unknown Speaker  04:35
+Don't think about your car's working until it breaks.
+
+Unknown Speaker  04:37
+Yeah, I mean.
+
+Unknown Speaker  04:40
+Yeah, that's fair.
+
+Unknown Speaker  04:43
+So How important is it to you to understand how crime analysis algorithms or software works? What information would you think is important enough?
+
+Unknown Speaker  05:01
+Currently, right now, it's not probably the top priority, because we're not we're not working with it intently. But If I did go to like, work with it more, obviously be a lot more important. Okay. Like, knowing once again, knowing how your car works as an effective until it breaks. Okay, so.
+
+Unknown Speaker  05:21
+So I'm assume that a specific process for crime analysis was implemented in an area where you live or where you work, right, such that it would be sort of directly impacting you? How important would it be to have some level of understanding about how that process works? And what information would you think it's important to now?
+
+Unknown Speaker  05:44
+See them be a lot more important because they'll be more effective and more directly? Probably What, what data they're using to make these decisions and how they're What? Basically, how they're making these making the judgments and creating algorithms to actually implement what they think they're doing.
+
+Unknown Speaker  06:06
+Okay. So you would you already know,
+
+Unknown Speaker  06:11
+pretty much the whole process. Right, right. Like the data and the analysis, like the actual math.
+
+Unknown Speaker  06:19
+Yeah, I mean, I like math. And I like, knowing that kind of stuff that if it's not something that has to affect me, I don't necessarily need to know. But as soon as it affects me, It's normally
+
+Unknown Speaker  06:28
+everything. Okay. So you would you would want to have, like, you would want to see behind the curtain for the whole whole process. Really? Right.
+
+Unknown Speaker  06:39
+Yeah, I didn't have enough of the whole process. But I want to know a lot more than just Hey, we changed things. Yes, The new thing.
+
+Unknown Speaker  06:47
+So I'm assume that someone with more expertise than you vouched for the efficacy and the fairness of a given process of crime analysis that was being used in your area, Right. In this scenario, how important would it be to have some level of understanding about how that process works? And what information would you think is important to know?
+
+Unknown Speaker  07:12
+I think it would depend on I mean, this because they've more,
+
+Unknown Speaker  07:17
+more expertise?
+
+Unknown Speaker  07:21
+What level of expertise do they have? Before I could decide how much I need to know if it was somebody that like, they have expertise in both crime analysis and data stuff, then in like four x, they, you know, came to like, lots of recommendations. Yeah, that had like a good background, and probably wouldn't be as important to know, as long as things were working fine. But if it was just someone that only had like, data experience, but didn't actually know how to like, run a police department or something, I'd be much more concerned about it.
+
+Unknown Speaker  07:51
+Okay. Why would why would that concern you?
+
+Unknown Speaker  07:54
+Well, because people aren't, you can take data from people, but you can't expect people to always behave in a set way. So you have to have an understanding of human nature on top of how they interact with the public and how cops in Europe interact with the public.
+
+Unknown Speaker  08:14
+Okay. So you if so you feel like if the expert is just someone with a PhD in computer science or something technical that they're going to they're going to lose like the human element, If or the human element understanding have any
+
+Unknown Speaker  08:32
+background also, in working with a police department, they can have just the degree and you know, computer science or data or whatever, because, I mean, you can learn a lot of your crime stuff on the job. And by talking to people that if they just, you know, came out of university with zero experience with people and you know, police departments and said, Hey, we're gonna, we're going to do things by the numbers now, I'd be much more concerned.
+
+Unknown Speaker  08:59
+Okay. What If, What if there was sort of the opposite side of that you had your your expert be very well versed in the crime side, and like criminology and and law enforcement, but wasn't Yeah, I wasn't super versed in the numbers or have a computer science.
+
+Unknown Speaker  09:23
+Weirdly, I think that would be slightly better than the other version, only because even though they may not know the data, like number wise, because they're so familiar with the departments and stuff, they probably act like, we're accidentally into put allocating resources where it was needed, just based on their knowledge of the areas that makes. But I still think that would need to run it by somebody who actually did do numbers and could look at things.
+
+Unknown Speaker  09:54
+Okay. So you, you do think that you need both? Right? both halves. Yeah. Okay. Um, some particle. Yeah. And you were 50. But yeah, something and you would want to sort of like, not reverse, like, check that this person is actually an expert, actually has like,
+
+Unknown Speaker  10:19
+trolls, and? Yeah,
+
+Unknown Speaker  10:21
+yeah, I haven't. But Yeah, check. But yeah, but um, but yeah, but assuming that they did, yeah. Would you feel okay, not looking into the actual, like, algorithm or the data as much?
+
+Unknown Speaker  10:37
+As long as it wasn't like, screwing things up? terribly? Yeah. Okay. I would like give them the benefit of the doubt until they prove otherwise, probably.
+
+Unknown Speaker  10:46
+Okay. So, do you believe that whether data was sourced ethically, legally and fairly impacts the quality of the data itself? And how it's a
+
+Unknown Speaker  11:03
+Yes, sometimes?
+
+Unknown Speaker  11:09
+Can you I think,
+
+Unknown Speaker  11:11
+I mean, feel free to think out loud. The, the more of the sort of, like context of your thought process we get, the better.
+
+Unknown Speaker  11:24
+I mean, okay.
+
+Unknown Speaker  11:26
+No worries.
+
+Unknown Speaker  11:30
+Is it ethically, legally and
+
+Unknown Speaker  11:32
+fairly, ethically, legally and fairly?
+
+Unknown Speaker  11:36
+I mean, there's gonna be times where, I mean, other studies, and like other countries on Like, how drugs affect, like unborn babies and stuff. And that's not necessarily ethical, because you're harming an unborn baby, but same time, you're never gonna know the answers without actually doing these tests. So I think it can be questionable at times, depending on what you're testing and how and, And sometimes, I mean, it might not be possible to do it ethically, because like I said, Are you going to accidentally harming them or being without knowing it? Like, yeah, is that ethical, but at the same time, you're never going to know how it's going to affect the baby? Yeah, doing these tests. So
+
+Unknown Speaker  12:25
+I think it would affect it. But I also think like,
+
+Unknown Speaker  12:28
+it's necessary At times.
+
+Unknown Speaker  12:30
+So you would say there's some, there's some context where you, where you think that the data could still be like, could be useful, even if it wasn't necessarily ethical. Right? So you would you wouldn't? Are You're not? Are you saying to use this, like unethical data if we already have it? And we can sort of check it? But I'm assuming you're not you're not saying what's on ethically collect? Right?
+
+Unknown Speaker  12:59
+No, I'm just saying data that was collected on quickly and, you know, by some crazy person, I don't know that crazy person. Yeah. Like, that you already had. It could still be useful, but later. I mean, you don't want to condone unethical data. Yeah, if that makes sometimes.
+
+Unknown Speaker  13:15
+Yeah. I mean, one historical example, was after World War Two, The the Nazis and the Japanese had done a lot of like, really, like horrible, like, scientific experiments that, like, the allies, and the Soviets ended up using a lot of the data from that. And obviously, we were still like, this is really messed up. Yeah. But they have the data. And we're never going to do this to human beings again, so we're not gonna
+
+Unknown Speaker  13:48
+we're not going to redo these things. But the same time, so here, so why not use the data? We
+
+Unknown Speaker  13:52
+Yeah. So you would you would, You're Okay, using sort of unethical data? If It's already been collected? Right. So So if, let's say, like, we had data that was like, leaked, or hat, right, some computer data? And, you know, like, Facebook is watching people, right? And, Yeah. And, in theory, let's say like, Facebook had a lot of stuff get a lot of like, data get leaked, But then about just like, people's interests or something, and then we're, you know, technically that's out there illegally, but like, would you be
+
+Unknown Speaker  14:43
+on? Like, if you as long as you weren't like jeopardizing the people, but it was leaked from individuals. I mean, if someone else owns the data that was leaked,
+
+Unknown Speaker  14:56
+with something that wasn't
+
+Unknown Speaker  14:57
+unethical, If it was, right, in theory, something like, I'm going to make an algorithm that predicts you Netflix shows based on the leaked, right, Facebook history stuff, right?
+
+Unknown Speaker  15:10
+I think, I mean, Facebook's in trouble as it is. But I think that's not jeopardizing the information of the other individuals, Then. I mean, that's, I mean, now that this leaked, almost four games will go for it. Okay, but at the same time, don't do anything
+
+Unknown Speaker  15:26
+unethical with the data that was leaked.
+
+Unknown Speaker  15:29
+Don't make right Don't don't make anything work. It's kind of like it's not your fault that it was leaked
+
+Unknown Speaker  15:33
+with. Yeah. So you mean, Go for it, use it, but the same time like don't make, don't leave anything else? or do anything else with it, that's like, make make the best of this bad situation of Israel.
+
+Unknown Speaker  15:44
+So It's a very, you have like a very utilitarian approach with it. Right? Like? So, if asked to voluntarily give personal information, such as, like, your, where you live Demographics, criminal history, to law enforcement for the exclusive purpose of better training data for crime and analysis algorithms, what would be your response and your reasoning? I mean,
+
+Unknown Speaker  16:20
+I probably just give it because I do but like, as long as it wasn't something like, you know, was your exact address or something like go what district Do you live in? Or what area like, that's fine. Because once you start giving out like, exact I just pointed to easily and more, like more identifiable as a person and it's no longer lead to Facebook like weeks, don't your individuals but use the data? So like, okay, you live in like this part of market? Perfect. Okay. But how many questionnaires to we do already that asks on the call that information? difference?
+
+Unknown Speaker  16:52
+It's Yeah, It's on your driver's license. It's on right. I mean, they could you
+
+Unknown Speaker  16:59
+could just go find it. Yeah, yeah, it'd probably be a lot more steps for them. Yeah. You know, needing that information, but the same time. We already get all the information out. It's not personally identifiable stuff. So go for it.
+
+Unknown Speaker  17:13
+But you would you would be willing to give up like IMAY. Female in district six? Yeah. With no prior criminal history? Right. Something like that.
+
+Unknown Speaker  17:26
+Yeah. Just, they already know that. Go for it.
+
+Unknown Speaker  17:28
+Okay. Well, you wouldn't give out I Live at x 123. x, y, z. Yeah. Okay. Well, I guess that makes this next question a little redundant. But would you give law enforcement, your cell phones location data in order to train their algorithms? And somewhere?
+
+Unknown Speaker  17:48
+I think I mean, specific. Okay, I think that they can, that they should be able to access location data of cell phones to be able to do that kind of stuff, but not necessarily this specific cell phone. So not unlike what belongs to or anything or like, Keep. Does that make sense?
+
+Unknown Speaker  18:06
+So you would you would want them to? vaguely know, these are cell phone
+
+Unknown Speaker  18:11
+tracking to help you
+
+Unknown Speaker  18:12
+figure out how to this area has right 30 phones? Here ish, right. But not like, this is participant 59 phone right? Yeah. With
+
+Unknown Speaker  18:26
+Yeah. Okay. Cuz I know like something good comes in handy a lot for crime stuff and finding people. So I mean, they need that information. But do they really need that information specifically tied to a certain person until they actually need that? Yeah. Because once they need it, they can find it, but they need training, too. So
+
+Unknown Speaker  18:43
+yeah, yeah. I mean, you can search warrant. I've seen a million episodes of dateline where they? Yeah, they're like, we triangulate the cell phone. And they want right, they said they were or something. But So you would let them have vague. D personalized? Yeah, phone data.
+
+Unknown Speaker  19:06
+Yeah, I mean, that's already out there if they can just Okay, so why not? Google uses it.
+
+Unknown Speaker  19:10
+So you, would you. You're saying, hey, if it's already out there, it's free. gay? Oh, yeah. Yeah.
+
+Unknown Speaker  19:18
+Yeah. Okay. So
+
+Unknown Speaker  19:22
+How would you feel if data from traffic tickets was used to strategically allocate police on highways and streets?
+
+Unknown Speaker  19:32
+It's not already.
+
+Unknown Speaker  19:35
+I mean, I wouldn't be surprised if it was, but
+
+Unknown Speaker  19:39
+Fine. I mean,
+
+Unknown Speaker  19:43
+like data like, this is where the ticket happened. You should have more people to have that.
+
+Unknown Speaker  19:48
+They probably already do that. Yeah. Okay. Yeah.
+
+Unknown Speaker  19:51
+I think this one this hypothetical, sort of assuming they do it more
+
+Unknown Speaker  19:55
+algorithmically then than using actual data in the ticket. Yeah. But,
+
+Unknown Speaker  20:01
+I mean, they probably do both like, Hey, we seem to pull out of people over here.
+
+Unknown Speaker  20:04
+Yeah, slow them down. Yeah. So Yeah, you're you're fine with that. Okay. That was our
+
+
+Transcribed by https://otter.ai

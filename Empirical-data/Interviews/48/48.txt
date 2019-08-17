@@ -1,0 +1,284 @@
+Unknown Speaker  00:00
+So I'm here with participant 48.
+
+Unknown Speaker  00:04
+I think my first question, You mentioned that you are from out of the country are you here for school for?
+
+Unknown Speaker  00:12
+I'm here for us color. Okay, so I'm applying for a master's program, but right now I'm working as a research assistant.
+
+Unknown Speaker  00:21
+Okay, Uh, what's your field of study?
+
+Unknown Speaker  00:26
+Computer Vision? machine learning? Oh,
+
+Unknown Speaker  00:30
+okay. So you would you would say that you have a pretty strong, like, technical background as far as computer science goes and programming
+
+Unknown Speaker  00:39
+codes kind of thing. Okay.
+
+Unknown Speaker  00:42
+Do you have any background with like, crime or law enforcement? Okay. So Have you ever use any applications? Like this one in the past?
+
+Unknown Speaker  00:55
+I didn't know that. It is. Okay.
+
+Unknown Speaker  01:00
+Have you done anything that's like, anything with like, like, a lot of data analysis with your programming? Or was it more just like making software?
+
+Unknown Speaker  01:12
+More like software of Famer and just to know, we, we work like to make machines work, you know, so this kind of thing. Okay. Isn't it wasn't exactly like that. Okay. Cool.
+
+Unknown Speaker  01:34
+Just so that, you know, it's important to, like, understand people's backgrounds and different backgrounds coming into it. Okay. Um, how have you felt that crime analysis have directly impacted you, if at all?
+
+Unknown Speaker  01:50
+Oh, by the research, I just don't
+
+Unknown Speaker  01:53
+like,
+
+Unknown Speaker  01:55
+like before you came in here, if you think you've ever really been impacted by
+
+Unknown Speaker  02:02
+any sort of crime analyses.
+
+Unknown Speaker  02:07
+Okay, My background is in Brazil. So I've been here just for two months. Okay. And comprehensive. Brazil, I think is much more safer.
+
+Unknown Speaker  02:18
+But I didn't know that.
+
+Unknown Speaker  02:21
+About robbery here that is so common as I saw that spots.
+
+Unknown Speaker  02:27
+So
+
+Unknown Speaker  02:32
+you feel like here is safer than Brazil? Yes.
+
+Unknown Speaker  02:38
+Okay.
+
+Unknown Speaker  02:41
+Most to you, I was surprised by know, the hotspots there.
+
+Unknown Speaker  02:45
+Okay, so you're you don't really you don't see as much crime, like daily, but you would say that
+
+Unknown Speaker  02:54
+they software indicates there's like more of it? Yes.
+
+Unknown Speaker  02:57
+Okay. Do you think it like will make you reevaluate like, your safety or just like, stuff like that?
+
+Unknown Speaker  03:07
+I think it has to be improvement, Right?
+
+Unknown Speaker  03:11
+I mean, with five green circles, recap, like, fulfill the order hotspots. Okay.
+
+Unknown Speaker  03:20
+So you felt you felt really constrained by the number of resources?
+
+Unknown Speaker  03:26
+Okay.
+
+Unknown Speaker  03:30
+So,
+
+Unknown Speaker  03:31
+you mentioned like Brazil being like, less safe than here. Do you think that has to do with, like, the way that they're that like law enforcement works down there? Or Why do you think that there might be such a stark difference from here to there?
+
+Unknown Speaker  03:51
+Oh,
+
+Unknown Speaker  03:54
+I don't know, first of all, because of
+
+Unknown Speaker  03:59
+Guns and Roses like, they're illegal. Okay, so please, make people to have them because they're illegal now. Okay. They use down to a bad way. So I don't know, this may be a point. Another point is the police on the street, which is very low.
+
+Unknown Speaker  04:22
+Okay. So you think America
+
+Unknown Speaker  04:24
+generally has like, more police presence?
+
+Unknown Speaker  04:27
+Yes. Just here in near campus. I saw a lot of police bands are circling around here.
+
+Unknown Speaker  04:33
+Okay. And So you think this is like an improvement? Right?
+
+Unknown Speaker  04:40
+Yeah. Okay.
+
+Unknown Speaker  04:43
+Yeah. And I noticed that in the survey, you answered pretty high on like, should there be more police on the streets? So that makes sense. How important is it to you to understand how crime analysis algorithms or software works? What information would you think is important to know?
+
+Unknown Speaker  05:07
+To number of
+
+Unknown Speaker  05:09
+these?
+
+Unknown Speaker  05:12
+Sorry, going around.
+
+Unknown Speaker  05:16
+I think the victims may notice in our may go to the police or make notes just to register. So we can collect all this data for a deeper analysts. Okay.
+
+Unknown Speaker  05:31
+So you you think it's important that victims report everything? Okay.
+
+Unknown Speaker  05:38
+So
+
+Unknown Speaker  05:41
+If you were to know that specific process for crime analysis was implemented, where you live or where you work, or where you're going to school such that it would impact you, like directly? How important would it be to have some level of understanding about how said process works? And What would be important for you to know in that situation?
+
+Unknown Speaker  06:06
+Because if once once people get knowledge about this process, I think that they will more likely to calibrate because one, victims, they get Robin, most of the times they don't go to the police because they think that Oh, it just happened. Okay,
+
+Unknown Speaker  06:29
+So you think that this would like Foster, like, sense of cooperation between community and like law enforcement? Yes. Okay. I'm assume someone with more expertise and like the crime side of the analysis vouched for the efficacy and fairness of a given process for crime analysis.
+
+Unknown Speaker  06:56
+What would be important to know, and
+
+Unknown Speaker  07:00
+how much would you?
+
+Unknown Speaker  07:02
+What level of understanding would you want about how that process works?
+
+Unknown Speaker  07:06
+Oh, I would definitely want to understand how does it work? So I can do my part, you know, to help. Okay.
+
+Unknown Speaker  07:18
+So Generally, the same sentiment says before?
+
+Unknown Speaker  07:21
+Yes. Okay. Do
+
+Unknown Speaker  07:25
+you believe that whether data was sourced ethically, legally and fairly impacts the quality of the data itself? And How so?
+
+Unknown Speaker  07:37
+Can you repeat, Okay. Do you
+
+Unknown Speaker  07:40
+believe that whether data was sourced ethically, legally and fairly impacts the quality of the data? And how so?
+
+Unknown Speaker  07:50
+Oh, I think
+
+Unknown Speaker  07:55
+Yes. Me?
+
+Unknown Speaker  08:04
+Yes.
+
+Unknown Speaker  08:06
+Oh, I don't want to think about that goes.
+
+Unknown Speaker  08:11
+Okay. So
+
+Unknown Speaker  08:18
+I think it kinds of Yeah. impacts, but not very much. But deep down? I think it does.
+
+Unknown Speaker  08:28
+How do you think it might impact it?
+
+Unknown Speaker  08:33
+Because
+
+Unknown Speaker  08:39
+certain crimes, They just happened to focus die target. So it is probably impacts the data analysis because you're not considering or the population, Just focus on the victims that. Okay. I've been surfers.
+
+Unknown Speaker  09:04
+Okay. So you think that it's sort of it limits the scope of the data in a negative way?
+
+Unknown Speaker  09:10
+Yes. Okay.
+
+Unknown Speaker  09:13
+If asked to voluntarily give personal information, such as location and demographics, and like, prior criminal histories to police, in order to give them a better data set to train their predictive algorithms on, Would you What would be your response? And what would be your reasoning?
+
+Unknown Speaker  09:42
+I will provide them the information they need.
+
+Unknown Speaker  09:46
+They are police. Right. So
+
+Unknown Speaker  09:49
+I mean, I'm doing my part for trusting them. So Yeah, definitely give them the information. So they can do the job better.
+
+Unknown Speaker  09:59
+Would you feel like there's any types of information? That would be too personal that you would feel uncomfortable giving? Police?
+
+Unknown Speaker  10:09
+Oh,
+
+Unknown Speaker  10:11
+maybe? What's up messages?
+
+Unknown Speaker  10:15
+So like, the actual content of your, your messaging?
+
+Unknown Speaker  10:19
+Yeah. They don't have to, you know, look for any other information, my contacts, like, because they also, They already have, like, my address information I gave. So I think it's like, you know, too much. Yes.
+
+Unknown Speaker  10:38
+Okay. Imagine, you know, for this hypothetical situation that police wanted access to like your phone's location data? How would you feel about giving them that access?
+
+Unknown Speaker  10:53
+Well, I think I won't have a chance to deny Police. Right. I won't feel like very good. Okay. I mean, if I won't be comfortable, but I will keep them their authority.
+
+Unknown Speaker  11:08
+Okay, even if they were coming with like, not with a warrant just asking people to do it voluntarily.
+
+Unknown Speaker  11:18
+Yes, No.
+
+Unknown Speaker  11:22
+They can. Can they do that?
+
+Unknown Speaker  11:25
+They can, yeah, police can like ask people to volunteer. I don't know about giving data per se. But, you know, and I don't know how different this is from like, how Brazil system works. But in here, there's like a very, like, defined legal line between, like, where police have to ask permission and where they don't. So,
+
+Unknown Speaker  11:50
+yes, they have to have. Yeah.
+
+Unknown Speaker  11:54
+Just stopping people. The street for asking for information. I think that's too much.
+
+Unknown Speaker  12:00
+Okay. So. Okay.
+
+Unknown Speaker  12:05
+You wouldn't give like location data voluntarily. Okay. Um, how would you feel if data from traffic tickets were used to allocate police along, like highways and streets?
+
+Unknown Speaker  12:27
+I think that's essential for me to have policing on the highways. Especially with the accidents, but just have that. I mean, we don't have too many people walking highways. Right. So yeah, the accident the car accidents. Most. So, cameras, I think will help. Okay, so that's fine. The cards are there.
+
+Unknown Speaker  12:57
+So you would want
+
+Unknown Speaker  12:59
+you fully support using tickets for like, where to put highway patrol officers? Yes. Okay. And you mentioned cameras, like speeding cameras along highways? Yes. Okay. So you, you fully support all of that with like traffic stuff?
+
+Unknown Speaker  13:20
+Yes. Okay.
+
+Unknown Speaker  13:23
+Yeah, that was my last question. So thank you for coming in. I'm gonna
+
+
+Transcribed by https://otter.ai

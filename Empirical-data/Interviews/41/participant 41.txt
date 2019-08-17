@@ -1,0 +1,137 @@
+Unknown Speaker  00:00
+So I'm here with participant 41. And the first thing I'm going to ask you is, have you ever seen or worked with any applications? Like the one that we had today? Yeah, I
+
+Unknown Speaker  00:14
+actually took a criminology class with Dr. Snowden and did like some crime mapping and stuff. Okay, search. Was that with, like, Ark GIS? Or I, you know, I wasn't familiar with the software. Okay.
+
+Unknown Speaker  00:28
+Um, so are you a criminology major? Yeah. Okay, so you have some actual background with like, the crime, right? And a little bit with the data side
+
+Unknown Speaker  00:39
+of it with the data? Yeah. Okay.
+
+Unknown Speaker  00:40
+Um, do you have any other like, notable background with crime or experience working with a crime analysis or data analysis or anything like that,
+
+Unknown Speaker  00:54
+and not necessarily crime? I mean, I worked at the courthouse in the Justice Center, but it was mostly working with like legal documents, not necessarily like crime. Okay.
+
+Unknown Speaker  01:02
+Um, so now that we understand your background, how have you felt that crime analyses have directly impacted you, if at all? Um,
+
+Unknown Speaker  01:14
+I mean, I don't have any like, General, I don't think I'm necessarily impacted with like not living in Milwaukee, I think it's like pretty impactful to like, understand and see like the different hotspots and where crime is no more important, and where should be more focused on police efforts and stuff. Okay.
+
+Unknown Speaker  01:34
+How important is it to you to understand how crime analysis algorithms or software work? What information would you think is important to know?
+
+Unknown Speaker  01:45
+For me, personally, now, it isn't, I mean, I don't think it's like super important unless I go in and decide to be in the field of like, investigative work, which eventually I do want to do. But I don't necessarily know, like, if I want to go into like, the more analytical side, or like the, like, on scene kind of investigation, I don't know if that really answers the question. Okay.
+
+Unknown Speaker  02:05
+So you wouldn't find it super important.
+
+Unknown Speaker  02:08
+No, I mean, I think it's, like, cool to look at the data and see, you know, what parts of the neighborhood and especially like, in Milwaukee, where I'm living, um, it was cool to kind of see that in my class. But, like, for me, personally, it doesn't necessarily impact. Okay.
+
+Unknown Speaker  02:24
+And so there wouldn't be anything that you think is like important to know about it. Maybe like, Oh,
+
+Unknown Speaker  02:31
+I mean, like, the general stuff, I think, is pretty important. Like, if you were to look at a crime, like a hotspot mapped and like, understand what it means and like, you know, in certain areas wise, like that, you know, that areas so lit up, and others aren't the demographics of that area, too. Okay.
+
+Unknown Speaker  02:46
+Um, so assume that you knew a specific process for crime analysis was being implemented in an area where you live or work or go to school, such that it would impact you and your daily life. In this scenario, how important would it be to you to have some understanding of how it works? And what information would you want to know,
+
+Unknown Speaker  03:11
+I definitely think in that case, it would be important if it's going to affect me in any way, in, I guess the type of information just like how it works, and like how I would be, like, impacted specifically, like if I am like, needing to help with something, or if I need to know, like, certain people will be like, around the neighborhood, and like asking questions and stuff, like, just to know like, what's going on with it? And what maybe I would need to do to help or understand it better? I don't know, like specifics.
+
+Unknown Speaker  03:42
+So you will want to facilitate Yeah, using it. Okay. Assume that someone with more expertise than you vouched for the advocacy and the fairness of a given process for crime analysis? And this scenario, how important would it be to you to understand how that process works? And what information would you think is important to know?
+
+Unknown Speaker  04:07
+Gosh, um, I'm gonna have you read that again. So okay.
+
+Unknown Speaker  04:12
+So I'm basically building on the previous question, if they were implementing that software, in an area where you live or work at, but they also had someone who was, like an expert in the field vouch that the software was fair, and that it was effective? How important would it be to you to understand how the software works? And what would you think is important to know, I think,
+
+Unknown Speaker  04:44
+for me is like somebody who's actually interested in it, I think it'd still be pretty important to know, especially if somebody like of importance is telling me that are actually like works in is important. And just like general stuff about it would be important to know and like exactly what it is and what it's measuring, and like how it could impact me in the future, too. Okay.
+
+Unknown Speaker  05:05
+Um, do you believe that whether data was sourced ethically, legally and fairly impacts quality of the data itself? and How so? Yeah, I think so.
+
+Unknown Speaker  05:15
+I think if people are legally like retrieving data, I don't think that's a really fair in like, being able to share that data and in, it doesn't really speak to like, yeah, the efficacy of how it was, like retrieved and stuff. Yeah, I don't think it's like very ethical to do that. So I wouldn't really, I think if I knew that a date, like some data was, like, retrieved illegally, I don't think I would be more or less, or I think I would be less willing to, like, understand it and want to like believe it. Okay, even if it was accurate, I think like, the ethical part of me would be like, yeah, maybe it does say something, but like, I don't really think I should like believe that. Okay,
+
+Unknown Speaker  05:53
+so we're godless of how useful it is. You would you would shy away from it. Okay. Would there be any situations where you think, okay, maybe this data was questionably source, you know, unethical, or on or illegally. But it could still be useful and in a way that would merit like using it. In I think in like,
+
+Unknown Speaker  06:21
+certain situations, not necessarily like life or death, but like situations like that. I think if like, something not necessarily somebody's life was on the line, but have that kind of important, you know, like, okay, yeah, not necessarily, like, if it were just be like helpful information to know, maybe I may be a little more shaky on, like, wanting to, like believe that. But like, if it were really important, and like solving in case or like, stuff like that, I think maybe I'd be more like, okay, open to it. Yeah. So
+
+Unknown Speaker  06:54
+would you be open to, like, police hacking someone's computer in order to get information to solve like a, like a case? Like a murder or something? Yeah,
+
+Unknown Speaker  07:07
+I think in those types of cases, I would, yeah, I would say in like, sensitive crimes or murders and stuff like that. We're like, if you literally can't get access to the information, that's like, the only way to do it, then absolutely. But like, if there's other ways to get around it, and you just like, want to save time or save effort. And like, you're like, oh, we'll just hack into it. Like, we don't want to go through all like the court stuff, like the the warrants and stuff to get access then like, and I'm, um, but
+
+Unknown Speaker  07:36
+yeah, so as a last resort, yeah. Okay.
+
+Unknown Speaker  07:41
+If asked to voluntarily give personal information, such as location and demographics, to law enforcement for the exclusive purpose of better training data, for crime analysis algorithms, what would be your response? And what would be your reasoning?
+
+Unknown Speaker  07:57
+Would it be like data on me or on somebody else? Or doesn't really matter?
+
+Unknown Speaker  08:02
+It would be it would be data about yourself.
+
+Unknown Speaker  08:05
+I mean, I say so I also haven't really committed like, crimes period, or like, heinous crimes in my life. So I guess like, if it's information that they need, and like, want to know, stuff like that, but like, I probably would be a lot more hesitant if like, I had, like, done something bad that like the cops could find out. And like, they were asking me, but I mean, that for me, as a person that hasn't really done anything exciting. In my life, like the cops probably wouldn't really get much information from me.
+
+Unknown Speaker  08:35
+What if it was a little more personal than just like, you know, the background information? What if they wanted to have like your phone's tracking data? Your phone's location data
+
+Unknown Speaker  08:48
+savvy? Yeah. That would be a bit more. I don't, I don't know if I'd be open to that. I think I need like more explanation for it. But like, yeah,
+
+Unknown Speaker  09:00
+I'll be a little weird with that. Would there be like a scenario where you would be okay with it? And, you know,
+
+Unknown Speaker  09:08
+this is all hypothetical. Right,
+
+Unknown Speaker  09:09
+right. I know, it's kind of hard. I mean, yeah. If if it was, like, really needed for something. I mean, I don't like again, I just, like don't have a lot to hide. So like they need it, then. Yeah. Okay.
+
+Unknown Speaker  09:21
+Um, how would you feel if data from traffic tickets was used to strategically allocate police along highways and roads? Yeah,
+
+Unknown Speaker  09:33
+I think that I think that would honestly make sense as much as I want to, like, speed and not get pulled over. Like, but I mean, if I were a police officer, and were and I was able to, like, understand where people are speeding the most, and where we should put people, you know, cops and stuff to catch that then yeah, absolutely. But as a driver that needs to go home. Sometimes I you know,
+
+Unknown Speaker  09:57
+you wouldn't personally like it, but you would you
+
+Unknown Speaker  10:00
+I think it would be beneficial to Yeah, yeah. Especially the hotspots of like, where traffic is or where people are like blowing more stoplights. Like I think that's important as somebody that's like gotten hit at a stoplight because just like people don't care like yeah, you know, especially and nobody was around. Yeah, yeah. But like for speeding and stuff like whatever. Okay, yeah.
+
+Unknown Speaker  10:22
+So you would care you care less about the speeding but more about the danger. Danger
+
+Unknown Speaker  10:28
+right? When people just are careless so you driving I think speeding is like important you know on like busy weekends and stuff for your people are actually trying to get somewhere like Fourth of July and stuff but like, yeah, I think it's it should be more focused towards like the, like carelessness and driving and drunk driving and stuff. Like where where people are more likely to be when they're drinking and driving and stuff like that. Okay.
+
+Unknown Speaker  10:52
+So you would you would prefer maybe only use like a subset, right ticket? Yeah, only the ones that really drink and driving.
+
+Unknown Speaker  11:01
+Right. Not necessarily speeding and stuff. Yeah. Okay.
+
+Unknown Speaker  11:04
+Cool. So that's that was our last question.
+
+
+Transcribed by https://otter.ai

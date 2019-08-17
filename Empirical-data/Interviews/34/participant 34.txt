@@ -1,0 +1,239 @@
+Unknown Speaker  00:01
+Okay, so we're now recording with participant number 34. And Firstly, I'm going to ask you is do you have any sort of like, background with like crime analysis or
+
+Unknown Speaker  00:17
+so somewhat, I am currently interning at the DA's office where I am working with the data analysts and working with data, but it's mostly with evictions of the moment. Okay.
+
+Unknown Speaker  00:29
+So you have you have
+
+Unknown Speaker  00:33
+some familiarity with, like, data analytics as like an end user, or do you code anything? Yeah. So yeah,
+
+Unknown Speaker  00:43
+I'm working with the data analyst as a data analysts intern, so I'm working with the coding right now. Okay,
+
+Unknown Speaker  00:52
+so you're doing some coding? Are you a college student? Yeah.
+
+Unknown Speaker  00:57
+So I go here. I'm a student here at Marquette. And I'm a junior studying computational math.
+
+Unknown Speaker  01:03
+Oh, ok. Cool. So you're in this department? Yeah. Yeah. Um, okay. So have you ever seen anything similar to the application that we had today?
+
+Unknown Speaker  01:15
+Actually, yeah, not quite weird, so interactive, and you can like, pinpoint things. I've seen a little reverse where, like, you have a map, and you can click on it, and it'll tell you the demographics. Like, there was a robbery here like June 2016. Okay. And so a little more reverse, not quite, where you get to choose what you
+
+Unknown Speaker  01:35
+okay. And where, What software do you use? Like, at your, at your workplace?
+
+Unknown Speaker  01:44
+So right now, I was, I didn't have just done the coding and the like, manipulating the data and finding what works for me. I haven't put it into an app yet. So okay, okay. I want it. I
+
+Unknown Speaker  01:56
+seen the ones they've done. I know some people
+
+Unknown Speaker  02:01
+use, like, a lot of people use tableau. Yeah. Yeah. Okay.
+
+Unknown Speaker  02:08
+So that's just
+
+Unknown Speaker  02:10
+getting some background. So you actually are kind of familiar with this general like concept. Even though, like you said, You worked with evictions, mostly more than crime. But you You're absolutely
+
+Unknown Speaker  02:22
+like tat tax delinquency. Okay. So,
+
+Unknown Speaker  02:26
+not not necessarily, you know, violent crime, or anything like that, but the same kind of process for analyzing it.
+
+Unknown Speaker  02:36
+Oh, absolutely. And with
+
+Unknown Speaker  02:39
+the internet. Okay.
+
+Unknown Speaker  02:41
+That's really cool. That's like a really like interesting viewpoint to have someone who's like, tangentially done things with this. So I'm kind of preempted this next question, but how have you felt that crime analysis has directly impacted you, if at all?
+
+Unknown Speaker  03:04
+So as of right now, the only impact I it's like, recently have is more of an educational standpoint. So like, I think it made me realize more about the City of Milwaukee than I did before or like, like doing this interactive activity when we realized that like, wow, maybe like, it's not just like, like, I'd never thought that maybe police are like, underfunded, or under staffed, or something like that. Um, so there's pretty eye opening, informational at this point. Okay.
+
+Unknown Speaker  03:44
+Um, so but you would, would you say that you felt like the impacts of like crime analyses in your daily life at all? Or?
+
+Unknown Speaker  03:57
+I'm,
+
+Unknown Speaker  04:00
+perhaps it might make me want to, like, act a little safer?
+
+Unknown Speaker  04:07
+Think a little differently about my neighborhood? Yeah,
+
+Unknown Speaker  04:10
+well, how would you be thinking differently?
+
+Unknown Speaker  04:14
+Um, maybe like, like,
+
+Unknown Speaker  04:17
+just be more aware when I like walk outside by myself? Or like, hey, maybe I shouldn't carry me like, in any sense when you're like walking anywhere, or all these neighborhoods pretty okay. Like, maybe I can walk my dog here.
+
+Unknown Speaker  04:30
+So from like, a safety perspective, yeah. Okay. So our next question is, how important is it to you to understand how crime analysis algorithms or software work? What information would you think is important to know about it?
+
+Unknown Speaker  04:45
+as like, a data analyst, or as like, the common civilian doing this
+
+Unknown Speaker  04:50
+on you can ask, you can answer from both perspectives.
+
+Unknown Speaker  04:55
+Um, so like,
+
+Unknown Speaker  05:00
+from the data analyst perspective, it's important to know like how the software works, so that, like, it seemed it was really easy and like anybody without any coding background, or anything, could walk in and do it and get the information needed. But the coding part of me like quants know how it works, and how they did it, and how simple it was, and like, all the bugs they ran into along the way. Okay.
+
+Unknown Speaker  05:25
+And is there any information, in particular that you could think would be, like, important to know about how it works?
+
+Unknown Speaker  05:35
+Um, well, it's so in the paper, like, where the information goes, and who gets to see it? I think I don't remember what it said. But I think just knowing that your data is not like it's being used, it's not being like thrown out there. And like, we save the pictures, I'd be interested to see, like, all the pictures of everyone doing it looks like where they everyone put their credit map. Yeah.
+
+Unknown Speaker  06:02
+And I mean, hey, if this paper gets published, it'll, it'll be out there. But I'm, so assume that a specific process for crime analysis was implemented in an area where you live or where you worked, such that it would directly impact you and your daily life? How important would it be to you to have some level of understanding about how said process works? And what information would you think is important to know?
+
+Unknown Speaker  06:41
+I think it'd be important to know, like,
+
+Unknown Speaker  06:45
+I don't know, I just can't imagine using some sort of crime analysis tool in my daily life. Like, just like, as a civilian, like, killer report my app and see how many crimes have been committed right here. Okay.
+
+Unknown Speaker  06:59
+What if you were, what if it was sort of like, the you knew that the police in the area where you lead or where you worked, were using a crime analysis tool? Okay, about that area.
+
+Unknown Speaker  07:13
+Um, I'd be interested to know, in like, how it helped them, like, lab results they've seen, but I have a lot of confidence with the police and then handling situation, so I wouldn't necessarily feel the need to know exactly what they're doing or Okay, like, when it happened.
+
+Unknown Speaker  07:36
+So you would have some curiosity, but not Yeah, no, like, hard need? Yeah.
+
+Unknown Speaker  07:41
+Well, yeah. And also, like, I don't know, things like that, like watching crime documentaries. Just make you like paranoid. Just can't tell you. Yeah,
+
+Unknown Speaker  07:51
+I you watch one episode of Forensic Files, and suddenly, you have to go lock all your window. Yeah.
+
+Unknown Speaker  07:59
+That's something that's very fair.
+
+Unknown Speaker  08:02
+I'm assume someone with more expertise, then you vouch for the advocacy and fairness of a given process for crime analysis? In this case, how important would it be for you to have some level of understanding about how side process works? And what information would you think is important to know?
+
+Unknown Speaker  08:26
+Um,
+
+Unknown Speaker  08:28
+well, I mean, I would really like to know, like, put their better processes. And, again, if I was absolutely certain they had better expertise than I would trust them. But I would a firmer coding concept. I'd like to know how they did it, how they simplified the system.
+
+Unknown Speaker  08:48
+So you would you would like to see behind the curtain?
+
+Unknown Speaker  08:51
+A little bit? Yeah.
+
+Unknown Speaker  08:55
+Would there be like, how much of the actual coding would you want to see? Like, would you want to see like source code or just have them mentioned, like, here's some of the tools or libraries that we use,
+
+Unknown Speaker  09:10
+I think tools and libraries would be fine enough with me. Okay, now, unless I needed to, like, unless it was my job to like help with it, or like trying to fix something that I knew the code, but tools, libraries, that be enough. Okay.
+
+Unknown Speaker  09:22
+Um, do you believe that weather data was sourced ethically legally unfairly impacts the quality of the data itself? And how would it be impacted?
+
+Unknown Speaker  09:35
+Um, as opposed to like, not illegally? Yeah.
+
+Unknown Speaker  09:41
+So if, if you have a data set that you knew was collected, ethically, legally and fairly, and then you had a data set that was maybe collected on ethically or illegally or unfairly, how would you think those two data sets would differ?
+
+Unknown Speaker  10:04
+Well, I think data is data and the numbers always going to say the same things, whether or not how you get them. But if it's like, it's like, it's not true, I think you need to ensure that it's like real data, but like, someone's not like, torturing someone to get them to say something that's not true. I think if that's what you're touching on, filling, but like the legally, like, if there's a locked file that you need to get to, like, that's fine, as long as it's true and honest data. Okay. So you would,
+
+Unknown Speaker  10:38
+you would have questions about whether you could trust the, like, credibility? Yeah, the accuracy of the data?
+
+Unknown Speaker  10:47
+Absolutely. Okay. So,
+
+Unknown Speaker  10:49
+um, if asked to voluntarily give personal information such as location demographics, like a any prior criminal history, to law enforcement for the exclusive purpose of better training data for crime analysis algorithms, what would be your response? And what would be your reasoning? Yeah,
+
+Unknown Speaker  11:15
+sure, but I'm not sure how much I can help. Like,
+
+Unknown Speaker  11:20
+if you need to know something, I'll tell you, but I don't know how much it'll help you. Okay.
+
+Unknown Speaker  11:24
+Um, would you be comfortable? So you would be comfortable with like, giving just background information? Oh, absolutely. Answering questions, that kind of thing. Yeah. Would you be comfortable, say, giving police access to like, your phone data to understand like, your movement patterns?
+
+Unknown Speaker  11:49
+Like just my location? Yeah,
+
+Unknown Speaker  11:50
+location on your phone? Okay. Yeah.
+
+Unknown Speaker  11:52
+I mean, I'm fairly certain they can get it if they needed to, anyway, but yeah, I wanted to see where I was like, that's why. Okay, so you,
+
+Unknown Speaker  12:00
+you're pretty open. Like,
+
+Unknown Speaker  12:04
+I just, I just law enforcement. Okay. And if it would help, I'm not sure how it would flow. Yeah, I'm just like, in a scenario with
+
+Unknown Speaker  12:16
+Yeah, and in a hypothetical, like, I can think of like, oh, we're gonna create a model that shows like, does this neighborhood have a higher amount of people with a felony conviction versus this area or something like that, but yeah, this question is more on the hypothetical. Okay. Yeah. And so we have one more big question. How would you feel if data from traffic tickets was used to systematically allocate police along highways and roads?
+
+Unknown Speaker  12:53
+I feel like that'd be smart. Like that's, I think that's why we need like this is so you know, like oh people speed here so be here. Yeah, like I think that's how it works. Yeah,
+
+Unknown Speaker  13:03
+right. I mean
+
+Unknown Speaker  13:06
+you're you're also the person who's like kind of doing that stuff. Yeah, maybe not with traffic tickets but like, Oh yeah, foreclosure or something? Yeah.
+
+Unknown Speaker  13:15
+And I can understand it in a sense where it's like something about like robbery and then they're just sticking in these neighborhoods but like these people are like recovering like they're like they're like working to get better so it's just a bunch of systematic oppression but like an incentive traffic ticket. Okay, now
+
+Unknown Speaker  13:34
+so you don't think that traffic tickets would have the same like possible social impact is like other types of like crime profile?
+
+Unknown Speaker  13:42
+No, sir. I can see where it can get sticky but I don't see that it would. Okay,
+
+Unknown Speaker  13:48
+can you just give some examples of what you mean by like a getting sticky
+
+Unknown Speaker  13:53
+Yeah. Okay, so like, if you're like
+
+Unknown Speaker  14:03
+I don't see this actually happening but if you're living in like Marvel retire like it's more like a retiring area like these are like grandparents and you're like stationing a bunch of people here because of robberies that happened like 30 years ago, like No, that's okay. But like it's like there's a gas station that gets robbed like every week them yeah. Hello, police officer nearby. Okay.
+
+Unknown Speaker  14:26
+So you were want something more than just something a little smarter than just
+
+Unknown Speaker  14:31
+yeah, I guess this isn't applicable because what I'm thinking is more of like, putting with data with people and not in location like traffic tix that was like the location, not the people that drive through there. Okay, so I was thinking the wrong variable. So that might all been irrelevant.
+
+Unknown Speaker  14:50
+It's it's always good to get different, Barbara Yes. Um, so that's, that was our last question. Thank you for coming in.
+
+
+Transcribed by https://otter.ai

@@ -1,0 +1,230 @@
+Unknown Speaker  00:00
+So I am here interviewing participant number 23. And then for actually just starting the interview or just had a quick question, do you have any kind of like prior knowledge about like any kind of algorithms or crime analysis at all? No.
+
+Unknown Speaker  00:18
+no, no, Kind of like background like technical background.
+
+Unknown Speaker  00:20
+no
+
+Unknown Speaker  00:21
+Okay, that's fine. No, that's completely fine.
+
+Unknown Speaker  00:26
+I see you're wearing an f1. Like their p t shirt. Is that your major? Yeah.
+
+Unknown Speaker  00:30
+Same majors, Emily. Yeah. Okay. Cool. But my roommate is a criminology major. Oh, yes. I see. Like three
+
+Unknown Speaker  00:40
+degrees away. Yeah, yeah,
+
+Unknown Speaker  00:44
+I did a flight training at high schools.
+
+Unknown Speaker  00:49
+Way back when.
+
+Unknown Speaker  00:52
+But then moving on to the interview. The first question is, how have you ever felt that crime analyses has ever directly impacted you? If at all?
+
+Unknown Speaker  01:03
+Not directly.
+
+Unknown Speaker  01:05
+Not directly. Okay. You're saying like, indirectly, then maybe? Yeah, yeah. How? So?
+
+Unknown Speaker  01:17
+I don't care too much like so I'm not aware, at least like not that I don't care is like, I'm not aware of these kind of things. Yeah, just not
+
+Unknown Speaker  01:28
+interesting. And it's in the back of your mind, like, you know, what's happening, but not exactly,
+
+Unknown Speaker  01:32
+exactly. I don't know. Okay. Yeah. Okay.
+
+Unknown Speaker  01:37
+How important is it to you to understand how a crime analysis algorithm or software actually works?
+
+Unknown Speaker  01:46
+I think it's important, but and not to me, because I don't really work in this area. I don't I don't have a, like a intense interests, I guess.
+
+Unknown Speaker  01:58
+Do you think that there's like, any kind of specific or important information to know about it? If at all,
+
+Unknown Speaker  02:17
+at least, like how the police officer like, you know, present these data. So the public like that is important.
+
+Unknown Speaker  02:25
+Would you say like the process, then like the in between? Because you will have you'll start with something, they'll do something to it. And then what you're saying is how they present to the public would kind of want to know how they got those results.
+
+Unknown Speaker  02:40
+Allah care less how they process it. So I just want to more concerned how they present the final data.
+
+Unknown Speaker  02:48
+Okay. Sure.
+
+Unknown Speaker  02:50
+So then, assume that some kind of crime analysis process or software was implemented in your area, either where you live or where you work, such that it could directly impact you? How important would it be to have some kind of understanding of it,
+
+Unknown Speaker  03:09
+I think then would be important. So like,
+
+Unknown Speaker  03:14
+the hot spot on the map, so I know, like, which area I wouldn't go at night, you know, like I would try to avoid or like, at least like, have friends with me, if I have to go to that area, just be more cautious of where I'm going. But definitely not to say like those areas that are not like hotspot to leave them out. So have the awareness. Yeah.
+
+Unknown Speaker  03:40
+So you would say like something, maybe one thing important to know, is just like the locations of like, the bad place and stuff like this? Is there any other kind of like information that you think will be important to know about? If it's still directly impacts you?
+
+Unknown Speaker  03:56
+How can you rephrase that question? Yeah.
+
+Unknown Speaker  04:00
+Is there any kind of like other information that might be important to know about this algorithm or system? If it directly impacts, you? Know, you would just want to kind of know, like, the locations? Like maybe in this case, like the crime, stuff like this, yeah.
+
+Unknown Speaker  04:19
+Okay. So so you would want to it sounds like you would want to use it, sort of, for your own safety. Okay. Yeah.
+
+Unknown Speaker  04:28
+Sure. Sure.
+
+Unknown Speaker  04:31
+So then,
+
+Unknown Speaker  04:33
+assume someone with like more expertise vouch for the efficacy or the efficiency and fairness of the crime analysis algorithm or process? Would you still kind of want to use it for yourself for your own safety? Or would you still want to have like an understanding of how it works and still have access to it?
+
+Unknown Speaker  04:55
+Sure. If I have time, I would invest some time into it. Yeah.
+
+Unknown Speaker  04:59
+Sure.
+
+Unknown Speaker  05:03
+Do you believe that whether data was sourced ethically or legally unfairly, if that actually impacts the quality of the data itself? Yeah,
+
+Unknown Speaker  05:15
+I do think it impacts the quality of data, but I just don't know how I don't know. I don't know how and how it's done.
+
+Unknown Speaker  05:23
+So how it's done, like, What do you mean, how it's done?
+
+Unknown Speaker  05:27
+Like how the algorithm is like program or things like that? I have no idea because I have no background and like, technical stuff like math, or Science? I'm ok. Yeah, it's ok. Ok.
+
+Unknown Speaker  05:42
+If you were asked to give, to voluntarily give information, such as like your location where you live, any other kind of like more specific demographics to law enforcement, only for the purpose or better trading their data, or crime analysis algorithms. So basically, you'll go in, you'll give them your information that will actually improve the system, whatever, this is only between you and like the law enforcement. What would your response be to the? Yeah,
+
+Unknown Speaker  06:12
+I should be doing that I should be doing Yeah, I think it's responsible things to do.
+
+Unknown Speaker  06:19
+What would make it responsible? Just, you know,
+
+Unknown Speaker  06:23
+for the sake of public, other people to know to Sure, yeah, I'm for my own safety. Yeah.
+
+Unknown Speaker  06:31
+Sure. Would you be okay with them? Being able to like, track where you are with your phone? Would you? Would you be okay with them using that, like, sort of live data gathering for that kind of information?
+
+Unknown Speaker  06:57
+Is it like 24? Seven, and then every day? Is it for only like, period? time? What like one day? Like?
+
+Unknown Speaker  07:05
+I think in the hypothetical situation, it could be either with that affects like your response. Yeah. If
+
+Unknown Speaker  07:14
+it's just like a one day thing I can, I'm willing to do it, but it was like, every day. I would, okay. I wouldn't necessarily agree to do something like that. You know, just to provide data, if it's like, a one time thing or like two time thing. Sure. But like every day, I would, I wouldn't.
+
+Unknown Speaker  07:32
+You wouldn't want to like every day is just
+
+Unknown Speaker  07:35
+excellent. Quantum privacy, like, okay, yeah. Yeah. To let them know, everywhere are like, any places I go, you know? Yeah,
+
+Unknown Speaker  07:45
+I wouldn't feel right if I was always being tracked. And all of this
+
+Unknown Speaker  07:49
+exactly. Because I worked. Besides like the summer research program. I also work at Home Depot over the weekends. And then the app they use is to track your location. So it's like a clock in system. So they they tracked you to see, you know, how far you were, you're away from the workplace. And it's, I'm not employed by the Home Depot, I'm employed by the flower vendors. They use this kind of app to see if you're working in that area. So if you're not going somewhere, you know, what, I just thought.
+
+Unknown Speaker  08:26
+It's
+
+Unknown Speaker  08:29
+I don't like that app, because it like drains my battery. It drains my battery. But I also think that's one way to keep the employees accountable their duties.
+
+Unknown Speaker  08:41
+So is it so it's an app that you have to have, like, constantly open on your phone?
+
+Unknown Speaker  08:47
+Like in the background, cuz it's like, attracts you? So you have to turn on the GPS while using the app? Not while using that. It's just like, when you clocked in like on, okay, until you clock off. It's the law and the after you clock off? It's like turned off. Okay. Okay, but like the entire time is like dragging you when I work there. Yeah.
+
+Unknown Speaker  09:11
+I not heard of that. Yeah.
+
+Unknown Speaker  09:13
+Seems
+
+Unknown Speaker  09:15
+like is it actually kind of? I've never heard of something like that for workplace
+
+Unknown Speaker  09:19
+it's called Kronos, tak krona tech, so I'll just show you
+
+Unknown Speaker  09:25
+just don't fucking know where you are. Yeah. So it's,
+
+Unknown Speaker  09:27
+it's like this thing, and then you just hit the button like go. And then it tells you like, how many minutes who work and also like tracks vocational until you hit like, stop. That's
+
+Unknown Speaker  09:44
+what I don't need to say. Well, I'm sorry to hear that. Yeah,
+
+Unknown Speaker  09:47
+the thing. Like some people use like the the phone system just like call in to clock in and clock out. But they have this
+
+Unknown Speaker  09:56
+app for the new employees. I just got hired. So
+
+Unknown Speaker  09:59
+okay, and I feel like that that would be a little bit easier. Anyways, yeah. Okay, so move into the last question then, is, how would you feel if data from traffic tickets was used to kind of systematically place police along highways?
+
+Unknown Speaker  10:15
+Can you say it again? Yeah.
+
+Unknown Speaker  10:16
+How would you feel if like the data from the traffic tickets to say, either speeding or maybe like a red light or a crash? If that data was tracked and used by the police to put policemen in certain places on the highway? How would you feel about that? How would it feel
+
+Unknown Speaker  10:34
+feel scared, like, always have to be aware of like, stops like that, or like where they are at? But I mean, it's a useful resource for them. I mean, personally, but if I'm just, you know, driver, I would feel like, Oh, I'm always being tracked. You know.
+
+Unknown Speaker  10:58
+I wouldn't say it would be you're not exactly always being tracked. It's
+
+Unknown Speaker  11:04
+maybe like the cases where the tickets will go to court, then they'll use that, but
+
+Unknown Speaker  11:11
+you still wouldn't like it just because
+
+Unknown Speaker  11:14
+of your information.
+
+Unknown Speaker  11:18
+I guess it's fine. It's fine. Like, just like, yeah,
+
+Unknown Speaker  11:26
+it's fine. I think it's reasonable to use it. It's like, okay, yeah, but there's still something off putting. Yeah. Okay. Can you
+
+Unknown Speaker  11:35
+elaborate on like, maybe why you think it would be like pudding or weird or? It's like,
+
+Unknown Speaker  11:49
+they're setting up like, multiple speed cameras everywhere. To know that there's like this hot spot. People like speed. Yeah, just like but like speeding camera. Like, so it's like, oh, you know, some people just make mistakes, you know? And they're like this always off there. every mistake that they make.
+
+Unknown Speaker  12:12
+It sounds like it's the idea of always being watched always having to be perfect. Yeah, exactly the right thing. Okay. Okay. That's all the questions. I have. All we have. So yeah.
+
+
+Transcribed by https://otter.ai

@@ -1,0 +1,167 @@
+Unknown Speaker  00:00
+I'm here interviewing participant number 13. Starting off, the first question is, have you ever felt that crime analyses has ever directly impacted you? If at all?
+
+Unknown Speaker  00:12
+I guess the only way would be it was robbed at gunpoint, just like a quick sticker, kind of a thing. Wow. Next to a park. And, and I asked the two detectives who came how often happened in the neighborhood. And they said, it was like a once a month, kind of a thing for that neighborhood, which was the safest neighborhood. So I figured I must have like, impacted a statistic somewhere. And but then my job, I guess, it's come up a fair amount, looking at what different statistics are, and
+
+Unknown Speaker  00:47
+that's about it, I would say,
+
+Unknown Speaker  00:49
+was just a recent occurrence, or how long ago was it? It was,
+
+Unknown Speaker  00:53
+gosh,
+
+Unknown Speaker  00:56
+probably 10 years ago. 10 years. Yeah,
+
+Unknown Speaker  00:58
+I was an undergrad at EOB. Mm hmm. I was walking home and I walked past in river west of big park and some guy came out for buying the tree. And it was really scary as much as it was just like, just out of nowhere.
+
+Unknown Speaker  01:13
+And they kind of surprise you that hey, yeah.
+
+Unknown Speaker  01:18
+Well, I'm I'm sorry about that. I'm sorry to hear that. Oh, yeah.
+
+Unknown Speaker  01:22
+The least I have my own scary gun story, or, yeah,
+
+Unknown Speaker  01:25
+there you go.
+
+Unknown Speaker  01:27
+Other people have gotten like, hit by robbers and studies, I guess I got a pretty easy.
+
+Unknown Speaker  01:34
+That's what we're trying to figure out. We're trying to log everything and see if maybe that'll help allocate police in a better, more efficient way to the next kind of going off of that is how important is it to you to understand how crime analysis algorithms or software work, such as, like a predictive policing algorithm that you were just interacting with on the laptop? How important is it for you to understand how it works?
+
+Unknown Speaker  02:06
+I guess, if it was something that was predicting, and we're officers would go, that it would be important to me and have some kind of a broad understanding of it, but not like a very detailed one. I guess it would like to know more about this algorithms, because people refer to them all the time. But
+
+Unknown Speaker  02:30
+surprise, for me, it just be
+
+Unknown Speaker  02:32
+would be probably enough to know and like a nutshell format. However, the system was working,
+
+Unknown Speaker  02:40
+just kind of like an overlay of an idea of kind of like what's going on? Right. Okay. Is there any kind of specific information about it that you think is important to know?
+
+Unknown Speaker  02:52
+Or just the overlay?
+
+Unknown Speaker  02:56
+If it's talking about predicting where crimes will occur, just whatever the basis for that is, if it's a lot of crimes like this have happened in the in recent past? Or if is drawing and other data to try and predict? Sure, then see, I probably will look kind of like information. It's derived from how exactly it's like encapsulating that information might be beyond my need to know or, or expertise. And that's fine.
+
+Unknown Speaker  03:29
+Then, speaking of expertise, assume that someone with more expertise vouches for the efficacy and the fairness of this algorithm, saying that it works perfectly fine, is perfectly fair, would you believe them? Would you still trust that the algorithm is completely fair? Would you still want to know more about it? What's your opinion on that?
+
+Unknown Speaker  03:54
+I would have what to do with who was saying it, it was somebody from within the department, then it would be raised more skepticism.
+
+Unknown Speaker  04:06
+And
+
+Unknown Speaker  04:09
+because the ICF questions of race, at some point, if you're predicting where crimes are gonna occur, and people have different income levels, and but but it's always tricky, because the income levels are have some kind of relationship to crime. So if it's coming from an academic, I mean, I would tend to
+
+Unknown Speaker  04:32
+feel more comfortable
+
+Unknown Speaker  04:35
+covering the department a little bit less, if it's coming from like, the private sector person, probably somewhere in between the two. So yeah, yeah, I think it would depend a lot on who, who came from who came from, you say
+
+Unknown Speaker  04:49
+from the department? You mean, like the police departments are? Oh, right. Yeah. Yes. Police Department. Okay. Do you believe that weather data was sourced ethically, legally, if that impacts the quality of the data itself?
+
+Unknown Speaker  05:08
+I guess yeah, I guess it would have to.
+
+Unknown Speaker  05:11
+Yes, the whole thing about crisis is is is not how many people stole something. It's like, how many people got caught stealing something? And, yeah, so if you didn't have something like racial profiling, happening, you'd get more data in minority neighborhoods and then work crime but end up getting predicted in those areas. If that's how the system worked.
+
+Unknown Speaker  05:35
+You say, if there was no racial profiling, then you would get more data? Is that what you said? If there was if there was Yeah, okay,
+
+Unknown Speaker  05:43
+if we had a lot more arrests, and then, yep. feed into the system. That's how the system worked. Yeah,
+
+Unknown Speaker  05:51
+I believe, any kind of occurrence or interaction with the police that has to be logged. All this specifically for what we were looking at there, that was more of actual reports, or the more for lack of a better term, the more worse offenses such as that but stealing me personally, I'm not so exactly sure if it'll actually gets logged. So for data tracking, and all this, I think, I'm sorry, I.
+
+Unknown Speaker  06:30
+It's been a little bit of a long day. So I'm kind of like, no, sorry, I'm running off on a tangent, right. I'm sorry about this. Okay. I'm sorry. I'm sorry, we're here for you.
+
+Unknown Speaker  06:39
+Yes. But speaking about the information and collecting data and all this, if the police department came to you, and asked you to voluntarily give data such as like your location, or demographics, would you or would you withhold that information? Or what's your opinion on that?
+
+Unknown Speaker  06:59
+Oh, like through my cell phone,
+
+Unknown Speaker  07:01
+or something through your cell phone? Or if they brought you in? And you just either filled it on the computer or spoken to them?
+
+Unknown Speaker  07:09
+Oh, for continuous monitoring,
+
+Unknown Speaker  07:11
+or Yes, like to build up the database for their systems?
+
+Unknown Speaker  07:15
+I probably would decline. Yeah,
+
+Unknown Speaker  07:20
+I probably would decline.
+
+Unknown Speaker  07:24
+They kind of I don't like you police are kind of like pushing the boundaries on some of that stuff with Africa, what it's called, but I think it's like a stingray collector or something where they can tap into cell phone data. That's like, not 100% cleared by the Supreme Court. Yeah. So yeah, my general attitude is like, they probably have as much power as they should have. I don't I don't necessarily think they should have they have too much or that. Maybe there should be more like court procedures in between them, like accessing that data or whatever.
+
+Unknown Speaker  08:02
+It's okay. And you might just getting like two or three more minutes. Yeah. Perfect. Sorry about that. Okay. Are you saying more like a regulation type? Deal, like a regulate how they get the data? Would you say? Yeah.
+
+Unknown Speaker  08:23
+Speaking on the sting ray, or collecting the data through the phones? I mean, like, What if there was more regulation on that? Would you be okay with it or just know, in general,
+
+Unknown Speaker  08:34
+I'd be okay with like, a reasonable amount of regulation. And it's like that doesn't need to be responsive.
+
+Unknown Speaker  08:46
+Because they
+
+Unknown Speaker  08:48
+remember, a few years ago, they were having those problems with, like, mobs of like 15 year olds for like, running. They hit like State Fair, what point is, and there's a park in river West, and I think, maybe down at the lakefront, but they use that like cell phone data to kind of more or less like hack whoever these kids were, and the the officers were, like, visited with their parents and stuff. And sounds like that seems pretty effective. But of course, there needs to be at some point, there needs to be some kind of a judge involved. If if they're going to be tapping into people's personal data like that.
+
+Unknown Speaker  09:31
+Great, then
+
+Unknown Speaker  09:36
+we'll go to the last question, then is how would you feel if data from traffic tickets was used by the police to systematically kind of place police officers on a highway?
+
+Unknown Speaker  09:47
+You had to be fine with it. I would think they'd already be doing that just to some extent. I guess it depends on the department. If you had a small rural department, they might just go out to the freeway and yeah, nothing so much about it. Yeah,
+
+Unknown Speaker  10:05
+I think that'd be fine.
+
+Unknown Speaker  10:07
+Do you think that would be better, using like the traffic tickets to allocate where the police should go or just not necessarily track that as much and let the police officers kind of roam around to look for any kind of accounts of a crime?
+
+Unknown Speaker  10:25
+I think, yeah, there have to be a combination.
+
+Unknown Speaker  10:31
+That like hotspots could be
+
+Unknown Speaker  10:34
+labeled as hotspots. Because otherwise, it's like the officer gets to choose and maybe it's been a hard day and they'd rather just go to this one spot they have liked it's easy to get in and out of and but it's not a hotspot.
+
+Unknown Speaker  10:47
+So yeah, it's a combination of the two. Sure.
+
+Unknown Speaker  10:51
+Right, that's, that's all the questions that I have to ask. Let me see this.
+
+
+Transcribed by https://otter.ai

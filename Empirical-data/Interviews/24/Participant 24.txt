@@ -1,0 +1,194 @@
+Unknown Speaker  00:00
+Alright, so I am here, interviewing participant number 24. And just before like we actually get to the interview or whatever. Do you have, like any kind of background with like data structures, algorithms? Or crime analysis algorithms at all?
+
+Unknown Speaker  00:17
+No.
+
+Unknown Speaker  00:18
+Nothing? All right, thats fine.  everyone. No one really has any background. Sure. So far. So. Alright, so moving the first question like, before today, before actually gone into this session at all? How, if at all, have you ever felt that crime analyses have directly impacted you?
+
+Unknown Speaker  00:41
+All Personally, I don't feel like I've ever been affected by it. But I guess just being as a grown up in a nicer area and seeing market now, where I live currently is not not the best area. And I can definitely see how using some type of algorithms, some type of computer program and actually getting some finite analysis of the distribution of what actually happens in certain areas. What makes areas quote unquote, violent or disruptive could be could be useful for law enforcement.
+
+Unknown Speaker  01:16
+If you're going to like so, like a system like that in like your area, how exactly would like you get that day? Or how would you track all the
+
+Unknown Speaker  01:26
+while I would use crime data in the area? I mean, the most direct source of data would be like police reports, I would say people to file police reports. Yeah. That's where I would start.
+
+Unknown Speaker  01:42
+Sure. Definitely.
+
+Unknown Speaker  01:45
+And how important is it for you to understand like a how a crime analysis algorithm or software actually works?
+
+Unknown Speaker  01:54
+How important is it? Yes.
+
+Unknown Speaker  01:56
+Um, it's interesting, I'd like to learn, but frankly, I don't think it's that important. Okay. So you
+
+Unknown Speaker  02:01
+kind of want to like have like an idea of how it works. But it's not like, dressed. If I
+
+Unknown Speaker  02:06
+want to get into the nitty gritty of it. I want to, you know, I want to see that data backed up somewhere, I want to make sure you're not just, you know, pulling numbers out of your ass. No, I don't think it's that important that it's in your face.
+
+Unknown Speaker  02:22
+So you're saying the data is important to know, is there any other kind of other information that would be important to know about either the process or like the algorithm itself?
+
+Unknown Speaker  02:35
+If you could identify actual individual criminals, names that pop up a lot, you might be able to tie to your family or a group of people or an organization
+
+Unknown Speaker  02:51
+could be useful, useful as
+
+Unknown Speaker  02:54
+how for having those names connected to families?
+
+Unknown Speaker  02:59
+Oh, I know, it's a problem in some areas. I don't know how much it is in Milwaukee, but organized crime? Yeah. So if you have a similar group of people, they keep popping up. You know, it could just be criminals that are doing repeat offenses, which is oftentimes the case, but it could be an indicator of something bigger than that. So so something to keep in mind. Yeah, definitely.
+
+Unknown Speaker  03:24
+Definitely. So then,
+
+Unknown Speaker  03:27
+kind of back to the first question about ever, like a crime analysis system algorithm, and you're, like place in your area. So assume that, like a specific process for crime analysis was actually implemented in your area, either where you live or where you work? Sure. Such that it's used to directly impact you. Yeah. How important would it be to have some kind of understanding of it?
+
+Unknown Speaker  03:51
+Very important, very.
+
+Unknown Speaker  03:53
+Because any, then you're basically getting into how safe your neighborhood is. And that has a direct impact on not only you, but everyone that lives in your area, so then that would become a pretty important tool.
+
+Unknown Speaker  04:08
+Definitely. Is there any specific information you think will be important to know about the algorithm? Yeah,
+
+Unknown Speaker  04:20
+I guess, over what period of time that data is collected. So that for sure, yeah, time period, what it's looking for how it identifies the severity of incidents. So I personally, I would say like a violent crime would weigh more into the
+
+Unknown Speaker  04:42
+algorithm than say, like a petty theft. Yeah.
+
+Unknown Speaker  04:46
+So figuring out what Yeah,
+
+Unknown Speaker  04:47
+awaited distribution of crimes, I think that's very important, and how that how those crimes are actually waited? And where, where in the area specifically, are those crimes taking place? So you know, is it homes for you know, that'd be important for like, homeowners and businesses? Is it schools? So that would that would be important?
+
+Unknown Speaker  05:09
+Definitely. So then assume someone with more expertise than you vouch for the advocacy and the fairness of a given process of crime analysis? How important if at all, now, would it still be to have some understanding of this process or algorithm? Can you
+
+Unknown Speaker  05:27
+expand on that a little more? Yeah.
+
+Unknown Speaker  05:28
+So say,
+
+Unknown Speaker  05:31
+Person A went to college, he has a bunch of degrees in machine learning and any kind of top AI fields, and he's been developing this program for crime analysis. He says it's very efficient, very fair, would you believe them?
+
+Unknown Speaker  05:48
+I mean, I would believe him, but I would want to see the facts of backup behind it.
+
+Unknown Speaker  05:54
+So you know, anyone can anyone can say that.
+
+Unknown Speaker  05:58
+But yeah, I mean, I would believe them, I would say work. But I mean, I would like to see some type of actual finite scientific proof that what he's saying is actually true.
+
+Unknown Speaker  06:08
+So you're saying like, it would be like very important to still understand? Yeah, I would,
+
+Unknown Speaker  06:12
+I would hope there's some type of organization or group of people cross examine and auditing his work. So me who doesn't know jack shit about crime data analysis? Doesn't have to do it? Yeah.
+
+Unknown Speaker  06:26
+Definitely.
+
+Unknown Speaker  06:28
+do believe that whether data was sourced ethically, legally or fairly, if that actually impacts the quality of the data itself?
+
+Unknown Speaker  06:37
+Absolutely, absolutely. Yeah. Everyone has personal biases. Of course, it matters.
+
+Unknown Speaker  06:42
+So how would you feel if hacked data was used by professionals? What in what kind of contexts? Would you condone the usage of that data?
+
+Unknown Speaker  06:53
+I'm not sure. Not sure. I'm not sure. That's,
+
+Unknown Speaker  06:56
+that's a tough question. Okay.
+
+Unknown Speaker  06:58
+kind of put it in like a hypothetical.
+
+Unknown Speaker  07:01
+In the case of the whistleblowers, what's your response to that? Like? Yeah, you know, whether it be the whole, like, the email leak scandals, or whatever, they're used for kind of good intent? Yeah. Is that still okay? Or no?
+
+Unknown Speaker  07:19
+Are the people using this data breaking any laws and obtaining this data?
+
+Unknown Speaker  07:25
+I would have messages. It sounds pretty I,
+
+Unknown Speaker  07:29
+I would have a problem with that. Okay.
+
+Unknown Speaker  07:31
+Because I, it's not that I don't trust people using the data. But, you know, once that data gets out there, someone gets into the wrong hands. Yeah, I don't know. I think I would have a problem with that. Sure.
+
+Unknown Speaker  07:47
+Sure. What if it was used for a man? Well, I would assume that you would still have a problem if it was used for like a malicious intent to correct? Absolutely, yeah.
+
+Unknown Speaker  07:59
+It's, anyone can justify it. You can do whatever mental gymnastics you want. But anyone in their own mind thinks you might be doing a good thing. But you might be hurting a bunch of other people. So I, I think I would lean more on the fence of Let's stay away from hack data. Sure. Sure.
+
+Unknown Speaker  08:20
+Moving on, they've asked to voluntarily give information, personal information, such as like your location where you live, or any other kind of spit more specific general demographics about yourself to local law enforcement only for the exclusive purpose of better training data in crime analysis algorithms. Would you actually participate in this? And going yeah,
+
+Unknown Speaker  08:42
+if there was the structure behind it, and it was well regulated, and the process was there? Absolutely. I wouldn't have a problem with that. f1.
+
+Unknown Speaker  08:51
+We're playing the hypothetical. What if it was not a voluntary thing with the police came to you and said, we're doing this whole city wide kind of thing? And it's mandatory is mandatory?
+
+Unknown Speaker  09:02
+It's fine. You just kind of give up your information. Yeah.
+
+Unknown Speaker  09:07
+Okay. Well, why? Why would you just kind of give it up?
+
+Unknown Speaker  09:10
+Well, for one, I'm already living there. So that that'd be pretty tough. Okay, but I'll play devil's advocate here. Let's say I was looking for a house or something. And the city I was going to live in was doing this kind of a thing. But everyone else was doing it too. I don't think I would have a problem with it. Okay. As long as kind of like everyone, as long as everyone else is doing it, and there's a structure behind it. Like, there's no data leaks? Like, there's no, you know, nothing malicious. I can tell from from the beginning, I would not have a problem with that. Sure. Sure.
+
+Unknown Speaker  09:51
+Then finally, how would you feel a data from traffic tickets was used and collected by the police in order to systematically allocate police along the highways?
+
+Unknown Speaker  10:09
+Like in hotspots?
+
+Unknown Speaker  10:11
+And hotspots? Yeah, yeah.
+
+Unknown Speaker  10:14
+I don't have a problem with it. No problem. Yeah. Now,
+
+Unknown Speaker  10:17
+look, a matter of like tracking where things will have Yeah, place on no problem.
+
+Unknown Speaker  10:21
+No problem. Okay. I mean, don't they do that already?
+
+Unknown Speaker  10:25
+I would kind of think so. But I think they more so just like set up capital, like under hills or something? Yeah, I don't think
+
+Unknown Speaker  10:31
+No, I don't have an issue with that. Okay.
+
+Unknown Speaker  10:37
+That's all the questions. I really have. Okay.
+
+
+Transcribed by https://otter.ai

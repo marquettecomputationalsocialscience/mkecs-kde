@@ -1,0 +1,122 @@
+Unknown Speaker  00:00
+And the point of this is just to get some richness of context and understand better, why you might have chosen things that you chose or how you feel about certain things and really to get out your reasoning. So feel free to say anything and everything that comes to mind and ramble on. There's there's no such thing as too much okay, for this. So, our first question is, how have you felt that crime analyses have directly impacted you, if at all, before coming into that?
+
+Unknown Speaker  00:37
+Well, I'm an assistant district attorney. So okay.
+
+Unknown Speaker  00:43
+So directly because it's what I do all day, I deal with different crimes and how we're going to handle that through the court system directly. And,
+
+Unknown Speaker  00:55
+um, because I only know about how, you know, the court system works from TV. district attorney is
+
+Unknown Speaker  01:03
+same with my parents. So
+
+Unknown Speaker  01:04
+they're, they're like the they're the prosecutors
+
+Unknown Speaker  01:08
+are divided into units. Okay, so I,
+
+Unknown Speaker  01:12
+how much of this is public? Think Are you going to say my name? No, no. Okay. I dress you drug crimes. Okay. So I'm very familiar with drug crimes and the rates of drug crimes, the areas of drug crimes, if you were to ask me, such as in this about, like, robberies and stuff, if they're related to drug crimes, I would know, roughly rates but not so much other crimes outside of that. Okay.
+
+Unknown Speaker  01:34
+So you do have, like, some experience with this?
+
+Unknown Speaker  01:39
+Yes. Okay. As you say, cry, that's like, Okay. I saw crime. And I'm like, that's my topic.
+
+Unknown Speaker  01:45
+Yeah. As soon as he said, A Juris Doctor, I was like, oh, weirdly relevant. But, yes, that's awesome. So how important is it to you to understand how crime analysis algorithms or software works? And what information would you think is important to know,
+
+Unknown Speaker  02:05
+I think it's important to know just the basics of how to read it. And if they're available, that the person especially law enforcement attorneys, social workers, anybody kind of working in that realm has a basic understanding of it. I don't think you need to be able to do all the pieces of it or construct it, but he will be able to read it in order to understand it for your occupation or just life. Okay.
+
+Unknown Speaker  02:29
+So you wouldn't you wouldn't care so much for like the math behind it as understanding, reading the outputs.
+
+Unknown Speaker  02:37
+Right. Okay.
+
+Unknown Speaker  02:38
+Awesome. So assume that a specific crime analysis process was implemented in an area in which you live or work such that it would directly impact you? How important would it be in that scenario, to have some level of understanding about how set process works? And what would be important to you in that scenario,
+
+Unknown Speaker  03:03
+I think would be important to know some of the basics of how it works like how is this data collected? What year? Is it from Who are they serving? The I guess, I feel like the broader way that this algorithm, yes, that the word was constructed, rather than just throwing him back at me and being like, Oh, this is it? Okay, certainly 1920? Or is this from July? Do you know what I mean? Like, yeah, I don't think you need to know. Okay, I took this equation plus this equation, but I think you need to know, basically, how valid and reliable this algorithm is really, to your day to day festivities. Okay.
+
+Unknown Speaker  03:40
+So you wouldn't you would want a little more context on the data source and the up to date, Miss,
+
+Unknown Speaker  03:49
+how recent is it? People were surveyed? Where was the survey taken? Are you only taking from certain populations or salary levels? What's the socio economic levels? We're looking at for the separation? Okay,
+
+Unknown Speaker  04:00
+cool. So this next scenario, assume that someone with more expertise than you and with regards to how the algorithms work? I'm, since you're a lawyer, and you know, the crime side?
+
+Unknown Speaker  04:18
+Couldn't numbers over 10. But
+
+Unknown Speaker  04:22
+I'm, so assume that someone with more expertise than you vouch for the efficacy and fairness of how a given crime algorithm worked? Okay, how important would it be for you to still have some level of understanding about how that process worked? And in that case, what information would you want to know about it? Oh, so basically, I know, I'm in the previous statements, it's just you, you would know, here's a type of crime analysis. Yeah, if we're adding on to that. Here's someone that you know, as an expert in the area of algorithms. If that person said, this algorithm has been trained and tested, and is both fair and effective, what would you want to know about how that algorithm works?
+
+Unknown Speaker  05:26
+About the person or about the algorithm?
+
+Unknown Speaker  05:29
+I'm either
+
+Unknown Speaker  05:30
+Well, the person I want the CV, I want to know why you're so qualified. Tell me that. Okay. And then the algorithm, I'd still want the basics of how you gather that data, when you're gathering that data from?
+
+Unknown Speaker  05:43
+So you would you would want similar information to before
+
+Unknown Speaker  05:47
+I bought the same information as before, plus why this person is so qualified to tell me things that I should just believe. Okay. Awesome. Lawyer answer for you.
+
+Unknown Speaker  05:56
+Lawyer answer. Very good. Yeah. Do you believe that whether data was sourced ethically, legally and fairly impacts the quality of the data itself? Absolutely.
+
+Unknown Speaker  06:10
+How so because if you are gathering your data, and you want your data, for instance, to turn one way or another, that I think that's a major impact. If you're only serving a certain number of people, or certain neighborhood, or economic level, or whatever it may be, that is going to skew your data in the direction that you want it to point, I think you need a diverse, you have to do it up to I don't know if their codes are like you have to do it ethically, responsibly, in order to get somewhat accurate results that people would agree with. Okay, thank you.
+
+Unknown Speaker  06:48
+If asked to voluntarily give personal information, such as location and demographics, to law enforcement for the exclusive purpose of better training data for crime analysis algorithms, what would be your response? And what would be your reasoning behind that?
+
+Unknown Speaker  07:04
+You could have all my information. That's if it's going to help decrease crime in certain areas or make the neighborhood safer for some people. I don't see any harm in that whatsoever. Okay.
+
+Unknown Speaker  07:18
+How would you feel if data from traffic tickets was used to allocate police on highways?
+
+Unknown Speaker  07:24
+Like certain areas were given more tickets versus?
+
+Unknown Speaker  07:28
+Yeah, like, if you could use take it says, predictive tool for where to best place like highway patrol officers?
+
+Unknown Speaker  07:38
+I think that would make sense. I think my main concern with that, along with anything along those lines is are you then targeting certain people? Like if you say that this intersection typically has people turning right on, right, and there's a sign says no, right or right. But the same thing is happening at that intersection? But there's two different socio economic classes or racial classes, depending on the neighborhood? Are you now hoarding all of your police in intersection A versus intersection be on equally when you're having the same issue?
+
+Unknown Speaker  08:10
+So you would be worried of using it to justify Yeah, an other a different agenda?
+
+Unknown Speaker  08:18
+Yes. be concerned about addressing an underlying target. Okay.
+
+Unknown Speaker  08:22
+But would you feel that similar agendas could have been used in the previous question? Like if if I had been asking the question of, would you voluntarily give personal information to someone of a like, marginalized group? Would you think that that could be used for a similar agenda?
+
+Unknown Speaker  08:48
+Probably. Okay. I think Basically, anything that you lay out if they're not, if you definitely want to only look at traffic taxes to determine intersections or highways or certain areas that there's a lot of issues going on, then that's one thing but if you're using instant cover for something else, or with asking people for their personal information, that's a little slimy, okay.
+
+Unknown Speaker  09:09
+So So motive is a major,
+
+Unknown Speaker  09:13
+it is what they say it is then all for it, but if it's cover
+
+
+Transcribed by https://otter.ai

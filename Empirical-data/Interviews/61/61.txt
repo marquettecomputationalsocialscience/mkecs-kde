@@ -1,0 +1,314 @@
+Unknown Speaker  00:01
+So I'm here with participant number 61. And The first thing I'm gonna ask about is like your background. So Do you have any background with like crime or law enforcement or anything like that? Yes. Okay. What is what's your background?
+
+Unknown Speaker  00:18
+I worked for the Department of Public Safety here at Marquette for 14 years.
+
+Unknown Speaker  00:22
+Okay. What was your What was your job?
+
+Unknown Speaker  00:25
+I worked mostly as a communications officer. I spent nine months as a residence officer, but then the rest of the time as a communications officer, which was a dispatcher
+
+Unknown Speaker  00:34
+Okay, dispatcher? Yeah, fancy way. Um, So was this before or like, after they became an actual before? Okay, so not quite, not quite like a full fledged police officer. But tangential, I guess.
+
+Unknown Speaker  00:54
+Okay. It was immediately before they became or they started the process of transparent.
+
+Unknown Speaker  00:59
+Okay. So this was like, a few years ago, like that. Cool. Do you have any background with like, the technical side? any computer science anything?
+
+Unknown Speaker  01:11
+No. Like mean, education wise?
+
+Unknown Speaker  01:14
+Oh, yeah. Yeah. Or like if
+
+Unknown Speaker  01:17
+I mean, in the center, I work with computer programs and alarm systems and things like that, but nothing with like a data analysis. Okay.
+
+Unknown Speaker  01:25
+So you haven't used any applications like this? Okay.
+
+Unknown Speaker  01:30
+So you would say, you know, you, not not a huge technical background, but like, a strong like, context background maybe. Okay, So
+
+Unknown Speaker  01:44
+the actual Riddick questions.
+
+Unknown Speaker  01:47
+So How have you felt that crime analyses have directly impacted you, if at all?
+
+Unknown Speaker  01:55
+I don't feel like there's been a
+
+Unknown Speaker  01:59
+Are you talking about in my professional or my personal,
+
+Unknown Speaker  02:01
+I mean capacity of both?
+
+Unknown Speaker  02:06
+That Yeah, the point of these interviews is just to get like, you know, more context and more understanding, because, you know, if you have a richness of context, and it makes the numbers mean, a lot more, Okay.
+
+Unknown Speaker  02:19
+I don't think that crime
+
+Unknown Speaker  02:21
+analysis has had a huge impact.
+
+Unknown Speaker  02:27
+But I can see where crime analysis and has, like, changed the environment. That like I've generally worked in are like button in.
+
+Unknown Speaker  02:41
+So
+
+Unknown Speaker  02:43
+having been in the same area for over 20 years, I can see where fluxes of officers, patrol officers and police presence or other kind of presence has either written or been reduced based on crime in the area. So just having that observation, I can see how data analysis Along those lines has impacted my life. But on a day to day,
+
+Unknown Speaker  03:11
+It's not something that I participate in, okay, on a day to day basis. You vaguely you know that it's doing something right.
+
+Unknown Speaker  03:19
+So but in your in your work as a dispatcher. It wasn't never something I really came into consideration.
+
+Unknown Speaker  03:29
+Except, yes. Like it was another It was never something that I did. It wasn't an activity I didn't. I was giving, you know, I might have been given results to attend to that we're already done.
+
+Unknown Speaker  03:44
+Yeah, King go into detail about what that was like.
+
+Unknown Speaker  03:48
+Sure. So The, the people, the officers who are the administrators who would be doing data analysis, or be looking at crime maps, might give directive of having a specialized patrol zone, and to make sure that officers were in that patrol zone. So even so even if we got a call for service, and there was no other officer available that call for service, depending on his priority, my weight in order to keep an officer a patrol zone, That was like a hotspot.
+
+Unknown Speaker  04:24
+Okay. So you you, you know, worked with the outcomes of the right. Okay.
+
+Unknown Speaker  04:31
+So How important is it to you to understand how crime analysis algorithms or software works? What information would you think is important to know?
+
+Unknown Speaker  04:45
+I think the number of reported
+
+Unknown Speaker  04:50
+crimes or incidents in crime events, the type of event that is being reported, the number of them, but I think it's also important to know, not just how that the event is being reported, but the actual outcome of it. So, right, you know, someone may report a robbery, but it's not actually a robbery, but it could be coded as a robbery, As an initial call. So I think it's really important to make sure that that is attention to the classification of an event and make making sure that it was what it was actually founded or found to be, as opposed to how it was reported. So initially, you would expect
+
+Unknown Speaker  05:37
+this discrepancies between what it's called in as versus what it's a rough day, is
+
+Unknown Speaker  05:45
+that, right? So?
+
+Unknown Speaker  05:49
+You seem to mostly be focusing on the data. And that being? What you want to know, would there be anything beyond just the data like source and quality that you would value?
+
+Unknown Speaker  06:04
+I'm not sure. I'm not sure I understand the question and protect Oh,
+
+Unknown Speaker  06:10
+just know, you just your previous responses, were just sort of listing different facets about like the data set that you're working with. So I just wanted to know, if you would have any concerns that weren't about the data,
+
+Unknown Speaker  06:26
+in regard to crime data
+
+Unknown Speaker  06:28
+analysis, in regards to just like, maybe,
+
+Unknown Speaker  06:34
+like, how the, like more on how the algorithm works or anything.
+
+Unknown Speaker  06:41
+I think that as someone who would be an end user, I don't know if how the algorithm works would concern me.
+
+Unknown Speaker  06:55
+Because I would tend to trust the developers, The program, you know, as their specialty thing that they would do. So Maybe that's foolish?
+
+Unknown Speaker  07:07
+That's totally fair. Okay. So assume that a specific process for crime analysis was implemented, like in an area where you live or where you work such that you would, you would see the impact of it and your daily life. So for you, not necessarily in your work, but just in the area where you work. However important, would it be to have some level of understanding about how that process works? And what would be important to know
+
+Unknown Speaker  07:43
+someone who is not involved in the process or in the law enforcement field? I think that
+
+Unknown Speaker  07:52
+a,
+
+Unknown Speaker  07:56
+I think that a minimal understanding of was that the process is happening, That data is actually being collected and analyzed is important to know. And a small amount about the about the process and the intent for use of the data, I think is important. Okay.
+
+Unknown Speaker  08:19
+Yeah. Why What?
+
+Unknown Speaker  08:23
+By intent? Or use? Do you mean? Like the the intentions of the, like, people that are using it, or like the intentions of when the software was like, May?
+
+Unknown Speaker  08:37
+The people using it? Okay,
+
+Unknown Speaker  08:39
+yeah. What would be some concerns or like, reasons why you want to know,
+
+Unknown Speaker  08:45
+I'd want to know,
+
+Unknown Speaker  08:48
+what the maybe intent
+
+Unknown Speaker  08:52
+is maybe intense the wrong word. It might be like more of what the response is to the data that is received and analyzed. So What is the plan response? So that would be by by the police department that you know, and the like the people making decisions based on that data?
+
+Unknown Speaker  09:11
+how it's being? Yes, yes. Okay. Um, so assume someone with more expertise than you vouched for the efficacy and fairness for given process for crime analysis. In this case? How important would it be to you to have some level of understanding about how that process works? And What do you think would be important to now?
+
+Unknown Speaker  09:34
+Can you repeat that again?
+
+Unknown Speaker  09:36
+So assume someone with more expertise, then then you vouch for the efficacy and fairness of the process? What would you want to know in this scenario? And What would be? And how important would it be to understand
+
+Unknown Speaker  09:57
+to have an understanding of the algorithm.
+
+Unknown Speaker  10:08
+So I
+
+Unknown Speaker  10:13
+think it would be important to know
+
+Unknown Speaker  10:16
+who the people are maybe not, not who not necessarily the individuals are, but who the company is, or whoever has created, the data is implementing it, They would be important to know who they are and what kind of ties they have the community.
+
+Unknown Speaker  10:33
+In particular,
+
+Unknown Speaker  10:37
+I'd be concerned about
+
+Unknown Speaker  10:40
+programs
+
+Unknown Speaker  10:43
+being misused or being used to target particular groups. That good that goes beyond just saying crime. Okay, people committing crimes, but that it's I, I am concerned that programs can be used to target particular, particular groups. And so I'd want to know a little bit more about the company their affiliations, any kind of charitable donations that they would be making, or political donations that they would be making, just to just to know and understand a little bit more behind like the personalities, and any kind of conflicts of interest. Okay. The group could have it. And I know that's, that's the way I think.
+
+Unknown Speaker  11:28
+I mean, it goes back to what you said earlier to understand people's motivations. And yeah, 10. Right. Right.
+
+Unknown Speaker  11:39
+I would want to know, I would want to know more about that, and the ties that they have with the with the people who will be using that. Because you know, those motivations are often transparent there. And so just knowing a little bit more about that would be important to me.
+
+Unknown Speaker  11:58
+And then
+
+Unknown Speaker  12:00
+I'd want to, I think it would be important to know or have some kind of report on those who are using that after a certain amount of like a trial period of time those who are using the program? Do they find it effective? Do they find it useful and effective for doing for doing their jobs and directing
+
+Unknown Speaker  12:23
+workflow? So I guess you would want some kind of affirmation that it is that it is worth the time worth the money and something Yep. Okay. So Do you believe that whether data was sourced ethically, legally and fairly impacts the quality of the data itself? and How so?
+
+Unknown Speaker  12:48
+I do.
+
+Unknown Speaker  12:51
+Think edit, I think that this is dependent on the type of data that's being collected, whether affects the data or not. Okay, so what the data is, in itself.
+
+Unknown Speaker  13:06
+There's certain, like, certain data
+
+Unknown Speaker  13:10
+that has an objective quality to it. Like what I was talking about earlier, What, in regard to crime, what a what an incident, what an event was originally called in on how I don't think the collection of that had like whether it's unfairly ethically or whatever, that's not going to change because there's an objective fact, to it, that doesn't, that doesn't respond or doesn't correspond
+
+Unknown Speaker  13:41
+to, to those the categories that you just named.
+
+Unknown Speaker  13:47
+But what happens afterwards, See, you know,
+
+Unknown Speaker  13:52
+can can affect, I think, the data or at least how it's mapped or perceived or analyze, Okay,
+
+Unknown Speaker  14:01
+Yeah. So even if even if maybe, unethical data was in and of itself, like, you know, quality data, you still it would it would cast doubt on, like, the process that the these people use? Yes.
+
+Unknown Speaker  14:18
+Yeah, for sure. Okay.
+
+Unknown Speaker  14:25
+FM asked to voluntarily give personal information, such as location, demographics, previous criminal history, to law enforcement for the exclusive purpose of better training data for crime analysis algorithms. What would be your response? And, and your reasoning?
+
+Unknown Speaker  14:45
+If Someone was asking me for my personal information for
+
+Unknown Speaker  14:50
+Yeah, then order to train some hypothetical crime analysis algorithm? Okay.
+
+Unknown Speaker  15:01
+I probably would not have a problem doing that. Because I can, because I think that the only I can't think of a situation that that that would, I don't think it would compromise me at all. I don't have a criminal background history. But also, I can't imagine being asked that or having anything come up without being a stakeholder in some way. Okay. Mike, so I'm actually involved in the process of, you know, I don't Yeah, I'm not going to get a cold call the police about
+
+Unknown Speaker  15:45
+that. This is this is like a very hypothetical.
+
+Unknown Speaker  15:49
+I'm not about to hand you a form and ask you out, right.
+
+Unknown Speaker  15:54
+So, so you would like in theory, be willing to give sort of basic like, background information? You feel comfortable sort of giving that out? Would you feel comfortable giving, like, access to your phone's location data? No.
+
+Unknown Speaker  16:13
+Okay, No.
+
+Unknown Speaker  16:16
+Why not?
+
+Unknown Speaker  16:19
+Because I think that gets into surveillance in a potentially, it can get into a surveillance situation that I am not comfortable with, especially with their like, wanting to protect my privacy and have having a choice or as much of a choices as possible, for having my location known or not. Okay.
+
+Unknown Speaker  16:47
+So it's just a little too much. Right. Okay.
+
+Unknown Speaker  16:50
+So How would you feel if data from traffic tickets was used to strategically allocate police along highways and roads?
+
+Unknown Speaker  17:01
+If data from traffic tickets was used to allocate police officers on roads?
+
+Unknown Speaker  17:11
+What kind of data from
+
+Unknown Speaker  17:12
+traffic ticket? I'm
+
+Unknown Speaker  17:15
+just like, this intersection has more speeding tickets? So we'll put more, you know, have a greater presence? Yeah. Greater presence more often?
+
+Unknown Speaker  17:26
+I don't think I think that's okay.
+
+Unknown Speaker  17:30
+I don't I don't see.
+
+Unknown Speaker  17:32
+Yeah, there seems to be a little bit of doubt.
+
+Unknown Speaker  17:36
+I'm trying to think about the implication of it. Like, I don't know, if it's just if it's just speeding traffic, or traffic ticket data.
+
+Unknown Speaker  17:48
+I think that that would be okay. To
+
+Unknown Speaker  17:51
+have more officers that
+
+Unknown Speaker  17:54
+I don't know if I'd want. Is it traffic tickets in regard to just speeding? Or is it like in regard to accidents and things like that, because if you get traffic tickets in regard to accidents, it would suggest to me that there would be a need for presence. I don't know if speeding.
+
+Unknown Speaker  18:12
+I think the idea would be from traffic tickets as like, as a whole. So any type of traffic citation. Okay.
+
+Unknown Speaker  18:22
+I think that that can be a data point, that would be useful. I don't think it should be exclusive.
+
+Unknown Speaker  18:28
+Okay, so you think there should be more consideration? Yeah. Okay. Well, that's our last question. I'm gonna
+
+
+Transcribed by https://otter.ai

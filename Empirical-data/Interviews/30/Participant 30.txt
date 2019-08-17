@@ -1,0 +1,197 @@
+Unknown Speaker  00:00
+Okay, so I am here with participant number 13 before actually kind of getting to the actual interview questions. Speaking on like the background, have you ever seen any of thing like this before, like a crime analysis algorithm or predictive policing kind of software?
+
+Unknown Speaker  00:20
+And I don't think I've ever seen it before. But I know conceptually that it exists.
+
+Unknown Speaker  00:24
+You know, it exists.
+
+Unknown Speaker  00:27
+Everywhere used it before, like use anything like this before? No, no. Okay. That's fun. Like, still, it was easy to use it. Yeah. I mean, it seemed like you were kind of moving through it pretty quickly. That too.
+
+Unknown Speaker  00:40
+Yeah. I feel like I figured,
+
+Unknown Speaker  00:43
+yeah. Was there any reasoning why you didn't change the Katie parameters? Or is it just
+
+Unknown Speaker  00:48
+I didn't know enough about it?
+
+Unknown Speaker  00:51
+Yeah, definitely.
+
+Unknown Speaker  00:53
+So then moving on to the actual interview, before the day before actually coming into the session today? How have you ever felt that if crime analyses have directly impacted you, if at all? I don't
+
+Unknown Speaker  01:05
+think they've impacted me at all.
+
+Unknown Speaker  01:09
+Would you say like, indirectly, like, have you seen it in? Like,
+
+Unknown Speaker  01:13
+people, you know, or
+
+Unknown Speaker  01:17
+could you give me more of a definition for crime analysis?
+
+Unknown Speaker  01:22
+kind of analysis? Yeah. So like, the data for, like a traffic stop, or even just, like profiling from the police. To be kind of considered, like crime analysis, like associating something with something else? Yeah. In the context of crime?
+
+Unknown Speaker  01:44
+Yeah. So I'd say I haven't had much experience with it. Um, given where I grew up was a pretty affluent, sort of suburban neighborhood. So I didn't experience or even see much like profiling by police. So yeah, just in my own experience, I haven't seen them for
+
+Unknown Speaker  02:03
+that's completely fine, too.
+
+Unknown Speaker  02:06
+How important is it to you to understand how a crime analysis algorithm or software actually works.
+
+Unknown Speaker  02:13
+And I think it's important to me from like, a social justice standpoint. Because I would like to, not that I've ever been profiled, but I think it could definitely lead. And it does lead to right now, to profiling other people unfairly. So I think from that service standpoint, it's important to me to sort of be considerate and conscious of that when using such analyses.
+
+Unknown Speaker  02:41
+And you say in like, the context of a social justice idea, is that just to make sure everything stays fair and smooth, or what do you mean, in that kind of a context again, like, try to make sure like the crime analysis algorithms and software were fair and equal for everyone. So what you're saying,
+
+Unknown Speaker  03:03
+Yeah, and then I also think, for example, when you're looking at such a map like that, there's a language and there's behavior that comes with designated serving locations as higher crime as bad neighborhoods. So I think that as much as identifying those places, and using crime analysis to prevent more crime, also not sort of categorizing some places bad or good, and in a way leading to more crime by kind of causing that unrest, if that makes sense.
+
+Unknown Speaker  03:38
+So it kind of seems like just making sure there's no bias.
+
+Unknown Speaker  03:41
+Right. Okay, perfect. Yeah.
+
+Unknown Speaker  03:44
+Going back to seeing how important it is to kind of understand these crime analysis algorithms and software, do you think that there's any kind of specific important information you think would be good to know about them?
+
+Unknown Speaker  03:59
+Fair while
+
+Unknown Speaker  04:02
+just in general, yeah. The crime analysis algorithms or software? Like, is there any important information you think would be good to know, is
+
+Unknown Speaker  04:12
+to help you use? Or just to know, in general General, um, I think, sort of like a disclaimer type situation? Because I think a lot of times when you're confronted with a technology or algorithm such as that you really take it at face value. So
+
+Unknown Speaker  04:31
+no, knowing
+
+Unknown Speaker  04:34
+certain. I know, kind of like we were talking about earlier, certain biases that could come out of that also, the level of accuracy or in accuracy, and how all crime analysis actually works in practice in preventing crime.
+
+Unknown Speaker  04:51
+Sure, yep. Definitely. So with the whole kind of process, yeah, sure. So assume that, like a specific process for crime analysis was implemented in your area, either where you live or where you work, such that it's use could directly impact you? How important would it be to have some kind of understanding of how it works?
+
+Unknown Speaker  05:19
+I'm
+
+Unknown Speaker  05:25
+not sure. I'm not sure. How important would it be to understand how it works? I think not. So personally, I don't think I'm of a demographic that wouldn't necessarily be and, like, said to be more likely to be higher crime and stuff like that. But I don't know, I think it's important to know, like, what factors go into the algorithm to create that data, which classify others more likely to commit crime than others? That makes sense. So more? So like I was saying the process how it works, what it means.
+
+Unknown Speaker  06:04
+Sure, yeah, you're saying like, what factors go into the algorithm? To get that output? What do you mean by factors? Like, what do you think would go into effect the output?
+
+Unknown Speaker  06:15
+Right, so demographic factors, such as education level, age, socio economic status, race? Things like that? Definitely. Yeah, definitely.
+
+Unknown Speaker  06:29
+assume someone with more expertise vouch for the advocacy, or the efficiency, and the fairness of a given process of cramming analysis. For this scenario, how important would it then be to have some kind of understanding the algorithm or process,
+
+Unknown Speaker  06:46
+um, I think it's still important, because of course, you would then recognize the sort of expertise of the other person, but it's also important to make sure why things are being done. Because even if another person is telling me that with expertise, that this is good, and it works and stuff like that, it could still, if you don't understand how it works, create a sort of sentiment that could be avoided with more explanation.
+
+Unknown Speaker  07:17
+In this scenario, is there any specific important information you think would be good to know?
+
+Unknown Speaker  07:24
+Um, how it works? Like we were talking about earlier? What goes into creating the algorithm? And then how effective it is, like real life sort of
+
+Unknown Speaker  07:34
+advocacy? Sure.
+
+Unknown Speaker  07:37
+How will you think you would gauge like the effectiveness or someone would gauge the effectiveness?
+
+Unknown Speaker  07:42
+Right, I think that could come from data, like police officers, and how it helps them find criminals prevent crimes, due to knowing where these higher crime areas are, and stuff like that?
+
+Unknown Speaker  08:02
+Sure, definitely.
+
+Unknown Speaker  08:06
+Do you believe that whether data was sourced ethically legally or fairly, if that actually impacts the quality of the data itself?
+
+Unknown Speaker  08:19
+Yes.
+
+Unknown Speaker  08:21
+Um, first, on a level that I think that perhaps the data could be skewed? Because if, if the person who is collecting the data does so unfairly, or unethically than their own biases are probably more likely to be present in that data, even if it seems to be sound. So on that level, the data could be wrong. But then also
+
+Unknown Speaker  08:50
+was your initial question
+
+Unknown Speaker  08:52
+does,
+
+Unknown Speaker  08:55
+like sourcing the data ethically, legally, legally, or fairly? If that impacts the quality,
+
+Unknown Speaker  09:01
+right, and then I also think it lessens the quality
+
+Unknown Speaker  09:05
+in the way that it sort of sets a precedent for data being collected in illegal unfair, unethical ways, which in a way, affects that the quality of the data, this one and in future,
+
+Unknown Speaker  09:19
+how do you think that data could be collected, like, illegally or on ethically an example?
+
+Unknown Speaker  09:28
+I think taking advantage of people that don't exactly know what they're participating in, in that sense, and then also typical, sort of like interviewer bias, where you sort of create the answers that you would like to see. So that would be unfair, also, probably from people that are being like, kind of preyed upon. So in that way, definitely. It's kind
+
+Unknown Speaker  09:59
+of like molding what the person wants to see. That's what Yeah, sure. Definitely. If you were asked to voluntarily give personal information, say like the walkie police department is asking for volunteers to come in and give more information on like your location, like more specific on where you live, and more specific demographics, only for the purpose for better training their data and their crime analysis algorithms. What would your response be to that? Like, would you go in and voluntarily give this information
+
+Unknown Speaker  10:33
+on definitely not right off the bat, I think I would like to know a bit more about the process and how that would be helpful. And also how that information would be used, not from a standpoint that like, I don't care if the police know where I live or anything like that. But I'd like to see how that is helpful. And whether that data is being used appropriately.
+
+Unknown Speaker  10:58
+Like how it would be helpful or how it could, you know, yeah, definitely. And kind of play in the hypothetical. What if it was not a voluntary thing? Like what if you're requiring people to come in and give them information, still only for the purpose of better training their algorithms and better helping stop helping to stop like crime from happening? mode? Your response be to that if it was involuntary? Um,
+
+Unknown Speaker  11:27
+I think especially without any further explanation, I would definitely be more antsy about it. Because, um, if an authoritative figure is requiring you to do something, without even asking voluntarily first, then that kind of raises red flags, that it's something that you shouldn't or wouldn't want to be doing in the first place.
+
+Unknown Speaker  11:48
+would still be kind of like nervous?
+
+Unknown Speaker  11:50
+Yeah, definitely. Definitely. So
+
+Unknown Speaker  11:55
+how would you feel if hack data was used by professionals? Like what kind of context would you condone the usage of
+
+Unknown Speaker  12:03
+hacked data? So I think it depends, first one, like what is being hacked? And then, if it's sort of like a life or death situation, then by all means, half the data
+
+Unknown Speaker  12:17
+was very situational. Yes. Okay. Yes. Can you give like an example of like, why it would be a good thing to use hack data?
+
+Unknown Speaker  12:26
+Yeah, I'm
+
+Unknown Speaker  12:28
+very sort of extreme emergency situation. Like if someone is kidnapped, and police or something hack into their social media accounts or something like that, which leads to finding the person that can get them, you know, something like that, just for the ultimate good?
+
+Unknown Speaker  12:46
+Yes. Person danger. Yeah, definitely. So then, how would you feel if data from traffic tickets was used and collected by the police to systematically place police cars along the highway?
+
+Unknown Speaker  13:01
+Firstly, I get a sense that that's already what's being done. And it makes sense to me. Obviously, you're going to want to put police officers where they're most needed, where people tend to speed the most or the most dangerous location, so it makes sense.
+
+Unknown Speaker  13:27
+Well, that's all the questions I really have to ask. And again, thank you for coming in. Thanks for giving your time.
+
+
+Transcribed by https://otter.ai

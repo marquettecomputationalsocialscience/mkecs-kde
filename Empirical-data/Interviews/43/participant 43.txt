@@ -1,0 +1,371 @@
+Unknown Speaker  00:00
+Okay, so I'm here with participant number 43. And the first thing I'm going to ask you is, have you ever seen any applications anything like the one that we had to use today. Yeah, I have a certificate GIS is pretty familiar with the different bad for Eastern Bloc he has. Okay.
+
+Unknown Speaker  00:27
+What was the certificate in
+
+Unknown Speaker  00:29
+a key is key graphic Information Systems?
+
+Unknown Speaker  00:32
+Okay, so, um, you have you have used like, Ark GIS. Okay. That's the one that I'm most familiar with. So you would say you have some, like, background on like, geospatial data analytics? Do you have any background with like crime crime analytics?
+
+Unknown Speaker  00:52
+Or not? Specifically, where demographic? And my masters in in urban planning? Okay, is that right? So, yeah, for urban planning, we had a lot of land deviation interval graduate. Not sure which crime, although I am familiar with her batch The city has available. Okay. didn't do any specific school work?
+
+Unknown Speaker  01:29
+And what was your undergrad in?
+
+Unknown Speaker  01:31
+sociology? Okay. Minor geography?
+
+Unknown Speaker  01:39
+Sorry, I'm just taking some notes here. Yeah, it takes a little long.
+
+Unknown Speaker  01:44
+So, you would say that you have a decent background with some of the various components of a con, the concepts that we're working with here. But when taken as a whole, have you felt that crime analysis algorithms have directly impacted you? If at all?
+
+Unknown Speaker  02:06
+Me personally, no. Okay, no. Okay.
+
+Unknown Speaker  02:13
+How important is it to you to understand how crime analysis algorithms or software work? What information would you think is important to know?
+
+Unknown Speaker  02:25
+I think it's very important, because
+
+Unknown Speaker  02:29
+I think that there needs to be transparency, and how the police operate? And what kind of people there, you know, they might be targeting, or, you know, to make sure that they're operating within the parameters that we as a society, want them to.
+
+Unknown Speaker  02:56
+Okay. So you would be concerned about their, like, motive? Yeah,
+
+Unknown Speaker  03:03
+motive, and IV, like, even not necessarily their conscious motive, like, what do you have algorithms can you don't have a crazy range, you have a human shutting them off. But they can introduce buyers, an algorithm itself to bring out bias that people didn't even know that they had,
+
+Unknown Speaker  03:32
+um, you mentioned that
+
+Unknown Speaker  03:36
+algorithms can end up having some bias and then can you give, like, examples on how that might happen? Or ways that you are concerned that it might happen with this type of software?
+
+Unknown Speaker  03:49
+This specifically, I would have to think about it. I know, in LA, they heard a system I know they do in other cities, but I just remember why fan Jewish specifically, where they had identified, you know, loan game members and seller. Also, their associates and, and credit spread out their associates, associates. And anyway, they ended up targeting targeting Latino people for like, stop and frisk kind of things, who were involved in a crime at all. And it was just like, their algorithm popped up, you know, show and show might be involved in something. But this specifically, I guess, I would be concerned at how accused with with other data, and with how, you know, like a police officers perception of an area, you know, and I struggled with my own perception of what I know, I've lived here, almost all my life
+
+Unknown Speaker  05:03
+and life what what areas?
+
+Unknown Speaker  05:07
+are right, get Sure, you know, or I don't like crime, right? You know, why i n robbery, why robbery might be worth traveling to share it.
+
+Unknown Speaker  05:23
+So you worry about preconceived notions of the city. Yeah,
+
+Unknown Speaker  05:27
+I think if you had somebody that had never been here before, and showed them those bags, I think today you would have
+
+Unknown Speaker  05:36
+a different set of data.
+
+Unknown Speaker  05:38
+Okay, so I right. So you're worried that if I have someone who's from Texas, never been to Milwaukee comes in and looks at this, they're going to interpret it totally different than you are a Milwaukee officer who grew up here? Yeah,
+
+Unknown Speaker  05:55
+they definitely create. I mean, I know are you who are not back, and I see a cluster of robberies, and I can try to think, okay, you know, who's the tackling to what kinda robberies are they likely to be? What are the after, you know, and I think it informs how you might police an area. Yeah, I know.
+
+Unknown Speaker  06:18
+There's campus police there, too. So how many Milwaukee Police Do we need to supplement that? Do you think that your the context of the city and your background information would be helpful or a hinderance if you were doing if you were in charge of like the collective predictive policing?
+
+Unknown Speaker  06:44
+And I think overall, it would be helpful. Okay, to have that background.
+
+Unknown Speaker  06:51
+And no, kind of I gave you to get trends from the data. But also, I think right here, very subjective. You also know what's coming up. data doesn't really know that summer fest is coming up, there's more likely to be robberies in that area. Yeah. Then there were last But okay, things like that. But you will know that if you weren't familiar with the area.
+
+Unknown Speaker  07:26
+Okay, so, back to our actual written question, okay. Assume that you knew a specific process for crime analysis was implemented in the area where you live, where you work, or you go to school, such that it's used could directly impact you in your daily life? How important would it be to you to have some level of understanding about how said process works? And what information would you think is important to know?
+
+Unknown Speaker  08:00
+What would be important to know? Yeah, I like using the program.
+
+Unknown Speaker  08:04
+If you are if you're a resident? Yeah.
+
+Unknown Speaker  08:08
+I would definitely say very important to me to understand what
+
+Unknown Speaker  08:16
+you know how it works?
+
+Unknown Speaker  08:20
+I'm sorry, what was your question? Oh,
+
+Unknown Speaker  08:22
+just what information? Would you want to know about it?
+
+Unknown Speaker  08:35
+I would want to know how the data is affecting their, like, what criteria are they using, like how many robberies need to happen in an area before they increase patrols? Or what kind of diversity? Does it require? Like, you know, if they're mostly residential, no. burglaries, whatever? Do they gain more weight to that, then businesses?
+
+Unknown Speaker  09:08
+Or vice versa? So you would care how to actually implemented? Yeah, how people take, here's what the results of it says, and here's what we're doing on the street? And how those two together? Okay. Would there be anything that you want to know about? Like, the actual, like, the process itself? And how it like, works with the data? Or is that less important?
+
+Unknown Speaker  09:34
+Okay, so I would like to know, where they're getting the data
+
+Unknown Speaker  09:38
+here.
+
+Unknown Speaker  09:41
+And what it is like, either stock me where cry was reported, or where they made an arrest. You know, or the combining with other agencies like the sheriff's department or whoever else investigates crime here. You know,
+
+Unknown Speaker  10:05
+we're the salt
+
+Unknown Speaker  10:10
+arm. For the purposes of the application we use today. Obviously, this isn't going to be what, you know, necessarily Milwaukee Police officers are using, but for this one, the blue dots represented individual court cases. So it's only for crimes that were salt and brought before a judge or a grand jury. Okay. Yeah. Yeah.
+
+Unknown Speaker  10:38
+Okay. Yeah. And, you know,
+
+Unknown Speaker  10:39
+there would arrest data would look different, and like, dispatch calls would look different. Yeah. So you think it would be you it would be important to know what, at what stage and like, yeah, and process it comes from? Yeah,
+
+Unknown Speaker  11:00
+I mean, the reporter robbery, and he never show up. I've called the police several times, maybe never showed up. Oh, God for robbery. But yeah, show, you know, where does that data going? shaky. today? I sure they have a lot of the call. But does that make it anywhere? You know, how does that affect your later decisions your life? Do you?
+
+Unknown Speaker  11:26
+Why? Why do you think that police like may or may not show up to certain like in response to certain call.
+
+Unknown Speaker  11:37
+To be with other stuff, more important stuff. The stars start the male power.
+
+Unknown Speaker  11:50
+Act like
+
+Unknown Speaker  11:53
+accident where there were no injuries like my car was totaled. The other car was an operable area, both in the middle of an intersection blocking traffic. Yeah. And Fire Department showed up because there's gas we kick all over the place. And then the tow truck showed up in car. So the police, we had to go to the station and make report of it.
+
+Unknown Speaker  12:19
+You think like because there were no injuries? Maybe they didn't? Yeah. You know,
+
+Unknown Speaker  12:25
+charismatic showed up? Nikon 911? Yeah. You know, and the paramedic medic showed up. And, you know, neither driver wanted to go to the hospital. Show. Yeah. You know, hit rate directly traffic at least. Yeah, but it was younger drivers. 12. Right. As far as I know. Okay. You know, they weren't shady looking happy to them. Yeah.
+
+Unknown Speaker  12:53
+So you think d? So you would
+
+Unknown Speaker  12:58
+think that like?
+
+Unknown Speaker  13:00
+Perhaps like even just like these court cases, right. Because that requires that police get involved and that there is a criminal case. Right, that that would make the that would look very different from where police might actually be needed. Right. Yeah.
+
+Unknown Speaker  13:19
+I mean, a lot of stuff. They never get solved at a bike and some other stuff stolen from a garage and a dead date. They showed up at a chain. They view a nice neighborhood. But you know, it's not like that's ever going to get solved. So that would show up here. Christian is no perpetrator. That wasn't a robbery. There was still Yeah. Oh, I mean, you know, bike faster. Pretty rampant. Yeah. So. So you know, any tips? Clyde?
+
+Unknown Speaker  14:00
+You would say that, would you say that this data set then would be sort of incomplete? Yeah. Okay. Yeah,
+
+Unknown Speaker  14:07
+for sure. I mean, you have to draw the line somewhere. Yeah. You know, somebody said, Oh, I heard there was your, you know, I heard a rumor that this that happened. You can't
+
+Unknown Speaker  14:19
+Yeah, really? At some point, you need some level of documentation. Got this. have that happen, that our data point happened?
+
+Unknown Speaker  14:31
+I think you could look at different levels. I mean, you could just look at 911 calls. And that's going to be a really big data site. Yeah. Cuz, you know, I heard gunshots? Well, you know, we don't know for sure. Yeah. That it was actually Gosh, don't shock. But I think it still be useful to work. Is that clear? Yeah,
+
+Unknown Speaker  14:52
+I've actually. And some of my past projects. I've, I've been, I've been doing crime stuff too long. But I've had this is this is obviously with court cases. But I've also done something similar with arrest data, right? So that's slightly different. And then I've done a project based off of, like, dispatch calls for service, okay, which is, whenever when a dispatcher gets a call, and then whatever, they mark it down as it gets sent there, and it gets, and it says, like, if, like a cop was sent out, or, like different possible responses, and the data does look pretty different. Yes. Yeah. There's a lot of like, spots where like, like, the actual, like police, like precincts, like, there's a lot of events around there, just because like, a lot of times they'll call like, Oh, well, if you're calling in like prisoner transport, right, getting calls into that. Yeah. Yeah,
+
+Unknown Speaker  16:03
+I live fairly close to the police facility. And I know, there's a lot of calls very, like doing paperwork and stuff. Yeah. Yeah. Like, you know, you're asking somebody on that black. Yeah,
+
+Unknown Speaker  16:16
+it's a lot of like, just documenting their daily stuff, which, you know, it makes sense. But that's also why maybe they might not want to look at this patch calls and they want to look at court cases. But that also means that they won't be considering like your stolen bike situation. Yeah. Which is, I mean, it's always tough, right, like getting data Providence. always tough. Yeah.
+
+Unknown Speaker  16:43
+I mean, I, I would take that kind of harder to me. Finish in general. But I know, I know, a lot of people in river washed, that I've had things happen, and nobody ever gets Clyde. Yeah, you know, sexual libraries finish like that. And maybe that's true elsewhere in the city. Yeah. And I just happen to know a lot of people who were there. But you know, that's not gonna show up. Yeah. Yeah.
+
+Unknown Speaker  17:16
+You it's never going to be perfect. No, no. Okay. Know, it's good to get, like, this background, and just really, you know, yeah, the more we can, we can look through later, the better that this is. So don't worry, don't worry that we're getting distracted. assume someone with more expertise than you vouched for the efficacy and the fairness of a given process for crime analysis. In this scenario, how important would it be to you to have some level of understanding about how said process works? And what information would you think is important to know?
+
+Unknown Speaker  18:06
+I still think it would be important to me
+
+Unknown Speaker  18:10
+as a citizen, it's just interesting to me, but I still think that we need
+
+Unknown Speaker  18:19
+to trust transparency.
+
+Unknown Speaker  18:24
+City residents
+
+Unknown Speaker  18:27
+are key. What did I say before? Yeah, well, I'd be like, we were talking about what data are they using? And the people use a what kind of background knowledge do they have? Yeah, the shitty because the, you know, the doctor, right? work. Exactly. Design. Right. Who designed? You know, all the problems with Facebook show on? Because he reveals they put information in
+
+Unknown Speaker  19:07
+cloud, right. Yeah.
+
+Unknown Speaker  19:08
+So.
+
+Unknown Speaker  19:11
+So you worry. You worry about like, the if, again, just the motivations of the people that are around this analysis. Or, or maybe motivation, but
+
+Unknown Speaker  19:29
+perceptions, okay. Yeah, sure. Title, motivation, you know, sometimes speeds are over pleased or under pleased. The sky would famous police consider important why do they think this is important? That's not as important. Yeah. What is your thoughts? I would like to know that, you know, why do they say more police to this kind of event versus that? Sherry? You know, I don't know. Okay.
+
+Unknown Speaker  20:01
+So you worry, perhaps that police have they weigh things in their minds? And maybe that isn't entirely fair. For you? at the minimum? You want to know the logic behind it? Yeah.
+
+Unknown Speaker  20:14
+Okay. Yeah, I think there should be more finish in order to shape
+
+Unknown Speaker  20:21
+the thought process that goes into
+
+Unknown Speaker  20:25
+how would you want to like implement citizen oversight?
+
+Unknown Speaker  20:32
+I think that there should be a board. And I guess there is some kind of commission, that civilians fired police commissioner. I think there's a group of civilians. So if something happens, you know,
+
+Unknown Speaker  20:49
+shoot somebody.
+
+Unknown Speaker  20:52
+A right. investigate that. But yeah, I guess I don't know a lot about what they do. Right. In any case. You know,
+
+Unknown Speaker  21:05
+we do need oversight.
+
+Unknown Speaker  21:10
+Maybe elected
+
+Unknown Speaker  21:13
+to the city council, little bit more power. Over?
+
+Unknown Speaker  21:22
+Um, do you believe that whether data was sourced ethically legally, and fairly impacts the quality of the data itself? How so? Yeah,
+
+Unknown Speaker  21:33
+absolutely. Okay.
+
+Unknown Speaker  21:41
+Quality is dependent on what we want to get out of it. You know, is the data sufficient? are we measuring what we think that we're right here? Yeah, you know, that's always a new data in how you can get really screwed up? You know, what do we want to measure? Is? Is the process really giving us back? So that has to be fair for Ashish. If that's what we want to be fair, you know, what are our values? Yeah.
+
+Unknown Speaker  22:25
+Okay. Um,
+
+Unknown Speaker  22:28
+if asked to voluntarily gave personal information, such as like location, demographics, prior criminal history, to law enforcement for the exclusive purpose of better training data for crime analysis algorithms, what would be your response and your reasoning behind it? Um,
+
+Unknown Speaker  22:53
+well, first of all,
+
+Unknown Speaker  22:57
+if you're asking for criminal history, they already have that, like, a, you know,
+
+Unknown Speaker  23:04
+generalized demographic data and show on break individually. No, I think there'll be a violation of my liberty, I don't want to make that easy for them. And show and I don't think that right demographic for age race or whatever, she really weighed that up, you know, I don't think that makes you inherently more likely to commit a crime or not.
+
+Unknown Speaker  23:36
+Take your time. No worries.
+
+Unknown Speaker  23:37
+All right. Yeah,
+
+Unknown Speaker  23:39
+something you later.
+
+Unknown Speaker  23:40
+Okay. Um, so you wouldn't feel comfortable giving them really any information? If they want it, they have to go find it elsewhere?
+
+Unknown Speaker  23:52
+Or I don't even talk to them.
+
+Unknown Speaker  23:54
+Okay. Do you? Is there a reason why that you're only if you're comfortable sharing getting into it? Yeah,
+
+Unknown Speaker  24:04
+I have no prior history, it don't charge. You know, I've seen them operate in ways that I think are unfair and discriminatory and overreach their power. Okay. And I just don't charge it, that can't happen to me. Okay. You know, I think it really are through to anybody. Right. You know, I write the word vulnerable and in different ways.
+
+Unknown Speaker  24:35
+Okay. Why would you think that you're more vulnerable?
+
+Unknown Speaker  24:41
+A sexuality and character? You know,
+
+Unknown Speaker  24:47
+I think I can be
+
+Unknown Speaker  24:50
+if like, targeted? they're treated fairly based on that. Yeah. And yeah,
+
+Unknown Speaker  24:55
+I relate to that. I'm
+
+Unknown Speaker  25:02
+in one of those little boxes, but I just, it's important to have it sort of on recording if you're willing to share it. Yeah.
+
+Unknown Speaker  25:13
+But yeah,
+
+Unknown Speaker  25:13
+so
+
+Unknown Speaker  25:16
+we should American
+
+Unknown Speaker  25:18
+history of
+
+Unknown Speaker  25:20
+protest. Yeah, it better escape. But I have a history of participated in protests and civil disobedience. So I'm related to that. I'm not, and, you know, probably analyst anyway, but I don't want that prior knowledge to the fact. Okay, I'll be reporting or robbery.
+
+Unknown Speaker  25:45
+So you're, you would be worried that your past history or your belonging to certain groups would, would be information that they might use for the wrong reasons? Yeah. Okay. So a general a lack of trust for a variety of reasons. If you could, if you were to, you know, assume in a hypothetical world that the data would not be used for anything other than training the algorithm. As soon as it gets it goes into the the training data set, it gets erased from everywhere else, would you be okay with that, then? Or would it still make you feel uncomfortable?
+
+Unknown Speaker  26:32
+I wouldn't have to understand why they thought that that particular data was useful. Okay. Okay. I don't understand why. And what what demographics we're talking about, typically. UK, some may matter, you know, my education me, made me less likely to make some time for income or what have you. So I guess I'm right. For Greg some demographics. And I believe that could be useful. and not others.
+
+Unknown Speaker  27:14
+Okay. Yeah. And this is a very hypothetical question. So I
+
+Unknown Speaker  27:20
+can't say what they would or wouldn't want to use, right. We're just sort of trying to understand your, your views on like, privacy versus like data and that kind of stuff. Yeah. So we have one more question. How would you feel if data from traffic tickets was analyzed in order to systematically allocate police along highways and roads?
+
+Unknown Speaker  27:45
+I'm actually very cool with that. Yeah, I think it's a huge problem in Milwaukee. Really, that people drive? And I figured, well, I guess the problem we have with traffic tickets is back to LA issue even after that. Yeah. I think that is under pleased. And I don't know if it's a staffing problem or priorities travel very white. Yeah. They actually think that there needs to be more dedicated traffic. Okay. enforcement. So you so I guess mapping traffic as it stands now. I don't know what that would show. Maybe it would show correct patterns in a very big concert, or a gap I can think of, yeah, Park in the city. You guys show road in particular. Right. Or terrible? And I
+
+Unknown Speaker  28:46
+Oh, yeah. I mean, I'm just down like Wisconsin in 10. along the highway, that I used to live by that intersection. And there would just be like a ton of crashes. Oh, and, yeah.
+
+Unknown Speaker  29:01
+So
+
+Unknown Speaker  29:02
+yeah, so I can I can see what you mean, like the
+
+Unknown Speaker  29:06
+traffic in Milwaukee gets a little crazy.
+
+Unknown Speaker  29:09
+And a lot of eligible for College Street design, to pleasure. Public transit day, and lack of bike lanes. And it you know, it's really multifaceted. Yeah. But people are not scared of the police at all. When it comes to traffic. Yeah. Interest rate, the highway maybe. Right. You know, I don't see people driving on the interstate like you do in Chicago. But city streets, people have no fear. Yeah.
+
+Unknown Speaker  29:45
+So you would fully support using tickets to try and optimize? Yeah, okay.
+
+Unknown Speaker  29:50
+I know how much contradictory But
+
+Unknown Speaker  29:53
+no, I'm totally fine. Yeah.
+
+Unknown Speaker  29:58
+That makes all I mean, that is
+
+
+Transcribed by https://otter.ai

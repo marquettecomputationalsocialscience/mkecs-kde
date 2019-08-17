@@ -1,0 +1,158 @@
+Unknown Speaker  00:00
+This is to get
+
+Unknown Speaker  00:04
+some more richness of context and to understand sort of your thoughts, your reasoning and your feelings. So feel free to talk as much as you want. ramble on, there's no such thing as too much for this. So our first question, oh, and this is participant number 17. Want to get that in before I forget? So our first interview question is, how have you felt the crime analysis algorithms have directly impacted you? If at all?
+
+Unknown Speaker  00:43
+I mean, not that I'm aware of not directly. I mean, I guess?
+
+Unknown Speaker  00:50
+I'm not sure honestly. I mean, probably most lately. I mean, wherever you go,
+
+Unknown Speaker  00:53
+I feel
+
+Unknown Speaker  00:54
+like
+
+Unknown Speaker  00:58
+Yeah. Okay. Thank you. Our next question is, how important is it to you to understand how crime analysis algorithms or software works? And in order to understand it, what information would you think is important to know?
+
+Unknown Speaker  01:15
+Um, I think
+
+Unknown Speaker  01:16
+it's important to know, because
+
+Unknown Speaker  01:21
+you should just know what's going on. Like, why? Because if you're going to happen to want to have an opinion on something like that, you should at least have some knowledge on what's going on and how everything is decided, I think little I'm
+
+Unknown Speaker  01:35
+sorry, was the second part of the question.
+
+Unknown Speaker  01:36
+Oh, um, what information would you think is important to know about these algorithms?
+
+Unknown Speaker  01:43
+I think it should be important to know, like, what goes in like deciding, like, where police stations are like, and why they're there. And they, What's the reason? And I think that would help and like people understanding like, government funds and knowing how they're being allocated better, okay.
+
+Unknown Speaker  02:06
+So, assume that a specific process, either algorithm, or software for crime analysis was implemented in an area in which you live or work. And therefore, it would directly impact you. In this case, what would be an important information to know? And how important would it be for you to have some level of understanding about how said process works?
+
+Unknown Speaker  02:38
+It'd be really important, I think, I mean, I, personally would like to know, like, what's going on, especially if I'm living in that area, like, paying taxes, like on property and stuff like that, and in general, to have an idea of what's going on and why that's going on? I think would be good for any person. Okay.
+
+Unknown Speaker  03:00
+So in this next scenario, assume that someone with more expertise than you and the field of algorithms and crime analysis vouch for the efficacy and fairness of a given process for crime analysis. In this case, how important would it be to have some level of understanding about how the process works? And what information would you think is important to know?
+
+Unknown Speaker  03:32
+Um, I think it'd be important to understand it. I mean, I feel like that's like the same thing as signing like a contract and not reading the contract a little bit.
+
+Unknown Speaker  03:41
+I'm just, you know, like,
+
+Unknown Speaker  03:44
+maybe if that person like how, like a seminar for like people like within the area, like, that'd be really cool, like, explain it all on, like,
+
+Unknown Speaker  03:52
+give out some, like brief pointers and just basic
+
+Unknown Speaker  03:56
+information, like explain it to people
+
+Unknown Speaker  03:58
+in a way they would understand it, even if they didn't have such an extensive background in the area, I think.
+
+Unknown Speaker  04:04
+Okay, so you would you would want this expert to give, like a sidebar. Yeah, like an
+
+Unknown Speaker  04:11
+info session.
+
+Unknown Speaker  04:12
+Okay. Beyond just affirmation. Okay. So you, you still would want, like context, and more information? Very interesting. Do you believe that whether data was sourced ethically, legally and fairly impacts the quality of the data itself? And if so, how do you think that it impacts it?
+
+Unknown Speaker  04:38
+Yeah, I think if data is unethical, I think that's a huge problem, honestly. But um,
+
+Unknown Speaker  04:46
+can you see the second break? I'm sorry?
+
+Unknown Speaker  04:48
+I'm, and how do you think that?
+
+Unknown Speaker  04:54
+That it, the data is impacted?
+
+Unknown Speaker  04:56
+I mean, I just think it calls into question the accuracy of the data to I mean, if you're not practicing ethical, ethically, then, like, what if you guys weren't? Like, I'm assuming this, like, this is pretty ethical, like, like,
+
+Unknown Speaker  05:14
+yeah, we fed by the IRB board.
+
+Unknown Speaker  05:18
+Yeah. And then if it wasn't, if you weren't approved, like you couldn't even be doing this. And then like, even if like something came up, like, the results would be like, enrollment.
+
+Unknown Speaker  05:28
+Okay. So you think that you can't really implement data? If it's not been ethical, okay. If asked to voluntarily give personal information, such as location data, and your demographics to law enforcement, for the purpose of better training data for crime analysis algorithms, what would be your response? And what would be your reasoning behind set response?
+
+Unknown Speaker  05:59
+I mean, I would, I can't really think of a reason off the top of my head right now. Like, why wouldn't want to? I mean, I guess. Maybe that takes into, like, into consideration, like my demographics? And like, I don't know, like, I couldn't, like, picture a problem with that. Like, I guess I don't know, I can't see not like giving information for data. So you're asking.
+
+Unknown Speaker  06:25
+Yeah, just to voluntarily.
+
+Unknown Speaker  06:29
+Give some information about you your background? And if, if that
+
+Unknown Speaker  06:37
+is something you would be comfortable doing?
+
+Unknown Speaker  06:41
+Yeah, I'm yeah, I would I mean, I mean, I guess I've never I don't have like a criminal record or anything. So maybe that takes into like, why would but I don't know. Okay.
+
+Unknown Speaker  06:51
+So, I'm in a similar vein, how would you feel if data from traffic tickets was used to allocate police along highways?
+
+Unknown Speaker  07:04
+I mean, logically speaking, that would make sense, although, but I feel like enforcing like, speed limits and stuff like that is really hard thing to do. And also kind of a waste of resources a little I mean, I think I said you brought in Australia, like a year ago, and they never had like hot police patrolling the highways, they just had like speed cameras. And I know they have those in the United States. They're just more enforced. They're like, I would be in an Uber or something. And then like, the guy would be like, oh, like, we have to, like go the speed limit for like, like, on this highway, because of like, they're so enforced, and like, people get in trouble for them all the time.
+
+Unknown Speaker  07:51
+So
+
+Unknown Speaker  07:53
+and I feel like I've never been in like a car and been like, oh, there's be cameras here. Like, slow down, like in the United States. Okay. I don't know. I'm
+
+Unknown Speaker  08:01
+so like, do you think that it would be a different thing? To instead of what's changed a scenario a little bit instead of allocating like police in patrol cars with a radar gun? Yeah, along highways, they were using ticket data to place like these traffic cams and assuming they were enforced, how they are in Australia, or?
+
+Unknown Speaker  08:24
+Yeah, no, I think that'd be smart. I mean, I've I haven't gotten like a speeding ticket yet. But like, I've been in like an accident, like, where someone was like, speeding and like, my mom got hit, because like, that was like the problem. And like, I just think driving like fast. It's just like, stupid, like, just leave five minutes. Okay, my dad is like a mixed? Well,
+
+Unknown Speaker  08:49
+I do have one more question. I noticed that you were changing the that Katie parameters a lot. I was just wondering, like, what your thought process was, or if you were picking any of them in particular,
+
+Unknown Speaker  09:05
+um,
+
+Unknown Speaker  09:05
+I was saying I definitely liked the ones where they're like, the bigger circles or whatever. And I realized that after I changed it, so that's why I changed it back. But um, I was like, I've watched like, some, like, kind of like movies and stuff like that. And like the Manhattan ones like the one I rock and recognize, so I picked that that's
+
+Unknown Speaker  09:29
+okay. Interesting. Yeah. Just
+
+Unknown Speaker  09:34
+not to not to spoil anything, but most people just leave the default parameters. So whenever someone is like, changing them every time I just get it's something worth asking about.
+
+Unknown Speaker  09:46
+I mean, I don't know, I guess.
+
+Unknown Speaker  09:51
+I mean, I didn't really know what I was doing to me. Honestly, I just didn't say the same thing every single time. That's better.
+
+Unknown Speaker  09:57
+All right. Well, thank you for coming in. Yeah.
+
+
+Transcribed by https://otter.ai

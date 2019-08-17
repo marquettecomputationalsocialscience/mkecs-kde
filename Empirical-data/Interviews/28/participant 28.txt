@@ -1,0 +1,323 @@
+Unknown Speaker  00:00
+And, you know, the point of this interview is just to get like some richness of context and better understand like your point of view and your thought processes and how you feel about certain things. So we have you as participant number 28. And you mentioned that you were pursuing a master's in computing. Do you have like a is your undergraduate and like a computing background? Or? I know,
+
+Unknown Speaker  00:28
+my undergraduate degree was in accounting. Okay,
+
+Unknown Speaker  00:31
+so you're in the year change? Okay. Yeah. So you wouldn't? How long have you been in the computing program?
+
+Unknown Speaker  00:41
+I just started on the 28th. Okay,
+
+Unknown Speaker  00:42
+so you have, like, three weeks or so? Yeah. Okay. So you would say that you don't have like a super strong technical background at this point? Not yet. Okay. Yeah.
+
+Unknown Speaker  00:55
+Good luck with that boot camp right here. It's pretty rough. But
+
+Unknown Speaker  00:58
+yeah, it's a, you know, eight hours a day, five days a week. So
+
+Unknown Speaker  01:01
+nothing like a full time job.
+
+Unknown Speaker  01:03
+Right? Pretty much. Um,
+
+Unknown Speaker  01:07
+so
+
+Unknown Speaker  01:10
+enter,
+
+Unknown Speaker  01:13
+we have a series of questions. And as I said, this is for just some more context on you. So feel free to just to keep talking as much as you want, say anything that crosses your mind, none of this is going to be related back to you in any way. So, you know, you can say whatever you want. And, you know, there's no such thing as too much. So feel free to ramble on,
+
+Unknown Speaker  01:39
+if you need to.
+
+Unknown Speaker  01:41
+So our first question is, how have you felt that crime analysis algorithms have directly impacted you? If at all?
+
+Unknown Speaker  01:50
+I don't really feel like they've impacted me. Okay,
+
+Unknown Speaker  01:54
+I mean, I guess, I guess, like, like,
+
+Unknown Speaker  02:05
+with with the crime analysis, I, you know, you are able to see areas that have, you know, the hot spots, but but, I mean, it doesn't, it doesn't really, I guess, make me just see things differently. You know, I mean, yeah,
+
+Unknown Speaker  02:28
+I can Yeah, that's,
+
+Unknown Speaker  02:32
+that's totally fine. Um, so our next question is, how important is it to you to understand how crime analysis algorithms or software works? What information would you think is important to know?
+
+Unknown Speaker  02:46
+Well, based on what I was, you know, when I was trying to adjust things,
+
+Unknown Speaker  02:52
+just provide me a little bit more detail with, you know,
+
+Unknown Speaker  02:56
+well, like, what was it? I think it was the bandwidth or something in the middle.
+
+Unknown Speaker  03:03
+Bandwidth was the one in the middle. Okay. Yeah. So,
+
+Unknown Speaker  03:05
+no, their review was, but yeah, just just like a way to have a little more more detail, and maybe maybe some examples as to how things will look before you.
+
+Unknown Speaker  03:21
+Kind of before you put everything into that category. Okay.
+
+Unknown Speaker  03:28
+And do you think it's important to have some level of understanding for how crime analysis algorithms or software works? Yeah,
+
+Unknown Speaker  03:39
+just because I think, like, I mean, like I was saying earlier, depending on how you can adjust the bandwidth and things like that, that can definitely affect how, you know, the amount of like, the red, the red hot spots. So how, you know how that would be seen. And then it can look like, Oh, this area has a really high crime rate. And maybe, and maybe it's just, you know, maybe it's because of, I guess, how the graph is shown. And, you know, just, I guess, seeing how how differences can kind of play a role in that in, in figuring out what hotspots needs to be addressed. Okay. So,
+
+Unknown Speaker  04:21
+our next question, I assume that a specific process, whether it be an algorithm, or a software for crime analysis was implemented in an area where you live or where you work, such that it would directly impact you. In that case, how important would it be to have some understanding of how said process works? And what information would you want to know about it?
+
+Unknown Speaker  04:53
+Um, I guess in that, in that regard, I think it would be important to know, just more about, I guess more about the process. I mean, at least now, after this, I am I'm a little bit more familiar. But there's, there's still things I'd like to know. And just, yeah, I guess just general information for you know, people that live around that would that would live around that area.
+
+Unknown Speaker  05:23
+So I'm assume that you had someone who is an expert and crime analytics or, like geospatial data analytics, who vouched for the efficacy and the fairness of a given a process for crime analysis, right? Would would it be important for you to understand how said process works in this case? And what information? Would it be important for you to know? Or would you want to know? Yeah,
+
+Unknown Speaker  06:07
+I think it'd be important to
+
+Unknown Speaker  06:11
+just know that.
+
+Unknown Speaker  06:13
+Can you repeat the question? Okay,
+
+Unknown Speaker  06:15
+so I'm assume in our scenario, that you have someone who is an expert in the field of algorithmic crime analysis, say that this x software X program is fair and effective? What would you want to know about the software? And how would it still be important to you to understand the process of like, how it works? Okay, so yeah,
+
+Unknown Speaker  06:53
+I think it would be important to know, the process, but I think it also be important to know, I guess, the factors to when it came to testing everything and making sure that it is fair, you know, a fair method of
+
+Unknown Speaker  07:10
+crime analysis. Okay.
+
+Unknown Speaker  07:12
+So you would want to know how it's tested. Yeah, there, okay. And like,
+
+Unknown Speaker  07:17
+how many trials? You know,
+
+Unknown Speaker  07:21
+make sure that there's, you know, no biases, things, like, just things like that lot, you know, lots of checking for any possible errors. And
+
+Unknown Speaker  07:29
+so you would you would like to see sort of, like, you know, like the results from a study or something. Yeah. Okay. Cool. Kinda what we're doing now? Sorry. So,
+
+Unknown Speaker  07:46
+do you believe that whether data was sourced ethically, legally and fairly impacts the quality of the data itself? How so?
+
+Unknown Speaker  08:02
+So if it's collected fairly, like, how, how does it impact? Yeah,
+
+Unknown Speaker  08:06
+whether Do you think that? I, the question is sort of getting at the inverse, but do you think that data that's collected unfairly, or unethically or illegally is impacted by bad?
+
+Unknown Speaker  08:26
+Um, well, I feel like if, I mean, if if someone's just using I guess, like, the fair, the fair data, then then the other. The other stuff doesn't I mean, then I guess it doesn't matter if they're as long as they if they're not going to use that data. That's not fair, I guess. You know, if they, if they're relying on one set of data, not the other. Okay, so you would,
+
+Unknown Speaker  08:51
+but so if they're relying on like, fair data, yeah. Okay. So you would you would say that fair data is, like, better than?
+
+Unknown Speaker  09:05
+I mean, yeah. But I, I don't know, like, I'd have to, I'd have to look into it. Like, why it will makes it fair, you know, so. So, you know, making sure that there's some type of, you know, protocol. And, and I guess, yeah, figuring out what, what made it what made a certain data. Not fair. And, and obviously, like not, you know, they're not using that, and it could skew the rest of it. Okay, or, you know, like,
+
+Unknown Speaker  09:36
+so you you would think you mentioned, but unfair data would skew things.
+
+Unknown Speaker  09:44
+Um, I mean, I guess just maybe in terms of like, opinion than anything. But
+
+Unknown Speaker  09:54
+so you think it's sort of, like, bad for your reputation? Or? I mean, yeah, I just,
+
+Unknown Speaker  10:00
+I think that I just wouldn't want to use data that's not reliable, you know, credible? Okay. I mean, if it's just data from someone, like those present someone just saying something. I mean, I can't, you know, versus
+
+Unknown Speaker  10:19
+like, something concrete. Okay.
+
+Unknown Speaker  10:21
+Evidence of some kind. What if, what if, like,
+
+Unknown Speaker  10:28
+some hacker released a bunch of data? Right. And, you know, the hack would be illegal. But some researchers decided to use the legal data. that's now been, it's now out there. Right. would would that like, affect things are with? Well, what would you think about in that case?
+
+Unknown Speaker  10:53
+That's kind of interesting.
+
+Unknown Speaker  11:01
+Because he, I mean, I don't I mean, if it's not originally their data, I don't, I don't think that they should use it. Yeah,
+
+Unknown Speaker  11:12
+but
+
+Unknown Speaker  11:17
+can you ask that one again? Okay. I'm just
+
+Unknown Speaker  11:21
+so like, imagine that hackers release a bunch of information. And some scientists say, hey, this information, it's now publicly available, even though the people who released it sourced it, like illegally, but we're just going to take the, you know, the data points that are on like, wiki leaks or whatever, okay,
+
+Unknown Speaker  11:48
+um,
+
+Unknown Speaker  11:51
+and then use that for something like, how would you How would you feel about that scenario? And what do you feel like the data is? Good are impacted by the context surrounding it?
+
+Unknown Speaker  12:10
+So if Originally, the people use the god data, but it was it was stolen, basically, yeah,
+
+Unknown Speaker  12:16
+it was stolen, but the researchers didn't steal it. Right. The researchers found it right.
+
+Unknown Speaker  12:25
+Here, that's kind of interesting. Yeah,
+
+Unknown Speaker  12:36
+that's kind of hard. Yeah. Yeah. Well, just because they're using I mean, the original source was stolen. But then but it's on it's on a public platform. So that yeah,
+
+Unknown Speaker  12:48
+it's been, it's been released. Right? And it's totally okay, if you don't have like, if you don't have a firm take, but like, if you could just give us some of the things that like, you're sort of weighing in your mind some of the considerations. Okay.
+
+Unknown Speaker  13:06
+Um,
+
+Unknown Speaker  13:11
+I don't know that I just kind of I feel like I mean, if it if it's already public, like, there's no way of, you know, deleting that, right, like, there's just there. I mean, I think they can use it, but but then I'm just wonder about, you know, the credibility. So, I guess just, I guess, just trying to make sure that
+
+Unknown Speaker  13:36
+the data is credible.
+
+Unknown Speaker  13:41
+I would say that's, that's about all I can think of. Okay.
+
+Unknown Speaker  13:44
+Thanks. Um, if asked to voluntarily give personal information, such as like your location demographics, like habits, to law enforcement, for the purpose of like more training data, and better training data for crime analysis algorithms, what would be your response? And the reasoning behind that response?
+
+Unknown Speaker  14:30
+I guess, just maybe.
+
+Unknown Speaker  14:45
+I'm just trying to think of, you know, like the tool we just used. Sure.
+
+Unknown Speaker  14:50
+So any, any, this question does extend beyond just the tool that we have here? Okay. And it's sort of a general question just about your thoughts about like, would you be willing to give your data for like, more accurate algorithms? But feel free to also answer in the context of like, what we did today?
+
+Unknown Speaker  15:21
+Sorry, can you?
+
+Unknown Speaker  15:23
+I can answer. Same question while we're talking.
+
+Unknown Speaker  15:26
+No worries. Yeah. Um, so if asked to voluntarily give personal information, such as location and demographics, to law enforcement, and for the exclusive purpose of better training data, for crime analysis algorithms, what would be your response? And why?
+
+Unknown Speaker  15:48
+So basically, if I want it if I ever want to give them my information, yes or no and why? Yeah.
+
+Unknown Speaker  15:56
+If under the under the assumption that they they're going to use it for something algorithmic crime analysis.
+
+Unknown Speaker  16:05
+Hmm.
+
+Unknown Speaker  16:08
+I don't think I'd Yeah, I wouldn't have a problem with it. Yeah, I would. Yeah, I would. I would,
+
+Unknown Speaker  16:13
+uh,
+
+Unknown Speaker  16:19
+let me use my information. Okay.
+
+Unknown Speaker  16:22
+What if it was, like,
+
+Unknown Speaker  16:27
+something that was sort of like live up to date? Like you? they asked, Hey, can we have permission to track your phone? I assume you have a smartphone. Yeah. But to track your phone phone's location throughout the day, so they can have a constant like, feed of, you know, where all the people are? Would you be okay with that?
+
+Unknown Speaker  16:56
+No, no, I Yeah. Like, that's almost where it's, it just seems like, then. I mean, you really don't have like a sense of privacy of okay. Yeah.
+
+Unknown Speaker  17:08
+But I, I don't know. I mean, I guess.
+
+Unknown Speaker  17:13
+I guess it's I guess it also just depends on the situation. But yeah, I mean, for the most part, I just wouldn't want to know that. I just wouldn't like that idea that. You don't like.
+
+Unknown Speaker  17:26
+Just having a like, the constant. Yeah, yeah.
+
+Unknown Speaker  17:31
+Big Brother,
+
+Unknown Speaker  17:32
+right? Yeah, I don't. Yeah, I'm not really cool.
+
+Unknown Speaker  17:36
+So that would be too much. But yeah, just filling out like a questionnaire or survey, almost like the census. But on a sort of more micro level. Yeah. That would be would that be? Okay, that would be something that like, do you think would be worth it? Yeah. Okay.
+
+Unknown Speaker  17:59
+So our last question.
+
+Unknown Speaker  18:03
+How would you feel if data from traffic tickets was used to systematically allocate police along highways and roads?
+
+Unknown Speaker  18:20
+I don't know how I feel about that. Just because I think that there to be. There's just so many factors when it comes to like someone getting a ticket. I mean, because then then they assume like, well, I don't know. I guess they assume that, that if one person then the generally people are speeding in that area? I don't know. But I don't know. I guess I guess maybe I just think of the outliers too much like the people that maybe just aren't driving as fast. Like just going more like a normal speed limit or something.
+
+Unknown Speaker  18:50
+But what do you so is that that's what you mean by outliers? You Yeah. Like? Yeah, just yeah,
+
+Unknown Speaker  18:55
+just meant, like, just someone going like, going normal? Or, like a little sore or something. But I don't know. But and I don't know, it just makes me want to think like, I almost want to do a little more research. Like, how big How big is the speeding problem? I mean, that's just something that I don't really, you know, think about that much. So, okay, um, but,
+
+Unknown Speaker  19:25
+um,
+
+Unknown Speaker  19:30
+in terms of, you know, using that as tool. Yeah,
+
+Unknown Speaker  19:39
+I mean, I guess if it's, if it's something that that is seen as a pattern, then it would make sense to do that. Okay. Yeah.
+
+Unknown Speaker  19:52
+You seem You seem to have like, a lot of thoughts about that. If there's any, are there anything any other like factors that you were considering? That you did invoice or?
+
+Unknown Speaker  20:09
+I mean, like,
+
+Unknown Speaker  20:11
+because I guess I just think of because I have a car now. So this is, you know, yeah. Yeah, it's just something that now I'm like, you know, when I when I go on the highway, and I see you know, sometimes you see the what is it like the share? Yeah, to share some stuff with
+
+Unknown Speaker  20:28
+Highway Patrol. Yeah.
+
+Unknown Speaker  20:37
+I don't know. I mean,
+
+Unknown Speaker  20:45
+I guess I yeah, I guess I don't really have much more to say just just what I've, I've explained. Okay. Yeah,
+
+Unknown Speaker  20:52
+that's totally fine. So that's all that we have, unless there's any last burning thoughts that you want to get out about that. Okay.
+
+Unknown Speaker  21:00
+No worries.
+
+
+Transcribed by https://otter.ai

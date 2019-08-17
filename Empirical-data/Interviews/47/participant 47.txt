@@ -1,0 +1,353 @@
+Unknown Speaker  00:00
+So I am here with participant 47. And My first question is, do you have any, like background with crime analysis or data analysis in any way?
+
+Unknown Speaker  00:16
+Um, data analysis, I work for a
+
+Unknown Speaker  00:21
+language company where we
+
+Unknown Speaker  00:24
+analyze data from oral samples, but none pertaining to climb for Okay, other
+
+Unknown Speaker  00:30
+kind of data, but anything that would be like, any any experience with like, location, geo spatial kind of analyses, or is it all just like, words stuff?
+
+Unknown Speaker  00:43
+Um, well,
+
+Unknown Speaker  00:45
+like the analyses are, are the data is analyzed based on like the dialogue, differences in the different regions? But I don't know if that answers the question or otherwise no.
+
+Unknown Speaker  00:59
+Okay, so you haven't really worked with anything like what we had you using today? Correct? All right. Um, are you a college student? Currently?
+
+Unknown Speaker  01:09
+Yes. Currently a graduate student?
+
+Unknown Speaker  01:11
+Oh, okay. What's your is your major, like, major masters language or
+
+Unknown Speaker  01:17
+speech pathology?
+
+Unknown Speaker  01:18
+So Oh, ok. Ok, speed fat. So What was your undergrad and
+
+Unknown Speaker  01:23
+also speech pathology,
+
+Unknown Speaker  01:26
+and audiology? So then when you go into the
+
+Unknown Speaker  01:28
+graduate program, you pick one. Okay, cool.
+
+Unknown Speaker  01:31
+Um, so I also noticed that after you gave your answers for the second set of data, You wanted to go back and change your answers for the first round.
+
+Unknown Speaker  01:45
+Yeah.
+
+Unknown Speaker  01:47
+Why? Why was that?
+
+Unknown Speaker  01:49
+Because?
+
+Unknown Speaker  01:52
+Okay, I think I forget the details. But after I saw the next map, The first one, to me looked like, I could be confusing. It looks like there were more hotspots than I thought Based on
+
+Unknown Speaker  02:10
+like, comparing it to the second map.
+
+Unknown Speaker  02:12
+Okay. So you just, you ended up coming up with a different conclusion when you were comparing, versus when it was just on its own? Yeah.
+
+Unknown Speaker  02:20
+Cuz I was trying to figure out, like, what I would consider a hotspot, Whether it was just like anything that was slightly pink or hotspot would be like, the deeper red color. Okay.
+
+Unknown Speaker  02:33
+So Yeah,
+
+Unknown Speaker  02:34
+yeah. And, you know, obviously, like a big part of this experiment is to sort of understand different people's perceptions on this. So like, the idea of a hotspot In this context is like, very much up to the user. Okay. So, how have you felt that crime analyses have directly impacted you, If at all?
+
+Unknown Speaker  03:05
+I think that's a little
+
+Unknown Speaker  03:07
+difficult for me to answer because like I said, I haven't really had much experience with analyses a lot of times my relationship with
+
+Unknown Speaker  03:21
+But hearing about crime or understanding it is through the news. Okay. And I feel like that's
+
+Unknown Speaker  03:28
+not the same as what
+
+Unknown Speaker  03:31
+this app was. Okay.
+
+Unknown Speaker  03:33
+So you wouldn't feel like you've personally been impacted by it. And anyway,
+
+Unknown Speaker  03:39
+Personally impacted by crime.
+
+Unknown Speaker  03:42
+Yeah, by crime analyses, like, by algorithmic crime analysis by these kinds of things.
+
+Unknown Speaker  03:50
+Not really, I think,
+
+Unknown Speaker  03:56
+bad.
+
+Unknown Speaker  03:59
+Like, I always just tried to be safe. And I don't know if this is really answering your question, but yeah, I don't, I haven't really had much experience with crime analysis, I just always kind of maintain the same thought process to kind of walk with a purpose sort of thing?
+
+Unknown Speaker  04:20
+Sure. Um, what do you mean by walk with a purpose?
+
+Unknown Speaker  04:25
+Like, don't be looking at my phone so I can get hit? Or, okay, I could come up and take something or
+
+Unknown Speaker  04:31
+So Just be aware of your surroundings? Right? For safety? Okay. Um, how important is it to you to understand how crime analysis algorithms or software works? What information would you think is important to know about them?
+
+Unknown Speaker  04:49
+Um,
+
+Unknown Speaker  04:52
+I think it's important to know,
+
+Unknown Speaker  04:55
+how,
+
+Unknown Speaker  04:59
+how the analysis is getting the data that it's analyzing to begin with? Okay, um, because I just know, I wouldn't trust something, or trust in analysis, if I didn't know that the data was accurate.
+
+Unknown Speaker  05:13
+Okay. Yeah. So that's the biggest issue, Data concerns. Can you repeat the question? How important is it to you to understand how crime analysis algorithms or software works? What in formation? What do you think is important to know?
+
+Unknown Speaker  05:41
+Yeah, I mean, yeah, if we're just talking about the analysis,
+
+Unknown Speaker  05:46
+and not like the actual
+
+Unknown Speaker  05:49
+crime and the pattern of crime, then, yeah, I'd want to know that the data is accurate.
+
+Unknown Speaker  05:55
+Okay. So now assume that specific process for crime analysis was implemented in a area where you live where you work, or you go to school, such that it's use could directly impact you. In this scenario, how important would it be to understand how the analysis works? And what would you want to know?
+
+Unknown Speaker  06:41
+I think this is hard for me to answer because of my unfamiliarity with it. Okay, um,
+
+Unknown Speaker  06:52
+yeah, I stayed with the same answer that if, like, we really are just talking about the analysis of crimes that have already happened,
+
+Unknown Speaker  07:01
+I'd want to know that the data is accurate.
+
+Unknown Speaker  07:04
+Okay, and like where the information is coming from? Right.
+
+Unknown Speaker  07:09
+So like, if me PD said, Hey, we're using this, insert whatever software to analyze crime, That would would, but so your only question for that would be, Where do you get your data from? Or would you have, like more?
+
+Unknown Speaker  07:30
+Any Other questions?
+
+Unknown Speaker  07:34
+Like then what's the software? Like? Why? Because like, I Trust me up. So I'd want to know, like, why I'm up trust the software.
+
+Unknown Speaker  07:44
+Okay, yeah.
+
+Unknown Speaker  07:46
+So now assume that someone with expertise, vouch for the efficacy and the fairness of a given process for crime analysis. In this case? How important would it be to have some level of understanding about how said process works? And What information would you think is important to know?
+
+Unknown Speaker  08:09
+Can you repeat the first part of it again?
+
+Unknown Speaker  08:11
+Okay. assume someone with more expertise than you vouch for the efficacy and the fairness of a given process for crime analysis.
+
+Unknown Speaker  08:23
+Okay,
+
+Unknown Speaker  08:25
+So I think I'd want to know more about the person vouching for it, because obviously, they'd have more understanding than me, but again, I kind of want to know, like, their history and their credibility and talking about it. Okay.
+
+Unknown Speaker  08:42
+So you need some proof that they are actually an expert. Right. Okay. Would you have any, like, other questions for them? Beyond that, like, if you can just assume, you know, for the sake of a hypothetical that check, you know, they, they come in with their CV, and it all checks out. Okay. Like, would there be any other Any other questions or anything else that you think is important?
+
+Unknown Speaker  09:12
+I'm sure, but I think I'd want to hear them speak first. And then kind of ask them about what they're talking about. Okay. Yeah.
+
+Unknown Speaker  09:21
+Cool. So, um, do you believe that weather data was sourced ethically legally and fairly impacts the quality of the data itself? Yeah.
+
+Unknown Speaker  09:36
+How do you think it's impacted?
+
+Unknown Speaker  09:47
+So if data is received,
+
+Unknown Speaker  09:50
+What did you say fairly,
+
+Unknown Speaker  09:52
+legally, ethically, legally and fairly?
+
+Unknown Speaker  09:56
+Right? I
+
+Unknown Speaker  10:01
+with ways that don't include those adjectives, I'd feel like
+
+Unknown Speaker  10:07
+the data cannot be trusted, and
+
+Unknown Speaker  10:10
+therefore the quality would be different to me. Okay.
+
+Unknown Speaker  10:15
+Like if somebody just walked up to me and like, give me a sports statistic? I
+
+Unknown Speaker  10:22
+have no idea about that, if that was accurate,
+
+Unknown Speaker  10:24
+78 of all 78% of all statistics are made up.
+
+Unknown Speaker  10:28
+Right. Right. But If I went on, like, I don't know, like mo bees website and saw that they had it published and calculated, like, okay,
+
+Unknown Speaker  10:38
+so you would have like, our credibility problem with the data?
+
+Unknown Speaker  10:44
+Yeah. Okay. would
+
+Unknown Speaker  10:47
+would you consider data that was sort of, like, hacked to have that same credibility issues? Like, consider, like an example, like wiki leaks, or, you know, the million of like data breaches that are happening all the time? Do you think that that data even though it was hacked, and it was taken illegally, Do you? Would you still consider that to be like less credible than other types of data?
+
+Unknown Speaker  11:19
+Yeah, just because I don't know if I could trust
+
+Unknown Speaker  11:20
+that it wasn't tampered with.
+
+Unknown Speaker  11:22
+Okay, so how would you think that it might be tampered with?
+
+Unknown Speaker  11:32
+I don't know. Okay.
+
+Unknown Speaker  11:34
+No worries, no worries. Um, if asked to voluntarily give personal information, such as you like your location, your demographics, your previous criminal records, to law enforcement for the exclusive purpose of better training data for crime analysis algorithms, What would be your response? And what would be your reasoning?
+
+Unknown Speaker  12:01
+So just I understand the question, I'm going to repeat it repeat back. So if I were asked to give personal information for like, the purpose of crime data analysis, what would I do?
+
+Unknown Speaker  12:12
+Yeah, like what I give it or not, which, Yeah, Um,
+
+Unknown Speaker  12:19
+I think I'd give
+
+Unknown Speaker  12:22
+enough to an extent, like,
+
+Unknown Speaker  12:28
+I think anything that would kind of protect
+
+Unknown Speaker  12:32
+the fact of it being anonymous, I think that's still wanted to be anonymous. But like, if I get my race and age, then Okay, that would help, like, narrow their field, but also, like, protect my identity a little bit.
+
+Unknown Speaker  12:45
+Okay. Why Do you worry about it being anonymous?
+
+Unknown Speaker  12:58
+Just to kind of protect myself a little bit.
+
+Unknown Speaker  13:03
+Just like speaking to strangers about me not even just met you today? So? Yeah. Like, I don't know, just
+
+Unknown Speaker  13:12
+kind of covering my back a little bit.
+
+Unknown Speaker  13:14
+Okay. just general privacy concern. Right. Okay. Um, if other than the anonymity, would there be any, like point that it would be too invasive? Like any things that you know, you wouldn't be willing to give? voluntarily?
+
+Unknown Speaker  13:50
+I think my name, at least not my full name. Okay. I wouldn't give.
+
+Unknown Speaker  13:57
+But that goes back goes back to the anonymous privacy right of it. Right. Okay. Um, what if they wanted to, like, have, like, cell phone location data, And for this hypothetical will consider that It was somehow like, distinct from your name or anything that's personally identify, like, the police just want to know, a bunch of people's location data so they can figure out Here's an area with a lot of people, so there's going to be more crime in this area, something like that. Okay. Would you feel comfortable for police have access, like your location data on your phone?
+
+Unknown Speaker  14:41
+Um, I think I feel fine giving them Like, previous history, but I don't know if I want to, like allow them access to like a live tracker on my phone.
+
+Unknown Speaker  14:55
+Why would you? Why would you be okay with previous but not current?
+
+Unknown Speaker  15:00
+Because previous information can't change and it doesn't. I'm not give away but provide information about where I'm currently at. And again, just a safety thing. Okay. I don't watch strangers knowing where I'm at. But if it's previous data then Okay, so just an issue. Yeah.
+
+Unknown Speaker  15:28
+Yeah. So again, going back, that's just too far too much. privacy concerns. Okay. Um, how would you feel if data from traffic tickets was used to strategically allocate police along like highways and roads?
+
+Unknown Speaker  15:47
+Data from traffic tickets was used to, Okay.
+
+Unknown Speaker  15:55
+Like data from my traffic tickets, or like
+
+Unknown Speaker  15:58
+the whole cities?
+
+Unknown Speaker  16:01
+Yeah, I think that'd be smart. Okay,
+
+Unknown Speaker  16:05
+yeah. What's the question?
+
+Unknown Speaker  16:06
+Oh, just like, I'm like if the police saw Hey, we have a lot more tickets at Mile Marker 12 the mile marker 13 then they put more police officers at my 12 that kind of
+
+Unknown Speaker  16:22
+well, then I think it depends on where
+
+Unknown Speaker  16:25
+that is. Because if Mile Marker 12 is
+
+Unknown Speaker  16:30
+in a really rural area, Then
+
+Unknown Speaker  16:34
+The reason people are speeding, there's because there are no police officers. But if you're taking police officers, like out of a city with more people and putting them on Mile Marker 12 That doesn't make a ton of sense to me. Okay,
+
+Unknown Speaker  16:48
+so you feel like the statistics might sort of be misleading In this scenario.
+
+Unknown Speaker  16:55
+Right? Well, and I think that generally police should be where people are. Okay, so if at least like personally driving on rural roads, I'm more likely to go faster When I know that
+
+Unknown Speaker  17:10
+there's not a city coming up or anything. Yeah.
+
+Unknown Speaker  17:14
+So
+
+Unknown Speaker  17:18
+it makes more sense to me to keep police officers were more people are so to me, that's not really related to were speeding tickets are traffic tickets are occurring.
+
+Unknown Speaker  17:27
+Okay. Cool. Um, so that was my last question. I'm gonna just
+
+
+Transcribed by https://otter.ai

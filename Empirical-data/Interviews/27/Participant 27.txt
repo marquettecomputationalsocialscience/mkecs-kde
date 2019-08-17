@@ -1,0 +1,230 @@
+Unknown Speaker  00:00
+So I'm here with participant 27 for actually starting the like actual interview questions. Have you ever like dealt with anything like this before? Any kind of like algorithm or, like prime leasing thing? Nothing to this the first time you've ever seen something like this? Okay. Would you think of it?
+
+Unknown Speaker  00:19
+I honestly don't know if I really did it right.
+
+Unknown Speaker  00:25
+It was easy, but I'm still kind of confused. What was confusing? Just like the vocabulary, the vocabulary? Yeah.
+
+Unknown Speaker  00:33
+Okay. All right. Yeah, that's fine. I mean, it's all about just kind of interpretation, kind of like what you see. And there's no right or wrong answer. So it's all fine. Don't worry about it. So moving on to the actual interviews. First question is before today, before actually coming into this session? How have you ever felt that if crime analyses has ever directly impacted you, if at all?
+
+Unknown Speaker  00:59
+Nothing.
+
+Unknown Speaker  01:01
+Like indirectly done, maybe it wasn't like, for the crime analysis wasn't directly at you, but have you like seen something like this or?
+
+Unknown Speaker  01:12
+Not? I know.
+
+Unknown Speaker  01:13
+Okay, you know, that's fine. That's fine.
+
+Unknown Speaker  01:17
+How important is it to you to understand how a crime analysis algorithm or software actually works? I'm
+
+Unknown Speaker  01:25
+sorry, necessarily important. But it's interesting. It's interesting.
+
+Unknown Speaker  01:29
+Is there any kind of like, specific information you think would be good to know about it? Yeah,
+
+Unknown Speaker  01:37
+I guess it would be kind of important for like, public knowledge. Knowledge. Yeah.
+
+Unknown Speaker  01:45
+Some parts, some parts, do you know what, what parts of hand? And,
+
+Unknown Speaker  01:51
+you know,
+
+Unknown Speaker  01:54
+look at like, the data or like, like,
+
+Unknown Speaker  01:57
+for the like, in this example? Yeah.
+
+Unknown Speaker  01:59
+Example,
+
+Unknown Speaker  02:00
+like with the police cars, they're replaced? Right? Yeah. It's like, that would be something that, I guess could be good for the public to know. Like,
+
+Unknown Speaker  02:09
+knowing, like, where they'll be. Yeah. Like,
+
+Unknown Speaker  02:11
+also in the questionnaire when he was saying, like,
+
+Unknown Speaker  02:15
+publicly, or funding police or like, lab, something like, yeah,
+
+Unknown Speaker  02:22
+I guess that would be
+
+Unknown Speaker  02:24
+like, knowing like, where the police will come in? And like the funding, like, yeah,
+
+Unknown Speaker  02:27
+where it's going and stuff? Yeah, yeah,
+
+Unknown Speaker  02:29
+definitely, definitely. So then assume like a specific process for crime analysis was implemented in your area, either, like, where you live, or where you work, or even like, where you go to school? Such that it's used to directly impact you? How important do you think it would be to have some kind of understanding of the process?
+
+Unknown Speaker  02:52
+Probably, really important.
+
+Unknown Speaker  02:57
+In this kind of scenarios, or any kind of specific information you would want to know about it? Yeah,
+
+Unknown Speaker  03:03
+where the crimes are
+
+Unknown Speaker  03:06
+happening. Yeah. So if this was a, like a publicly available kind of thing. Yeah.
+
+Unknown Speaker  03:10
+You're pretty good. Yeah. Definitely. Definitely.
+
+Unknown Speaker  03:15
+assume someone with like more expertise, like vouch for the advocacy in the fairness of like that crime analysis process or algorithm? None? How important? Would you think it would be to still have an understanding of what's going on?
+
+Unknown Speaker  03:31
+Here? Sorry. Yeah.
+
+Unknown Speaker  03:33
+So someone,
+
+Unknown Speaker  03:36
+maybe as the qualifications he went to school for and he already worked on it. He vouches for like the efficacy of the efficiency and like the fairness of the chrome analysis software. How important would it be for you to still have an understanding of what's going on with E. Commerce?
+
+Unknown Speaker  03:55
+I think it's so be Yeah. So
+
+Unknown Speaker  03:58
+the scenario, like any specific information that they would be good to know.
+
+Unknown Speaker  04:03
+Probably the same, as I said before, like knowing where the crimes are occurring,
+
+Unknown Speaker  04:07
+crimes are occurring, and like how its funded again. Yeah,
+
+Unknown Speaker  04:09
+definitely, definitely.
+
+Unknown Speaker  04:13
+Do you believe that whether data was sourced ethically, legally or fairly, that actually impacts the quality of the data itself?
+
+Unknown Speaker  04:22
+Yes, yes. Because if it's Yeah, it's not, like real, like if it's tampered in any way. If I give it a factor? Yeah.
+
+Unknown Speaker  04:33
+Like tampered as, like,
+
+Unknown Speaker  04:39
+just kind of like ramble on. That's fine.
+
+Unknown Speaker  04:41
+Like if
+
+Unknown Speaker  04:47
+it was not done, correct. It was not taken down correctly. Not collected, correct? Yes. Yeah. That's the word
+
+Unknown Speaker  04:55
+itself. It wasn't collected correctly, then that will
+
+Unknown Speaker  04:57
+affect
+
+Unknown Speaker  04:58
+the quality? Yeah, definitely. Definitely.
+
+Unknown Speaker  05:02
+If you were asked to voluntarily give information to the police, like say, I'm Milwaukee Police Department asked you, if you can voluntarily come in and give more information based on like your location where you live, any other kind of more specific general demographics, only for the sole purpose of like, improving their data and their algorithms, something kind of like we just used? Would you go in and kind of give away your information to them? Yeah. Yeah. What's, what's your reasoning behind that? And seemed kind of reluctant with it? Um,
+
+Unknown Speaker  05:36
+I mean, I don't think there's anything like to hide as far as my information. Sure.
+
+Unknown Speaker  05:42
+Definitely. Was it was kind of like the opposite plane. It's like the hypothetical Now, what if it was mandatory that they were having people go in kind of give this information
+
+Unknown Speaker  05:55
+that probably
+
+Unknown Speaker  05:59
+tear more people away? Just because just when something's mandatory, you know, you don't really want to do it as much? Or
+
+Unknown Speaker  06:04
+is it just like, kind of going against the system kind of thing? Or is it like a personal thing that you wouldn't?
+
+Unknown Speaker  06:11
+I think I would still probably do it, but I'm sure there would be people.
+
+Unknown Speaker  06:17
+What do you think? Is it just like a privacy or
+
+Unknown Speaker  06:21
+privacy? Sure.
+
+Unknown Speaker  06:25
+And then,
+
+Unknown Speaker  06:28
+how would you feel if have data was used by professionals? Like, what kind of context of would you condone the use of a?
+
+Unknown Speaker  06:40
+I don't know that. It depends on the situation. Which
+
+Unknown Speaker  06:50
+sounds bags hacked, but like it could be useful in like,
+
+Unknown Speaker  06:55
+policemen, like safeties?
+
+Unknown Speaker  06:58
+Can you give an example you think of something? Like if someone was like,
+
+Unknown Speaker  07:04
+threats, like, terrorist threats and things?
+
+Unknown Speaker  07:07
+There'll be a big one? Yeah. Yeah, definitely. So like,
+
+Unknown Speaker  07:12
+define like the heck are the terrorist threats and
+
+Unknown Speaker  07:17
+hacking kind of steal the threats or what? Yeah,
+
+Unknown Speaker  07:21
+either that or like, at least try to track them. So
+
+Unknown Speaker  07:29
+as long as it kind of like, keeps everyone safe. Yeah.
+
+Unknown Speaker  07:31
+There'll be good. Okay. Yeah, definitely. It's necessary if it's necessary.
+
+Unknown Speaker  07:38
+I would think like, saving the population is better. Yeah, exactly. And then finally, how would you feel if data from traffic tickets was used to collected by the police in order to like systematically place police on the highways?
+
+Unknown Speaker  07:55
+I think it would be smart, but I wouldn't personally like it. Why not? Because I'd probably get more tickets.
+
+Unknown Speaker  08:05
+But yeah, it's probably a good idea. Probably
+
+Unknown Speaker  08:06
+a good idea. Yeah,
+
+Unknown Speaker  08:10
+definitely don't
+
+Unknown Speaker  08:12
+be that's all the questions, I would have them. And, again, thanks for coming on. Thanks.
+
+
+Transcribed by https://otter.ai

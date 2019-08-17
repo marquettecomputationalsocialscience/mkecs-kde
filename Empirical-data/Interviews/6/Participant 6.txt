@@ -1,0 +1,71 @@
+Unknown Speaker  00:00
+Okay, so I am here, interviewing participant number six. The first question is, how have you ever felt if crime analysis has ever directly impacted you? Have you ever felt almost directly impacted by the data or a specific kind of algorithm?
+
+Unknown Speaker  00:21
+I don't think I've actually thought about it much. So I don't think, in my perception that I've been affected by it much. But I imagine at some level, I must be because there's the allegation of where police forces are and, you know, I see police cars, so. Okay.
+
+Unknown Speaker  00:39
+How important is it to you to understand how crime analysis algorithms or software actually works? Is there any kind of information about that you think is important to know?
+
+Unknown Speaker  00:51
+I think it's somewhat important, I think that it's important to know how resources are allocated to understand like, when there are spots where there are higher or lower crime, what is that due to and how it's addressed?
+
+Unknown Speaker  01:06
+Okay, just have to do with more of like, how the data is collected, or
+
+Unknown Speaker  01:12
+I think it's how the data is both collected and also shared with the public to make it so that it can be analyzed groups? Sure. So I mean, that goes back to how the data is collected. Because if the data isn't collected, well, then it's not going to be interpreted.
+
+Unknown Speaker  01:33
+The next is, do you believe then whether the data was sourced ethically or legally, does that actually impact the quality of the data then kind of going off? The last question?
+
+Unknown Speaker  01:44
+Yeah, I think it in order to accurately perceive what's going on, it needs to be neutral, it can't be.
+
+Unknown Speaker  01:55
+Can't be like
+
+Unknown Speaker  01:58
+can have been collected fraudulently, because that will affect the analysis overall. And if your data is not, it's skewed, it's biased, then you're not going to have accurate
+
+Unknown Speaker  02:09
+source the data, say the data was found by a group of hackers. But it was eventually used for maybe good reasoning. Would that be okay, in your terms? Or what's your opinion on that?
+
+Unknown Speaker  02:22
+I mean, okay, so Okay, in terms of use to allocate police resources and things like that? Sure. Yes, I think it would be okay. I mean, I think as long as I mean, this is like that, that slippery slope? Yeah. Like, yeah, if the data is there, it should be available to groups that can use it for good. But there could also be the groups that exploit it to know that there are areas that are under patrolled, and perpetuate more crimes and things like that. So I mean, in the hands of whom
+
+Unknown Speaker  02:59
+exactly does everyone has kind of different intentions than to be used for good or for bad, but a
+
+Unknown Speaker  03:08
+little bit hard to say, Yeah.
+
+Unknown Speaker  03:11
+Um, so then, if you were asked to give voluntary information, or I'm sorry, if you're asked to voluntarily give information, such as location and demographics to law enforcement, just for the purpose of better training data, or crime analysis algorithms?
+
+Unknown Speaker  03:29
+Would you be open to that? Or what would your response be?
+
+Unknown Speaker  03:32
+I would likely be open to it. However, I mean, I think that like it comes down to my privilege as a person. I've never been harassed by the police. I've always had positive experiences with the police. I think others wouldn't necessarily if they've had a negative interaction, want to give that information out.
+
+Unknown Speaker  03:53
+Then finally, how would you feel if data from traffic tickets was used to allocate police in strategic locations on the highway?
+
+Unknown Speaker  04:03
+Well, I don't think that they do a very good job of giving out traffic tickets right now, dangerous intersections are on the highway. So I don't think I think that is like that idea of you're putting the police where they can make the most money versus actually control crime and danger. Like, because they're obviously like, maybe there's a stretch of highway where it goes from 55 to 70. And so are 7255. And they're trying to catch people who are not speeding speed traps. Yeah, speed trap, stuff like that. So you're going to catch a lot of people there, you're going to catch a lot of people in that trap. But is that the most efficient way to you know, have order and justice in a city? Probably not.
+
+Unknown Speaker  04:48
+So would you say would be good then to track these tickets? Not necessarily using the speed traps, but in different places around the highway? or?
+
+Unknown Speaker  04:59
+Yeah, I think tracking it is not bad. I think that if it's the way though, you're going to say we should put a police car at x intersection and why intersection because we know we can get a lot of tickets. That shouldn't be how the data is use. The data should be used
+
+Unknown Speaker  05:14
+to better control for public safety. Sure.
+
+Unknown Speaker  05:18
+All right. Well, great. That's all I have for this.
+
+
+Transcribed by https://otter.ai

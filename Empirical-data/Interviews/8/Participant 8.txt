@@ -1,0 +1,191 @@
+Unknown Speaker  00:01
+I'm starting the oral interview with participant number eight goes right to question one. How have you ever felt if crime analysis has ever directly impacted you? Have you ever felt almost subject to a certain data set? Or like an algorithm itself? Has it ever impacted you?
+
+Unknown Speaker  00:22
+I don't think so. I'd say no, not at all. I think for these mapping crime algorithms, probably impacts
+
+Unknown Speaker  00:33
+criminals,
+
+Unknown Speaker  00:34
+criminals, more than just regular people more than everyday citizens. Okay.
+
+Unknown Speaker  00:40
+How important is it to you to understand how crime analysis algorithms or software work? What information do you think is most important to know? I think
+
+Unknown Speaker  00:50
+it's the first part of the question was,
+
+Unknown Speaker  00:53
+how important is it for you to understand how they work? I think
+
+Unknown Speaker  00:56
+it's very important. Because
+
+Unknown Speaker  01:01
+if it's just if you don't know how it's working, and you don't know the underlying
+
+Unknown Speaker  01:07
+inputs,
+
+Unknown Speaker  01:08
+then it could be discriminating or giving results that are truthful or accurate.
+
+Unknown Speaker  01:17
+What would be most important
+
+Unknown Speaker  01:20
+probably be prior crime records. I'd say that that's the most important, I think it's the most the best predictor for crime is prior
+
+Unknown Speaker  01:37
+to saying like, the most important thing to know, is just the data itself of which is used to train like the software or the algorithm. Yeah. Okay. Okay. Assume that a specific process for crime analysis was implemented in your area, such that, like it's used to directly impact you? How important would it be to know some level of understanding of that?
+
+Unknown Speaker  02:02
+If it was impacting me? Very important, I'd say very important. Yeah.
+
+Unknown Speaker  02:06
+And again, just like the last question, you would kind of want to know, like the data set, that it's being trained on the beat, the most important thing, you know,
+
+Unknown Speaker  02:15
+what, like, factor what it's factoring in to making its decisions? And
+
+Unknown Speaker  02:20
+you will, what about, like the inner workings? And all this stuff? Would you on? Like an understanding of if it is like a black box kind of
+
+Unknown Speaker  02:28
+algorithm, or it's a an understanding is important, but I don't think it's 100%
+
+Unknown Speaker  02:34
+necessary.
+
+Unknown Speaker  02:37
+So assume someone is vouching for the efficacy or the fairness of the algorithm. But it's still kind of like affecting you, it could potentially be like affecting you. Would you still want to know, the inner workings of it, even if this high data scientist or CS guy completely vouches for probably affects, you know,
+
+Unknown Speaker  03:05
+if it's negatively affecting me or anybody else, then I think it's very important to know. But if it's something that's more for the benefits of the whole, then it's probably I'd probably be more lenient, not knowing every working detail.
+
+Unknown Speaker  03:22
+Sure. Sure.
+
+Unknown Speaker  03:25
+I'm moving on. Do you believe that weather data was sourced ethically or legally, if that actually impacts the quality of the data itself?
+
+Unknown Speaker  03:38
+ethically, and legally, you said,
+
+Unknown Speaker  03:41
+So, say a group of hackers managed to leak a bunch of data this has happened before? Would that affect the quality of the data itself? Like, can that still be used? Or should it not be used?
+
+Unknown Speaker  04:00
+I think I mean, I feel
+
+Unknown Speaker  04:03
+like if it's,
+
+Unknown Speaker  04:07
+if it's being kept secret, and there's probably
+
+Unknown Speaker  04:11
+a reason for it, I don't know if that reason is always 100% valid. So I think that
+
+Unknown Speaker  04:18
+I don't think that the legality of the data
+
+Unknown Speaker  04:22
+should outweigh the importance or necessity of the data.
+
+Unknown Speaker  04:27
+So it's a matter of like privacy kind of thing like this, like, a little private. Are you saying or as in? Like, if it was secret for a reason? It shouldn't be let out? Yeah, it's private, for a reason, just
+
+Unknown Speaker  04:41
+even like that. But at the same time,
+
+Unknown Speaker  04:44
+I don't think that if it is kept private, and then it's leaked, I don't think that invalidates the data. It's, like certain algorithms or models, whatever run on it, I don't think that that just invalidates it just because it was leaked.
+
+Unknown Speaker  05:03
+So do you think that data should or should not be used,
+
+Unknown Speaker  05:06
+then probably shouldn't be used and used. But if it is, I don't think that it should be discounted right away, just because for that sole reason of it being unethically sourced?
+
+Unknown Speaker  05:19
+Sure. Sure.
+
+Unknown Speaker  05:22
+If you were asked to give, if you are voluntarily. If you were asked to voluntarily give information such as like location in like your demographics to law enforcement, just for better training, the data or crime analysis algorithms, would you or what would your response to
+
+Unknown Speaker  05:43
+give my what would some examples
+
+Unknown Speaker  05:46
+like? Like your personal information, say maybe voluntarily give like your height, weight, or any kind of like the demographics, like you put it there, but not like name or address? Now you give your address as well, like your location of like, where you live? I'd give
+
+Unknown Speaker  06:05
+like my zip code, probably not by street address.
+
+Unknown Speaker  06:10
+Like just the general area.
+
+Unknown Speaker  06:12
+Yeah, I think I'd be fine giving the zip code but I don't really want my home address and data set, although probably already isn't multiple.
+
+Unknown Speaker  06:25
+You know, is it just because going back, it's the same thing with private information. So yeah, stay private. Yeah, I'd rather have my
+
+Unknown Speaker  06:33
+like my name, phone number and address kept private, but my race, zip code, height weight, that's not as important because it doesn't. It's not like, it doesn't identify me particularly.
+
+Unknown Speaker  06:49
+Make sense. It's more like the general Yeah, like the broad. Yeah, exactly. You do. Okay. Okay.
+
+Unknown Speaker  06:56
+Then, finally,
+
+Unknown Speaker  07:00
+how would you feel if data from traffic tickets was used to allocate police on the highways? So if you get either a speeding ticket or running red lights, and because of all this cops collected data, they strategically put police on the highways?
+
+Unknown Speaker  07:20
+I would not be
+
+Unknown Speaker  07:23
+super, super for it. I guess
+
+Unknown Speaker  07:26
+they're like, pro that just because
+
+Unknown Speaker  07:30
+I don't think
+
+Unknown Speaker  07:33
+in this instance, I don't think traffic violations should necessarily such as speeding or running a red light should be should require more police presence, I think that can be achieved through like speed cameras are red light cameras, like automation.
+
+Unknown Speaker  07:52
+Yeah, automation. Stuff like that doesn't
+
+Unknown Speaker  07:54
+require
+
+Unknown Speaker  07:56
+more like the officers. So to say rather, don't really follow tracking, like the data from the tickets rather than maybe send out this information from the activity, say like, this is probably where
+
+Unknown Speaker  08:13
+you should go. Yeah, definitely like, Okay. If, like,
+
+Unknown Speaker  08:18
+if one of the things, one of the options for the crime was like speeding, I'd probably quite question that would be like, why is this?
+
+Unknown Speaker  08:29
+Why are they Why are you doing analysis on this?
+
+Unknown Speaker  08:32
+We're doing all kinds of time.
+
+Unknown Speaker  08:34
+Yeah, data points there. But I guess I personally don't, wouldn't place like so on the same level is running a red light is fair enough. Fair enough, then,
+
+Unknown Speaker  08:47
+yeah, that's all the questions.
+
+
+Transcribed by https://otter.ai

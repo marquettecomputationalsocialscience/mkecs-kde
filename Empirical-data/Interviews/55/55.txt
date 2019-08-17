@@ -1,0 +1,179 @@
+Unknown Speaker  00:01
+And before today before I actually coming into the session today, Have you ever seen any kind of software like this before?
+
+Unknown Speaker  00:09
+I see I've seen some similar trainees on like the kind of not the same Aki website,
+
+Unknown Speaker  00:14
+Okay. Are they actually showing like plots or heat maps like this? I
+
+Unknown Speaker  00:20
+think they have a map, where do they have different crime or not? No other city but like when looking at Trulia or Zillow, I don't know if you're familiar with the way you look at housing. Okay, when you're buying a house, they show different crime in different areas. They show similar crime statistics, they have
+
+Unknown Speaker  00:34
+pilots like that. Have you ever used anything like this to when deciding to buy a house or where to move? Yeah, you have? Yeah. And you would say it's very useful. Okay, definitely. But then you don't like work with this or anything. But you still use it on the side? Yeah. From the gate. And we'll look at it. We decided we're going to buy a house and we're going to process my house. So definitely. So it's all pretty important.
+
+Unknown Speaker  00:57
+Yeah. So it tells you like how much death and robbery and murder larceny, and America tells you all that. So
+
+Unknown Speaker  01:05
+Yeah, cuz I was having a family. I wouldn't want him. Yeah, like in the middle of all that either. Right. But definitely, definitely, I'm glad, like you found something like that. Makes you feel better. Right. So then before today, before we're coming into the session, Have you ever felt that crime analyses have directly impacted you, If at all? A little bit. Sure. So whether you have data track from about yourself, or even like following the Milwaukee Police, like their whole crime system, like that, Do you think that's ever directly impacted? You
+
+Unknown Speaker  01:47
+know, neither directly or indirectly here? Because it's like, wow, this is I can say, Yeah, because it tells you I wasn't able to stay away from what I was going to one crime it happened and helps me tell my son where stay away from, you know, like, stay away from these areas. This is you don't want to hang out here. So yeah,
+
+Unknown Speaker  02:05
+definitely. So it will kind of help like your son, then indirectly, then. Okay. Definitely.
+
+Unknown Speaker  02:14
+Haven't be a better parent.
+
+Unknown Speaker  02:16
+Yeah. Yeah. So it would help you directly then you would say okay, Definitely. So How important is it to you to understand how crime analysis algorithms are the software actually works
+
+Unknown Speaker  02:29
+is important maker is good to know how it's gathered and how they plan it and keep record of what's happening in automatic districts in MPs districts in
+
+Unknown Speaker  02:42
+deserve kind of any specific information about the algorithm, you would want to know
+
+Unknown Speaker  02:50
+how, how it kept in revenue, how they came up with the data, like, how many burglaries in larceny, how they store that and where to pull it from? I said it on the thing you pulling from records and some of his store for five years and goes away. But maybe this century, that idea, but how long? Do they keep those records that word? And you know, how long do they pull them from? And when are they updated? What do you think you would want to know like how long they store the data for? Because it can be skewed a little bit, It's now current and they going off previous years or previous decades or previous months, but not versus up to date records. So when they updated and whenever they use the most current or they use the most current one and then combine them together?
+
+Unknown Speaker  03:37
+So how far like in the past, would you say to cut off and be?
+
+Unknown Speaker  03:42
+Like, we're, if at all?
+
+Unknown Speaker  03:44
+I think I'm good. 10 years ago? 10 years? Yeah,
+
+Unknown Speaker  03:48
+sure, Definitely.
+
+Unknown Speaker  03:50
+So assume that there's a crime analysis algorithm implemented in your area? And it does kind of seem like there is like Milwaukee Police does have it. And someone with more expertise is vouching for the efficacy of the efficiency and the fairness of said algorithm, Just because like it directly impacts you. How important is it to have some level of understanding of how it works? Very important, very important. What kind of information would you want to know about it?
+
+Unknown Speaker  04:21
+Like, how the algorithm is calculated? What goes into the algorithm? Let's have a mathematical problems that they put a calculation that they put in there and figure it out and get the get the information store?
+
+Unknown Speaker  04:36
+Sure. Get it stored? Or get it
+
+Unknown Speaker  04:40
+put together? Compile?
+
+Unknown Speaker  04:41
+Okay. What do you mean, put it together? Right.
+
+Unknown Speaker  04:46
+Now, the the planning of it is
+
+Unknown Speaker  04:49
+ok, like how it actually will create the map? Okay, definitely. You say you would want to kind of like, look into this and learn, Like the inner workings? Yeah, Yeah, definitely. So Do you believe that whether data was sourced legally and fairly, If that actually impacts the quality of the data itself?
+
+Unknown Speaker  05:14
+Now, because it was very early years legally, no, fairly as because, I mean, legally, It was not really taken up. My my law that they can do that give that information, but it was fairly Yes. Because that's something different. If It's across the board, you know, uniformly done, man, that makes a difference. But illegally No, because I mean, losses are not losses, but convictions, crime is sometimes unlawful, but it still is a crime is a crime, and long as you gather the information that needs to get done, you know, so you build cases, sometimes, actually, if you build a case of a criminal, you still have to do things to get the criminal case going. So.
+
+Unknown Speaker  06:04
+So it's more of like a matter of safety. Yeah, then that wouldn't matter how it's done.
+
+Unknown Speaker  06:09
+Right. Okay.
+
+Unknown Speaker  06:11
+What about ethically, either if the data was collected, Let's say unethically, would that impact the quality of the data?
+
+Unknown Speaker  06:19
+Am I do a
+
+Unknown Speaker  06:20
+am I doing so? Because then you may, it may be skewed because you may Firstly have wrong connection convictions, and then that skews and for the data points because you have a crime. It's not really a crime. And you say it was but it wasn't?
+
+Unknown Speaker  06:38
+Yeah, definitely. So I would just kind of like ruin the data that you just got, right. Okay. Almost like you're framing someone it's like, Yeah, sure. Sure. So if you were asked to voluntarily give personal information, such as maybe more specific location, like were you more specific on like, where you work, where you live, where you go to eat, or more specific demographic information to the law enforcement, only for the purpose of better training their data and their software? So the only the police would have this data? What would your response before that?
+
+Unknown Speaker  07:13
+How they open today?
+
+Unknown Speaker  07:14
+The open amount? Definitely. And What if it was, like more like mandatory instead of voluntarily giving your information? The Milwaukee Police Department is coming to your door and saying we need this information just to better our algorithms. And would you still Yeah, sure. What's your reasoning behind us? And then
+
+Unknown Speaker  07:35
+I nothing I'm friendly. Police are supportive support the badge? And
+
+Unknown Speaker  07:39
+yeah, I see. You're kind of worried
+
+Unknown Speaker  07:40
+one there, too. Yeah. So
+
+Unknown Speaker  07:42
+yeah, definitely. And What if save a lucky police departments coming to your door again, and saying that we need your location services always on? So we're going to be kind of tracking you and following you. And we're going to be following you like everyone else, just to make sure like, no one's doing bad stuff for crimes because you're responsible for this? I wouldn't have a problem with that. Still no problem. Yeah, definitely. Why no problem for this.
+
+Unknown Speaker  08:05
+As I said, I haven't denied I don't commit crimes.
+
+Unknown Speaker  08:10
+For anything that makes society better and eradicate crime, Definitely, my safety could be for my safety, you know, I can be in a crisis, and I need 911. So my location is only gonna find them easier. Exactly. Definitely.
+
+Unknown Speaker  08:23
+Definitely.
+
+Unknown Speaker  08:25
+How would you feel if data from traffic tickets was used and collected by the police in order to systematically place the police on the highways?
+
+Unknown Speaker  08:36
+and bad thing they do tonight? anyway?
+
+Unknown Speaker  08:39
+It kind of seems like
+
+Unknown Speaker  08:42
+yeah, I don't have a problem with that. I mean, I, I drive a speed limit. I don't remember the last time I got a speeding ticket, you know, I had an issue with my son get into them. So I try to tell him leave early. So you can be early not on time. I heard someone tell me if you're on time, you're already late. So I remember last time, I got a speeding ticket, I don't mind strategically being placed to sound speed and save accidents, you know, especially with the two accident just had been in it for with the construction. So slow down.
+
+Unknown Speaker  09:14
+Yeah. Sounds again, like it's all about the community aspect, like making sure you know, everyone's safe until Yeah, definitely. And then, finally, how would you feel if hacks data was used by professionals? Like what kind of context would you condone the usage of hack data?
+
+Unknown Speaker  09:32
+To do what profession without professionals?
+
+Unknown Speaker  09:36
+Let's say, first instant hemato?
+
+Unknown Speaker  09:38
+Or like law enforcement? Or
+
+Unknown Speaker  09:41
+let's say, first instances, researchers? What kind of contexts if at all, Would you condone the usage of hack data?
+
+Unknown Speaker  09:50
+And use for studying your research to improve improvement? and society or medicine or something like that? Or studies? and I'm all for
+
+Unknown Speaker  10:04
+sure. And What if it was like a random college student getting this hack data?
+
+Unknown Speaker  10:11
+What kind of contexts would you can don't use it, Jeff at all.
+
+Unknown Speaker  10:14
+And he's going to help him in class or towards his degree, PhD degree or master's degree studies or help him solve some type of problem, nor contribute to solving a problem, I'm
+
+Unknown Speaker  10:29
+Sure. And then finally playing like the last situation, What if he was this college student does kind of like help his say he's worked on like a final project, and he needs to collect this data. But he ends up packing this data and it just happens that it's yours. How would you kind of feel in that situation?
+
+Unknown Speaker  10:50
+It's not going to harm me.
+
+Unknown Speaker  10:53
+Now doesn't harm me. They're going to use it for harm.
+
+Unknown Speaker  10:56
+Sure, Definitely.
+
+Unknown Speaker  10:59
+Yeah, you're bringing that up into butts. Perfect. Yeah, that's all the questions I have. So again, thank you for coming on to
+
+
+Transcribed by https://otter.ai

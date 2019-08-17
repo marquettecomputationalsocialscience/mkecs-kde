@@ -1,0 +1,83 @@
+Unknown Speaker  00:00
+I'm sitting here with participant number three, we begin the oral interview. Question. One is, how have you ever felt if crime analysis has ever directly impacted you, if at all?
+
+Unknown Speaker  00:14
+I'm currently in the process of trying to buy a house. So I've been looking at a lot of crime statistics for that. And so I think it's, I haven't actually bought a house or moved yet, but I think that it will affect me, once I do move, because I am trying to find a safer neighborhood. So I have found some things online where kind of shows you
+
+Unknown Speaker  00:37
+crime history and things like that. So so you more so just do the research to see if, say a neighborhood is safe. Yeah. Yeah. Okay. Question two is, how important is it to you to understand how crime analysis algorithms work? What information do you think is important to know?
+
+Unknown Speaker  00:58
+For me, personally, I don't know that I really care how it works. It's more just the end end of it. So if somebody that knows how it works, can figure it out and present it in a way that I can understand without knowing the actual algorithms?
+
+Unknown Speaker  01:16
+I think that's what's most important for me. Sure.
+
+Unknown Speaker  01:19
+Next question is, do you believe whether the data was sourced legally or ethically if that impacts the quality of the data itself? If so, if not how? I guess
+
+Unknown Speaker  01:39
+from a purely data standpoint, I don't think it really matters. But I do think the ethics of it matters. So I mean, I think you could still do good research with unethically found data. But as long as the data is the data, and it's true, I mean, obviously, if you were using like false data, that would be different. But so as long as the data is good data, I don't think it really matters. But yeah, so I think that the problem would be is if
+
+Unknown Speaker  02:15
+you know, like,
+
+Unknown Speaker  02:20
+you were only
+
+Unknown Speaker  02:23
+if you were trying to like skew the end results,
+
+Unknown Speaker  02:27
+on that the blame on someone else,
+
+Unknown Speaker  02:29
+right? Or like you're only collecting data in a certain neighborhood, because you're trying to make it look worse or something like that. So I think as long as it was like, across the board, on ethically Here, take it.
+
+Unknown Speaker  02:41
+All right, then you also brought up a point about data being good in there, like making sure that the data is good that is used? What exactly do you think would qualify as good data?
+
+Unknown Speaker  02:54
+quantity, particularly with crime statistics? I mean, I don't know if you have if it's all the statistics, I guess, from a police standpoint, potentially could be but it could also just be like, conviction, I guess I don't know where the data exactly comes from. So like,
+
+Unknown Speaker  03:13
+I was gonna say the data that we actually use for this is all publicly available. I was actually right through the Milwaukee Police Department website.
+
+Unknown Speaker  03:20
+Is it conviction? Or can you actually give like, so I lived in a neighborhood that I would consider not? Not very good. And like we've had shootings and things outside our house called the police, and they just don't come because they don't come to the neighborhood is like what I heard.
+
+Unknown Speaker  03:39
+So I'd be curious if like that would still I'm assuming that wouldn't be on there, then. So like, the data that is in this particular application
+
+Unknown Speaker  03:46
+is from the Wisconsin bureau of records, which comes from court cases. So it's for offenses that haven't made it to court.
+
+Unknown Speaker  04:04
+Then the last and final question is, how would you feel if data from traffic tickets was used to systematically placed police on highways?
+
+Unknown Speaker  04:22
+I guess I don't.
+
+Unknown Speaker  04:25
+I don't see a major problem with it. The only
+
+Unknown Speaker  04:29
+problem that I could see with it is one, like if I guess there will be an initial point where you get the data and you're like, Okay, this is a hotspot. But as soon as you do that, if you're continually using the data, once you have more, police said, there's probably going to be more tickets there. So I don't feel like it would be like a long term solution, because you would, all of a sudden, you'd have these areas where you've selected for police to be and then those are probably going to blow up and seem like tons of stuff happens there even though Well, there's a cop, they're all you know, all day every day. So it'd
+
+Unknown Speaker  05:01
+be good just for a short term period.
+
+Unknown Speaker  05:03
+I think it can be good to like figure out some of the worst areas and then having pleased
+
+Unknown Speaker  05:10
+I guess more,
+
+Unknown Speaker  05:13
+but I could see it being problematic in the long run.
+
+Unknown Speaker  05:16
+Sure. Then they'll be all the questions for the interview. will just turn this off really quick.
+
+
+Transcribed by https://otter.ai

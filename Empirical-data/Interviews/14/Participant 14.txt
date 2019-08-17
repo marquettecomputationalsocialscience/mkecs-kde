@@ -1,0 +1,239 @@
+Unknown Speaker  00:00
+Okay, so I'm here with participant 14. And before actually starting, like the whole interview, whatever, I was just kind of curious, do you have any, like background or knowledge on like, crime analysis or any kind of like algorithm? No, no background? Okay, no, that's okay. That's fine. Are you just like interested in crime itself? Or what kind of drew you to this I
+
+Unknown Speaker  00:22
+just saw and I was like, Oh, this could be cool to participate in. I've never participated in a study before. Okay, I had availability. So I was like, why not?
+
+Unknown Speaker  00:29
+Perfect. Thank you, again, for coming on. Thank you. To move into the interview. The first question is, how have you ever felt the crime analyses has ever directly impacted you, if at all?
+
+Unknown Speaker  00:41
+Um, I don't say that I feel directly impacted by it. Except, except to the extent that I think everyone is directly impacted by it, because I'm sure they determine where they put the police officers based on that. And I'm sure like going to market since there's a lot of crime happening around that area that I am affected without really realizing it. Sure. So I'd say somewhat, you say
+
+Unknown Speaker  01:06
+it's more of like an indirect kind of
+
+Unknown Speaker  01:08
+Yeah. Kind of like indirectly? Sure. Because I don't really see myself as someone who's within the analysis. Okay. Definitely.
+
+Unknown Speaker  01:19
+Then, how important is it to you to understand like how a crime analysis algorithm or software actually works?
+
+Unknown Speaker  01:25
+For me, personally, it's probably not that important. But I definitely be curious about it.
+
+Unknown Speaker  01:30
+Curious? Would you be curious, and
+
+Unknown Speaker  01:32
+I guess what factors are considered? And then? I don't know, like, if they look at a larger area, if they look at it on smaller, more like, separated by the neighborhood or
+
+Unknown Speaker  01:46
+larger area, you're saying, like,
+
+Unknown Speaker  01:47
+a whole Milwaukee region? Or is it like the north side, South Side, from how they separate that? I guess if they include residents and non residents, and those, which I'm sure they do, maybe maybe all criminal reports.
+
+Unknown Speaker  02:05
+So you're saying you would not want to know like the the data itself to Yeah, yeah. Is there any kind of specific specific information about like that data? Or the process you would want to know?
+
+Unknown Speaker  02:16
+Um, I would say if they collect any data about race, and if they use that to categorize income, anything, that would be considered discrimination? Sure. If they use that whatsoever, it's a calculated think that would be unethical. If it's 100%, based on the crime, the activity, what took place? And then me, I would say, age would age is something that could factor into that. And then how many crimes they've committed before stuff like that, anything that's actually relevant? Okay. So I'd want to know, I guess, what they're looking at and how they're dividing the categories, definitely.
+
+Unknown Speaker  02:56
+So then assume that like a specific process for crime analysis was implemented in your area, either where you live or where you work, such that it directly impacts you? How important would it then be to have some kind of understanding of this process or algorithm?
+
+Unknown Speaker  03:12
+I think anything that's directly affecting, you should understand as much as you possibly can. But then would that mean, how could it directly affect me?
+
+Unknown Speaker  03:24
+You're walking around and you see maybe a few more police, like on your commute to work? Or, like a couple more police officers on your way to class or something like this?
+
+Unknown Speaker  03:34
+Yeah. Okay. Well, then that I guess it depends on like, what they're looking for. If they're looking for people who are speeding or like, not stopping in a stop sign too long, then that's something I would want to even get involved in, like, maybe you should focus on actual crime. But if it's like there's been a lot of violence happening in this area, and they've increased the amount of cars, then I guess it'd be good for me to like, feel safer. Sure.
+
+Unknown Speaker  04:01
+Yeah. So it all depends on like, why they're really there.
+
+Unknown Speaker  04:05
+Exactly. Okay, exactly.
+
+Unknown Speaker  04:07
+Definitely. Besides like, wanting to know, like, why they're there. Is there any other kind of information you think would be good to know if it does impact your business?
+
+Unknown Speaker  04:19
+Right, I don't think so. I guess that
+
+Unknown Speaker  04:25
+if I were to run into? No, I don't think so. I would just want to know why they're there. Definitely. And what they're looking for
+
+Unknown Speaker  04:30
+definitely, definitely. So assume someone with more expertise, than you vouch for, like the efficacy and the fairness of a given process of crime analysis. How important would it then be to have some understanding of that algorithm or process?
+
+Unknown Speaker  04:49
+Well, if they're saying that it's an ethical process, and I'd want to say like, Okay, why do you think that? And what gives you the credibility to say so? Sure.
+
+Unknown Speaker  05:00
+And
+
+Unknown Speaker  05:03
+did I answer the question
+
+Unknown Speaker  05:06
+you would want to know more about like the person, correct? Is that what you're saying?
+
+Unknown Speaker  05:12
+Like the person who's
+
+Unknown Speaker  05:14
+just vouching for like the efficiency,
+
+Unknown Speaker  05:17
+right? Like, yeah, I want to know about what how they got to that conclusion, and what gives them the authority to come to that conclusion. So we've done this many tests, we've done this much research, I've studied this for this many years, just like for I've lived here for 20 years, and this is my personal experience, just like some sort of actual credibility. Okay. Just to give some random person came up to me on the street said, Look, I know this would be like,
+
+Unknown Speaker  05:45
+the proof.
+
+Unknown Speaker  05:45
+Exactly, actually. Oh, yeah. Yeah, definitely.
+
+Unknown Speaker  05:50
+Stone. Do you believe that weather data was sourced ethically, legally or fairly? If that actually impacts the quality of data?
+
+Unknown Speaker  05:58
+Yes, hundred percent. Because if a cop is being prejudiced, and he's inputting data about something, he could over dramatize the situation, and then you think that there's more crime in that area than the be? Or they could, if they like it, for example, if it was like someone who they had prejudice bias for, and they give them like a lower warning, that can be an actual criminal, and then that would affect the crime that's going on there. Because I know I've had friends that have gotten lower charges just based on who they are. And friends have gotten higher charges just based on who they are. And every charge would affect the data. And then that shows how what kind of crime is happening in the area and like, the extent of it,
+
+Unknown Speaker  06:42
+and you're saying it just matters, based on like the officer like how the data is inputted?
+
+Unknown Speaker  06:48
+Yeah, correct. Okay. So data input? Because, I mean, each officer inputs the data themselves.
+
+Unknown Speaker  06:57
+As far as I know, to Yeah.
+
+Unknown Speaker  06:58
+Brand ticket. Yeah.
+
+Unknown Speaker  07:04
+Definitely need and you were saying it
+
+Unknown Speaker  07:05
+comes down to the individual, the individual.
+
+Unknown Speaker  07:08
+And you were saying you actually witnessed or, you know, people that I think
+
+Unknown Speaker  07:12
+I've heard stories, yeah, people are like, Oh, yeah, I should have gotten this charge, but I got this charge. And it's like, you know, that there was bias there.
+
+Unknown Speaker  07:22
+Sure. Is anything like that ever happened to you by chance? or,
+
+Unknown Speaker  07:27
+um, let me think.
+
+Unknown Speaker  07:35
+I don't think that I've particularly felt any bias towards me. Sure. I've, I have like, in the sense of, there was one time when I was playing music, and I got pulled over for a stop sign, but I had my music playing loud. And when he pulled me over for that, I was like, I did stop at the sign. So I think he was being prejudiced against me playing loud music. Okay, so I mean, that's just a small example. Okay. Yeah. But for example, that where it's like, now, there's a stop sign, like, in the system, someone didn't stop at this intersection, when in reality, I believe he was just pulling me over because he didn't like the music I was playing. Sure.
+
+Unknown Speaker  08:16
+Therefore, I see, we're saying that more.
+
+Unknown Speaker  08:20
+So if you were asked to voluntarily give personal information, maybe such as a more specific location of where you live, or work, or other, more in depth demographics, do you wrestle voluntarily give this to law enforcement only for the purpose of better training their data or algorithms? What would your response be for that?
+
+Unknown Speaker  08:41
+I would say that I do not wish to give any personal information, I'd like to stay out of the system as much as possible, just because I don't want to be in the system. It's my personal preference.
+
+Unknown Speaker  08:53
+You want to keep like your privacy, I
+
+Unknown Speaker  08:54
+want to keep my privacy. Exactly. How come in, even if they don't have a reason to be watching, you don't want them to have the capability to Sure.
+
+Unknown Speaker  09:02
+Sure. How come? The Privacy means so much to you? Like?
+
+Unknown Speaker  09:06
+Is it just for feeling secure? It's a principle thing. It's 100% opinion, and based on the fact that we are all human individuals? And we should we have the right to privacy? Definitely. So we should all have access to it, and keep as much of it as we see fit. And for me, that's the maximum?
+
+Unknown Speaker  09:24
+Sure. So the plan the hypothetical, what if it was not a voluntary thing. So you Milwaukee Police Departments going around to a door saying we need this information, but it'll make our system so much better, and it'll make the area a lot
+
+Unknown Speaker  09:38
+safer. I always tell them that they need to give be the actual like, whatever documentation, whatever court order it is, to get my information, I need the proof that they need it, I need to know what they're going to be doing with it. I'd want to know, pretty much as much as I possibly can about it. Want to know who's entering it? Sure, and want to know where it's being entered? how anyone can access it, because and in that case, you have to consider there's also hackers. So I mean, I don't want to know how secure the databases that they have. Because that's my personal information. And if they're putting it out there, then someone is going to be able to grab it if they see fit. Yeah, not that I'm a target. But privacy
+
+Unknown Speaker  10:16
+was still out there. And you must hear exactly,
+
+Unknown Speaker  10:20
+that Facebook doesn't already know everything about me. But
+
+Unknown Speaker  10:24
+anything. Yeah. But this actually leads to my next question, though, how would you actually feel if hacked data was used by professionals? Like what kind of context? Would you condone the usage of,
+
+Unknown Speaker  10:34
+of hacked data being used by so professional hacking into the database? You're a professional purpose,
+
+Unknown Speaker  10:41
+professional purpose, political purpose? What kind of content
+
+Unknown Speaker  10:45
+they're getting? Are they getting the data illegally? Yes. And it comes down to that. It's 100%. Like, it would be another privacy concern. Like it doesn't matter how you're like, if whatever reason you need the data for if you're getting it unethically, then it's not okay,
+
+Unknown Speaker  11:02
+then it should not be used at all. Yeah. Okay. And again, you wouldn't condone it in any kind of situation, no context, if you hacked the data out, you should not use it,
+
+Unknown Speaker  11:13
+unless it was a violent crime that was committed a violent crime. So if they had someone's database and found out that they were murderer, and they're like, we're going to use this against you. That's different than if they hacked someone to find their address and put them in their statistics,
+
+Unknown Speaker  11:28
+like a matter of like,
+
+Unknown Speaker  11:29
+life or death, like an actual safety issue.
+
+Unknown Speaker  11:32
+Okay. So it's a matter of like getting the right justice for someone or like to find out this information, it's okay to use the hack that are just like stuff, like the child pornography or whatever it is,
+
+Unknown Speaker  11:46
+right? Yeah. If someone were to find like females between like the like, had trafficker of Milwaukee area, or whatever the situation is that then they have an obligation to bring them to justice. Definitely. But if they have consequences for the way that they are, procured the information, then I think that that's also justice Sure. Took a win win or not a win. Right. But I mean, would you rather get docked for hacking then for the not commit than not report a crime or not bring someone to justice? At the end of the day, if they're serving their consequences? You should be serving yours? Not you know, yeah, the individual. Exactly. Yeah,
+
+Unknown Speaker  12:26
+exactly.
+
+Unknown Speaker  12:28
+So then, finally, how would you feel if data from traffic tickets was used and collected to systematically place police along the highway?
+
+Unknown Speaker  12:38
+I'm not already do that.
+
+Unknown Speaker  12:43
+I feel that it's kind of petty. But like I get it, it's it's really just in that case, I would see that it's all about money. And, and I think that the police should be more about safety. So for me, I would personally complain about them putting more cops in an area for like traffic violations, rather than an area there needed to protect people's actual safety, which, for example, like market campus, sure, we've got like shootings going on, like I think can be more important to have police officers here for that reason than to pull people over if they don't stop at a stop sign or whatever.
+
+Unknown Speaker  13:21
+Or like running house house for like parties or
+
+Unknown Speaker  13:23
+Yeah, exactly. Like, let the college kids drink, just make sure that they don't get shot. Exactly.
+
+Unknown Speaker  13:31
+You also brought up saying the place and the police on the highway in certain spots, it was kind of petty, what do you mean by that?
+
+Unknown Speaker  13:38
+I mean, it's just like, it's like you're setting people up, that don't really deserve to be set up, like you're looking for the crime, but it's, it's not really a for me, like it's all about violent crimes or leisure, harassment or things that will actually like hurt an individual. If it's like, Oh, you were speeding 15 miles over the limit on the highway. To me that's like, Petty in the sense of it's like, you're just trying to get money out of the citizens rather than protect them, which is what your job should be. Okay, as an officer.
+
+Unknown Speaker  14:11
+Okay. So you agree that just resources can be allocated better resources? Yes, exactly.
+
+Unknown Speaker  14:16
+Okay, resources can be allocated better.
+
+Unknown Speaker  14:19
+Definitely. Definitely.
+
+Unknown Speaker  14:21
+Looks all the questions I really have to ask. And again, thank you for coming into the time.
+
+
+Transcribed by https://otter.ai

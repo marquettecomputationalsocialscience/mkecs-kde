@@ -1,0 +1,218 @@
+Unknown Speaker  00:01
+So I'm here with participant 18. And this interview is just to get some richness of context, understand what was going through your head and why you may have gotten made choices that you did, and just sort of to understand your views on something. So talking, as much as you want is encouraged, there's no such thing as too much. So feel free to ramble and not worry about it. I'm
+
+Unknown Speaker  00:31
+so connected to my name at all just connected to my number, I know
+
+Unknown Speaker  00:34
+your your name is only being recorded, where you sign the informed consent, and when you sign that you got the money, and that will not be connected to your number in any way. So this can't be this won't be tracked, tracked back to you. We take privacy, very importantly here. So our first question is, how have you felt that crime analysis algorithms have directly impacted you? If at all?
+
+Unknown Speaker  01:03
+Well, I think we just see it in our day to day lives, just where we see police and what times is all kind of, you know, that's, that's a top down mentality. So whoever's making those decisions at the top is directly affecting who you see on the streets on a day to day basis.
+
+Unknown Speaker  01:23
+Okay. So you think it's, like a pervasive sort of thing?
+
+Unknown Speaker  01:30
+When I say top down, you mean, yeah, I think there's a group of people sitting down in the meeting saying we need to patrol this area more because of, you know, this x y data, you know,
+
+Unknown Speaker  01:44
+okay. And would you?
+
+Unknown Speaker  01:46
+Would you think that it's important to understand the
+
+Unknown Speaker  01:55
+algorithms that they use for this?
+
+Unknown Speaker  01:59
+As long as they understand them? Okay, I'm okay with that. I don't necessarily need to understand them. But as long as the people that are actually making the decisions, know, what data and how that data was generated, okay, then I'm okay. With
+
+Unknown Speaker  02:14
+that being used? Would there be any information you would want to know about these types of algorithms?
+
+Unknown Speaker  02:21
+Mostly how the data is being collected. So not necessarily the algorithm itself. But what kind of data and how that data was generated is more important.
+
+Unknown Speaker  02:31
+So you you feel the data is more important than the model? Or then the math behind it, per se? Right?
+
+Unknown Speaker  02:39
+Yeah, definitely. Awesome. the integrity of the data is the most important thing.
+
+Unknown Speaker  02:45
+So imagine a scenario where you know that a specific process, but yet an algorithm or software was being implemented in an area where you live or work at such that it would directly impact you? Would you want to have some level of understanding about how it works? Like, how much would you want to understand it? And what would you think would be important about it? In this scenario?
+
+Unknown Speaker  03:17
+I think that the only thing that would concern me is the end decision and how and how they implemented or how they communicate that. So if just say, the police district decided that on my street, they needed to double the beat cops in in my specific neighborhood or something Sure, like, as long as, like they say something like, because they couldn't say nothing at all. Like, they could just use all that data and be like, We're going this way and not say anything to the public at all. So I would think that, yeah, they should come out and say, This is what we're doing. This is how we got there. Be you know, and I get gets to the algorithm question. This algorithm says that we need to patrol this area more. And we're looking to try it, then. Yeah, I think that that amount of communication is,
+
+Unknown Speaker  04:24
+so the transparency about just like the process that's happening, right would be important. Okay, yeah. So I'm sort of a next step in this situation. Assume that someone with expertise and crime analyses or, like, algorithms like this vouched for the efficacy and the fairness of a given private analysis process, right. In that scenario? What would be important for you to know, and I would need to know who they're actually working
+
+Unknown Speaker  05:05
+for, like, say, are they actually working for the police department? Are they working at the city, but not for the police department? Are they working for a third party that is just coming in? Out of nowhere? Like who's paying them? I think the most important, it shows what their true inside of this. Okay.
+
+Unknown Speaker  05:27
+Assuming if you could assume, or if you for this situation, if you could assume that their motive was accurate. Would
+
+Unknown Speaker  05:39
+having, as in there's no conflicts of interest? Yes.
+
+Unknown Speaker  05:42
+Okay. And they're
+
+Unknown Speaker  05:47
+an expert in all
+
+Unknown Speaker  05:48
+kinds of the word. Yeah. And their their approval? You could trust it, would you still want to know, what would you still want to know, in that scenario about how this algorithm works? or anything like that?
+
+Unknown Speaker  06:04
+I think it would ultimately go to how or if this has been implemented somewhere else. And, you know, like past instances of this exact occurrence happening, and
+
+Unknown Speaker  06:19
+Okay, what they did, so,
+
+Unknown Speaker  06:22
+so you'd like to see like a past case study or
+
+Unknown Speaker  06:26
+right, or just be like, okay, Cleveland had the same problem in this area. And this is what they did. And it worked. Okay. So like, I think that would greatly enhance their expert. opinion. Very interesting.
+
+Unknown Speaker  06:42
+No one that I've had was like, Oh, I want to see it happen in another city? Which, I mean, that's a very logical step right to have, like, someone have already gone through like a trial of it. Right, right. Especially if it's an algorithm, like,
+
+Unknown Speaker  07:01
+you can
+
+Unknown Speaker  07:02
+have this algorithm, look at any data set,
+
+Unknown Speaker  07:05
+yo, you know, show how that whatever that rhythm spits out for another city and the exact same, you know, it's a crime or similar area? You know, we're not just comparing, I guess.
+
+Unknown Speaker  07:20
+Do you believe that whether data was sourced ethically, legally and fairly impacts the quality of the data itself? and How so?
+
+Unknown Speaker  07:29
+Absolutely.
+
+Unknown Speaker  07:32
+Greatly?
+
+Unknown Speaker  07:34
+Whether that's, you know, just like the reporting how it gets reported, or, you know, maybe there's bias in the reporting. There's just, it opens up Pandora's box of questions. Yeah. could have went wrong with the data being collected? And, and how well, does that data truly reflect what's going on?
+
+Unknown Speaker  07:59
+Okay. So you think that having
+
+Unknown Speaker  08:02
+like, even if a great algorithm is created, it doesn't mean anything if the data is bad? Okay.
+
+Unknown Speaker  08:11
+And you would say that,
+
+Unknown Speaker  08:14
+if there's really, if there's any questionable part of the data collection, then you would have more questions about the data itself? It would,
+
+Unknown Speaker  08:28
+it would beg the question of
+
+Unknown Speaker  08:33
+like, what's their foul play and collecting data in order
+
+Unknown Speaker  08:37
+to have this police action? Like, later to push an agenda? Okay.
+
+Unknown Speaker  08:45
+Yeah.
+
+Unknown Speaker  08:46
+All right. If asked to voluntarily give personal information, such as location and demographics, to law enforcement for the exclusive purpose of more training data for crime analysis algorithms, what would be your response and the reasoning behind your response?
+
+Unknown Speaker  09:07
+That's an interesting question. That's a good one. Um,
+
+Unknown Speaker  09:13
+thanks. I wrote it.
+
+Unknown Speaker  09:16
+It's, I mean, that's such a tough. I don't
+
+Unknown Speaker  09:22
+know. I mean, it says on a case by case basis, like, yeah.
+
+Unknown Speaker  09:30
+I mean,
+
+Unknown Speaker  09:31
+if we're looking at a neighborhood that's 90%, African American, what's the point of telling them that 100% of the robbery in that neighborhood was done by African American if, you know, it's not going to help them at all. So like, it's only applicable if it's crossing some sort of segregated line that has that is reality in our in our current Midwestern cities, especially. So it's only important if say, you know, that most crimes being done in this area is not the makeup of the community itself. Okay. That's, that's it, I feel like that's would be the only applicable thing. But to even know, that would be difficult and then
+
+Unknown Speaker  10:29
+see, you're saying you don't feel like there's enough, like, of a reason? Or there's there's enough proof that it would be effective.
+
+Unknown Speaker  10:41
+Okay, or look at like, look at the there's there's lives in the city that are clearly segregated lines?
+
+Unknown Speaker  10:48
+Yeah. No, walkie like most segregate? Yeah, like,
+
+Unknown Speaker  10:50
+I want to talk about specific like river West and rob a, like Holton Street. Is that why? So if you know, if the police somehow know that, like, 100% of the robberies, which is absurd, that 100% of the robberies in river West, a more white area of the city is being done by African Americans in the neighboring neighborhood that might help law enforcement in that specific, yeah, neighborhood, trying to deter that specific crime. But
+
+Unknown Speaker  11:24
+how often is that? Like, fact? Okay. And and it?
+
+Unknown Speaker  11:30
+Does that really help them? I would say, probably not.
+
+Unknown Speaker  11:35
+So you think it would only be useful in like, very specific case? Yeah.
+
+Unknown Speaker  11:40
+So you like you have a small group of teenagers that are robbing cars on the east side? Okay. So
+
+Unknown Speaker  11:50
+you only like?
+
+Unknown Speaker  11:53
+Sure, that's, that's a description of this group of people that they might be African American or whatnot.
+
+Unknown Speaker  11:58
+But that only helps for that specific little
+
+Unknown Speaker  12:02
+group of crime. So what's the point of like, telling a group of police officers any of this information? That Yeah, it's just, it's so it changes for each circumstance, and it quickly crosses into racial profiling? If you go any farther than what I think I just went. So yeah. I just don't think it helps. And I it's, it would be hard to see something useful come out of that.
+
+Unknown Speaker  12:38
+That's a great answer.
+
+Unknown Speaker  12:40
+And we have one last question. How would you feel if data from traffic tickets was used to allocate police on highways? Like,
+
+Unknown Speaker  12:51
+say more traffic tickets in one area means that they have a greater?
+
+Unknown Speaker  12:55
+Yeah, you know, if, if they have like, five more traffic tickets at Mile Marker 12. Then at Mile Marker 13, they'll move? They'll have they'll keep an extra top at that place, right.
+
+Unknown Speaker  13:12
+It's kind of a positive feedback loop. Yes. Yeah. You took it more people at one location and you doubt put more cops there. You're going to get more tickets there. And now you're going to put more cops there. And just, it's the same thing over and over. And are you really helping? I mean, I question whether speeding tickets are helping the community at all? Well, so
+
+Unknown Speaker  13:37
+I don't think so. I think that's a really bad idea.
+
+Unknown Speaker  13:40
+Okay. Because just you can't look at the tickets as the only crime occurring. Yeah. If the like, since you have cops there, then they're going to write more tickets. Yeah, no matter what.
+
+Unknown Speaker  13:58
+And you can't assume that less people are speeding somewhere where there's not. Right, right. Yeah.
+
+Unknown Speaker  14:06
+I mean, granted, there are spots that people are going to speak more, but you shouldn't be getting that data from the traffic tickets from the amount of traffic tickets in that location. Okay.
+
+Unknown Speaker  14:18
+Awesome. Thank you so much for coming in. That's going to end our interview.
+
+
+Transcribed by https://otter.ai

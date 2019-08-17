@@ -1,0 +1,275 @@
+Unknown Speaker  00:00
+So
+
+Unknown Speaker  00:02
+you also brought up like, when you were doing the activity part that you did have some kind of understanding of where to place the police or you just took a different approach? Or what exactly was that again? Um,
+
+Unknown Speaker  00:19
+basically, I was looking like, we can repeat the question.
+
+Unknown Speaker  00:23
+Yeah, I recorded it a little bit weird. But, um, you brought up how you took a different approach.
+
+Unknown Speaker  00:30
+From the first two parts where you were kind of plotting against like the robbery events. To the larceny, you said, You took a different approach?
+
+Unknown Speaker  00:39
+Yeah, it wasn't based on like, the type the category of it was more just based on like, hmm, how am I going to respond? Like, how many cops Am I going to put out there? Like, do I want more cops? Or do I want less cops? And I feel like in other surveys, the first one or two, I was a little more conservative. But in this one, my numbers were higher when I was like guessing the number of hotspots and stuff? Yeah,
+
+Unknown Speaker  01:08
+definitely.
+
+Unknown Speaker  01:11
+Do you have like a background in like crime analysis, or just like crime in general or
+
+Unknown Speaker  01:17
+no little to no, the one thing that my familiar already with crime comes from the perspective of public service, okay, as a master's student, and also, working five years in New York City, these past five years, I'm with a highly population is often incarcerated. So I'm coming from more of a community based perspective, but in terms of analyzing crime data, little to no more like qualitative experience.
+
+Unknown Speaker  01:44
+Okay. So you would say you've never seen like a program or So no,
+
+Unknown Speaker  01:48
+I have I have my public service on my two classes past semester called, like, urban public policy. Okay. And we did do like one or two, one session on data, we use tableau, Tableau Yep.
+
+Unknown Speaker  02:05
+Yeah.
+
+Unknown Speaker  02:06
+Like little to no experience, but micro me geo
+
+Unknown Speaker  02:09
+spatial, kind of, yeah. Okay. I personally haven't used tableau. So I'm not exactly sure. Yeah, but you have seen some,
+
+Unknown Speaker  02:17
+I've seen it so that I'm not I wouldn't consider myself like, familiar. Sure.
+
+Unknown Speaker  02:22
+Yeah. And that's fun. So the first question we have here are actually, we're here interviewing participant 31. And the first kind of question that will have for you is before today, before actually coming into this session today? How have you ever felt that crime analyses have directly impacted you, if at all?
+
+Unknown Speaker  02:42
+Well, um, I would say that they can perpetuate white privilege that I'm crime analysis from my, in my perspective, my opinion, is targets people of color. And, yeah, sure. So in terms of it affecting me, it makes me angry, because I think it's unjust, and it's skewed, due to racism,
+
+Unknown Speaker  03:10
+just due to racism.
+
+Unknown Speaker  03:15
+How due to racism,
+
+Unknown Speaker  03:18
+I feel like the criminal justice system is skewed to target people of color. Okay. So in that regard, that frustrates me because it's not an equal playing field when people of color historically and based on like, the statistics are presumed guilty, just from walking down the street, you could see, like a young black man and presume him guilty before you would his white counterpart. So yeah, I feel like a crime analysis and crime data and stuff like that is skewed racially. Does that answer the question?
+
+Unknown Speaker  03:58
+It does? So let me that. I think your answer will be it kind of affects you indirectly.
+
+Unknown Speaker  04:03
+Right. Okay. Yeah. Because it, um, it just makes me
+
+Unknown Speaker  04:09
+very frustrated at the system that the system is already against non white people. But it's not fair. Yeah. Okay. Definitely. Yeah, that's the concise way. Yeah, I went around about
+
+Unknown Speaker  04:23
+now It's okay. It's okay. And for all of this, like, we will encourage you to kind of ramble on or just say anything that you're thinking, Okay. Anything will help. Thank you. Thank you, too. So how important is it to you to understand how a crime analysis algorithm or software actually works?
+
+Unknown Speaker  04:43
+I would actually be really interested in learning more about this just because, like, what goes? Like what kind of data is fed into the, like, the pool to be studied? And then, like, what are the what's being looked at when crime is being analyzed?
+
+Unknown Speaker  05:01
+Or you mean, what's being looked
+
+Unknown Speaker  05:02
+like? Like, okay, if it's demographics, like, what, what criteria about demographics? Like, if you're looking at the How are you classifying the type of crime event, like classification, demographics on
+
+Unknown Speaker  05:19
+it location?
+
+Unknown Speaker  05:23
+Or be interested to unlike victims? Like who, who is? Who is experiencing the crime?
+
+Unknown Speaker  05:31
+Like who the crime was directed? Yeah.
+
+Unknown Speaker  05:35
+Yeah, I'd be interested in like, what goes? Like how do you define analyze crime? Like, what do you What's the analysis looking for? And is there a goal? I'm interested to know, like, Is there an objective? Or is the team or is the analysis committee like, hoping to like, Is there any bias basically? Or like, how, what do they do to not have bias in their analysis? Definitely,
+
+Unknown Speaker  06:01
+definitely. So you bring up a lot of, like, important information you think would be to know as kind of regarding, like, the data itself, like the location, demographics, all of which sounds a lot to do with like, the data? Is there any specific information that you think is important to know about the algorithm itself? For the software?
+
+Unknown Speaker  06:23
+Um,
+
+Unknown Speaker  06:27
+I think for me more, so like, what informed the software more informed the so like? Like the info about what, what did the team decided is important to study? So it's not so much for me, like what system are using? Or like, what's the algorithm? It's more like, what informed what we're charting and graphing? Like, what are the measures that we decided on? Okay, on that day decided to like, what kind of
+
+Unknown Speaker  06:55
+sprouted the need for this?
+
+Unknown Speaker  06:57
+Yeah.
+
+Unknown Speaker  06:58
+Okay. Okay.
+
+Unknown Speaker  07:03
+Assume that a specific process for crime analysis was implemented in your area, either where you live, or where you work, such that it's used to directly impact you, how important would then be to have some level of understanding of it?
+
+Unknown Speaker  07:21
+I would think it'd be very important, um, because I want to know what's going on in my community. So it'd be important for me to understand, like, what the analysis says, and again, what's being gathered? And I mean, if Yeah, I would imagine I would want to know, to like, what's the platform that's being used to, like gather the data platform like how it's like, like, is it? Like, this is called checks? I don't I have no idea. But like, what system? If it's like a company, I mean, I don't even know where to begin. But like, who's doing the crime analysis?
+
+Unknown Speaker  08:00
+For matter for like this, like the application you used? This data was actually taken from Milwaukee Police Department's website, all of the data and the events scene? They're actually made it through to court. These were all through, like court
+
+Unknown Speaker  08:17
+occurrences? Yeah.
+
+Unknown Speaker  08:18
+Yeah, I want to know, that kind of stuff. And
+
+Unknown Speaker  08:23
+yeah, I want to know, all that, just like to be an engaged citizen, but also, because presumably, my tax money would be going towards this. So I would want to know, just like, again, what are the objectives? And like, why is this important for our community?
+
+Unknown Speaker  08:39
+Definitely. more of like, a community aspect? Yeah, this is going to be good for us. Sure, definitely. So then assume someone with more expertise than you vouch for the efficacy, the efficiency and like the fairness of a given process of crime analysis? How important would it be for you then to have some level of understanding of it?
+
+Unknown Speaker  09:02
+Very important. I mean, I would definitely, like still probably defer to someone who was an expert, because this is by far so out of my realm, and my league of like, knowledge base, but I would definitely want to learn, like what what makes them the expert and like, I want them to have a thorough explanation of why I'm just gonna take like, Oh, this is legit. I would love to learn their explanation and like their, what their, what their analysis of the thing was, like, the background on the person. Yeah. For any of these scenarios, it sounds like you still kind of want to dive into, like, figuring out the algorithm itself or like, some kind of understanding of how it works. Right? Yeah. Like, why does this person think that it's fair, you know, like, from what perspective are they coming from? Are they a law enforcement official? Which is one perspective? Or is it a, like a, a young college student who's taking a course on it? And they're like a person of color, like those are going to have, we might have way different responses on radium, this the system as fair or not? So I want to know, like, Who is this person?
+
+Unknown Speaker  10:15
+Sure. I'm putting it into kind of like the hypothetical situation. Would you believe more like the law enforcement or the college kid that had the degrees and the qualifications to say, like this process of crime analysis is efficient and fair?
+
+Unknown Speaker  10:35
+Well, the thing is, the law enforcement officials is presumably at the expert in the field around crime. But I think that the law enforcement officials should be informed by someone like the college kid, and be informed by the community. Like I wouldn't want to be just one person's review. Like it needs to be somewhat of a democratic process. Sure. Like, are we engaging the community and deciding that this is, this is a fair and adequate system to measure? And so I got the college kid, that was a random example. But he's probably not an expert, but I was still greatly value his their opinion on it, because they're from the community. And if the community is going to be measured, the community should have a say in what we're measuring them from?
+
+Unknown Speaker  11:25
+Definitely.
+
+Unknown Speaker  11:27
+So then, do you believe that weather data was sourced ethically legally or fairly, if that actually impacts the quality of the data itself? Yeah, I would say so. So So
+
+Unknown Speaker  11:41
+why is that? How come?
+
+Unknown Speaker  11:44
+I'm
+
+Unknown Speaker  11:46
+qubit? The question one more time.
+
+Unknown Speaker  11:48
+Yeah. Does sourcing data or collecting data ethically, legally or fairly? Does that actually impact the quality of the data?
+
+Unknown Speaker  11:56
+Yeah, I would, I would say so. Because I'm, I feel like, first of all, if it's, again, I'm curious, like, what's the definition of fair and like, all those things, but presuming that it was done fairly and ethically, like that, to me would be more legitimate than, like some, I don't want to say black market, but like some, like, other facet of receiving data, because like, well, where'd you get that from? And like, like, what's this info based on? Okay? And so I would say it's very important that the data is gathered ethically and fairly.
+
+Unknown Speaker  12:35
+Well, what what if this data was hacked, per se? hacked by a group of professionals? what, if any context, would you condone the usage of it?
+
+Unknown Speaker  12:48
+What context? Yeah, like context,
+
+Unknown Speaker  12:50
+context? I'm sorry, I'm sorry? What context? Like what areas? Or what uses Do you think this should be used? If at all?
+
+Unknown Speaker  13:01
+If the data was hacked, how could it be used? Yeah.
+
+Unknown Speaker  13:05
+Um, well, I'm very much of the mind, like a huge supporter of flag Freedom of Information Act. And like, I'm a huge Julian Assange fan like Wikileaks guy, I know, he's very controversial. So even if the data is hacked, and which is technically unethical, probably because it's stolen, I would still say information is information. And that that should be put out there, if you have the info, put it out there. And that's up to the public's opinion or to the community or to the court to decide like, what are you gonna do with this info? But um,
+
+Unknown Speaker  13:46
+what was the context question like if the content
+
+Unknown Speaker  13:48
+who get if the data was sourced say on ethically or right to like hacking? example? What context? Could it be used in, if at all?
+
+Unknown Speaker  14:00
+context?
+
+Unknown Speaker  14:02
+Maybe just like the WikiLeaks or, like,
+
+Unknown Speaker  14:06
+where would you be comfortable using hacked data? versus where would you think, like, we wouldn't be comfortable with hacked data. Like you mentioned, WikiLeaks, and Julian Assange. So you'd be comfortable using hack data.
+
+Unknown Speaker  14:25
+For that sort of watched on type?
+
+Unknown Speaker  14:27
+Yeah, behavior. Maybe now I would rather I personally would. Because to me, that's like info from the people. And also, I mean, we're not talking about Assange and WikiLeaks, they claim that like, their data is on scrub. It's like, it's, it's raw. They don't edit it. So that would be a value to me. But again, like the legitimate legitimacy of it, and I would definitely try and learn more about like, is this valid? But I mean, information is information. I would put it out there. Now, I'd be open to considering it.
+
+Unknown Speaker  15:03
+Definitely, definitely.
+
+Unknown Speaker  15:05
+So case by case you have to consider, like, there, you would have to consider the specifics of a scenario before you could make a judgment either way.
+
+Unknown Speaker  15:16
+No, I would, like I would if there was a big pool of data that was hacked, I would want to take that into consideration. Like any case, I would look at it, I would look at any info that was on. Okay, the the case be hacked and or on, like, ethical, ethical? Sure.
+
+Unknown Speaker  15:38
+So if you were asked to voluntarily give personal information such as location, like where you live, or where you work and or more specific demographics, to the police, for the sole purpose of better training their data, or crime analysis algorithms, what would your response be for this?
+
+Unknown Speaker  15:58
+I'd say yes. Because that reminds me of something like the census, which is one of the most important foundations of the United States of America. So I would I would give my info. Just because in order to be adequately represented people need to the officials need to know who's on the ground in the community. So I would get my info.
+
+Unknown Speaker  16:22
+kind of have a plan. The other side done? What if the police came to you and said that they'll need like your location services always on? So always kind of be like tracking you? Oh,
+
+Unknown Speaker  16:33
+that's definite. No, definitely no, way too much information. Okay. Now, I would like fill out a questionnaire being like, this is my address. This is my age. This is my ethnicity, my gender, like all that stuff, like, but localized to my home. Like they're not going to be a little follow me on my apps and whatnot on my phone. Like that's Wait, that's a breach of confidence. Bridge of confidence,
+
+Unknown Speaker  16:57
+I would say. Yeah. isn't just they're falling around too much. Yeah.
+
+Unknown Speaker  17:01
+Yeah. Sure. We already have enough Big Brother thing is going on? I'm already so like, over the about this government. So um, yeah, they're not getting that info from me. Sure. But definitely, again, it reminds me of the census. And I'm 100% value that let me get me started on the census and the new citizenship question.
+
+Unknown Speaker  17:23
+Anyways,
+
+Unknown Speaker  17:25
+worries. But then. So assuming that this information could improve the efficacy, the efficiency of like the law enforcement? My why may like individuals to want to preserve their privacy, you're saying just it's a breach of confidence? Well, I don't need to be babysitting me. Like I,
+
+Unknown Speaker  17:48
+I wonder if one perspective is like, oh, if we turn your location services on, then it's almost like, I wonder if I'm like a crime person? I haven't. I'm just rambling here. But I wonder if they're like, Oh, we could tell who did it because we're going to look on the log and see whose phone was like active there. And in terms of like, resolving crime, like maybe that's an approach of some
+
+Unknown Speaker  18:14
+different mind would take but for me, no.
+
+Unknown Speaker  18:20
+I still think like, people need to be able to have free range. And you don't have to report back to the community police your every move like that, that that deprives the people of freedom and this lens of free if you're importing every two seconds. What's the fine line mission like reporting every two seconds or being stopped rather, and
+
+Unknown Speaker  18:46
+consenting to this is where I live, this is my address.
+
+Unknown Speaker  18:50
+But then I still see what you're saying that it's okay to kind of give, like, written down information sort of always on always following information.
+
+Unknown Speaker  18:59
+Definitely not the not not to the following information. Well,
+
+Unknown Speaker  19:08
+then, how would you feel if data from traffic tickets was used, collected by the police to kind of systematically or strategically placed police on the highways?
+
+Unknown Speaker  19:18
+If data from traffic tickets
+
+Unknown Speaker  19:24
+was like a speed violation?
+
+Unknown Speaker  19:26
+Any kind of like traffic violation then?
+
+Unknown Speaker  19:33
+Yeah, it's kind of thing making me think of, well, I guess like the planet, that would be like a deterrent, like, okay, so basically, we've got the data, we know that like at this intersection, there's a lot of whatever violations, so we're going to plant someone there. I would say God could inform the traffic police, which could create less violations and like a violation of for example, like, we don't know the extremity of the violation, it could be a hit and run or could be like you made a right on reading you're not supposed to. But um, I would say that's okay.
+
+Unknown Speaker  20:10
+Sure.
+
+Unknown Speaker  20:15
+What the all the questions that I have to ask him. Yeah, again, thank you for coming today. Yeah, that's Oh my god. Yeah.
+
+Unknown Speaker  20:22
+All right. Great.
+
+
+Transcribed by https://otter.ai

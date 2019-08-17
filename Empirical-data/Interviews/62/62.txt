@@ -1,0 +1,290 @@
+Unknown Speaker  00:00
+And then. But before getting to the interview before today before coming into the session, Have you ever seen or use any software or service like that before?
+
+Unknown Speaker  00:10
+I'm just looking at like, Maki's compass. Okay, their map their crime mapping? I've never actually like, you know, interactive interactive? No,
+
+Unknown Speaker  00:20
+definitely No.
+
+Unknown Speaker  00:21
+And just looking at it was that for like your own kind of use or
+
+Unknown Speaker  00:25
+so that was the sergeant that I supervise, is in charge of the statistics for the department. So I was looking at what she was looking at. And so just kind of gave me an idea of what you know, what she was, what she was looking at, and how it was. But The site was like, definitely
+
+Unknown Speaker  00:41
+kind of sounds like an overlay, like you kind of just you've seen it before, you can kind of know what it is bright, nothing in depth. Right? Definitely. And that's, that's fine. The whole basis of this study is we're trying to see how people of different backgrounds kind of interact with that we can find from it. But that's, that's fine. So then move into the interview is, the first question is, before today, Have you ever felt that crime analyses have directly impacted you, If at all?
+
+Unknown Speaker  01:09
+Well, I think it definitely impacts our job, working for the university, having crime statistics to take a look at and review helps us to determine like where we're going to, you know, put specific patrols and do certain things based on obviously, what's going on in our neighborhood. So
+
+Unknown Speaker  01:30
+what's going on? Is it are you tracking just, But What do you mean, what's going on neighborhoods,
+
+Unknown Speaker  01:35
+so the, We keep track of, obviously, all the crimes for the university. So there are certain crimes that we have to keep track of, for query purposes. for federal, you know, for the Department of Education, we have to actually submit those. And so those are specific crimes that we keep track of specifically for query purposes. But we also keep track for just basic University. So things as you know, as minor is like facts all the way to, you know, armed robberies, homicide, that kind of thing. So if we're looking at if we do, like, if we use our cab to see what kind of crimes we've had, say, in a month, or in a year, or whatever we can base Okay, well, we've had this many car thefts at this location, let's make sure that we have you know, that we're our patrols are focused, you know, they're from this time to this time, because this is the time that those are happening. So I kind of
+
+Unknown Speaker  02:33
+feel like tracking the pattern. Right, Helen for the break? Do you know like, how far back
+
+Unknown Speaker  02:39
+The data goes, that you actually look at are you So when we became a police department, we lost all of our access to our statistics from the old computer programming that we use. So we used to use something called report exact. So we had all been that's where we did all of our reports. So if you ran statistics, you would go on went on there you typed in, you know, like facts from this day, this day, and it would pop up all of that. Once we became a police department and stopped using that program, we now use pro Phoenix, that we no longer have access to those. So starting in 2015, we have actually no, it's two starting in 2017. A 16, or 17 is when we got pro Phoenix, we used report exact for probably about a year When we transition from that to pro Phoenix. Pro Phoenix is the program that every police department I think in the county I want to say uses it. I don't think except for walkie talkies. Yeah, Smokies special they have their own. But Yeah, so we went to that. So we have a crimes from when we started pro Phoenix to now
+
+Unknown Speaker  03:54
+definitely, Just the data wasn't be wasn't able to be transferred from
+
+Unknown Speaker  03:58
+your router. Yes, yeah, I forgot how, what the like, how, what the reasoning was behind it. We also like lost all of our emails from 2015. And before that, we had to clear the entire system, because now as soon as we came a police department, Everything was open records. So anything on our emails, and prior that when we were in a police department, they didn't care that wasn't it? Oh, yeah. So they kind of started us fresh with 2015 on. And So that's kind of, you know, how we, So from 20, whatever it is 1617 to now? So it's probably about two years, maybe three years? other stats that we have?
+
+Unknown Speaker  04:39
+Sure, Definitely.
+
+Unknown Speaker  04:41
+So then how important is it to you to understand, like how the algorithm would actually work or how the system works?
+
+Unknown Speaker  04:50
+Um,
+
+Unknown Speaker  04:51
+you know, it's, from my standpoint, it's not important that I know how it works. I just need to see the results. Okay, so I am not a math person, algorithm person at all. That's not That's why I'm in law enforcement. So, as long as I can get the information that I need from whatever, you know, whether it's pro Phoenix, or however, I'm pulling that information, as long as I can get it, I'm not really concerned with be behind the scenes, like the whole black box. Right? Whatever, right? Yes, yeah,
+
+Unknown Speaker  05:29
+definitely.
+
+Unknown Speaker  05:30
+Yeah, they're saying pull that information. What information do you mean?
+
+Unknown Speaker  05:34
+So like, for statistics, if I have to Yeah, So if my sergeants not there, and I have to run, say, Hey, you know, Ruth, we need to get out of here. All the bicycle thefts from this time to this time for I need to just be able to go into the, you know, whatever program are using and pull those up and not, I don't ever have to come up with them. I just have to provide them if that makes sense. Like,
+
+Unknown Speaker  05:59
+yeah, alpha does that does. So It sounds like speaking on the basis basis of like important information to know about, like, the algorithm and the process, probably in your case, Most important thing to know is like how to use it like top level. Right, right. Okay. Yeah. So any other kind of information you think would be important to know about that situation? Or the system?
+
+Unknown Speaker  06:21
+I'm,
+
+Unknown Speaker  06:25
+from my standpoint, probably not Sure. So, from other, you know, depending on what level you're talking, you know, obviously, if our Sergeant was in charge of doing that, you have to know how to, you know, to do the algorithms and how to pull that up. That's why we're hoping that we're going to get a data analyst
+
+Unknown Speaker  06:45
+for himself. Well, I hope so too, for you guys.
+
+Unknown Speaker  06:47
+Yeah. Otherwise,
+
+Unknown Speaker  06:50
+so then assume that a specific process for crime analysis was implemented in your area? Either where you live, or where you work, such that it's used directly impacts you and your everyday life? How important would it them be to have some level of understanding of it, if at all?
+
+Unknown Speaker  07:09
+Well, in that case, I would say that's, that's different. You know, if it's impacting, whether it's where I Live, or where I work, or however, that works, I think then, you know, it is important for me to know the algorithms or know how to you know, how to work with the algorithms definitely.
+
+Unknown Speaker  07:27
+Is there any other kind of important information you would want to know? No,
+
+Unknown Speaker  07:35
+no, no, I think I don't think so. Sure.
+
+Unknown Speaker  07:37
+Then you were kind of describing like, you want to know, like, how the algorithm works? That's correct. I like how it gets from point A to point B, or what about it?
+
+Unknown Speaker  07:48
+Um, well, if I,
+
+Unknown Speaker  07:51
+if I guess it would depend on my world. Yeah. You know, in the department is how I look at it, you know, if I'm working for the police department, and you know, I am, you know, where I'm at right now. And This is my responsibility, then I need to know, obviously, what falls under that. But if it's some, you know, every person like in every other department, that department, regardless of police department or not, I mean, like when you're an administration, you have a specific set of responsibilities. So we have someone who takes care of all of the technical things like the radios, and the computers, and all that stuff. I take care of all of the support stuff, like Victim Witness services, and outreach and training and that kind of stuff. And so there is while there's minimal information sharing, as far as like, within, say, different captains, we have our specific, like, niches, and that's where we were information, you know, where our knowledge lies is in those areas.
+
+Unknown Speaker  08:50
+So It sounds like it's better to have like a specialty, Correct?
+
+Unknown Speaker  08:53
+Yes, definitely.
+
+Unknown Speaker  08:54
+Yeah, definitely.
+
+Unknown Speaker  08:57
+So I'm kind of still on the basis of the crime analysis algorithm or software that directly impacts you assume that someone has more expertise, maybe they went to college, they have all these degrees. They vouch for the efficacy and efficiency and the fairness of a given crime analysis algorithm. How important would it then be if at all, to have some level of understanding? Kind of going back to your saying that it's better have specialties? Right? Right? It would sound like more like you would kind of believe them, correct me if I'm wrong?
+
+Unknown Speaker  09:32
+No, that's Yeah, that would be correct. If someone has more knowledge of, you know, whatever it is, algorithm doesn't matter, that I'm going to take their knowledge and trust that they know what you know what they're talking about. And that, you know, if they're saying that this is legitimate, This is something then I'm going to, you know, follow along, believe that
+
+Unknown Speaker  09:51
+Sure. What kind of qualifications would you look for in this person to just voucher just give his life for this algorithm? What Do you want to see him have attained? Like, what kind of degrees should he have? If anything?
+
+Unknown Speaker  10:06
+Well, yeah, that's part of the dealing right now with trying to hire a data analyst is why we've contacted, you know, the university and other people, because I don't have knowledge of, you know, I'm looking at these resumes. And I'm like, I don't know what any of you know, any of this means. So to bring someone in that does have knowledge, Oh, that that, you know, that is a an extremely, you know, knowledgeable or extremely important tool to have if you're going to be doing that kind of thing. So I guess it's going to depend on what the, what you're looking at, if you're looking at someone say who you want, you know, you're going to trust that they know, all of this stuff about crime, you know, analytics and so on. Knowing that they have like a degree in that area is going to be obviously beneficial, because their degree is posted my non degree in In that is they're going to have more knowledge. Yeah. Plain and simple.
+
+Unknown Speaker  11:06
+Yeah. But kind of sounds like they want they should have like a background or a degree in criminology, then.
+
+Unknown Speaker  11:12
+Um, I don't know if I'd say that. But, you know, we have people who have done like, they have, like, some type of math degree, but they did their, you know, internship, at, like, height up. So they have both of, you know, the knowledge of law enforcement, and not necessarily a degree in that, but they've worked in that area, they have those specific things that they've worked with, you know, so something like that. It doesn't I don't wouldn't say it necessarily has to be some kind
+
+Unknown Speaker  11:41
+of like familiarity.
+
+Unknown Speaker  11:42
+Right? I was kind of like seems based? Yes. Yeah, a base knowledge of something that they have to work off of, you know, as opposed to, like I said, like me, who has no knowledge of that
+
+Unknown Speaker  11:54
+information? For sure.
+
+Unknown Speaker  11:57
+So Do you believe that whether data was sourced ethically, legally and fairly, if that impacts the quality of the data?
+
+Unknown Speaker  12:08
+Can you ask me? What was it?
+
+Unknown Speaker  12:09
+Yeah. So Do you believe that weather data was sourced illegally unfairly? If that impacts the quality of the data, kind of on the topic of hacked data? Should data be news affect the quality of Okay? Question?
+
+Unknown Speaker  12:33
+I don't know because of attacked, who says that what the information that they've gotten is legitimate? And, you know, have they if they've hacked it, have they just gotten the information? Or have they somehow altered the information that they've gotten? So I think that plays into it, Obviously, kind of
+
+Unknown Speaker  12:53
+sounds like you're describing a situation of
+
+Unknown Speaker  12:56
+It's all in the eyes of the beholder, Kind of like what they see from the data.
+
+Unknown Speaker  13:04
+Can you elaborate a little bit?
+
+Unknown Speaker  13:06
+I don't know if it's I
+
+Unknown Speaker  13:09
+mean, I don't know. Like, personally, if someone had information data that I then found out had been hacked into, I would question whether or not that data was, was genuine, whether or not you know, it had somehow been altered. Okay. So I think it's going to probably depend on it is yeah, like, you know, depending on who it is, are they going to Okay, well, it was hacked, but maybe it wasn't changed in my life work worth, You know? Sure. Which question?
+
+Unknown Speaker  13:41
+Are there any, like context or situations that you would condone the usage of hack data?
+
+Unknown Speaker  13:49
+I don't think so.
+
+Unknown Speaker  13:50
+So not used at all? I don't.
+
+Unknown Speaker  13:54
+I don't, I don't know what
+
+Unknown Speaker  13:58
+I wouldn't know how to, I guess, make that decision. Like, you know, if it's, Depending on what it's about, I guess would make a difference. I don't really know. I don't know what you know, how you would determine whether or not you're going to throw in all of this information that you could possibly be helpful, or is it helpful because it was hacked? Is it helpful? Because it was changed so that the information is
+
+Unknown Speaker  14:28
+what you want to see? I guess?
+
+Unknown Speaker  14:30
+Sure. So or feels like a plan, like a hypothetical college student. He has like this final exam project. And he ends up packing into a database, kind of get some information, no names, but he has all this information from a database that is user first project. Would you kind of condone that usage? Or say not at all?
+
+Unknown Speaker  14:51
+No, not at all? Not at all. Yeah,
+
+Unknown Speaker  14:53
+sure. Or if it's, on the other hand, it's like law enforcement hacking into a database, no names, still just information? Will they be able to use that information for safety reasons or? No?
+
+Unknown Speaker  15:05
+No. Definitely.
+
+Unknown Speaker  15:08
+So it kind of goes, It kind of sounds like the whole stealing.
+
+Unknown Speaker  15:11
+Yes. Don't take what's not yours. Correct.
+
+Unknown Speaker  15:14
+Okay. Yeah. Yeah, got it. Definitely, definitely.
+
+Unknown Speaker  15:18
+If you were asked to voluntarily give personal information, maybe more specific location information or demographic information to say Milwaukee Police Department Only for the purpose of better training their algorithms and their data, just to make the community more safe and make their algorithms more accurate. Would you voluntarily give this information to them? to law
+
+Unknown Speaker  15:46
+enforcement? Yes.
+
+Unknown Speaker  15:47
+Yes. Only law enforcement will have this information.
+
+Unknown Speaker  15:49
+Yeah. Sure.
+
+Unknown Speaker  15:51
+So any information that you would withhold or?
+
+Unknown Speaker  15:54
+I don't think so? I figured someone has it anywhere. Some, you know, some things out Yes. Yeah. So they've got it. Sure. Yeah. Something like that. I mean, for you know,
+
+Unknown Speaker  16:05
+law enforcement purposes, I
+
+Unknown Speaker  16:06
+wouldn't. Definitely. Then instead of just like your actual information, What if they came to you and said, We want to track your location services. So like anything on your phone that they'll just track? Like, where you are only still only for the purpose? Okay. But I'm Community Safety and better training their algorithms. What would your response be for the location services?
+
+Unknown Speaker  16:27
+Yeah. Why not? Sure.
+
+Unknown Speaker  16:29
+Yeah. Sure. not going anywhere that
+
+Unknown Speaker  16:32
+they don't need, you know, I mean, yeah. Well, once again, someone someone knows where I am.
+
+Unknown Speaker  16:37
+So It's, again, it's out there. So yeah. Yeah, for sure. Definitely. Definitely.
+
+Unknown Speaker  16:44
+Then, finally, how would you feel if traffic tickets or data from traffic tickets was used and collected by law enforcement to systematically place police officers along the highway?
+
+Unknown Speaker  17:06
+So like, just looking at number of incidents, and then basing kind of the patrol
+
+Unknown Speaker  17:13
+on the location? Yeah,
+
+Unknown Speaker  17:14
+I wouldn't have an issue with that.
+
+Unknown Speaker  17:17
+Instead of just traffic tickets, any ticket kind of?
+
+Unknown Speaker  17:21
+I'm not really sure on examples, but like, if data from traffic to or data from tickets was tracked, or used by a police to systematically place the police law around the
+
+Unknown Speaker  17:33
+city or area, Right?
+
+Unknown Speaker  17:36
+Would you still be okay with that or not against it? Or
+
+Unknown Speaker  17:39
+I wouldn't be against that? No? Sure,
+
+Unknown Speaker  17:42
+Definitely. My knowledge,
+
+Unknown Speaker  17:45
+because I figure if you're looking at the citations, say you're looking at, I don't know, disorderly conduct, or some type of, you know, citation, and you notice that there's, you know, a hotspot, This is a location that's problematic, you know, we have a lot of disorder delays, we have a lot of, you know, whether it's, you know, vagrants or, you know, homeless, whatever it is, if you can take that information, and then, you know, disperse officers to hopefully combat that issue, you know, then I don't have an issue with that,
+
+Unknown Speaker  18:19
+Sure. There's a matter of like, following a pattern, or is it just a matter of
+
+Unknown Speaker  18:23
+it what it says, I would say, depending on like, as far as, you know, if it's, from this time to this time, you know, our, you know, from, because oftentimes what we do is we take a look at our calls for service, How many calls for service Do we have from this hour to and we do, you know, the entire day, And sometimes in the past that has determined how many officers we would, you know, have out first, as opposed to second shift. And So same thing goes for, you know, if you could take a look at, from, you know, say 12pm until 3am, we have a high population of, you know, disorderly conduct at this location, I wouldn't see why, you know, it makes sense to send officers to that location to hopefully, you know, make sure that the incidents aren't happening, usually, you know, the visibility of police will lower, You know, but then you look at it, and it's just basically just placing it someplace else. So it may, then you just move somewhere else, which is kind of how I think that's kind of how can take a look at, like animal crime analytics, as well as if you're focusing, you know, say your patrols on a certain location, because this has been happening. Will people find out that there's police there? And so they, you know, go somewhere else, they just host Yes, it's play some Yeah. It's just moved to someplace else. So, you know, some say that's good. Some say it's, you know, depending on I mean, who
+
+Unknown Speaker  19:58
+you ask really,
+
+Unknown Speaker  19:58
+really? Yeah. So if you're on markets campus, and we just place it someplace else. Now, that's great from our cat, But Milwaukee is still dealing with it somewhere else You know, so it's going to depend on kind of I guess your personal you know, how how it benefits you or your organization I guess because we do have people who actually like other organizations, other law enforcement agencies that bring people to Milwaukee into them often Here you go Here's the homeless shelter Now Milwaukee Now This is your problem though. Okay. So because it gets them out of their area And but unfortunately in it just causes the you know, problem for
+
+Unknown Speaker  20:40
+someone else Exactly. But hopefully in the whole search for you guys as crime analyst or person for the job that hopefully it all goes well and helps the problem right, but on the basis the interview yet, that's all the questions I have to ask again, still, Thank you.
+
+Unknown Speaker  20:55
+Yeah, no problem.
+
+Unknown Speaker  20:57
+No problem. Thank you.
+
+
+Transcribed by https://otter.ai

@@ -1,0 +1,215 @@
+Unknown Speaker  00:00
+Okay, so I'm here with participant number 26 was actually kind of before starting the real questions. I had a quick question for you, do you have any kind of like background? Or would you say, you know, any kind of like crime analysis algorithms or algorithms in general? Like no kind of technical background now, okay. You just kind of like interested in the field or
+
+Unknown Speaker  00:23
+friends or, you know, Major, any other things interesting. I just, I made a public relations major, so I never really overlapped.
+
+Unknown Speaker  00:31
+Okay, thank you. Again, like, thank you for your time. Thanks for coming into. And so the first question is, how have you ever felt at crime analyses has ever directly impacted you? If at all?
+
+Unknown Speaker  00:45
+I really don't think it's impacted me at all. No.
+
+Unknown Speaker  00:49
+Not, would you say like indirectly, and all that.
+
+Unknown Speaker  00:53
+I mean, it really indirectly with like, for, like Milwaukee that it's an urban city and stuff like that. It definitely helped to implement more like police officers on our cat to keep the community safe, because I hear it used to be way worse before it was here. before.
+
+Unknown Speaker  01:12
+So how important is it to you to understand how a crime analysis algorithm or software actually works,
+
+Unknown Speaker  01:19
+I think has been a very crucial, especially law enforcement, to me, it really doesn't have like a direct impact. However, it's really important to it makes me feel more comfortable to know that they have these type of software's in place to kind of prevent things like this. And it was more comfort than anything,
+
+Unknown Speaker  01:36
+just like a backbone just yeah, knowing that they have them.
+
+Unknown Speaker  01:41
+Or that they use them
+
+Unknown Speaker  01:43
+both, both that they have this type of technology. Okay.
+
+Unknown Speaker  01:47
+So far, do you think that there's any, like special or important information to know about any of these?
+
+Unknown Speaker  01:55
+I'm not going anywhere? No?
+
+Unknown Speaker  01:57
+Okay, that's fine. That's fine. So then assume that like a specific process for crime analysis was implemented in your area, either, like where you live? Or where you work, such that it does directly impact you? How important again, would it be to have some kind of understanding of how it works?
+
+Unknown Speaker  02:15
+I think a very basic understand will be fine. I don't think you would really need to know like, the intricacies on like, different. Like, what what like, one specific thing means, I think to be beneficial know, especially if you live in that area, and you're impacted by it.
+
+Unknown Speaker  02:31
+Just to have like, some kind of understanding. Yeah, like how, say it would get from point A to point B?
+
+Unknown Speaker  02:37
+Yeah, to know why it's considered reliable, or why it's considered like beneficial, definitely. For
+
+Unknown Speaker  02:43
+dessert there any kind of like specific important information? Like if it does impact you directly? Is there any specific or important information you would want to know about it?
+
+Unknown Speaker  02:53
+Maybe how its predictive? I know, you don't map out things, but that doesn't always mean it's predictive. So probably figuring out how does the result predictive? Would you say?
+
+Unknown Speaker  03:06
+Like the formulas uses or like, what kind of algorithm it really is, like?
+
+Unknown Speaker  03:12
+Yeah, maybe like a very like, not like a technical, you know, explanation? Because not everyone will understand that I probably won't. Yeah, but maybe just like, yeah, like, some type of explanation on
+
+Unknown Speaker  03:21
+the phone. Like, as long as it kind of sounds like, at least for me, you would kind of want to know, like, what it is, even though like you don't know, specifically like a basic understanding. Okay. Okay. You just want to know, have like that information of what it is like available?
+
+Unknown Speaker  03:37
+Yeah. Okay. Sure. Because otherwise, you don't really know like, why it's reliable.
+
+Unknown Speaker  03:43
+Exactly. You kind of want that background on it.
+
+Unknown Speaker  03:45
+Yeah.
+
+Unknown Speaker  03:47
+Okay. So then assume someone with more expertise in the area, who created this algorithm, vouch for the efficacy, the efficiency and like the fairness of a given process of crime analysis? Would you still think it'd be important to have some kind of understanding of this process or algorithm,
+
+Unknown Speaker  04:10
+probably less of a basic understanding, but selling something, also, I think it'd be important to like, understand that person's credentials. And like, say they're certified anything, like the years of experience,
+
+Unknown Speaker  04:22
+how many years of experience you think would be good for him devotional Islam.
+
+Unknown Speaker  04:28
+Maybe like, like a certain percentage of like someone's life, like if they've been in the workforce for maybe like, at least a couple years,
+
+Unknown Speaker  04:37
+to kind of want to make sure who's qualified,
+
+Unknown Speaker  04:41
+because anyone can kind of like say they're an expert in something, but unless you actually look at their credentials.
+
+Unknown Speaker  04:49
+And if you still look out for like, the advocacy and the fairness of it, saying all of it was good. So any kind of specific information you would want to still know about this?
+
+Unknown Speaker  04:59
+I think it would be important to measure what is considered good or not, because crime does still happen, you know, no matter how much like technology you have, to me be understanding why it's being backed up, like so much and knowing like, what's concerned good, versus what wouldn't be good.
+
+Unknown Speaker  05:18
+What would you consider good for the algorithm by chance?
+
+Unknown Speaker  05:22
+Probably to have maybe, like 75%, like predictive rate, or something like that maybe like allows room for margin of error? Sure.
+
+Unknown Speaker  05:34
+And do you believe that whether data was sourced ethically legally, or failure fairly, if that actually impacts the quality of the data itself?
+
+Unknown Speaker  05:43
+Could you give an example like a way they could get it on ethically,
+
+Unknown Speaker  05:47
+say, like a Packers or professionals like hacked the data? That would kind of be a little bit unethical, and I guess bad in the whole, like data industry.
+
+Unknown Speaker  06:01
+Please don't daggers again affiliated with the police fine, or
+
+Unknown Speaker  06:04
+they'll be unaffiliated. Yes.
+
+Unknown Speaker  06:06
+Gotcha. So can you repeat their initial question?
+
+Unknown Speaker  06:09
+Yeah. So do you believe that whether the data was sourced, ethically or legally or fairly, if that actually impacts the quality of the data?
+
+Unknown Speaker  06:18
+I think it's possible my just because if it's unethical, you don't know how reliable it is. But it would really depend.
+
+Unknown Speaker  06:28
+What do you think it would depend on?
+
+Unknown Speaker  06:30
+Probably like, the methods specific method they require it. Sometimes things that are unethical are beneficial to really kind of depends, cuz there's a lot of gray area.
+
+Unknown Speaker  06:44
+gray areas in terms in terms of like, how to obtain the data,
+
+Unknown Speaker  06:48
+or Yeah, cuz like, for example, like with the whole like Apple thing, where there's like a serial killer, and they couldn't like review his text messages, like that's a lot of gray area, because it does help uncover go but it also kind of sets and back to that like gray area kinda like that.
+
+Unknown Speaker  07:03
+You're talking about like the borderline, like privacy issues with the people versus trying to get that data. When you kind of cross the line of privacy. You're kind of infringing on someone. That's when
+
+Unknown Speaker  07:13
+Yeah, but it's still like technically used for good. Great,
+
+Unknown Speaker  07:17
+definitely. Would you say privacy is like a big thing for you, when protecting your data. And all this
+
+Unknown Speaker  07:23
+personally, I'm not very, I'm not as private as like other people are, I don't really mind that much as long as like crucial information like credit card information and Social Security cards. Found carrot, Facebook's doing it all I people, I think I think it's kind of not that big of a deal. Sure. Yeah. And much less private than other people.
+
+Unknown Speaker  07:43
+So then, I'm kind of following up into the next question that you were asked to kind of, if you were asked to voluntarily give information to say Milwaukee Police Department such as like your location and demographics, a little bit more specific data that say they wouldn't have in their system already. But this data and information would be used exclusively for the sole purpose of like better training, like their crime algorithms, predictive policing algorithms. Would you actually voluntarily go in and give this information to them?
+
+Unknown Speaker  08:16
+bodies with location and things like that, like, well, how would they use that to predict crime?
+
+Unknown Speaker  08:21
+Maybe? Like,
+
+Unknown Speaker  08:24
+based on like, demographics and location like, location A would have more crime based on this demographic and location, location be would have more crime with this demographic? Kind of something like that. That makes sense.
+
+Unknown Speaker  08:39
+I would I would be like open to it. I probably wouldn't go out of my way to do it. You know, but like, I wouldn't be opposed. Sure.
+
+Unknown Speaker  08:46
+What if it was involuntary, or like as in it was required that they were they were kind of going door to door and saying we need this information from you.
+
+Unknown Speaker  08:56
+Please give it to us.
+
+Unknown Speaker  08:57
+It was mandatory. I probably would have just probably annoyed
+
+Unknown Speaker  09:00
+Yeah. Yeah. That's fair.
+
+Unknown Speaker  09:02
+Hey, whatever.
+
+Unknown Speaker  09:04
+You got a few
+
+Unknown Speaker  09:06
+little intrusive words or just use it you said you feel annoyed with
+
+Unknown Speaker  09:12
+a little intrusive just because like making a mandatory would be kind of like a noxious to me for everyone. But I got the end of the day. I don't really, I feel pretty lucky where I'm like a minority that doesn't really get like, racially profiled. So I wouldn't feel in danger.
+
+Unknown Speaker  09:28
+Sure. But you so you would still get the information you just feel kind of weird about it feels mandatory. Yeah. Okay. Okay. Then, how would you feel a data from traffic tickets was used to kind of systematically place police on the highway?
+
+Unknown Speaker  09:47
+Um, I think they'll be fine. I think it's just they have to be there to get that data to you know, that's a be probably kind of tricky. Because it's a free going area, of course, going to get more like tickets versus like, any reference speeds by like, no cops are there. So it's an interesting idea, but it could be flawed before. Yeah. Like, like, for example, they're just like one highway, kind of by like one of the outlet malls. And like, everyone's feeds there, but there are no cops, but then cops could like hang out in the residential area. And just because they happen to hang out there more, they get more people and then more people go there, and then just kind of
+
+Unknown Speaker  10:29
+like teeters
+
+Unknown Speaker  10:31
+don't go see, like,
+
+Unknown Speaker  10:34
+new be kind of weird having to allocate the police differently. Whereas it could be more effective. If they're not always going to want spots.
+
+Unknown Speaker  10:43
+It's a more spread out, I guess. Because if you're not an area to really patrol it, how you know, you need to patrol that area, and they use that system. Okay.
+
+Unknown Speaker  10:55
+Okay, definitely. Well, that's pretty much all the questions I have asked and again, like thank you for coming in. Thanks for doing it.
+
+
+Transcribed by https://otter.ai

@@ -1,0 +1,269 @@
+Unknown Speaker  00:00
+For today before coming into this session, Have you ever seen any kind of maps or
+
+Unknown Speaker  00:03
+system like that before?
+
+Unknown Speaker  00:05
+Similar to it? Yes, similar level wasn't attack raids through very analytics, which was purchased by a grant or Lexis Nexis Corporation. I've seen some other crime and analysis software from our department, but I don't know exactly what the
+
+Unknown Speaker  00:24
+program name was or the software. Sure,
+
+Unknown Speaker  00:27
+sure. You've seen it, but have you actually used it or interacted with it?
+
+Unknown Speaker  00:31
+Yes, I've used it was much easier to use much more user friendly. And just the interface itself, it allowed me to pick using either polygons or district maps. And which I can filter out through us date and time or those locations, By crime type call type, which, more often than not, the call a percent doesn't always turn into the actual end crime type. There might be other things involved. I've used those frequently. And they're just easier for me to use and
+
+Unknown Speaker  01:08
+digest the information that's been shown to me. Sure.
+
+Unknown Speaker  01:11
+Also sounds like it was more specific than to more specific based on like the date or time Director. And this is more like a general kind of over a year span or a month span, too. But Yeah, definitely. So you would say you still have you have some kind of background, but not like technical background.
+
+Unknown Speaker  01:32
+I don't have the technical background, I have more of a user background in that. I wouldn't say that I know everything that goes on behind the scenes. I just know how to interpret it least myself, I see that I've got all these either dots on the map or the heat map. Or if I look at specific times of day when this type of crime is more is occurring more often than others? That is some of the things that we do look at. Sure,
+
+Unknown Speaker  02:02
+Definitely, Definitely. And that's kind of like what we're looking at to just how people interact with it. What you can see from it, definitely cool. So moving to the interview is the first question is, have you ever felt that crime analyses have directly impacted you? If at all?
+
+Unknown Speaker  02:18
+Yes, it influences my decision making process as to where I'm going to spend more of my time researching crimes in this area versus another. Whether It's homicides or shootings, and why are they concentrated long, let's say Center Street, for example. Why are we seeing such a high increase in crime as a gangs? Is it? Because it's a border for two districts? Is it because we're not allocating enough resources to that area and it's allowing crime to thrive? Is it the socio economic background of the citizens that reside there? What is the real root cause? for
+
+Unknown Speaker  02:54
+what's driving our crown? Sure,
+
+Unknown Speaker  02:56
+That was normally like a pattern like a reoccurring kind of thing? Or is it different new
+
+Unknown Speaker  03:04
+reasons of like, why that crime is showing up are always popping up there. It
+
+Unknown Speaker  03:13
+really depends. For what we're seeing. It could be.
+
+Unknown Speaker  03:18
+For example, we've had one person in particular for burglaries, two occasions, two separate ears, He would specifically target detached garages, specifically look at the siding, going through the siding, which is normally concealed, but either by tree or other type of inanimate object and then burglarized garage, open up the overhead door and then load up this car and take off. Not many people would see what was going on at all. And we would plot all those locations out trying to determine the time of day, that is when this is occurring, and what districts are impacted and provide that information, like a one pager to district commander so they can make the right choice or make a better informed decision as to where to deploy their resources.
+
+Unknown Speaker  04:05
+Sure, Definitely.
+
+Unknown Speaker  04:07
+And in that kind of a scenario, it
+
+Unknown Speaker  04:08
+seems like getting more specific like the time the date sounds a bit more useful done
+
+Unknown Speaker  04:14
+with property crimes, definitely burglaries,
+
+Unknown Speaker  04:18
+Things like that, I have to take a look at the way the map is as well. I know, for example, final like everyone north side is a main thoroughfare. If there's robberies that are occurring, for example, in downtown, and we hear the broadcast, that's one thing that I'm really looking at is what's the quickest way to get out of downtown. A lot of our robbery offenders do tend to residing on the north side or south side. And I look at the most direct route that would leave the downtown area. Sure that along with pawn shops, where they located or retail stores or strip malls, where are they located? Why am I seeing more dots here? Is it because of its prior to police work for traffic stops field interviews? Or is it calls for service for retail theft? Sure. Let me
+
+Unknown Speaker  04:59
+also kind of bring up this whole. To me at least it sounds like a notion of what the intuition are certain areas within the city that you know crime is happening. Have you used any of that one actually plotting the circles or making any of your decisions? Looking at that map? Just No,
+
+Unknown Speaker  05:13
+No, not for this. Okay. I've used it in my own experience at work before in the one example that I had just a moment ago with the robberies that was one thing that came up. The founders admitted Yes, we went downtown specifically committed to robberies, then there was a rental car. So they went to go fuel up. So we were able to get a plate number from one of the witnesses, checking it was a rental, I figured they might go to a gas station or two in the area of right off of finalize my district. So I went to both. First one, I didn't see anything, thought it would be time to go home because it was in my shift. And then and there it is at the second gas stations and was going in and all three in custody and property recovered. And as little news piece on CBS. So
+
+Unknown Speaker  05:58
+Sounds like kind of good timing. It was nice. Yeah. Nice. Around, Definitely.
+
+Unknown Speaker  06:05
+So How important is it to you to understand how crime analysis algorithms or software actually works? What kind of information you think is important to know about it?
+
+Unknown Speaker  06:15
+Do You mean behind the scenes like the actual formula.
+
+Unknown Speaker  06:20
+If I had to speak to the data itself and provide testimony, whether it was in a trial or court room or in a If I had a site, the information itself, how I got from point A to point B and some sort of Intelligence document or analytical product, It would be very important for me to understand the methodology behind it, and why this method over another would have been most appropriate and most impactful for my analytical judgment. If It's simply just looking at the data and where I'm deploying my resources, not nearly as critical at all. Sure.
+
+Unknown Speaker  07:01
+You bring up the whole idea if like, Are you saying
+
+Unknown Speaker  07:06
+if you are going to have to describe
+
+Unknown Speaker  07:07
+like how to get from point A to point B in court? Is that not already done? Like it's not already explained? Like how the computer made the decision?
+
+Unknown Speaker  07:16
+Not necessarily when it comes to deploying your resources, it's not that big of a deal, because typically when
+
+Unknown Speaker  07:24
+our
+
+Unknown Speaker  07:26
+squads are officers are being deployed in high crime areas, they're going there because there is, For example, a heat map that that particular district commander might have looked at and made that informed decision, okay, tonight, I want you to the supervisor to send out your five or six squads to go to this area for a couple hours. See If you drive down crime either through interdiction or traffic, Stansfield interviews, respond to violent crimes, It just occurred, see if you can locate the suspect in the fleeing the scene. And then once you're done with that area for like, you know, two or three hours, we want to try and disrupt the criminal activity that might be in another hotspot and chip resources there. Okay, that's kind of where it's not that important, because their observations when they make those stops there, everything else is all predicated on reasonable suspicion or probable cause. And often that background idea the only shows up in the police report is a intro paragraph. And if they do need to testify to that portion, they can always refer back to any product that was produced that particular commander, sure,
+
+Unknown Speaker  08:38
+But even the whole track subs, it all kind of sounds like interpretation, just observations of the situation.
+
+Unknown Speaker  08:45
+Sometimes you'll see something as simple as somebody littering, throwing a cigarette butt out the window, Stop the car, You have that discretion to decide whether or not to issue a citation, Nine times out of 10, You're not going to read a citation. But if that encounter then turns into other observations. For example, if there's a spin casing on the floorboard, or marijuana shape that's on the floorboard, that gives you more reason to get into the car, have person step out, pat them down for your safety and then see if there's any obvious bulges that might be weapons are a threat to yourself for your safety. You might uncover other fruits of a crime as your investigation continues during that temporary detention. Definitely,
+
+Unknown Speaker  09:25
+Definitely.
+
+Unknown Speaker  09:27
+So assume that a specific process for crime analysis was implemented in your area, like where you live, or where you work such that it's us directly impacts you? How important would it be, if at all to have some level of understanding of how that process works?
+
+Unknown Speaker  09:51
+I don't think I would have to have a huge understanding behind it at all. And simply being able to receive and digest the information in a easy format would be my highest requirement. If it was an area that I was presenting on Yeah, sure.
+
+Unknown Speaker  10:10
+You can kind of just want to know, like the top level of it just kind of seeing the information. that correct? Yeah.
+
+Unknown Speaker  10:19
+Like what kind of things do I have to concern myself in this neighborhood? Okay. I want to see the macro view.
+
+Unknown Speaker  10:25
+Definitely. What kind of information you think is important to know about the crime analysis,
+
+Unknown Speaker  10:31
+process, or algorithm. And
+
+Unknown Speaker  10:44
+I would like to know the pros and cons between different algorithms, which one was selected for this interpretation of this particular product? Why was this one over the others? I guess, understanding why it made the density either more noticeable or less than the school. Was it factoring in other crimes in that area to besides just larceny and theft, because that's a wide number of fences that could be interpreted, which could influence the way I would deploy my resources. That's all.
+
+Unknown Speaker  11:25
+Therefore,
+
+Unknown Speaker  11:28
+it also kind of sounds like it's a big thing. You want to know how it gets from point A to point B? It is? Yeah,
+
+Unknown Speaker  11:34
+definitely.
+
+Unknown Speaker  11:36
+So speaking more on with the data itself, Do you believe that whether data was sourced legally and fairly, If that impacts the quality of the data itself?
+
+Unknown Speaker  11:49
+For the crank analysis portion?
+
+Unknown Speaker  11:52
+Yes, saying?
+
+Unknown Speaker  11:56
+Well, I would hope it is legally obtained, it's not something that was stolen or received. I miss an animal by illegal means I that's something that I think would be important to have quality tested data that is unbiased, that doesn't have that influence, or was illegally obtained.
+
+Unknown Speaker  12:17
+Would you say that for only crime data? What about data in general, just
+
+Unknown Speaker  12:23
+any kind of statistics.
+
+Unknown Speaker  12:27
+Generally, I would say data. However,
+
+Unknown Speaker  12:33
+if a citizen were to come across a piece of information that was illegally obtained, however, that information that they receive, for example, let's say they stole their significant others phone and they were walking through it, and they find information to indicate that he conducted several robberies or he was a child molester. That might be an invasion of privacy of the offender, that citizen bringing it to our attention. I think anybody can look past what that citizen had done. If it was illegally obtained by law enforcement. I don't think it should be included in the data. So definitely, that makes sense. Yes. Because it was
+
+Unknown Speaker  13:12
+like a partner giving up this information that would be okay. Otherwise law enforcement, illegal obtaining and like going to the phone themselves, they should not be used? I don't think it should be
+
+Unknown Speaker  13:21
+no, there should be a search warrant that was applied for or consent to receive that information to include it in the analysis.
+
+Unknown Speaker  13:29
+Definitely.
+
+Unknown Speaker  13:31
+Kind of speaking on obtaining data voluntarily, voluntarily. Kelly's in the next question. Assume that a law enforcement actually came to you, asking you to voluntarily give up more specific information, maybe like in a location, more specific demographic information solely for the purpose of better training their algorithms and their systems, to better kind of process the crime or predict where the crime will happen? What would your response be for this,
+
+Unknown Speaker  14:04
+And based on my life experiences, I'd say no, to no life experience, work experience, I wouldn't do it. However, on the flip side, I realized the value in having something like that, and would hope people will cooperate, cooperate with it, and kind of like, I would like to have my cake and eat it too. But this is not one of those situations that I would find myself wanting to participate in. While we say now, I realize just how much data is available out there, even if it is anonymized, that it can actually lead back to the identity of the person that is
+
+Unknown Speaker  14:42
+might be looking for everything from
+
+Unknown Speaker  14:45
+certain electronic signatures or IDs that are available, could track person or identify that person to a pattern of living?
+
+Unknown Speaker  14:56
+Just by examining those
+
+Unknown Speaker  15:00
+points. So That's why I'm not a fan of giving up my own privacy. However, I see the value in it when it comes to those that do voluntarily provide it.
+
+Unknown Speaker  15:10
+Definitely. And that actually will lead into my next question about kind of tracking to Sure We play this hypothetical that Imagine the law enforcement will come to you and say that we need your location services on kind of follow you and just make sure everything's okay. And if there is a crime that committed in that area, we can kind of tell who it is and keep the community safe by making sure they don't repeat that crime. The question would be then motor response be for the law enforcement coming to you and saying will need your location services on?
+
+Unknown Speaker  15:42
+No, I wouldn't. I wouldn't consent to something like that. However, I would utilize it if it meant the recovery of my device would happen. But I know that the likelihood of my device still being on file in a crime is extremely low. And that the best bet to try and recover my device would be informing the investigator, take a look at my phone records, pull those, Find out the numbers that were called shortly after my device was taken and go from there.
+
+Unknown Speaker  16:14
+Again, still sounds like the whole idea of you not wanting to be tracked as well. Keep your privacy, Right. Definitely.
+
+Unknown Speaker  16:21
+Definitely. So then,
+
+Unknown Speaker  16:25
+how would you feel if hack data was used by professionals? What kind of context would you can only use it to patch data?
+
+Unknown Speaker  16:39
+And would you say
+
+Unknown Speaker  16:42
+you're talking about PII personally identifiable information obtained from Yoga means and then using it for? I don't know, just for anything?
+
+Unknown Speaker  16:54
+What kind of context would you turn on the usage of that
+
+Unknown Speaker  16:57
+for anything?
+
+Unknown Speaker  17:08
+If the data was
+
+Unknown Speaker  17:11
+non US citizen, related PII, and it was regarding national security, or cyber security awareness, I could see those two being valuable to protecting our nation and protecting the citizens of it. But I can't think of another means in which it can be used. And also some sort of like mass casualty incident that would occur, that this person had come across it's real gun means that a walk just so you know, this is what's going on, or if it's, it might impact and kill a bunch of people. That's something that I could see being useful.
+
+Unknown Speaker  17:49
+But I would also have to make sure that my investigation would also
+
+Unknown Speaker  17:54
+reveal the same thing through a parallel case, for example of how this is how they got it, what would I have found it through another means or source? Without that data, If I wanted to bring criminal or you know, write up criminal charges against the source or something? Sure, They Yeah, that's what comes to mind. Sounds like the whole
+
+Unknown Speaker  18:14
+ethical idea that if it's not yours, you should not take it you should not use it. Correct? Right. Definitely. Definitely. And then, finally, how would you feel if data from traffic tickets was used and collected by the police law enforcement In order to systematically place police along the highways?
+
+Unknown Speaker  18:38
+I don't see any, I don't see any reason against it. It's a fence that occurred on a public roadway. And as you know, expectation of privacy. It certainly should be used for interdiction or deployment of resources along the freeway were even analyzed for accident data. So I can definitely see a purpose for a legal justifiable reason for having that data. Sure. Sure,
+
+Unknown Speaker  19:00
+And it kind of seems like, correct me if I'm wrong, your whole idea of the following a pattern or seeing a pattern within the data,
+
+Unknown Speaker  19:07
+Knowing something's reoccurring, so might as well kind of
+
+Unknown Speaker  19:09
+save that? Or Is that
+
+Unknown Speaker  19:10
+correct? kind of save that area, or
+
+Unknown Speaker  19:15
+saving that area is a correct word to use, but
+
+Unknown Speaker  19:20
+watch over that area, or send more police officers to that area.
+
+Unknown Speaker  19:26
+So having the data that shows that this area is has a lot of calls for service, for example, the robbery portion, and then deploy the resources there is trying to negate it. Yes, yes. If the crime down, yes, I can see that being beneficial. But without having well trained investigators drilling down to find out why this person was shot, it was a drug deal, even though some people will not cooperate and say, I don't know, I just was randomly walking, then I got shot. Wow. That's another example of a walkie sniper, you know, taking another shot at somebody. And you get those excuses quite frequently and a lot of cases and until we can find out a different way to interview the person or those around him to figure out what the real sources, I think you're still going to continue to see the same areas pop up is having those serious crimes, whether it's non fatal shootings or sites occurring,
+
+Unknown Speaker  20:21
+Almost is actually figured out why,
+
+Unknown Speaker  20:23
+Like, right,
+
+Unknown Speaker  20:24
+It's predicated on why was it because if it was a drug were to start with a drug rep that occurred a couple months ago, and now they're selling their beef now? Is it because somebody was disrespected and an argument based? How do we we can't really police that what we can do is to try and focus on the drug aspect of or if they're prohibited from owning a firearm, maybe we can focus in on that and tighten some of those loopholes that exist, at least in the state of Wisconsin. Take a look at it and ask some other questions to why are we seeing shooting victim show up? And no evidence of the scene here? Have we reached out even down to Chicago to find out was there a shooting you don't have a victim? Well, that victim might be up here. That's happened on at least one occasion what I can think of. definitely getting down to the source, I'm sorry, I tend to over speak on some of these things. Just Yeah, just getting down to the root cause if we can figure out what that is, I think that would really help. turn those hotspots into just another dead area. biker crime
+
+Unknown Speaker  21:29
+and figuring out the ys require definitely does all really the questions I have to ask and again, thank you for coming. Thanks for answering Sure. I meant
+
+
+Transcribed by https://otter.ai

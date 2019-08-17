@@ -1,0 +1,203 @@
+Unknown Speaker  00:00
+Alright, so I'm here interviewing participant number 22. From before actually starting the interview, I saw you when you're doing the activity, you're actually kind of plotting the area circles than using like a mathematical or like a geometrical kind of approach to that. Can you explain a little bit like why you did that, when you felt wanted to do that?
+
+Unknown Speaker  00:21
+So I felt it was easier if I could kind of, like, do the math, rather than try to make something up in my head. So by like, kind of making a grid, I could kind of count, you know, because the county is like, really oddly shaped, you know, it's kind of hard to just strictly visualize how many, you know, people, you need to cover the tires to be able to put it on like a grid and told me kind of come up with a
+
+Unknown Speaker  00:52
+number. Definitely. So definitely. Thank you for that. Then moving on to the interview. First question is How have you ever felt that crime analyses has ever directly impacted you? If at all?
+
+Unknown Speaker  01:06
+I think it's definitely somewhat impacted my decision on where I was going to move. I just recently bought a house on the south side, just a few months ago. And that definitely came to mind when I was saying about moving that because I have friends and family that live in that area. And I know there's people have been talking about, you know, packages, getting stolen cars broken into. So it definitely,
+
+Unknown Speaker  01:38
+definitely was an important decision for me.
+
+Unknown Speaker  01:42
+Did you use any kind of like online resources to figure out how the area was or
+
+Unknown Speaker  01:49
+a little bit of I actually stumbled upon? It's funny, I came to do this. This experimental research done via Reddit was how I found it short. And I also found, I don't know if you use Reddit, yeah. Okay. Yeah, there's a subreddit for like, they call it map porn, right. And there was one on there of like, like some crime statistics for the county, Milwaukee. And this was actually, after I moved, I saw, you know, like, you know, certain crime trends, like, either nearby or where I live. Otherwise, when I was thinking about moving, it was more word of mouth, because already have family and friends that live there. Yeah. And they've been there for years. So they already know. everything that's going on the stuff that you don't really like public it. Yeah. Okay. So more word of mouth than anything?
+
+Unknown Speaker  02:48
+Sure. It's kind of funny. You brought up the whole Milwaukee kind of heat map, I remember seeing that on like, data is beautiful. And all those. Yeah, I remember seeing that around to Sure. How many is it to you to understand how crime analysis algorithms and software work? Like what information you think is most important to know about, say the activity you just did that underlying algorithm?
+
+Unknown Speaker  03:13
+It said, the most important thing is
+
+Unknown Speaker  03:17
+where the information is coming from. I'm only assuming that it's what's being reported by, you know, calls that come in and actual reports that police file and stuff like that. But I'd say where it's, you know, where that information is coming from is just somebody going around interviewing door to door? I mean, this is actually the information being collected by the Milwaukee Police Department. And then I'd say next after that would be, you know, how is that information actually compounded? and information that can be interpreted by Me or you? Obviously, I don't know a damn thing about that. But, you know, I guess it would be important to understand how those numbers are actually or how the information is actually processed? Sure.
+
+Unknown Speaker  04:08
+So then, assume someone with more expertise than you kind of vouch for the advocacy and the fairness of this algorithm or software? How important do you think it would be to still have some kind of understanding of it, if at all,
+
+Unknown Speaker  04:23
+is definitely important, even if, I mean, you go to the doctor, right? Your doctor is an expert. And, you know, they go through eight schools, eight years of school plus residency, so obviously, they know million times more than you do. But it's still important to at the very least question, you know, what you're being told, and what you're being sold? Because I mean, no matter how much more years of school, I mean, you can't trust everything. It's always better to dig a little bit deeper than to just just endlessly and unquestionably, so
+
+Unknown Speaker  05:03
+in that situation, do you think?
+
+Unknown Speaker  05:06
+Is there any kind of specific important information to know about just one guy, whether he did get, like all the necessary certifications, or he is qualified to say this or just someone you met on the internet? Is there still any kind of important information you want to know about the situation there?
+
+Unknown Speaker  05:28
+Um, I think like I said, it's, you know, understanding where that information is coming from and when somebody is telling you something, okay, why is that the case? You know, it's always asking, you know, who, what, where, when, why about the situation? Not? Okay, report it and take it, you know, for what it's worth. I mean, you know, why did that happen? Where did it happen? How did it happen?
+
+Unknown Speaker  05:58
+I don't know if that answers your question, or
+
+Unknown Speaker  05:59
+does anything else. And for all of us, like, you can just say anything that comes to mind will appreciate like anything that if you just want to ramble on or if you go off on a tangent about something like this, then perfectly Okay,
+
+Unknown Speaker  06:13
+perfect.
+
+Unknown Speaker  06:14
+Then, do you believe that whether data was sourced ethically, legally or fairly, if that actually impacts the quality of the data itself?
+
+Unknown Speaker  06:25
+data is data, no matter? You know,
+
+Unknown Speaker  06:29
+how you collected? Like I said, the important part is, you know, the source. But whether you, you know, wiretap somebody's phone, or whether you actually ask them, Hey, can I listened to your phone conversations? I mean, those conversations are still the same, no matter how you came by them. However, on the contrary, I do think that it will have somewhat of an impact, let's say, if I didn't know that somebody was tapping my phone, that it's not even anywhere near the back of my mind. You know, someone's listening to you. I'll just ramble on and say, you know, the most messed up things, right, yeah. But then if somebody came to my door, I was like, Hey, we're gonna listen to your phone conversations. Is that cool? And let's say I said, Yes. The next time I pick up the phone that's going to go, Oh, hey, there's somebody listening. And maybe I might talk a little bit differently. But
+
+Unknown Speaker  07:30
+yeah, I think that's, that's all I gotta say about that.
+
+Unknown Speaker  07:32
+Sure. Sure. So kind of in the same kind of context, imagine that a group of professionals actually managed to hack into like a database or like a server and stole this data, weather? And what kind of context Do you think
+
+Unknown Speaker  07:52
+you would condone the usage of this data?
+
+Unknown Speaker  07:55
+So I'd say I'm a little bit forgiving when it comes to like, was blogging and stuff like that? However, I mean, I wouldn't say it's, it's neither in or not in everybody's best interest to do that. But
+
+Unknown Speaker  08:17
+I mean,
+
+Unknown Speaker  08:21
+can you? Can you ask the question again? Sure. So I can actually I the punch line?
+
+Unknown Speaker  08:24
+Sure. So how
+
+Unknown Speaker  08:26
+would you feel attacked data was used by professionals? What kind of context would you condone the usage of it?
+
+Unknown Speaker  08:33
+So
+
+Unknown Speaker  08:35
+I think I maintain the point that I mean,
+
+Unknown Speaker  08:38
+I don't think it really hurts or helps in any sort of way, coming by information in that manner. But like I said, I'm a little bit lenient when it comes to that, just because I feel like there's so much information that people are so much, I don't want to say like maybe elicit information people are trying to hide. Like, for example, there was the Panama Papers. You know, however long ago that was, obviously, the information was come by in a legal manner. But I mean, it expose this these, I guess you'd call them underground rackets basically, you know, people doing shady things. I mean, technically, some of it is, you know, legal, but, you know, is it moral? Is it ethical? So, exactly.
+
+Unknown Speaker  09:30
+I guess that's, that's it? Sure. Sure. I'm not very good at this. Am I know,
+
+Unknown Speaker  09:36
+you're doing great. Honestly, you, you give me all the information I need. And I want And honestly, you're going into depth explaining everything. So I don't really, for I think have to ask that many follow up questions, you're answering everything really well. Okay, well, so then you've kind of touched on it before that someone did come to your door knocked and said, Hey, we're going to be wiretapping your phone? Are you
+
+Unknown Speaker  10:00
+okay with that? Would you be okay with that
+
+Unknown Speaker  10:02
+kind of thing, as long as you're kind of informed of it?
+
+Unknown Speaker  10:06
+Honestly, I
+
+Unknown Speaker  10:10
+do and don't care. To an extent, yeah, I'm going to explain myself by saying that, I firmly believe in people's privacy, you know, you should have the right to your privacy, you know, to not be watched in your own home, not be listened to in your own home. But at the same time, I feel like this day and age of technology, it's almost impossible to achieve that privacy. I mean, I guarantee that you have no idea whether or not you know, somebody, whether it's a government or it's some hacker in China, or Russia or wherever, is listening to your phone conversations, or reading your text messages. So I believe in people's privacy, as far as I'm concerned, I could give a shit less what you do in your own time. But at the same time, you know, I keep it in the back of my mind, there is a chance, a pretty good chance that somebody is already looking at all of my information that's on the web, or watching me in my home or listening to me in my home. So Frankly, I if somebody came over and said, we're going to listen to a conversation that's even like Have at it. I mean,
+
+Unknown Speaker  11:25
+just I'm sure my informations already been listened to before. So,
+
+Unknown Speaker  11:30
+yeah, so instead of moving away from the context of like people hacking into the data, imagine if you were asked to voluntarily give information such as like your location and demographics to law enforcement, just only for the exclusive purpose of better training the data or crime analyses, algorithms, something just like that activity? What would your response be to the?
+
+Unknown Speaker  11:55
+I would absolutely do it. You know,
+
+Unknown Speaker  11:58
+anything to, I mean, I think it'd be cool to be a part of like helping, you know, achieve this goal of, you know, better crime analysis and risk predictions or crime predictions. I think it'd be pretty cool. Sure,
+
+Unknown Speaker  12:16
+just as long as anything that kind of, like improves
+
+Unknown Speaker  12:18
+the system. Yeah,
+
+Unknown Speaker  12:20
+absolutely. I mean, it wouldn't be hard to do that anyways, because my travel for work. So I mean, if anybody just, you know, called the credit card company, hey, I'm officer so and so I'm taking a look into, you know, this person's financials. And, oh, yeah, he's made purchases, and in this state, and then he's made purchases in this day. I mean, they'd be able to Okay, so he went there, he went there. So won't be hard to track me anyways. And that's
+
+Unknown Speaker  12:50
+fine. And then, finally,
+
+Unknown Speaker  12:53
+how would you feel a data from traffic tickets was used to systematically kind of place police officers on the highway?
+
+Unknown Speaker  13:01
+I mean, I feel like, there already is like,
+
+Unknown Speaker  13:07
+I mean, I don't know if they're using traffic tickets. But I mean, I feel like there's already to an extent, you know, people know, the spots to hang out and, and where people are, you know, where people typically speed and where people typically, you know, whatever. So, I mean, if it helps crack down on, you know, placing officers in better areas, I don't know, if they're, like, if the goal is to, I don't want to say lower, like the amount of, you know, traffic stops that are made and the traffic tickets are given now, or if it's just meant to, if that's meant to increase it, but I guess either way. I mean, they're given out the tickets, they should be able to use the information that they give out in order to better
+
+Unknown Speaker  14:01
+you know, serve the purpose of law enforcement, I guess.
+
+Unknown Speaker  14:05
+But we could put it in like a situation first, like, maybe they're placing the police on the highways, just to lower the amount of tickets,
+
+Unknown Speaker  14:11
+would that be? What do you think of the
+
+Unknown Speaker  14:14
+I mean, I'm all for that, you know, the less
+
+Unknown Speaker  14:18
+tickets that are given out, I think, the better on the contrary, I mean, law enforcement got to make money somehow. So I think in all fairness, no matter what I feel like,
+
+Unknown Speaker  14:32
+it's either going to decrease or increase no matter where you put them. But
+
+Unknown Speaker  14:39
+decrease or increase would
+
+Unknown Speaker  14:41
+likely the amount of tickets that are given off the mat, the amount of stops that are made for because I think I mean, initially, there probably be, you know, some sort of deviation from the norm, if you start switching things up, for obvious reasons, but then after a while, feel like it just kind of levels itself all and will just be the same as before, I think I think the most important thing is coming up with new and improved ways to to achieve, you know, either whether it's law enforcement, monetary goals, or whether it's their, you know, crime goals, or, you know, I think it's about kind of innovating and coming up with different ways rather than just
+
+Unknown Speaker  15:22
+changing spots, are
+
+Unknown Speaker  15:23
+you putting more people here or less people there? It's all about kind of, like finding out where technology I guess is moving and what you can do with it, kind of just to improve
+
+Unknown Speaker  15:33
+the system. So we're kind of saying,
+
+Unknown Speaker  15:38
+so one more time,
+
+Unknown Speaker  15:39
+like I'm
+
+Unknown Speaker  15:41
+all about kind of either using the technology or just thinking of new ways to kind of improve the system, whether it be of like traffic tickets, or like policing in general.
+
+Unknown Speaker  15:53
+Yeah, absolutely. Okay. Anything. improvement progress is always
+
+Unknown Speaker  16:00
+good thing. Okay.
+
+Unknown Speaker  16:02
+Alright, great. Well, that's all I have. Yeah. Thanks for coming in.
+
+Unknown Speaker  16:06
+Yeah, thanks for having me.
+
+
+Transcribed by https://otter.ai

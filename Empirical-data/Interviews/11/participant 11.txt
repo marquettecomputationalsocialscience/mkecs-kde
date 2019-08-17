@@ -1,0 +1,206 @@
+Unknown Speaker  00:01
+Start recording. Okay, so I am here with participant number 11.
+
+Unknown Speaker  00:08
+And we are now beginning the oral interview.
+
+Unknown Speaker  00:13
+So our first question is, how have you felt that crime analyses, algorithms or protocol have directly impacted you if at all?
+
+Unknown Speaker  00:23
+Well, I mean, the only experience I have with them is really here. So looking at it, and to be honest, I don't really know how the algorithms work, I was kind of looking at just the different parameters, and I kind of have an idea of what would happen with the numbers. But if I adjusted them, I mean, I still wouldn't really know what I was doing. So I just kind of kept it the same. And I changed the bandwidth, because I knew what would happen there. Okay, you it would give you like a smaller density. And then I that's actually what ended up saying, in the next slide. Yeah. But, uh, overall, I was more just like, for the got me was the police car question like for the police patrols, like, how many should we have? And it was like, oh, there's all these hotspots, but at the same time is just the City of Milwaukee. Yeah, I need that many cars. It was like, oh,
+
+Unknown Speaker  01:19
+and it's, you know, there's,
+
+Unknown Speaker  01:23
+on a practical level, there is the constraint of cost of resources, which, you know, obviously, in the city of Milwaukee, if even if you say, Oh, we need a cars, it's going to be more cars, but it's just sort of a way to think about resource management, which is what our the next part of our little questions with the circles ended up being about. But so you would say that you haven't really had, you haven't really been directly impacted by these algorithms any way you can think of outside before coming to this lab. Okay.
+
+Unknown Speaker  02:01
+I mean, I could think of real indirect ways that those algorithms that affect me, like just in the community, sort of, like how other people could have seen those, and, like, I'm sure that, again, know, the Center for peacemaking, they, they do a lot of research. So I'm sure that they saw some of those use the same algorithms, or similar ones. And they've actually done some stuff in the neighborhood to reduce crime. So I mean, that's one way I feel like yeah, I mean, it hasn't impacted me directly, but I guess I know about it, so it kind of impacts me.
+
+Unknown Speaker  02:33
+I mean, if you want to talk about indirect ways that its impacted you feel free to, but um, what is the Center for peacemaking
+
+Unknown Speaker  02:42
+is that it's the the park initiative?
+
+Unknown Speaker  02:45
+Oh, okay. Yeah, for some reason, my brain immediately, like jumped a university program. But no, I know what you're talking about. Yeah. Okay, so our next question is, how important is it to you to understand how crime analyses algorithms or software work? What information would you think is important to know?
+
+Unknown Speaker  03:18
+For me, the important thing to know is just like, the general explanation of what each other parameters would do. And then
+
+Unknown Speaker  03:31
+because I can understand graphs pretty well, it's just I don't know all the statistical stuff about it. Yeah.
+
+Unknown Speaker  03:40
+Probably where, where the data? I mean, but I already kind of know where the data is coming from what help? Yeah, but I mean, I already know the year and like the
+
+Unknown Speaker  03:52
+details, I don't know what else I would need to know about maybe like a purpose. Like, why am I looking at it?
+
+Unknown Speaker  03:58
+Okay. Okay. And,
+
+Unknown Speaker  04:06
+to state your curiosity, I suppose the data that we use today comes from the Wisconsin bureau records and statistics, which has taken all of the court cases and Milwaukee. So those are crimes that someone has been arrested for and appeared before a grand jury, or judge. So like Kim cases that are dismissed, will still show up there. And, you know, before going to court, so it's a little different than arrest data, but it's going to end up being sort of similar. Yeah. Thank you. So assume that a specific process, whether it be an algorithm, or like a specific software, for crime analyses was implemented in an area that you live or work
+
+Unknown Speaker  05:07
+such that it could directly impact you?
+
+Unknown Speaker  05:10
+How important would it be in that case, to know, to have some level of understanding about how said process works? And what information would you think it's important to know? In that case?
+
+Unknown Speaker  05:26
+It really depends on like, the reason for why you're using the algorithm, because if you're using the algorithm for like, I don't know, let's just say the what time you should switch your night shift security, but I feel like having super accurate data, maybe maybe your we'd be less sensitive to like, PR where everything is perfectly like spaced out and more just like, okay, when are usually like, where the main hotspots that it's going to happen. And like, what time of the day, most of these robberies happening. I mean, I know that this ever wasn't necessarily talking about the time of day. Yeah, but just like, that's one way that it would directly impact the motive of what you're using. Because you need a certain algorithm for that. Yeah.
+
+Unknown Speaker  06:17
+To have to be like, pretty.
+
+Unknown Speaker  06:20
+I don't know, because it's like, for cleansing. The motive for me is like you have what's my reasoning for using it? And and I think that understanding how it works isn't necessarily as important as understanding how to use it. Okay, because at this point, it's like, I already bought the software. I don't really care about, like, I bought it because I didn't want to make it myself. It's like one of those type of thing. Yeah. So. So it's more just like, Is it easy to use, like this one, I would say it was pretty easy to use. I liked it. Like, I figured everything out with the buttons were I mean, explanations. I didn't understand them fully. But at the same time, I didn't expect myself to. Okay, so I like I get the idea. But it wasn't as colorful in my head is I would have liked it.
+
+Unknown Speaker  07:15
+But with the I guess the general stuff that was there, you feel like you could use? Yeah, no, I've used that. And you feel? And would you say that you were sort of like you had the minimum that you need it, but maybe not the maximum context. So you wanted I thought for
+
+Unknown Speaker  07:31
+for the objective of putting police cars there. And then seeing just like the having the whole resource allocation of just the five cars. Yeah, I thought for the for the intention. And for the task. It was built perfectly. Yeah, just kept it simple. Yeah, yeah.
+
+Unknown Speaker  07:49
+And we're not, we're not deploying this, like, we're not selling the software, it is
+
+Unknown Speaker  07:57
+very much for this test case.
+
+Unknown Speaker  08:02
+So assume someone with more expertise than you vouch for the efficacy and fairness of a given process for crime analyses. In that case, how important would it be for you to have some level of understanding about how set process works? And what information would you think is important to know? So basically, same scenario, but this time you have an expert who, you know, is familiar with these vouch for it.
+
+Unknown Speaker  08:30
+So first, I will be thinking, Okay, who is this expert? Where are they coming from? What are their, like incentives for putting out this? But then, like, I would think to myself, okay, but like, how many bad things could you do with making software that just kind of tells you all their crap like this, just facts. But so I feel like,
+
+Unknown Speaker  08:52
+unless they have some motive, and like,
+
+Unknown Speaker  08:56
+they're sketchy, I feel like it wouldn't be that important to know how it works. I would just gonna go again, just do. Okay. But if if I was kind of, like, sketched out, and I had nothing better to do with my life, I would be like, okay, I didn't know how this works. Now he's up to something.
+
+Unknown Speaker  09:14
+Okay.
+
+Unknown Speaker  09:16
+Do you believe that whether data was sourced ethically, legally unfairly impacts the quality of the data itself? and How so? Yeah.
+
+Unknown Speaker  09:26
+Because I mean, you'll get a bunch of hotspots of just the people that got caught. But let's just say like, in one street over, there's actually more robberies, but none of those people got caught. Because there was no patrol cars. Yeah. Or there's no people talking. So it's kind of like, you can't see that in that data. You can only see what actually like, are the recorded ones, which is when you told me, these are the only recorded ones. I was thinking, Oh, shit, there's a bunch that are just unsolved. Yeah. But then I thought, you know, what, 290 out of 360 days of the year, you know, I'll take that one in like, 4 million chance of getting dropped. Yeah.
+
+Unknown Speaker  10:03
+And that was that was? Yeah.
+
+Unknown Speaker  10:07
+So in one, one month, across the 300,000 people in the city of Milwaukee, there is 290 robberies or something? Yeah. So, you know, of course, I hope that we have all the perfect data there, but no data sets perfect. So that is a good point. That is a good point. Um, if asked to voluntarily give personal information, such as location and demographics, to law enforcement for the exclusive purpose of better training data, for crime analysis algorithms, what would be your response? And what would be your reasoning?
+
+Unknown Speaker  10:51
+we're really seeing that like, police officers in black communities are just there. For like, the most PC way that I can think about it, they're just naturally afraid of the violence that's there. And that's their everyday job. So I get it. But at the same time, they don't necessarily see even these black kids as necessarily kids, they see them as just animals to be because I mean, you you, let's just say you're a normal person, like no normal person, but you're, you're like, you were raised in a good family. And all of a sudden, you go to this neighborhood. And then as you're getting older, it just goes to shit. And then you have kids, your kids are all going to be molded by that by the environment. And it's just going to spiral unless they get out of it. So if they don't get out of it, it's just going to keep going downhill. And I'm not saying that everyone in the hood is bad. But the reality is that it gives you a certain mentality of like survival. Yeah. So you'll do things that you don't want to do. Because you know what the reality is, you don't necessarily care. Like you're such a small part, you at that point, you just care about yourself, and you don't
+
+Unknown Speaker  12:03
+have as many options. Yeah.
+
+Unknown Speaker  12:06
+And it's like these, these police, I feel like they confuse that mentality, or for them wanting to hurt the police. But at the same time, you got to think like, okay, let's just assume they do want to hurt the police. That would make sense. I mean, the police have been killing a bunch of my people for a while. And then they're really thinking about it and taking any like, where there hasn't been that much justice. Yeah. So it's like, things are only going to get worse. So if someone's telling me like, we're going to put these algorithms to get more cops out there, I'm going to be thinking No, that's not the solution. solution is trying to find a way to get the people in their own to solve the crime issue, because you can get this at the community itself to want to do it. Like Dude, I, I don't want to like, say, like some crazy radical ideas, because I will be some vigilantes with themselves within that's not a good idea. You definitely want the police and you don't want just pure chaos.
+
+Unknown Speaker  13:06
+I don't know, I feel like can you read the original question? Um,
+
+Unknown Speaker  13:10
+if asks, too, if asked to voluntarily give personal information, such as location and demographics, to law enforcement for the exclusive purpose of better training data for crime analysis algorithms? What would be your response?
+
+Unknown Speaker  13:38
+Well, I would say no, in short, just because it's like, you know it already, we can't really trust the cops with the information that they do have the abuse their power. So if we're giving them this much access to these people's personal lives, you're taking away just a certain amount of privacy. And what if the cop just like, is having a bad day? And he just wants to be right and get it over with? Again, I feel like just we've seen that case happen too often. where it's like, I don't want to give them more power. Yeah.
+
+Unknown Speaker  14:09
+So you would say, it's sort of a lack of trust with their intentions? Yeah.
+
+Unknown Speaker  14:15
+Okay.
+
+Unknown Speaker  14:16
+Right. Now, I'm skeptical there of every police officers motives, like there's two significant of a number that I feel would abuse that power,
+
+Unknown Speaker  14:26
+okay, or use it incorrectly.
+
+Unknown Speaker  14:27
+And that's not even like all of them. Like, I feel like 5% is still pretty significant.
+
+Unknown Speaker  14:31
+It's just It's enough that it is a concern, right. If you could, if you and, you know, maybe a different context, if you thought that you could trust police to have the correct, like proper motives, and goals, would you still feel comfortable giving that sort of personal information? Or would it still be
+
+Unknown Speaker  14:58
+yes, I would still come through if I can trust in the law enforcement and just the credibility of the government. I would have no problem giving, having pure transparency of everything. Mostly because I know, look, I'm not really doing anything bad. And the things that I'm doing bad aren't enough to send me to jail. I don't
+
+Unknown Speaker  15:18
+care. Watch me through my computer screen. I'll be having a good time. Yeah. Really care? Watch me mention that flux. Yeah.
+
+Unknown Speaker  15:25
+Okay, so so it is a trust thing. Awesome. And we have one last question. How would you feel if data from traffic tickets was used to allocate police along the highways, so sort of just a more specific
+
+Unknown Speaker  15:45
+version of the previous
+
+Unknown Speaker  15:49
+to all traffic? So speeding, blinkers all sorts of
+
+Unknown Speaker  15:55
+I'm gonna say no, just because my girlfriend gets a lot of traffic tickets.
+
+Unknown Speaker  16:04
+Well, I mean, that is an answer. Yeah.
+
+Unknown Speaker  16:11
+I mean, would you feel the same way? As you did the previous question? Like, would you would you feel sort of a lack of trust?
+
+Unknown Speaker  16:21
+More, I think it would be more cautious of Okay, this is a hot spot. I need to be careful. Yeah. But then I feel like just, if everyone thinks that way, the hotspots are being bigger over time. And then there's going to be like, well,
+
+Unknown Speaker  16:36
+we don't have enough cops to cover all of this. Let's just start from scratch again. Yeah.
+
+Unknown Speaker  16:40
+So what I was thinking, so I guess, just like a short term, refreshing. But you could you could see it as like a short term solution than or, yeah,
+
+Unknown Speaker  16:50
+I could see it as a short term thing. Okay. For sure. Like, say, like to, to just see where the density is, and just like shift the police for one month, and then see, okay, where is it shifting now? You don't really have to move just anymore.
+
+Unknown Speaker  17:05
+I feel like police kind of already do it, not algorithmically. But they kind of say like, Oh, I know that. I get a bunch of tickets if I sit on this street, so I'll go here during the day. The police just
+
+Unknown Speaker  17:19
+aim at me with a gun.
+
+Unknown Speaker  17:22
+And is a radar gun just looking at
+
+Unknown Speaker  17:25
+it says it's always stressful just to be like, Oh, cool. There's there's a cop just like staring at me driving like,
+
+Unknown Speaker  17:35
+I don't know, there's just so much power
+
+Unknown Speaker  17:37
+that they have over and you're like,
+
+Unknown Speaker  17:39
+I don't know why. I
+
+Unknown Speaker  17:40
+don't know why I'm scared. Yeah,
+
+Unknown Speaker  17:42
+I mean, they do have
+
+Unknown Speaker  17:46
+power over you. That's what you said, right? Like, if you if you do something wrong, or if you've perceived to do something wrong, or if the algorithm puts you in a place where you've done something wrong, they, you know, they're the ones who are able to take action for that. And a lot of a lot of the decision rests in their hands so I can understand it. But um, yeah, so that's our last question. Thank you so much for coming in.
+
+
+Transcribed by https://otter.ai

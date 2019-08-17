@@ -1,0 +1,326 @@
+Unknown Speaker  00:00
+And then for today, before getting late to the actual questions, have you ever seen or used any kind of application like that before? No, no,
+
+Unknown Speaker  00:09
+not not for crime.
+
+Unknown Speaker  00:13
+terms of like em from a healthcare background. So
+
+Unknown Speaker  00:16
+I think that I've seen some sort of like, plots, things like that imagery in terms of like a very different but like, were things well, uptake in certain areas versus other areas will be less. So
+
+Unknown Speaker  00:27
+is it kind of like a heat map still?
+
+Unknown Speaker  00:29
+Yeah, kinda. I mean, yeah, not different from data. So it's actually a physical uptake of like, radioactive. Thanks. But
+
+Unknown Speaker  00:37
+okay, do you know if it's any more like a?
+
+Unknown Speaker  00:40
+Do you know, by chance, like what the algorithm was or?
+
+Unknown Speaker  00:43
+No, that's basically what was happening? I guess it's not really necessarily related to this.
+
+Unknown Speaker  00:48
+But it's okay. It still sounds like you have some kind of,
+
+Unknown Speaker  00:52
+I wouldn't say an understanding, but it's like a familiarity.
+
+Unknown Speaker  00:55
+Yeah, I understand the concept.
+
+Unknown Speaker  00:57
+Okay. That's okay. I mean, the purpose of this whole study is because we're trying to figure out how people have different backgrounds, how they'll actually interact, interpret, stuff like that, too. So and that's completely fine. It's okay, that we're getting people from every profession to because I don't know if like, say Person A knows how to do it better the person being stuff like this, but that's very helpful to anyways, moving to the questions is, before today, before actually coming into the session today? How have you ever felt that crime analyses have directly impacted you, if at all?
+
+Unknown Speaker  01:33
+Well, I never really thought about it until today, I'd say. But thinking about it today, it makes a lot of sense. You want to kind of identify the areas that have more they have higher crime rates, and then, you know, patrol them more like put more of an emphasis on them in terms of the awareness for that area. So I suppose like, when I lived here on campus at Marquette, like we're probably more in like more the heat zone, for example, but I just didn't really think about it.
+
+Unknown Speaker  02:04
+But it's kind of like the underlying feeling like you're saying to like, Did you feel like a presence? Or was it? Do you notice more police or not at all?
+
+Unknown Speaker  02:15
+Uh, let's say like here when I looked at on campus in Marquette? Yeah. I mean, they have their own police force. And it's also kind of there's a lot of activity going on. It's more the downtown area. So there's more police presence like, now I live in downtown Bayview. It's more of like a family environment. less crime. I would I think I would imagine. So I don't really see a lot of heavy police presence there. Okay. But you're saying you definitely notice the difference between like Bayview in here?
+
+Unknown Speaker  02:43
+Yeah, please. Yeah. Okay. Yeah. And that's, that's fine. The different areas are different, depending on whatever that makes sense. How important is it to you to understand how crime analysis algorithms or the software actually works?
+
+Unknown Speaker  03:01
+How important is it to me? Yes.
+
+Unknown Speaker  03:05
+I think as a citizen, it's important somewhat, just to understand the general concept.
+
+Unknown Speaker  03:13
+You know, a lot of times people like political politically wise may make decisions without knowing background of why police are doing what they're doing. And knowing that maybe you could help kind of resolve some conflicts of an educated people. And
+
+Unknown Speaker  03:29
+I would say, what kind of conflicts Do you think what a row like?
+
+Unknown Speaker  03:34
+I don't know, like,
+
+Unknown Speaker  03:35
+segregation wise, or like, funding wise, like a certain area, they're not getting enough funding? We need more police here. Okay. But then if they were to see the data and see maybe actually, oh, there's that a lot of crime or there's more priority in a different area, they'd be more understanding. Sure.
+
+Unknown Speaker  03:51
+Sure. Speaking back to the, like the crime analysis algorithms and software, do you think that there are? Would you want to know any kind of like specific important information about it? Like, for example, like this application, you just use? It's still like a crime analysis algorithm? Is there any information you think is important to know?
+
+Unknown Speaker  04:16
+I'm just I'm curious, like, what actually happens versus like, what I thought maybe would be an emphasis for where the police kind of area should be like, what it actually is. But I think what it actually is like in real life, like with MP Maki police department,
+
+Unknown Speaker  04:31
+or like, where they put where they put the
+
+Unknown Speaker  04:33
+zones and why. Okay.
+
+Unknown Speaker  04:36
+I'm personally not sure.
+
+Unknown Speaker  04:38
+Yeah, I'm sure there's more than just the number of events like research like fine geography, geographic wise, financially, and location of the police departments, there's probably a lot of other things that come into play.
+
+Unknown Speaker  04:50
+So would you say like, the data is a big thing, then? Because you're talking about like location and like, socioeconomic stances and stuff like that. But to locate or the data is a big thing to know.
+
+Unknown Speaker  05:02
+Yeah, yeah. The, like, actual events of like robberies as such crime. Yes. Yeah, I think I think that's important. But I think there's also other things besides that, that in the real world come into play. Okay. And again, what other things so like location to the police station. So like, maybe if they're closer to a police station, they won't necessarily need to patrol it as much because they have, they'll have staff, they're there, they're more able to get to the scene more quickly. Geographic wise, like, maybe some areas are more, I guess, kind of the map show too. But they're, they're more isolated. So maybe less of a priority versus some higher density areas where there's more crime?
+
+Unknown Speaker  05:48
+I guess those are two things in particular.
+
+Unknown Speaker  05:52
+Yeah. Cool. That's fine. Thank you. So assume that a specific process for crime analysis was implemented in your area either, like where you live, go to school work, such that it's used to directly impact you? How important would then be to have some level of understanding of how it works.
+
+Unknown Speaker  06:16
+I think it'd be pretty important to me, like,
+
+Unknown Speaker  06:19
+I'm currently looking for a new job and maybe moving anywhere. And that's something I think, to kind of always consider where you moving to. And when you're moving to a new area and a new location. The crime with the crime is like and having being able to interpret data like that, or have it presented in a way that you can understand is helpful. For sort of like the the average citizen, I think,
+
+Unknown Speaker  06:46
+to just kind of recapping, it'd be good for like the community to know or have it available for the community. Yeah,
+
+Unknown Speaker  06:52
+Yes, I think so. And
+
+Unknown Speaker  06:57
+nessa even just available like, promoting it?
+
+Unknown Speaker  07:01
+Oh, I think because
+
+Unknown Speaker  07:02
+there's a lot of things that are available, people just don't know about or they don't actively go for. But if there's a way to kind of get the information out there to
+
+Unknown Speaker  07:10
+actively What do you think would be the best way to get that information out there?
+
+Unknown Speaker  07:14
+A social media is huge. billboards? Sure. It depends on the community that is it. Really, I think it really depends on the community to what what sort of people and what this situation is like in?
+
+Unknown Speaker  07:30
+Sure. Then if this kind of crime analysis algorithm or process directly impacts you, what important what information you think will be important to know
+
+Unknown Speaker  07:43
+where, I guess, pretty soon everything in it, but where the events are occurring, again, like the higher density of events, and then maybe that not those include with this. But are those higher density areas being more patrolled? They're more my more closely monitored than other areas, like what the police are doing because of that. Yeah. So like, if I were to live in a higher density area, like some of the places that were like really read on the heat zone, I'd want to know Are they are the police department in that area, taking steps to more closely patrol it or make it safer?
+
+Unknown Speaker  08:22
+Sure, sure. slow moving to the next scenario, because it kind of sounds like your, your viewpoints are pretty common for this scenario than anything else without having to know like how important it is to know about the algorithms and software. But now, assume that someone with more expertise vouch for like the advocacy, the efficiency and the fairness of a given algorithm or process for crime analysis, how important we would then be to have some kind of understanding of how it works.
+
+Unknown Speaker  09:03
+I think you still need to understand it, because you shouldn't to fully rely on like one expert, or just to have their word for it maybe a general explanation or understanding of how it functions like on a baseline level. And that's what I would want and then hear from an expert, then I'd be more willing to kind of understand them.
+
+Unknown Speaker  09:25
+Sure. What would you look for like an expert? Like, what kind of qualifications would he need for you to believe them or listen to him?
+
+Unknown Speaker  09:33
+I look for education level, I think is would be very helpful experience doing what they're doing.
+
+Unknown Speaker  09:43
+Yeah, like a baseline for the education level like yes, to have something.
+
+Unknown Speaker  09:48
+I'm not really sure how it goes with like law enforcement, or with analytics, I would say like at least a four year degree. Sure. I mean, at that have made me feel more comfortable than like an associate's degree.
+
+Unknown Speaker  10:02
+Like someone who just took like an online class. Oh, yeah, definitely.
+
+Unknown Speaker  10:05
+Yeah. Sure.
+
+Unknown Speaker  10:08
+So do you believe that whether data was source like ethically, legally and fairly, if that actually impacts the quality of the data itself?
+
+Unknown Speaker  10:18
+Definitely, yeah.
+
+Unknown Speaker  10:19
+How so?
+
+Unknown Speaker  10:21
+Well, it's not
+
+Unknown Speaker  10:24
+you can't really for many, like conclusions with with data that you obtained illegally, and kind of goes like a court case, any evidence you obtained illegal you can't use. So therefore, with like government, government produce data and things like that, if you get it legally doesn't even it's got avoid.
+
+Unknown Speaker  10:44
+He said ethically, as well,
+
+Unknown Speaker  10:46
+yeah, ethically, legally and fairly,
+
+Unknown Speaker  10:48
+fairly. Um,
+
+Unknown Speaker  10:53
+I can see the other side of it to you may not be able to get some data points, that would be helpful. doing it that way. But I think you have to do it that way, just for the Yeah, the way our society kind of functions with the the government and everything like that.
+
+Unknown Speaker  11:13
+What do you mean by that?
+
+Unknown Speaker  11:17
+Well, you can invade people's privacy to obtain, like information. Okay. And that's just sort of how it works. personal privacy, and I guess I've been sorted to legal and fairly and ethically, you know, I really want to I can imagine potentially taking advantage of some of these people that I don't know that they don't really know what's going on there. They're either committing crimes or such like that they're in the they're incarcerated, and you're getting data from them or something like that. And maybe they're not aware of that. Sure.
+
+Unknown Speaker  11:49
+Sure. So
+
+Unknown Speaker  11:53
+it's kind of good. You brought that up, because but the whole requiring information and like, getting it fairly and legally, that kind of leads into the next question that if you were asked to voluntarily give personal information, and be more specific location information, where you live where you were, go to school, more specific demographics, to the police for the only purpose of better training their data and their crime analysis, algorithms, motor response before that,
+
+Unknown Speaker  12:24
+I would give everything but I can, in my experience here, given on campus, I know that, like community wise, there's some people that don't want to cooperate with the police. Because if they do, there's going to be a target on their backs. They don't want to, you know, if they're known as the ones that like are talking to the police or whatever, they can get shot, they can get, you know, attacked, killed, whatever. So personally, from where I come from, with my education, and my, you know, my economic status, I feel safe and doing that. I can see why other people wouldn't, though.
+
+Unknown Speaker  13:00
+Sure. And you said that if they actually like comply with the police, or if they actually give away this information, they would be,
+
+Unknown Speaker  13:07
+they could potentially go out of those communities are pretty small.
+
+Unknown Speaker  13:11
+Everyone kind of knows everyone, and if you know, if you're the snitch, or you're telling police things. And other me, I feel like it wouldn't take long for other people to find out the wrong people
+
+Unknown Speaker  13:22
+responsible for those crimes, for example.
+
+Unknown Speaker  13:25
+Okay. And even if like it was for the purpose of like bettering the community and kind of making everything more safe, they still you still think that they wouldn't give away the information in
+
+Unknown Speaker  13:35
+certain communities? for free, for free reasons of fear, yes. Okay. I don't think they would, okay,
+
+Unknown Speaker  13:43
+that's fine. Then I'll play the kind of like, the hypothetical situation with you, then. Because you were saying that you'll, you're fine with giving away like the information just to better their algorithms. And data, is that correct? Okay. So playing the hypothetical, what if it was, they were asking for, like your location service, so that they will always kind of track you like, they'll come to you and be like, we need to keep your location service on your phone on just so we can track the crime in the area and make sure everything's safe and kind of catch the bad guys and stuff like this? What would your response be for that?
+
+Unknown Speaker  14:21
+This would be a couple questions about that. It'd be like all the time tracking where I am. And this would be the
+
+Unknown Speaker  14:29
+place only,
+
+Unknown Speaker  14:30
+yes. Only law enforcement. I think I'd be okay with that.
+
+Unknown Speaker  14:34
+Sure, man, sir, certain point, there's the line of like privacy invasion and all that. But for me, I think it's okay.
+
+Unknown Speaker  14:40
+Okay. Yeah, it was a voluntary thing. So you'll be okay with kind of giving away like your location to like snap maps or like, find my friends? Sure,
+
+Unknown Speaker  14:49
+that'd be fine with it. What if
+
+Unknown Speaker  14:50
+it was a mandatory thing? Would your response be?
+
+Unknown Speaker  14:55
+still only enforcement still just try to make the community better, but it's mandatory?
+
+Unknown Speaker  15:07
+I don't know if that's quite right yet. Or maybe then at all ever.
+
+Unknown Speaker  15:14
+Yeah, it goes, it goes with against like the invasion of privacy sort of thing. Some people don't want to know where I don't want other people to know where they are all the time. And I think part of you know, being a citizen in the United States and not breaking any rules and being free and that sort of thing. People really like their
+
+Unknown Speaker  15:31
+ability to do that. And
+
+Unknown Speaker  15:32
+their ability to have privacy and keep to themselves kind of thing.
+
+Unknown Speaker  15:36
+Yeah. I mean, they're if they're not if they're not breaking any laws themselves, and
+
+Unknown Speaker  15:42
+their opinion would be why would they have to tell anyone where they are? What they're doing? Sure. Sure, I think,
+
+Unknown Speaker  15:49
+definitely.
+
+Unknown Speaker  15:51
+Um, how would you feel if hack data was used by professionals? What kind of context? Would you condone the usage of hack data?
+
+Unknown Speaker  16:05
+professionals being?
+
+Unknown Speaker  16:08
+In this case, let's say law enforcement,
+
+Unknown Speaker  16:10
+okay. So like the government? Yes.
+
+Unknown Speaker  16:17
+Well, if it's already out there, and the people remain remain anonymous, and they can be identified.
+
+Unknown Speaker  16:25
+I think that's okay.
+
+Unknown Speaker  16:30
+I don't think they should actively try to hack to get information or anything like that.
+
+Unknown Speaker  16:35
+What kind of context? Would you condone the usage of like the hack data then?
+
+Unknown Speaker  16:41
+Um,
+
+Unknown Speaker  16:49
+maybe like, insensitive, like credit card fraud and where they're located. Or, I guess I put this sort of thing too. I mean, look at locations of robberies and things like that, but I think did only be reported law enforcement anyways.
+
+Unknown Speaker  17:08
+Yeah, I can't really think of a whole lot of stuff my head. Okay.
+
+Unknown Speaker  17:14
+Let's play the other side of the coin. What if it was like a group of hackers? What is your response be for either using the hack data or even trying to obtain it in general?
+
+Unknown Speaker  17:27
+I don't, I would not agree with that. Okay. Just morally and legally.
+
+Unknown Speaker  17:34
+Definitely. And just not at all, they should not use the hack data for any kind of means. Correct. So we're saying?
+
+Unknown Speaker  17:44
+Yeah, I agree. I think unless it's like kind of already, like out there and hackers have been caught? And with the data, so out there. I would then think it'd be usable, because it's kind of already then public knowledge. Sure.
+
+Unknown Speaker  17:57
+Sure, definitely.
+
+Unknown Speaker  17:59
+And then finally, how would you feel if data from traffic tickets was collected and recorded by the police in order to systematically place police along the highway?
+
+Unknown Speaker  18:14
+Probably okay. I don't think there would be a problem with it. It would probably work and making the area safer, which is their goal?
+
+Unknown Speaker  18:26
+Sure. Definitely. Long think this is all the questions I have to ask. And again, thank you for coming in. And thank you for your time today.
+
+Unknown Speaker  18:33
+Thanks.
+
+
+Transcribed by https://otter.ai

@@ -1,0 +1,344 @@
+Unknown Speaker  00:01
+So before today before like coming in to this session today, have you ever like seen anything or dealt with anything like that application of marq?
+
+Unknown Speaker  00:11
+Yes, that application or seen those maps for?
+
+Unknown Speaker  00:16
+Start with the application? Have you seen anything like that before? No. And what about the maps where you seen the maps?
+
+Unknown Speaker  00:23
+I've seen map the similar maps
+
+Unknown Speaker  00:29
+displaying crime,
+
+Unknown Speaker  00:32
+frequencies and roads and stuff like that
+
+Unknown Speaker  00:34
+for a job or class? Or what
+
+Unknown Speaker  00:38
+was it for?
+
+Unknown Speaker  00:40
+Today, like real estate research, looking at good neighborhoods and stuff like that, when I'm moving around? Like,
+
+Unknown Speaker  00:47
+what was this one in my view, I did
+
+Unknown Speaker  00:50
+it just out of curiosity, when I was looking at Marquette to school here. And then when I was helping my family members, select a good suburb to move to when they moved to LA, okay. And I also did it one, I worked for a garbage company
+
+Unknown Speaker  01:15
+that had
+
+Unknown Speaker  01:17
+that had routes all throughout the city of LA, and we had to dictate where certain garbage trucks can go, at certain times of the day, based on crime. And we had to use those maps to
+
+Unknown Speaker  01:30
+analyze where these maps like easily accessible, like where they free for the public? Or was it their agency's own
+
+Unknown Speaker  01:38
+software?
+
+Unknown Speaker  01:41
+I believe was from an agency.
+
+Unknown Speaker  01:43
+So like the company built it paid for it. Now
+
+Unknown Speaker  01:47
+it was from those publicly assess, okay,
+
+Unknown Speaker  01:49
+okay.
+
+Unknown Speaker  01:52
+How easy was it to find something like that online?
+
+Unknown Speaker  01:57
+I do remember it being pretty easy, a pretty easy, fairly easy, like on the first results, just looking up crime statistics and sort of x, y, z city.
+
+Unknown Speaker  02:08
+Okay, so, so if you're going to rate yourself,
+
+Unknown Speaker  02:12
+let's say either having no background in crime analysis, or being able to like read and interpret those maps, some background, some technical knowledge, like knowing it, some of it, or like completely God degree? Where would you say you were on a scale? of zero?
+
+Unknown Speaker  02:30
+Is I've absolutely nothing. 10? is I have a degree on this. I've been in research on this for four years. Five years, somewhere in the middle, I would probably consider myself around
+
+Unknown Speaker  02:42
+an eight, around eight. Yeah, definitely.
+
+Unknown Speaker  02:48
+You haven't taken like classes or anything, like you haven't
+
+Unknown Speaker  02:52
+taken classes more in depth on how to fully analyze something like this have, you
+
+Unknown Speaker  02:56
+know, but no classes specifically geared towards us. But I have been exposed with
+
+Unknown Speaker  03:04
+this class, what causes I believe
+
+Unknown Speaker  03:06
+it was for my
+
+Unknown Speaker  03:11
+introduction to civil engineering course. And it wasn't directly on crime. But it was a map detailing like cancer cases based off of proximity to freeways, okay, because of pollution from freeways and, and how lower income people usually live closer to freeways and have higher cancer rates because of it. Similar mapping style as a crime map I was shown before, but the different
+
+Unknown Speaker  03:44
+definitely made a point. But it still sounds like you have some knowledge of like reading those and knowing direct, but it is definitely there. And that's all really kind of like the point of like this study, because we're trying to figure out how people have different technical backgrounds, read and interpret the like heat maps, just like that. So that's good that you do have some knowledge of that. That's perfect. Yeah. Moving on to the actual interview is before today, before actually coming into this session today. Have you ever have you ever felt that crime analyses have directly impacted you? If at all?
+
+Unknown Speaker  04:27
+I'm sorry, in terms of the actual physical crime analysis, or what the crime analysis has been studying
+
+Unknown Speaker  04:36
+the physical crime analysis?
+
+Unknown Speaker  04:40
+No, not the physical crime analysis specifically. But obviously, the data of what it's studying directly affects me because of some things, some places dangerous to live, I'm not gonna live there. But the actual study itself will actually obviously, it must set because that's telling me that it's a dangerous place to live. I'm not going to live there. So obviously, yes, it has effects.
+
+Unknown Speaker  05:02
+Effects, like your decisions? Go where you live? Okay. Do you still use like something like this regularly, regularly, just so you know, where to go when they go? I
+
+Unknown Speaker  05:12
+mean, I don't really care where I'm going. It's just if like, I'm moving somewhere. Okay, that's that's pretty much
+
+Unknown Speaker  05:18
+pretty moving somewhere. You want to do your research and you see places nice? Definitely, definitely. How important is it to you to understand how crime analyses algorithms or software actually works?
+
+Unknown Speaker  05:31
+Um,
+
+Unknown Speaker  05:32
+well, I'm guessing it has something to do with geographic locations and frequencies of crimes in a certain area. So I mean, I'm pretty much know, that's probably probably how it's calculated. So I'm not really too concerned how it's calculated. So I can pretty much Guess how it is. Okay.
+
+Unknown Speaker  05:51
+Would you Is there any kind of like specific important information that you would want to know about the algorithms or software?
+
+Unknown Speaker  06:10
+I guess, just from having a technical mathematical background, just visualizing, I guess some of the equations used into the
+
+Unknown Speaker  06:22
+program, you would want to like see the actual equations?
+
+Unknown Speaker  06:26
+Yeah, like if it's a logarithmic or exponential equation, where you know, x equals five, what I don't know, but I don't know, the actual equation mine. And
+
+Unknown Speaker  06:38
+as for like this application, I don't know if it's exactly like a little formula, like equation. But we're using this process called Colonel density estimations, which is essentially taking those Katie parameters that I told you, you can change if you want, if not, is taking those. And after taking in the data parameters and account it'll spit out where predicts crime will happen. For us, it's essentially like a an equation, but I don't know if it's physical just for information, ya know that. So assume that a specific process for crime analysis was implemented in your area, such that it could directly impact you even more, like in everyday life? How important would it be to you to have some level of understanding of how it works?
+
+Unknown Speaker  07:32
+The concerned taxpayer be very important. But I do understand the importance of
+
+Unknown Speaker  07:38
+what information would you think is important to know
+
+Unknown Speaker  07:45
+specifically how they're getting this information? And
+
+Unknown Speaker  07:50
+how historical crime
+
+Unknown Speaker  07:56
+data is being computed and calculated to determine things like the number of police officers required patrol section, the likelihood of future crimes coming? Certainly that's just how the past data is used. Mathematically,
+
+Unknown Speaker  08:16
+definitely.
+
+Unknown Speaker  08:18
+So assume someone with more expertise than you vouch for the advocacy, the efficiency, and the fairness of a given process of crime analysis. How important would it then be to you to have some kind of understanding of what's going on?
+
+Unknown Speaker  08:33
+Very important, I don't trust what anybody tells me. I don't take anything what people told me for this truth most I have slight
+
+Unknown Speaker  08:41
+understanding of it.
+
+Unknown Speaker  08:43
+Even if this guy went to he got like three PhDs and studying crime analyses, algorithms, maybe not three, let's let's just say one. This guy has one PhD in crime analysis algorithms. Would you kind of believe him? If he's saying that it's efficient fair,
+
+Unknown Speaker  09:01
+I would I would take it with a grain of salt though. Because if nobody's challenging anything on anything, this guy could just be so narrow minded in any one particular mindset that he could be completely oblivious to other aspects
+
+Unknown Speaker  09:13
+of are important to
+
+Unknown Speaker  09:15
+cherish and dig least get a base understanding of what is going after, obviously, I wouldn't have nearly the degree of expertise as this individual, but as long as I have the foundation of what his work is going off of, I'll be fine.
+
+Unknown Speaker  09:28
+If I like the top layer top level of knowing Yeah, okay. Yeah, definitely. It's this guy didn't have a PhD. But there's still a guy kind of saying that this process was efficient. This algorithm is fair. What kind of qualifications if any, would you be looking for in him?
+
+Unknown Speaker  09:48
+I don't give a rat's ass about any academic qualifications. If this guy's proved himself to be a smart guy with investments or industry standards, or if he did go to MIT or something like that, I mean, I'm My point is I don't think any academic qualification is the only way of measuring success or knowledge in a certain field. He could be a cop, who knows math, he could be some genius who, that schools too stupid some master programmer, I don't know, I don't need any as long as there's industry, academic or economic proof that this guy knows what he's talking about them as well. Okay.
+
+Unknown Speaker  10:33
+It still sounds like you just want to see it yourself, then to just actually believe that's fair, and
+
+Unknown Speaker  10:38
+as long as you can prove his groundwork, right? Yes,
+
+Unknown Speaker  10:42
+definitely. Sure.
+
+Unknown Speaker  10:45
+So do you believe that whether data was sourced ethically, legally and fairly, if that actually impacts the quality of the data itself?
+
+Unknown Speaker  10:58
+qubit the question ethically,
+
+Unknown Speaker  10:59
+ethically?
+
+Unknown Speaker  11:00
+Yeah. So
+
+Unknown Speaker  11:04
+do you believe that whether data was sourced ethically, legally and fairly, if that impacts the quality of the data?
+
+Unknown Speaker  11:15
+Yeah, obviously would come in if something's illegal if you're in some corrupt precinct.
+
+Unknown Speaker  11:22
+You know, cops could be making up charges or something like that they have a quota.
+
+Unknown Speaker  11:25
+Sure.
+
+Unknown Speaker  11:28
+So yeah, it obviously must do it.
+
+Unknown Speaker  11:34
+But then at the same point,
+
+Unknown Speaker  11:40
+are you saying the accuracy
+
+Unknown Speaker  11:43
+of the data? No, it'll still be accurate? Because I mean,
+
+Unknown Speaker  11:49
+you can see two ways from it. And that's why I'm a little confused. Because, obviously, if, for example, if there's a corrupt precinct, and they're laying out charges, left and right, for minor fractions are made up in fractions, obviously, that's not accurate. But at the same time, the data is still predicting it accurately. Because even if it's still a precinct, even if it's still a corrupt precinct, if you're in that corrupt precinct, you would still have that same chance of being currently charged with something. So actually,
+
+Unknown Speaker  12:28
+illegally now.
+
+Unknown Speaker  12:32
+ethically, I don't really care how it comes from, because I mean, that's the facts. still kind of predicting it. So I have to say,
+
+Unknown Speaker  12:38
+but fairly, if it was collected on fairly, then that impacts quality.
+
+Unknown Speaker  12:44
+Yeah, I would say yeah, if it was, yeah, that definitely does. fairness definitely affects the quality.
+
+Unknown Speaker  12:52
+sure of it. What about all of that in the context of research? Does sourcing your data ethically, legally and fairly impact the quality of data? When you're researching?
+
+Unknown Speaker  13:06
+Absolutely, it does.
+
+Unknown Speaker  13:09
+From a truthfulness and
+
+Unknown Speaker  13:13
+straight up quality standpoint, it absolutely does. Yeah, it absolutely does. I mean, just, for example, like, I don't like traffic tickets, like a lot of cops have quotas to make for traffic tickets. And you could argue that that was taken on fairly or without ethics in mind some of those traffic tickets because they have to meet that quota. So at the same point, yes, that does affect the quality of the data. Because if the tickets are not being issued with fairness in mind, it's going to affect it. But at the same time, if they're issuing them unfairly, and the data reflects that, it does show you how accurate it is because it does show you Yeah, you're still going to be likely to be charged with it, even if they're doing it unfairly. So you can look both ways. permit, I honestly think it's probably best to the user, if you analyze data, exactly how its presented without anything else in mind. Okay.
+
+Unknown Speaker  14:17
+Okay. And this is actually kind of funny, you bring up the whole idea or the whole example of the traffic tickets, because that leads into my next question. The next question was, how would you feel if data from traffic tickets was used and collected by the police in order to systematically place the police along the highway?
+
+Unknown Speaker  14:39
+From a taxpayer standpoint, that definitely makes sense.
+
+Unknown Speaker  14:47
+And I think that definitely makes sense,
+
+Unknown Speaker  14:50
+in terms of
+
+Unknown Speaker  14:53
+maximizing where a police officer should be, and
+
+Unknown Speaker  14:57
+payment wise. And
+
+Unknown Speaker  15:06
+that's really all I have to say about that. Because I
+
+Unknown Speaker  15:13
+I guess I don't really see how to be any different than speed traps that already exists. So I'm positive now. Sure,
+
+Unknown Speaker  15:19
+sure. And then, if you were asked to voluntarily give personal information, maybe it was more specific location, like where you live, or where you work, or where you go to school, or more specific demographic information to the law enforcement, only for the purpose of better training their data, and their crime analyses. algorithms. What would your response be for that?
+
+Unknown Speaker  15:51
+I'm
+
+Unknown Speaker  15:54
+just high level stuff like occupation and school and stuff like that. Um, no, cuz I'm, I'm assuming that like, they already track that they already know that.
+
+Unknown Speaker  16:06
+Same more specific, maybe more personal information, like to the, like, say, Milwaukee Police Department,
+
+Unknown Speaker  16:15
+just certain agree to agree. But I would not want to give anything. I would not want to give anything more to my police department than what they could already find out about me with a basic investigation. Sure.
+
+Unknown Speaker  16:32
+Like anything that you post on social media, or now I would?
+
+Unknown Speaker  16:37
+Definitely,
+
+Unknown Speaker  16:38
+definitely. And what if it was, like a different situation? What if they were coming to you and saying that we need to follow your location services, only the law enforcement only we know about it, and this will better the community and kind of prevent crime or limit the crime? What would your response be for that?
+
+Unknown Speaker  16:59
+I would absolutely not be all right with a police officer on my location. I don't care even if its location for the betterment of the community. Absolutely. No, no.
+
+Unknown Speaker  17:10
+I don't like the idea of people knowing where I am.
+
+Unknown Speaker  17:14
+is only for the law enforcement. I
+
+Unknown Speaker  17:16
+don't care. What if I'm just I don't like the idea. Personally, definitely had nothing
+
+Unknown Speaker  17:22
+to I just wanted to do have
+
+Unknown Speaker  17:26
+someone following you or stalking you.
+
+Unknown Speaker  17:29
+And I know that goes against what I selected as my political belief being authoritarian, but no, I would not be all right with Him.
+
+Unknown Speaker  17:39
+Definitely. And
+
+Unknown Speaker  17:43
+let's see, assuming that like, the information could improve, like the advocacy of the law enforcement and make everything safer. Well, why may an individual want to preserve their privacy?
+
+Unknown Speaker  18:01
+May you want to preserve your privacy?
+
+Unknown Speaker  18:05
+Benjamin Franklin once said,
+
+Unknown Speaker  18:08
+to give up liberty, for the sake of security, one will lose both.
+
+Unknown Speaker  18:15
+And I believe that
+
+Unknown Speaker  18:21
+all the questions I have
+
+
+Transcribed by https://otter.ai
