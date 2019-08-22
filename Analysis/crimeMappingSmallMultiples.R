@@ -1,5 +1,6 @@
 library(ggplot2)
 library(gridExtra)
+library(forcats)
 
 rm(list=ls())
 
@@ -165,6 +166,14 @@ g3p3_graph <- ggplot(g3p3, aes(fct_inorder(g3p3$parameters), g3p3$group3_data)) 
 grid.arrange(g1p1_graph, g1p2_graph, g1p3_graph,
              g2p1_graph, g2p2_graph, g2p3_graph,
              g3p1_graph, g3p2_graph, g3p3_graph, ncol=3, nrow=3)
+# Answers "how do people of different backgrounds interact with algorithmic crime analysis tools?"
+# group 1: no background
+#   no clear idea. most people changed the parameters just to change them and see the outcome
+# group 2: technical background
+#   if there was a change, most people changed the bandwidth.
+#     are they changing it because they know it in relation to KDEs or the WiFi bandwidth definition?
+# group 3: professional background (LEO)
+#   nobody changed the parameters. they left the parameters as is and made the decisions based off of the defaults
 
 
 #
@@ -190,15 +199,23 @@ grid.arrange(p1_min_hotspot, p2_min_hotspot, p3_min_hotspot,
 
 # same graph of data as above, but does not show every person's response. gives more of an idea of what the deviation is
 #
-p1_min_hotspot_ <- ggplot(map_data, aes(group_num, min_hotspots1)) + geom_hline(yintercept=8) +xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p2_min_hotspot_ <- ggplot(map_data, aes(group_num, min_hotspots2)) + geom_hline(yintercept=7) +xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p3_min_hotspot_ <- ggplot(map_data, aes(group_num, min_hotspots3)) + geom_hline(yintercept=5) +xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p1_max_hotspot_ <- ggplot(map_data, aes(group_num, max_hotspots1)) + geom_hline(yintercept=11) +xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p2_max_hotspot_ <- ggplot(map_data, aes(group_num, max_hotspots2)) + geom_hline(yintercept=9) +xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p3_max_hotspot_ <- ggplot(map_data, aes(group_num, max_hotspots3)) + geom_hline(yintercept=9) +xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p1_min_hotspot_ <- ggplot(map_data, aes(group_num, min_hotspots1)) + geom_hline(yintercept=8) +geom_text(aes(0,8,label = 8,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p2_min_hotspot_ <- ggplot(map_data, aes(group_num, min_hotspots2)) + geom_hline(yintercept=7) +geom_text(aes(0,7,label = 7,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p3_min_hotspot_ <- ggplot(map_data, aes(group_num, min_hotspots3)) + geom_hline(yintercept=5) +geom_text(aes(0,5,label = 5,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p1_max_hotspot_ <- ggplot(map_data, aes(group_num, max_hotspots1)) + geom_hline(yintercept=11) +geom_text(aes(0,11,label = 11,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p2_max_hotspot_ <- ggplot(map_data, aes(group_num, max_hotspots2)) + geom_hline(yintercept=9) +geom_text(aes(0,9,label = 9,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p3_max_hotspot_ <- ggplot(map_data, aes(group_num, max_hotspots3)) + geom_hline(yintercept=9) +geom_text(aes(0,9,label = 9,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
 
 grid.arrange(p1_min_hotspot_, p2_min_hotspot_, p3_min_hotspot_,
              p1_max_hotspot_, p2_max_hotspot_, p3_max_hotspot_, ncol=3, nrow=2)
+# "how do people of different backgrounds interpret algorithmic crime analysis models?"
+# group 1: no background
+#   most people overestimated the amount of hotspots seen, both on the minimum and maximum values
+# group 2: technical background
+#   most people still overestimated the amount of hotspots, but is much closer to the gold standard chosen
+# group 3: professional background (LEO)
+#   still overestimated the amount of hotspots seen, but was the closest to the gold standard of the other 2 groups
+
 
 #
 # min and max circles needed compared to gold standard
@@ -215,12 +232,19 @@ grid.arrange(p1_min_circle, p2_min_circle, p3_min_circle,
 
 # same graph of data as above, but does not show every person's response. gives more of an idea of what the deviation is
 #
-p1_min_circle_ <- ggplot(map_data, aes(new_part_id, min_circles1)) + geom_hline(yintercept=8) +xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p2_min_circle_ <- ggplot(map_data, aes(new_part_id, min_circles2)) + geom_hline(yintercept=7) +xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p3_min_circle_ <- ggplot(map_data, aes(new_part_id, min_circles3)) + geom_hline(yintercept=6) +xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p1_max_circle_ <- ggplot(map_data, aes(new_part_id, max_circles1)) + geom_hline(yintercept=13) +xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p2_max_circle_ <- ggplot(map_data, aes(new_part_id, max_circles2)) + geom_hline(yintercept=10) +xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p3_max_circle_ <- ggplot(map_data, aes(new_part_id, max_circles3)) + geom_hline(yintercept=10) +xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p1_min_circle_ <- ggplot(map_data, aes(group_num, min_circles1)) + geom_hline(yintercept=8) +geom_text(aes(0,8,label = 8,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p2_min_circle_ <- ggplot(map_data, aes(group_num, min_circles2)) + geom_hline(yintercept=7) +geom_text(aes(0,7,label = 7,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p3_min_circle_ <- ggplot(map_data, aes(group_num, min_circles3)) + geom_hline(yintercept=6) +geom_text(aes(0,6,label = 6,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p1_max_circle_ <- ggplot(map_data, aes(group_num, max_circles1)) + geom_hline(yintercept=13) +geom_text(aes(0,13,label = 13,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p2_max_circle_ <- ggplot(map_data, aes(group_num, max_circles2)) + geom_hline(yintercept=10) +geom_text(aes(0,10,label = 10,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p3_max_circle_ <- ggplot(map_data, aes(group_num, max_circles3)) + geom_hline(yintercept=10) +geom_text(aes(0,10,label = 10,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
 
 grid.arrange(p1_min_circle_, p2_min_circle_, p3_min_circle_,
              p1_max_circle_, p2_max_circle_, p3_max_circle_, ncol=3, nrow=2)
+# "how do people of different backgrounds interpret algorithmic crime analysis models?"
+# group 1: no background
+#   almost normal distribution of points. about half overestimate and half underestimate, with some giving the correct answer
+# group 2: technical background
+#   very spread out overestimations, with some giving the correct answer
+# group 3: professional background (LEO)
+#   all respondents overestimated the amount of area circles needed. only 1 respondent underestimated and 1 got the correct answer on p3

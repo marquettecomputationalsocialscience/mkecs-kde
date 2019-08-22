@@ -52,3 +52,4 @@ new_part_id,participant_id,group_num,background,kernel1,bandwidth1,metric1,min_h
 51,61,3,professional,gaussian,0.005,euclidean,10,18,20,40,gaussian,0.005,euclidean,10,16,16,22,gaussian,0.005,euclidean,18,33,19,36
 52,62,3,professional,gaussian,0.005,euclidean,10,15,15,25,gaussian,0.005,euclidean,5,10,10,15,gaussian,0.005,euclidean,10,15,15,20
 53,64,2,tech,gaussian,0.005,euclidean,18,25,15,20,gaussian,0.005,manhattan,12,20,10,18,gaussian,0.0075,manhattan,15,22,8,12
+54,65,2,tech,epanechnikov,0.0075,manhattan,20,40,15,25,gaussian,0.0025,euclidean,20,30,10,20,gaussian,0.0025,euclidean,5,30,5,15
