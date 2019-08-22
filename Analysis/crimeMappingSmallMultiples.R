@@ -180,31 +180,21 @@ grid.arrange(g1p1_graph, g1p2_graph, g1p3_graph,
 # this section deals with a person's response to how many hotspots they see and how many circles they think is needed
 #
 
-# remove rows with answers > 55 (helps with looking at the graphs for now)
-#test_data <- map_data[!(map_data$min_hotspots1 > 55 & map_data$min_hotspots2 > 55 & map_data$min_hotspots3 > 55),]
-#map_data <- test_data[!(test_data$min_circles1 > 55 & test_data$min_circles2 > 55 & test_data$min_circles3 > 55),]
-
 #
 # min and max hotspots seen compared to gold standard
 #
-p1_min_hotspot <- ggplot(map_data, aes(new_part_id, min_hotspots1)) + geom_hline(yintercept=8) +xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p2_min_hotspot <- ggplot(map_data, aes(new_part_id, min_hotspots2)) + geom_hline(yintercept=7) +xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p3_min_hotspot <- ggplot(map_data, aes(new_part_id, min_hotspots3)) + geom_hline(yintercept=5) +xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p3")+ geom_point(aes(color=group_num))
-p1_max_hotspot <- ggplot(map_data, aes(new_part_id, max_hotspots1)) + geom_hline(yintercept=11) +xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p2_max_hotspot <- ggplot(map_data, aes(new_part_id, max_hotspots2)) + geom_hline(yintercept=9) +xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p3_max_hotspot <- ggplot(map_data, aes(new_part_id, max_hotspots3)) + geom_hline(yintercept=9) +xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p3")+ geom_point(aes(color=group_num))
-
-grid.arrange(p1_min_hotspot, p2_min_hotspot, p3_min_hotspot,
-             p1_max_hotspot, p2_max_hotspot, p3_max_hotspot, ncol=3, nrow=2)
-
-# same graph of data as above, but does not show every person's response. gives more of an idea of what the deviation is
-#
-p1_min_hotspot_ <- ggplot(map_data, aes(group_num, min_hotspots1)) + geom_hline(yintercept=8) +geom_text(aes(0,8,label = 8,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p2_min_hotspot_ <- ggplot(map_data, aes(group_num, min_hotspots2)) + geom_hline(yintercept=7) +geom_text(aes(0,7,label = 7,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p3_min_hotspot_ <- ggplot(map_data, aes(group_num, min_hotspots3)) + geom_hline(yintercept=5) +geom_text(aes(0,5,label = 5,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p1_max_hotspot_ <- ggplot(map_data, aes(group_num, max_hotspots1)) + geom_hline(yintercept=11) +geom_text(aes(0,11,label = 11,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p2_max_hotspot_ <- ggplot(map_data, aes(group_num, max_hotspots2)) + geom_hline(yintercept=9) +geom_text(aes(0,9,label = 9,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p3_max_hotspot_ <- ggplot(map_data, aes(group_num, max_hotspots3)) + geom_hline(yintercept=9) +geom_text(aes(0,9,label = 9,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+map_data1 <- subset(map_data1, min_hotspots1 < 75)
+map_data1 <- subset(map_data1, min_hotspots2 < 75)
+map_data1 <- subset(map_data1, min_hotspots3 < 75)
+map_data1 <- subset(map_data1, max_hotspots1 < 75)
+map_data1 <- subset(map_data1, max_hotspots2 < 75)
+map_data1 <- subset(map_data1, max_hotspots3 < 75)
+p1_min_hotspot_ <- ggplot(map_data1, aes(group_num, min_hotspots1)) + geom_hline(yintercept=8) +geom_text(aes(0,8,label = 8,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p2_min_hotspot_ <- ggplot(map_data1, aes(group_num, min_hotspots2)) + geom_hline(yintercept=7) +geom_text(aes(0,7,label = 7,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p3_min_hotspot_ <- ggplot(map_data1, aes(group_num, min_hotspots3)) + geom_hline(yintercept=5) +geom_text(aes(0,5,label = 5,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min hotspots seen, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p1_max_hotspot_ <- ggplot(map_data1, aes(group_num, max_hotspots1)) + geom_hline(yintercept=11) +geom_text(aes(0,11,label = 11,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p2_max_hotspot_ <- ggplot(map_data1, aes(group_num, max_hotspots2)) + geom_hline(yintercept=9) +geom_text(aes(0,9,label = 9,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p3_max_hotspot_ <- ggplot(map_data1, aes(group_num, max_hotspots3)) + geom_hline(yintercept=9) +geom_text(aes(0,9,label = 9,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max hotspots seen, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
 
 grid.arrange(p1_min_hotspot_, p2_min_hotspot_, p3_min_hotspot_,
              p1_max_hotspot_, p2_max_hotspot_, p3_max_hotspot_, ncol=3, nrow=2)
@@ -220,24 +210,18 @@ grid.arrange(p1_min_hotspot_, p2_min_hotspot_, p3_min_hotspot_,
 #
 # min and max circles needed compared to gold standard
 #
-p1_min_circle <- ggplot(map_data, aes(new_part_id, min_circles1)) + geom_hline(yintercept=8) +xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p2_min_circle <- ggplot(map_data, aes(new_part_id, min_circles2)) + geom_hline(yintercept=7) +xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p3_min_circle <- ggplot(map_data, aes(new_part_id, min_circles3)) + geom_hline(yintercept=6) +xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p3")+ geom_point(aes(color=group_num))
-p1_max_circle <- ggplot(map_data, aes(new_part_id, max_circles1)) + geom_hline(yintercept=13) +xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p2_max_circle <- ggplot(map_data, aes(new_part_id, max_circles2)) + geom_hline(yintercept=10) +xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p3_max_circle <- ggplot(map_data, aes(new_part_id, max_circles3)) + geom_hline(yintercept=10) +xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p3")+ geom_point(aes(color=group_num))
-
-grid.arrange(p1_min_circle, p2_min_circle, p3_min_circle,
-             p1_max_circle, p2_max_circle, p3_max_circle, ncol=3, nrow=2)
-
-# same graph of data as above, but does not show every person's response. gives more of an idea of what the deviation is
-#
-p1_min_circle_ <- ggplot(map_data, aes(group_num, min_circles1)) + geom_hline(yintercept=8) +geom_text(aes(0,8,label = 8,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p2_min_circle_ <- ggplot(map_data, aes(group_num, min_circles2)) + geom_hline(yintercept=7) +geom_text(aes(0,7,label = 7,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p3_min_circle_ <- ggplot(map_data, aes(group_num, min_circles3)) + geom_hline(yintercept=6) +geom_text(aes(0,6,label = 6,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p1_max_circle_ <- ggplot(map_data, aes(group_num, max_circles1)) + geom_hline(yintercept=13) +geom_text(aes(0,13,label = 13,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p2_max_circle_ <- ggplot(map_data, aes(group_num, max_circles2)) + geom_hline(yintercept=10) +geom_text(aes(0,10,label = 10,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
-p3_max_circle_ <- ggplot(map_data, aes(group_num, max_circles3)) + geom_hline(yintercept=10) +geom_text(aes(0,10,label = 10,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+map_data1 <- subset(map_data, min_circles1 < 51)
+map_data1 <- subset(map_data1, min_circles2 < 51)
+map_data1 <- subset(map_data1, min_circles3 < 51)
+map_data1 <- subset(map_data1, max_circles1 < 51)
+map_data1 <- subset(map_data1, max_circles2 < 51)
+map_data1 <- subset(map_data1, max_circles3 < 51)
+p1_min_circle_ <- ggplot(map_data1, aes(group_num, min_circles1)) + geom_hline(yintercept=8) +geom_text(aes(0,8,label = 8,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p2_min_circle_ <- ggplot(map_data1, aes(group_num, min_circles2)) + geom_hline(yintercept=7) +geom_text(aes(0,7,label = 7,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p3_min_circle_ <- ggplot(map_data1, aes(group_num, min_circles3)) + geom_hline(yintercept=6) +geom_text(aes(0,6,label = 6,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Min circles needed, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p1_max_circle_ <- ggplot(map_data1, aes(group_num, max_circles1)) + geom_hline(yintercept=13) +geom_text(aes(0,13,label = 13,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p1")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p2_max_circle_ <- ggplot(map_data1, aes(group_num, max_circles2)) + geom_hline(yintercept=10) +geom_text(aes(0,10,label = 10,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p2")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
+p3_max_circle_ <- ggplot(map_data1, aes(group_num, max_circles3)) + geom_hline(yintercept=10) +geom_text(aes(0,10,label = 10,vjust=-1))+xlab(" ")+ylab(" ")+ ggtitle("Max circles needed, p3")+ geom_point(aes(color=group_num)) + scale_colour_continuous(guide = FALSE)
 
 grid.arrange(p1_min_circle_, p2_min_circle_, p3_min_circle_,
              p1_max_circle_, p2_max_circle_, p3_max_circle_, ncol=3, nrow=2)
