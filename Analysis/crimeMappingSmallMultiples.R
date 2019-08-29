@@ -433,5 +433,39 @@ message(sprintf("map 3 max circles\ngold standard = 13\ng1: %s\ng2: %s\ng3: %s",
 
 
 
+res.aov <- aov(map_data$min_hotspots1 ~ map_data$group_num, data=map_data)
+summary(res.aov)
+
+library(car)
+res.aov <- aov(map_data$min_hotspots1 ~ map_data$group_num, data=map_data)
+Anova(res.aov, type="III")
+
+res.aov <- aov(cbind(map_data$min_hotspots1 + map_data$max_hotspots1) ~ map_data$group_num, data=map_data)
+Anova(res.aov, type="III")
+
+res.aov <- aov(cbind(map_data$min_hotspots2 + map_data$max_hotspots2) ~ map_data$group_num, data=map_data)
+Anova(res.aov, type="III")
+
+res.aov <- aov(cbind(map_data$min_hotspots3 + map_data$max_hotspots3) ~ map_data$group_num, data=map_data)
+Anova(res.aov, type="III")
+
+res.aov <- aov(cbind(map_data$min_hotspots1 + map_data$max_hotspots1 + map_data$min_hotspots2 + map_data$max_hotspots2 + map_data$min_hotspots3 + map_data$max_hotspots3) ~ map_data$group_num, data=map_data)
+Anova(res.aov, type="III")
+
+
+res.aov <- aov(map_data$min_circles1 ~ map_data$group_num, data=map_data)
+Anova(res.aov, type="III")
+
+res.aov <- aov(cbind(map_data$min_circles1 + map_data$max_circles1) ~ map_data$group_num, data=map_data)
+Anova(res.aov, type="III")
+
+res.aov <- aov(cbind(map_data$min_circles2 + map_data$max_circles2) ~ map_data$group_num, data=map_data)
+Anova(res.aov, type="III")
+
+res.aov <- aov(cbind(map_data$min_circles3 + map_data$max_circles3) ~ map_data$group_num, data=map_data)
+Anova(res.aov, type="III")
+
+res.aov <- aov(cbind(map_data$min_circles1 + map_data$max_circles1 + map_data$min_circles2 + map_data$max_circles2 + map_data$min_circles3 + map_data$max_circles3) ~ map_data$group_num, data=map_data)
+Anova(res.aov, type="III")
 
 
